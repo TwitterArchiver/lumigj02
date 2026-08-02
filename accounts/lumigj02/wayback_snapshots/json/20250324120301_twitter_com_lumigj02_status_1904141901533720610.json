@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1904079824421106019",
+    "created_at": "2025-03-24T12:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T13:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904141901533720610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1789586690400800769",
+          "start": 0,
+          "username": "ameear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904141901533720610",
+    "in_reply_to_user_id": "1789586690400800769",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904138137598910700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameear8964 😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_1904138133710708736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmzbi0caIAAwVv3.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1904079824421106019",
+        "created_at": "2025-03-24T12:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T13:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904141901533720610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789586690400800769",
+              "start": 0,
+              "username": "ameear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904141901533720610",
+        "in_reply_to_user_id": "1789586690400800769",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904138137598910700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameear8964 😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904138133710708736"
+          ]
+        },
+        "author_id": "1789586690400800769",
+        "conversation_id": "1904079824421106019",
+        "created_at": "2025-03-24T11:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T12:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904138137598910700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IdxJzhdpRr",
+              "end": 40,
+              "expanded_url": "https://x.com/ameear8964/status/1904138137598910700/photo/1",
+              "media_key": "3_1904138133710708736",
+              "start": 17,
+              "url": "https://t.co/IdxJzhdpRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904138137598910700",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904079824421106019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 你是李光耀猫 https://t.co/IdxJzhdpRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | @you_miaowu | 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 857,
+          "like_count": 25906,
+          "listed_count": 11,
+          "media_count": 964,
+          "tweet_count": 10983
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "EARHART AMELIA M. 896489648USN BN CHRISTIAN",
+        "id": "1789586690400800769",
+        "location": "미해군항공대 제8964항모항공단",
+        "name": "아멜리아 에어하트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862830820064432129/g7Hpsfzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3265,
+          "following_count": 1300,
+          "like_count": 29638,
+          "listed_count": 14,
+          "media_count": 668,
+          "tweet_count": 7873
+        },
+        "username": "ameear8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954188417438245223",
+    "created_at": "2025-08-10T12:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T13:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954527272980857031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1365328795972952064",
+          "start": 0,
+          "username": "catshealdeprsn"
+        },
+        {
+          "end": 25,
+          "id": "1502860007867502598",
+          "start": 16,
+          "username": "HobartR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954527272980857031",
+    "in_reply_to_user_id": "1365328795972952064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954188417438245223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catshealdeprsn @HobartR6 我就这样趴在天上"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16554,
+        "height": 1280,
+        "media_key": "13_1954058010684448768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954058010684448768/img/xbuLCP4xiddcOhUJ.jpg",
+        "public_metrics": {
+          "view_count": 135629
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954058010684448768/vid/avc1/320x568/zYCHqxyx3ycauR_n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954058010684448768/vid/avc1/480x852/PgEPStiObmQP4Tsj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954058010684448768/vid/avc1/720x1280/7dc2MZI8MGBGkpkm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954058010684448768/pl/eo_G2o44p-iGdzE_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1954188417438245223",
+        "created_at": "2025-08-10T12:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954527272980857031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1365328795972952064",
+              "start": 0,
+              "username": "catshealdeprsn"
+            },
+            {
+              "end": 25,
+              "id": "1502860007867502598",
+              "start": 16,
+              "username": "HobartR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954527272980857031",
+        "in_reply_to_user_id": "1365328795972952064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954188417438245223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catshealdeprsn @HobartR6 我就这样趴在天上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954058010684448768"
+          ]
+        },
+        "author_id": "1365328795972952064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          }
+        ],
+        "conversation_id": "1954188417438245223",
+        "created_at": "2025-08-09T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954188417438245223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyKKd1jVcy",
+              "end": 41,
+              "expanded_url": "https://x.com/catshealdeprsn/status/1954188417438245223/video/1",
+              "media_key": "13_1954058010684448768",
+              "start": 18,
+              "url": "https://t.co/jyKKd1jVcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954188417438245223",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 66722,
+          "like_count": 3352,
+          "quote_count": 12,
+          "reply_count": 20,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "Curtain designers https://t.co/jyKKd1jVcy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390 私信 or Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2816,
+          "following_count": 934,
+          "like_count": 27729,
+          "listed_count": 12,
+          "media_count": 1126,
+          "tweet_count": 13411
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T15:52:20.000Z",
+        "description": "these cats are threatening. Dm for credit/removal/promo",
+        "id": "1365328795972952064",
+        "location": "United States",
+        "name": "cats with threatening auras",
+        "pinned_tweet_id": "1953137242647773523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939045488558219264/6LwUFYde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173944,
+          "following_count": 92,
+          "like_count": 1533,
+          "listed_count": 3049,
+          "media_count": 12062,
+          "tweet_count": 15152
+        },
+        "username": "catshealdeprsn",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "@lumigj02 @ndmhwxck @Snow_Flurrying 秋天是倒放的春天 晚安是爱你的续篇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "lumigj02"
+              },
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Snow_Flurrying"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "哦润吉",
+        "pinned_tweet_id": "1912785799986442479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919444964989399040/Z6OLkJuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 194,
+          "like_count": 2815,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1399
+        },
+        "username": "HobartR6",
+        "verified": false
+      }
+    ]
+  }
+}

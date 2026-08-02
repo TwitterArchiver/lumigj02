@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1956563342572527930",
+    "created_at": "2025-08-16T06:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T07:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956606824704036939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418942200457662477",
+          "start": 0,
+          "username": "Rikka_Ela"
+        },
+        {
+          "end": 26,
+          "id": "1845454917236031495",
+          "start": 11,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956606824704036939",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956563766885163485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_Ela @Dontbesadforit 她没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1956563342572527930",
+        "created_at": "2025-08-16T06:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956606824704036939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            },
+            {
+              "end": 26,
+              "id": "1845454917236031495",
+              "start": 11,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956606824704036939",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956563766885163485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela @Dontbesadforit 她没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1956563342572527930",
+        "created_at": "2025-08-16T03:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956563766885163485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956563766885163485",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956563636786258212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit ？小中可以和我试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "ʟᴜᴍɪ¹ 日雌390",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 915,
+          "like_count": 27808,
+          "listed_count": 12,
+          "media_count": 1142,
+          "tweet_count": 13621
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4484,
+          "following_count": 3545,
+          "like_count": 72000,
+          "listed_count": 7,
+          "media_count": 283,
+          "tweet_count": 6764
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 没有！翻车！💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人 ｜里：@MihariSuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "MihariSuki"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "笨中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 728,
+          "like_count": 39639,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 5689
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

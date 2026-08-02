@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1921872671475655085",
+    "created_at": "2025-05-12T13:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T14:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921926629342711853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393065220323647494",
+          "start": 0,
+          "username": "dangshuang0608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921926629342711853",
+    "in_reply_to_user_id": "1393065220323647494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921926289750941967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangshuang0608 我选择MRT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1921872671475655085",
+        "created_at": "2025-05-12T13:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T14:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921926629342711853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393065220323647494",
+              "start": 0,
+              "username": "dangshuang0608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921926629342711853",
+        "in_reply_to_user_id": "1393065220323647494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921926289750941967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangshuang0608 我选择MRT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393065220323647494",
+        "conversation_id": "1921872671475655085",
+        "created_at": "2025-05-12T13:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T14:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921926289750941967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921926289750941967",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921925576908001356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 在新加坡买车啊，那没事了，我觉得新加坡要买车的就不只花十万买车了，反正我以后在新加坡买车我肯定是花一百万往上的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 老婆 @RanXi_MtF | 主人 @_temryava | 家猫 @_FurryFur_ | 姐姐 @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "_temryava"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷要吃哦润吉 日雌370包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 879,
+          "like_count": 26738,
+          "listed_count": 12,
+          "media_count": 1059,
+          "tweet_count": 11857
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dangshuang",
+                "end": 23,
+                "expanded_url": "http://t.me/dangshuang",
+                "start": 0,
+                "url": "https://t.co/v2rIN31BR3"
+              }
+            ]
+          }
+        },
+        "id": "1393065220323647494",
+        "location": "Kuala Lumpur",
+        "name": "霜",
+        "pinned_tweet_id": "1914633072181698855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833119548117319680/63fWi4wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 563,
+          "like_count": 4816,
+          "listed_count": 3,
+          "media_count": 659,
+          "tweet_count": 5447
+        },
+        "url": "https://t.co/v2rIN31BR3",
+        "username": "dangshuang0608",
+        "verified": true
+      }
+    ]
+  }
+}

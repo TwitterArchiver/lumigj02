@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1958896932484435975",
+    "created_at": "2025-08-22T14:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T15:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958904148533158076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1624542011633065984",
+          "start": 0,
+          "username": "sweet061211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958904148533158076",
+    "in_reply_to_user_id": "1624542011633065984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 34,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958902695621960169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweet061211 NUS是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1958896932484435975",
+        "created_at": "2025-08-22T14:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958904148533158076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1624542011633065984",
+              "start": 0,
+              "username": "sweet061211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958904148533158076",
+        "in_reply_to_user_id": "1624542011633065984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958902695621960169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweet061211 NUS是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624542011633065984",
+        "conversation_id": "1958896932484435975",
+        "created_at": "2025-08-22T14:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958902695621960169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958902695621960169",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958896932484435975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 这也太爆笑了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "笨猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958902621303185409/FZrkKv70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 927,
+          "like_count": 27881,
+          "listed_count": 12,
+          "media_count": 1155,
+          "tweet_count": 13772
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T22:53:04.000Z",
+        "description": "人类只是我的兼职 牛马才是我的身份🇭🇰🇸🇬🇦🇺PayPal ／usdt／BSB ／zelle ／paynow🚪$300－1314／没空听你画大饼 喜欢钱有什么错？你清高你不喜欢可以给我／多余的废话不要说了 说了也只不回拉黑／骚扰我 你全家死干净",
+        "id": "1624542011633065984",
+        "location": "距离你0.0001比超薄避孕套还要近",
+        "name": "放屁💨🇸🇬",
+        "pinned_tweet_id": "1950828301939044382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629375008622641154/teViPPXM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19269,
+          "following_count": 112,
+          "like_count": 733,
+          "listed_count": 57,
+          "media_count": 542,
+          "tweet_count": 2862
+        },
+        "username": "sweet061211",
+        "verified": false
+      }
+    ]
+  }
+}

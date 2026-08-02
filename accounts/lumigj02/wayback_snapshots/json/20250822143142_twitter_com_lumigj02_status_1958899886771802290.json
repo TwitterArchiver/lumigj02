@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1958896932484435975",
+    "created_at": "2025-08-22T14:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T15:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958899886771802290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958899886771802290",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958898844399173809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl NTU的也有，不过我的社交圈比较小众和隐私"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1958896932484435975",
+        "created_at": "2025-08-22T14:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958899886771802290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958899886771802290",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958898844399173809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl NTU的也有，不过我的社交圈比较小众和隐私"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "1958896932484435975",
+        "created_at": "2025-08-22T14:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958898844399173809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958898844399173809",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958896932484435975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 怎么没有NTU的🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "老猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958724587904204800/cbMp7Omf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 926,
+          "like_count": 27878,
+          "listed_count": 12,
+          "media_count": 1155,
+          "tweet_count": 13760
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "I'm a Good girl. Please don't hurt me.逃离东亚 精神病患者\n洪水将至🌈，專注婦女研究。保守主义。\n“烧淫妇的烟往上冒，直到永永远远！”（启19:3）",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "不列颠長臉",
+        "pinned_tweet_id": "1571315387236749313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939779372673818624/E4huxgat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 488,
+          "like_count": 7576,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 3360
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      }
+    ]
+  }
+}

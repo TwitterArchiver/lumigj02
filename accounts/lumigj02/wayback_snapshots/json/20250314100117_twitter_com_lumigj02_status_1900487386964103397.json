@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1900202211298120034",
+    "created_at": "2025-03-14T10:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T11:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900487386964103397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1372558116366159878",
+          "start": 0,
+          "username": "toeibasu_scania"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900487386964103397",
+    "in_reply_to_user_id": "1372558116366159878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900483073990443142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toeibasu_scania 一直是～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1900202211298120034",
+        "created_at": "2025-03-14T10:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900487386964103397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1372558116366159878",
+              "start": 0,
+              "username": "toeibasu_scania"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900487386964103397",
+        "in_reply_to_user_id": "1372558116366159878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900483073990443142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toeibasu_scania 一直是～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372558116366159878",
+        "conversation_id": "1900202211298120034",
+        "created_at": "2025-03-14T09:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T10:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900483073990443142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900483073990443142",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900202211298120034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 哇 变猫娘了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 💫 @Yan_Xing_Xing | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 874,
+          "like_count": 25680,
+          "listed_count": 11,
+          "media_count": 952,
+          "tweet_count": 10660
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-18T14:39:04.000Z",
+        "description": "Null",
+        "id": "1372558116366159878",
+        "location": "江城 孱陵路33号",
+        "name": "Scania_N280UB🍥",
+        "pinned_tweet_id": "1772879034566779277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668458148510703616/H9NIFPZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 862,
+          "like_count": 10031,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 1755
+        },
+        "username": "toeibasu_scania",
+        "verified": false
+      }
+    ]
+  }
+}

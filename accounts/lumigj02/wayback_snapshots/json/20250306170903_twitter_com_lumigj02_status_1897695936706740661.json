@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897694292380123450",
+    "created_at": "2025-03-06T17:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T18:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897695936706740661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1855890157989412864",
+          "start": 0,
+          "username": "w3a4ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897695936706740661",
+    "in_reply_to_user_id": "1855890157989412864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897695746289229908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w3a4ng 其实咱只是个只会哈气的小傻猫罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897694292380123450",
+        "created_at": "2025-03-06T17:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T18:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897695936706740661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1855890157989412864",
+              "start": 0,
+              "username": "w3a4ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897695936706740661",
+        "in_reply_to_user_id": "1855890157989412864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897695746289229908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w3a4ng 其实咱只是个只会哈气的小傻猫罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855890157989412864",
+        "conversation_id": "1897694292380123450",
+        "created_at": "2025-03-06T17:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T18:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897695746289229908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897695746289229908",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897694292380123450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 猫卷姐姐的猫爪发力了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 || Progynon-Depot 10mg/mL * 10 = ¥390 || Progynova 2mg *84 = ¥200 || DM or contact Telegram below",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 841,
+          "like_count": 25424,
+          "listed_count": 11,
+          "media_count": 929,
+          "tweet_count": 10307
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T08:27:58.000Z",
+        "description": "欢迎关注此账号 有关必回",
+        "id": "1855890157989412864",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897473331273641984/7HEc1aAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 494,
+          "like_count": 2678,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1135
+        },
+        "username": "w3a4ng",
+        "verified": false
+      }
+    ]
+  }
+}

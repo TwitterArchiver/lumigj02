@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895145370960962029",
+    "created_at": "2025-02-27T17:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T18:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895168832186241181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1502860007867502598",
+          "start": 0,
+          "username": "HobartR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895168832186241181",
+    "in_reply_to_user_id": "1502860007867502598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895145370960962029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HobartR6 我要和你过一辈子的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895145370960962029",
+        "created_at": "2025-02-27T17:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T18:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895168832186241181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1502860007867502598",
+              "start": 0,
+              "username": "HobartR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895168832186241181",
+        "in_reply_to_user_id": "1502860007867502598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895145370960962029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HobartR6 我要和你过一辈子的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502860007867502598",
+        "conversation_id": "1895145370960962029",
+        "created_at": "2025-02-27T16:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T17:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895145370960962029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TheCatsX/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/TheCatsX/status/1895144618708344965",
+              "start": 10,
+              "url": "https://t.co/tWtoCKKdrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895145370960962029",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895144618708344965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 https://t.co/tWtoCKKdrl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / call me Lumi or 猫卷 / 💖 @HobartR6 / @altaz_0 / 日雌390泰补200私信或下方telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1893577061723504657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895131563953696768/T0tzqE7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 830,
+          "like_count": 25278,
+          "listed_count": 11,
+          "media_count": 892,
+          "tweet_count": 9959
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "💖 @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "HobartR6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893912615933366272/EMAJyMss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 65,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 375
+        },
+        "username": "HobartR6",
+        "verified": false
+      }
+    ]
+  }
+}

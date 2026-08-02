@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1917953949556228333",
+    "created_at": "2025-05-01T15:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T16:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917959649380471154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "704693722743615488",
+          "start": 0,
+          "username": "EnvyTaylor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917959649380471154",
+    "in_reply_to_user_id": "704693722743615488",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917958651907826161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EnvyTaylor Bro u are pro 💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1917953949556228333",
+        "created_at": "2025-05-01T15:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917959649380471154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "704693722743615488",
+              "start": 0,
+              "username": "EnvyTaylor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917959649380471154",
+        "in_reply_to_user_id": "704693722743615488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917958651907826161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EnvyTaylor Bro u are pro 💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "704693722743615488",
+        "conversation_id": "1917953949556228333",
+        "created_at": "2025-05-01T15:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917958651907826161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917958651907826161",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917955040545046988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 wtf ?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 主人&大老婆 @RanXi_MtF | 小老婆 @_FurryFur_ | @you_miaowu | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 879,
+          "like_count": 26577,
+          "listed_count": 11,
+          "media_count": 1035,
+          "tweet_count": 11646
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-01T15:44:10.000Z",
+        "description": "R6 for \nContact : envytaylor1@gmail.com 👸 @tw_kking",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "tw_kking"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/envytaylor92",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/envytaylor92",
+                "start": 0,
+                "url": "https://t.co/p3TFaFF0Tu"
+              }
+            ]
+          }
+        },
+        "id": "704693722743615488",
+        "location": "대한민국 서울",
+        "name": "EnvyTaylor 🐹",
+        "pinned_tweet_id": "1876616238874722388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673348862818525184/rGKXa5BD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 1215,
+          "like_count": 22551,
+          "listed_count": 32,
+          "media_count": 4354,
+          "tweet_count": 25790
+        },
+        "url": "https://t.co/p3TFaFF0Tu",
+        "username": "EnvyTaylor",
+        "verified": false
+      }
+    ]
+  }
+}

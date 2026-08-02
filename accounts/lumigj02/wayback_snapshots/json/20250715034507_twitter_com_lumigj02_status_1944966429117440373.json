@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944966396087296001"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1944712839853470056",
+    "created_at": "2025-07-15T03:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T04:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944966429117440373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1663165254610874369",
+          "start": 0,
+          "username": "IC_7809_3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hTchcc9MbW",
+          "end": 48,
+          "expanded_url": "https://x.com/lumigj02/status/1944966429117440373/photo/1",
+          "media_key": "3_1944966396087296001",
+          "start": 25,
+          "url": "https://t.co/hTchcc9MbW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944966429117440373",
+    "in_reply_to_user_id": "1663165254610874369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944712839853470056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IC_7809_3 是的，她們其實都是這個角色 https://t.co/hTchcc9MbW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1944966396087296001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3ooeLa4AEQVJH.jpg",
+        "width": 1100
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1944712812691136512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0B_-abIAAGoZw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944966396087296001"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1944712839853470056",
+        "created_at": "2025-07-15T03:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944966429117440373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1663165254610874369",
+              "start": 0,
+              "username": "IC_7809_3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTchcc9MbW",
+              "end": 48,
+              "expanded_url": "https://x.com/lumigj02/status/1944966429117440373/photo/1",
+              "media_key": "3_1944966396087296001",
+              "start": 25,
+              "url": "https://t.co/hTchcc9MbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944966429117440373",
+        "in_reply_to_user_id": "1663165254610874369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944712839853470056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IC_7809_3 是的，她們其實都是這個角色 https://t.co/hTchcc9MbW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944712812691136512"
+          ]
+        },
+        "author_id": "1663165254610874369",
+        "conversation_id": "1944712839853470056",
+        "created_at": "2025-07-14T10:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944712839853470056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnsA7hekmW",
+              "end": 28,
+              "expanded_url": "https://x.com/IC_7809_3/status/1944712839853470056/photo/1",
+              "media_key": "3_1944712812691136512",
+              "start": 5,
+              "url": "https://t.co/LnsA7hekmW"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00180402799fed03"
+        },
+        "id": "1944712839853470056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 670,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就問 https://t.co/LnsA7hekmW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore 家猫: @_FurryFur_ 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944806697316257792/p4s37iQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 917,
+          "like_count": 27504,
+          "listed_count": 12,
+          "media_count": 1091,
+          "tweet_count": 12847
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T12:48:09.000Z",
+        "description": "❤️🇹🇼🇷🇺🇩🇪🇮🇱🇬🇧🇸🇪🇯🇵🇸🇦丨𝐏𝐫𝐨-𝐑𝐎𝐂/𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐬𝐦丨 #micronations 👑  丨臺北人丨⛿ @IC_7809_4 丨8964丨🤍#GooglePixel 丨餓烤邦粥九",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 48,
+                "tag": "micronations"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "tag": "GooglePixel"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "IC_7809_4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/pumdzAR…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/pumdzARGyW",
+                "start": 0,
+                "url": "https://t.co/8HOEqEUH8o"
+              }
+            ]
+          }
+        },
+        "id": "1663165254610874369",
+        "location": "Taipei, Republic of China 🇹🇼",
+        "name": "𝐈𝐂🇹🇼🇮🇱🇷🇺 現在跟隨不了人很痛苦",
+        "pinned_tweet_id": "1838496707593801985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896717591357345792/BEaDzOt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 7501,
+          "like_count": 80119,
+          "listed_count": 4,
+          "media_count": 5418,
+          "tweet_count": 57731
+        },
+        "url": "https://t.co/8HOEqEUH8o",
+        "username": "IC_7809_3",
+        "verified": false
+      }
+    ]
+  }
+}

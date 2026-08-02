@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070842168344977408",
+        "3_2070842168382828544"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2070842176234545176",
+    "created_at": "2026-06-27T12:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070842176234545176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XhhGKKVVXc",
+          "end": 30,
+          "expanded_url": "https://x.com/lumigj02/status/2070842176234545176/photo/1",
+          "media_key": "3_2070842168344977408",
+          "start": 7,
+          "url": "https://t.co/XhhGKKVVXc"
+        },
+        {
+          "display_url": "pic.x.com/XhhGKKVVXc",
+          "end": 30,
+          "expanded_url": "https://x.com/lumigj02/status/2070842176234545176/photo/1",
+          "media_key": "3_2070842168382828544",
+          "start": 7,
+          "url": "https://t.co/XhhGKKVVXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070842176234545176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "猫卷日常。。 https://t.co/XhhGKKVVXc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070842168344977408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0b-vYaIAAPVQH.jpg",
+        "width": 1278
+      },
+      {
+        "height": 1971,
+        "media_key": "3_2070842168382828544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0b-vhbsAAcY-f.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070842168344977408",
+            "3_2070842168382828544"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2070842176234545176",
+        "created_at": "2026-06-27T12:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070842176234545176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XhhGKKVVXc",
+              "end": 30,
+              "expanded_url": "https://x.com/lumigj02/status/2070842176234545176/photo/1",
+              "media_key": "3_2070842168344977408",
+              "start": 7,
+              "url": "https://t.co/XhhGKKVVXc"
+            },
+            {
+              "display_url": "pic.x.com/XhhGKKVVXc",
+              "end": 30,
+              "expanded_url": "https://x.com/lumigj02/status/2070842176234545176/photo/1",
+              "media_key": "3_2070842168382828544",
+              "start": 7,
+              "url": "https://t.co/XhhGKKVVXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070842176234545176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "猫卷日常。。 https://t.co/XhhGKKVVXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫打滚时会自己卷起来的",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070446858384949249/QuzCTJO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 828,
+          "like_count": 4250,
+          "listed_count": 9,
+          "media_count": 83,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

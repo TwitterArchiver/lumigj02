@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932525811669872641"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1932525839566200990",
+    "created_at": "2025-06-10T19:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T20:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932525839566200990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CnlNkj0xUk",
+          "end": 23,
+          "expanded_url": "https://x.com/lumigj02/status/1932525839566200990/photo/1",
+          "media_key": "3_1932525811669872641",
+          "start": 0,
+          "url": "https://t.co/CnlNkj0xUk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932525839566200990",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/CnlNkj0xUk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932525811669872641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtG1_JvbMAEJq-o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932525811669872641"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1932525839566200990",
+        "created_at": "2025-06-10T19:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T20:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932525839566200990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnlNkj0xUk",
+              "end": 23,
+              "expanded_url": "https://x.com/lumigj02/status/1932525839566200990/photo/1",
+              "media_key": "3_1932525811669872641",
+              "start": 0,
+              "url": "https://t.co/CnlNkj0xUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932525839566200990",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CnlNkj0xUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "entry fragger @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "HobartR6"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷大小姐 (日雌泰补",
+        "pinned_tweet_id": "1930316290662768737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931649636063903744/RpkJs8tM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 894,
+          "like_count": 27102,
+          "listed_count": 12,
+          "media_count": 1100,
+          "tweet_count": 12348
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

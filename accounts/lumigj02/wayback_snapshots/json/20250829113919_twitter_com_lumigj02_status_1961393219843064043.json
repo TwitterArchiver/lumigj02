@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "1961186000690188467",
+    "created_at": "2025-08-29T11:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T12:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961393219843064043"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 95,
+          "normalized_text": "linux",
+          "probability": 0.7804,
+          "start": 91,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 26,
+          "id": "1608294527453876225",
+          "start": 16,
+          "username": "Paris1Von"
+        },
+        {
+          "end": 38,
+          "id": "1629074500305186817",
+          "start": 27,
+          "username": "carafutaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961393219843064043",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961392070133780827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit @Paris1Von @carafutaba Nowhere to charge my laptop, I'm halfway installing linux. How can I silently sneak to the back rows"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1961186000690188467",
+        "created_at": "2025-08-29T11:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961393219843064043"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 95,
+              "normalized_text": "linux",
+              "probability": 0.7804,
+              "start": 91,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 26,
+              "id": "1608294527453876225",
+              "start": 16,
+              "username": "Paris1Von"
+            },
+            {
+              "end": 38,
+              "id": "1629074500305186817",
+              "start": 27,
+              "username": "carafutaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961393219843064043",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961392070133780827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit @Paris1Von @carafutaba Nowhere to charge my laptop, I'm halfway installing linux. How can I silently sneak to the back rows"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "1961186000690188467",
+        "created_at": "2025-08-29T11:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961392070133780827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608294527453876225",
+              "start": 0,
+              "username": "Paris1Von"
+            },
+            {
+              "end": 22,
+              "id": "1629074500305186817",
+              "start": 11,
+              "username": "carafutaba"
+            },
+            {
+              "end": 32,
+              "id": "1176535991454064640",
+              "start": 23,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961392070133780827",
+        "in_reply_to_user_id": "1608294527453876225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961386919226740830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paris1Von @carafutaba @lumigj02 球球球球"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//还有你想要的各种日本泰国药物可以点名告诉我帮你尝试找//💌@HobartR6🐈@_FurryFur_//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "HobartR6"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "猫卷！日雌380私信",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 924,
+          "like_count": 27940,
+          "listed_count": 13,
+          "media_count": 1162,
+          "tweet_count": 13877
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 没有！翻车！💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人 ｜里：@MihariSuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "MihariSuki"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 756,
+          "like_count": 41789,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 5933
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-29T02:51:18.000Z",
+        "description": "一只mtx🏳️‍🌈🏳️‍⚧️🇹🇼\n「理想主義者的反義詞，是心中沒有愛的人~」🧀🧀🧀🌏🌍🌎",
+        "id": "1608294527453876225",
+        "location": "Foochow-Min; Republic of China",
+        "name": "Parish🇫🇷🏳️Orit 🇪🇺Von",
+        "pinned_tweet_id": "1884646748725125450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608643534894280707/BJqRXdbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 835,
+          "like_count": 67863,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 2930
+        },
+        "username": "Paris1Von",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T11:03:32.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzu.moe",
+                "end": 23,
+                "expanded_url": "https://anzu.moe",
+                "start": 0,
+                "url": "https://t.co/uyvReMg6DJ"
+              }
+            ]
+          }
+        },
+        "id": "1629074500305186817",
+        "name": "Lauraa",
+        "pinned_tweet_id": "1937810482540196053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958090132885770240/XOI_UqK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 1035,
+          "like_count": 66231,
+          "listed_count": 8,
+          "media_count": 2039,
+          "tweet_count": 18726
+        },
+        "url": "https://t.co/uyvReMg6DJ",
+        "username": "carafutaba",
+        "verified": true
+      }
+    ]
+  }
+}

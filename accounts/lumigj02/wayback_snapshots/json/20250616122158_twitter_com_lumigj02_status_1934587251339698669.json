@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1934587251339698669",
+    "created_at": "2025-06-16T12:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T13:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934587251339698669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/m1zukiqaqaqaq/…",
+          "end": 29,
+          "expanded_url": "https://x.com/m1zukiqaqaqaq/status/1833862060125655186",
+          "start": 6,
+          "url": "https://t.co/DO5YLXoftc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934587251339698669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833862060125655186",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我拍的👍\nhttps://t.co/DO5YLXoftc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1833862060125655186].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1833862060125655186",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833862060125655186"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1934587251339698669",
+        "created_at": "2025-06-16T12:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T13:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934587251339698669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m1zukiqaqaqaq/…",
+              "end": 29,
+              "expanded_url": "https://x.com/m1zukiqaqaqaq/status/1833862060125655186",
+              "start": 6,
+              "url": "https://t.co/DO5YLXoftc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934587251339698669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833862060125655186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我拍的👍\nhttps://t.co/DO5YLXoftc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "彩虹六号冠军 APEX猎杀 Valorant神话 王者2万2国服镜 The only thing that kill me is old age 猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 893,
+          "like_count": 27144,
+          "listed_count": 12,
+          "media_count": 1105,
+          "tweet_count": 12444
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

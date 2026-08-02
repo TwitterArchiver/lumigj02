@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898577882487857583",
+    "created_at": "2025-03-09T05:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T06:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898607779910500793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "891118002804072448",
+          "start": 0,
+          "username": "elecmaglen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898607779910500793",
+    "in_reply_to_user_id": "891118002804072448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898605056485900677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elecmaglen 喵喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898577882487857583",
+        "created_at": "2025-03-09T05:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T06:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898607779910500793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "891118002804072448",
+              "start": 0,
+              "username": "elecmaglen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898607779910500793",
+        "in_reply_to_user_id": "891118002804072448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898605056485900677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elecmaglen 喵喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "891118002804072448",
+        "conversation_id": "1898577882487857583",
+        "created_at": "2025-03-09T05:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T06:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898605056485900677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898605056485900677",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898577882487857583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 喵喵喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / @QUT & @NUSingapore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 18,
+                "start": 14,
+                "username": "QUT"
+              },
+              {
+                "end": 33,
+                "start": 21,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897934948197445982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 859,
+          "like_count": 25527,
+          "listed_count": 11,
+          "media_count": 941,
+          "tweet_count": 10499
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-29T02:07:42.000Z",
+        "description": "一只大龄萌新药娘QAQ",
+        "id": "891118002804072448",
+        "name": "NA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1228299103085318144/Btkrsz8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 269,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1687
+        },
+        "username": "elecmaglen",
+        "verified": false
+      }
+    ]
+  }
+}

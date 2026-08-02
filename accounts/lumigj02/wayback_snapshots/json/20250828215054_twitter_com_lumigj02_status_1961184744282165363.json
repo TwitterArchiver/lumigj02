@@ -1,0 +1,744 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "1961184744282165363",
+    "created_at": "2025-08-28T21:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T22:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961184744282165363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841494812475932672",
+          "start": 2,
+          "username": "Xing_XingXXX"
+        },
+        {
+          "end": 27,
+          "id": "1686472989129441281",
+          "start": 16,
+          "username": "_Furryfur_"
+        },
+        {
+          "end": 39,
+          "id": "1505008293881647106",
+          "start": 28,
+          "username": "Aleksana01"
+        },
+        {
+          "end": 49,
+          "id": "1690573605711785984",
+          "start": 40,
+          "username": "ndmhwxck"
+        },
+        {
+          "end": 59,
+          "id": "1502860007867502598",
+          "start": 50,
+          "username": "HobartR6"
+        },
+        {
+          "end": 74,
+          "id": "1690388233778331649",
+          "start": 60,
+          "username": "m1zukiqaqaqaq"
+        },
+        {
+          "end": 90,
+          "id": "1845454917236031495",
+          "start": 75,
+          "username": "Dontbesadforit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/mearichaseu/st…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/mearichaseu/status/1797555219360096542",
+          "start": 122,
+          "url": "https://t.co/7LdBkuNEo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961184744282165363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797555219360096542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": ". @Xing_XingXXX @_Furryfur_ @Aleksana01 @ndmhwxck @HobartR6 @m1zukiqaqaqaq @Dontbesadforit 这里有绪山美波里玩欧卡2、彩虹六号、守望先锋、第五人格的集锦 https://t.co/7LdBkuNEo5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29066,
+        "height": 1280,
+        "media_key": "13_1797555146345562112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1797555146345562112/img/zwbpuOPDii5VygCo.jpg",
+        "public_metrics": {
+          "view_count": 21738
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1797555146345562112/vid/avc1/320x568/q2vYMdYaYV9w58DB.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1797555146345562112/vid/avc1/480x852/7lNm0328s030z2nh.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1797555146345562112/vid/avc1/720x1280/i4NSc226issTKdev.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1797555146345562112/pl/czzSgYrxY5Trpw6-.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1961184744282165363",
+        "created_at": "2025-08-28T21:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T22:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961184744282165363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841494812475932672",
+              "start": 2,
+              "username": "Xing_XingXXX"
+            },
+            {
+              "end": 27,
+              "id": "1686472989129441281",
+              "start": 16,
+              "username": "_Furryfur_"
+            },
+            {
+              "end": 39,
+              "id": "1505008293881647106",
+              "start": 28,
+              "username": "Aleksana01"
+            },
+            {
+              "end": 49,
+              "id": "1690573605711785984",
+              "start": 40,
+              "username": "ndmhwxck"
+            },
+            {
+              "end": 59,
+              "id": "1502860007867502598",
+              "start": 50,
+              "username": "HobartR6"
+            },
+            {
+              "end": 74,
+              "id": "1690388233778331649",
+              "start": 60,
+              "username": "m1zukiqaqaqaq"
+            },
+            {
+              "end": 90,
+              "id": "1845454917236031495",
+              "start": 75,
+              "username": "Dontbesadforit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mearichaseu/st…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/mearichaseu/status/1797555219360096542",
+              "start": 122,
+              "url": "https://t.co/7LdBkuNEo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961184744282165363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797555219360096542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": ". @Xing_XingXXX @_Furryfur_ @Aleksana01 @ndmhwxck @HobartR6 @m1zukiqaqaqaq @Dontbesadforit 这里有绪山美波里玩欧卡2、彩虹六号、守望先锋、第五人格的集锦 https://t.co/7LdBkuNEo5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1797555146345562112"
+          ]
+        },
+        "author_id": "1709369832947564544",
+        "conversation_id": "1797555219360096542",
+        "created_at": "2024-06-03T09:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T10:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797555219360096542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljz4U7rgtP",
+              "end": 77,
+              "expanded_url": "https://x.com/SaotomeMeariHTT/status/1797555219360096542/video/1",
+              "media_key": "13_1797555146345562112",
+              "start": 54,
+              "url": "https://t.co/ljz4U7rgtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797555219360096542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 87353,
+          "like_count": 663,
+          "quote_count": 133,
+          "reply_count": 56,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "《人不辱华华自辱；特别篇》\n多位老演员熟练combos、去除了不必要的部分便于观众更加极致享受滴答嘟循环。 https://t.co/ljz4U7rgtP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//💌@HobartR6🐈@_FurryFur_//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "猫",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 925,
+          "like_count": 27936,
+          "listed_count": 13,
+          "media_count": 1161,
+          "tweet_count": 13871
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T15:06:06.000Z",
+        "description": "",
+        "id": "1841494812475932672",
+        "location": "雪豹芝市",
+        "name": "ㄧㄧ===⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959098322050064387/7d6chJrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 332,
+          "like_count": 34909,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 429
+        },
+        "username": "Xing_XingXXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T20:25:04.000Z",
+        "description": "Just a regular VRChat player | 是猫猫 | 涩涩! | \nPrefer language: English / 中文 | 现居🇸🇬 \n大猫猫: @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1686472989129441281",
+        "location": "Singapura",
+        "name": "Furryfur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853698940295860224/mBcXxPcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 380,
+          "like_count": 56874,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 1958
+        },
+        "username": "_Furryfur_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T02:28:55.000Z",
+        "description": "Find me on Fediverse @aleksana@bcom.moe\nThis twitter account is nearly obsolete.",
+        "id": "1505008293881647106",
+        "location": "No. 33, Chanling Road",
+        "name": "Aleksana qwq",
+        "pinned_tweet_id": "1607055150165929984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505008440304803840/_hLsiBzi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 318,
+          "like_count": 31375,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 858
+        },
+        "username": "Aleksana01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:59:13.000Z",
+        "description": "INFP/06年/5批😋/捞妹😭/不鉴证/古汉语学习中",
+        "id": "1690573605711785984",
+        "name": "小竹小🍥",
+        "pinned_tweet_id": "1894632890610454984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927077588876337152/jKTZq2Rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 129,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 111
+        },
+        "username": "ndmhwxck",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "@lumigj02 @ndmhwxck @Snow_Flurrying 秋天是倒放的春天 晚安是爱你的续篇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "lumigj02"
+              },
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Snow_Flurrying"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "哦润吉",
+        "pinned_tweet_id": "1912785799986442479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919444964989399040/Z6OLkJuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 200,
+          "like_count": 2877,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1410
+        },
+        "username": "HobartR6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "Ugrad @UCSBPhysics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "UCSBPhysics"
+              }
+            ]
+          }
+        },
+        "id": "1690388233778331649",
+        "name": "Mizuki打不过二结局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946592417198522368/LdHsJ1dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 836,
+          "like_count": 11622,
+          "listed_count": 0,
+          "media_count": 992,
+          "tweet_count": 3740
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 没有！翻车！💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人 ｜里：@MihariSuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "MihariSuki"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 756,
+          "like_count": 41715,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 5921
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T00:48:45.000Z",
+        "description": "锻刀大赛中国赛区优胜者",
+        "id": "1709369832947564544",
+        "location": "Vienna in 1453y",
+        "name": "平澤M.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947659091742232576/2sOmzP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 656,
+          "like_count": 27412,
+          "listed_count": 24,
+          "media_count": 1176,
+          "tweet_count": 9093
+        },
+        "username": "MeariChaseU",
+        "verified": false
+      }
+    ]
+  }
+}

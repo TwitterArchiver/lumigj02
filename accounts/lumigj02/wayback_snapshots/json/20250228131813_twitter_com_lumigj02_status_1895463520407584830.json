@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895438563636048266",
+    "created_at": "2025-02-28T13:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T14:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895463520407584830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1809497565630722052",
+          "start": 0,
+          "username": "w1a2ng"
+        },
+        {
+          "end": 22,
+          "id": "1502860007867502598",
+          "start": 13,
+          "username": "HobartR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895463520407584830",
+    "in_reply_to_user_id": "1809497565630722052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895438563636048266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w1a2ng 加上我跟 @HobartR6 可以吗🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895438539497861120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3zTyha8AAwauE.jpg",
+        "width": 1294
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895438539636031488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3zTzCXQAAralF.jpg",
+        "width": 912
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895438539631775744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3zTzBWUAAL8U_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895438539497852928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3zTyha0AA5tnC.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895438563636048266",
+        "created_at": "2025-02-28T13:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895463520407584830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1809497565630722052",
+              "start": 0,
+              "username": "w1a2ng"
+            },
+            {
+              "end": 22,
+              "id": "1502860007867502598",
+              "start": 13,
+              "username": "HobartR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895463520407584830",
+        "in_reply_to_user_id": "1809497565630722052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895438563636048266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w1a2ng 加上我跟 @HobartR6 可以吗🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895438539497861120",
+            "3_1895438539636031488",
+            "3_1895438539631775744",
+            "3_1895438539497852928"
+          ]
+        },
+        "author_id": "1809497565630722052",
+        "conversation_id": "1895438563636048266",
+        "created_at": "2025-02-28T11:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T12:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895438563636048266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8peoRc4cj6",
+              "end": 39,
+              "expanded_url": "https://x.com/w1a2ng/status/1895438563636048266/photo/1",
+              "media_key": "3_1895438539497861120",
+              "start": 16,
+              "url": "https://t.co/8peoRc4cj6"
+            },
+            {
+              "display_url": "pic.x.com/8peoRc4cj6",
+              "end": 39,
+              "expanded_url": "https://x.com/w1a2ng/status/1895438563636048266/photo/1",
+              "media_key": "3_1895438539636031488",
+              "start": 16,
+              "url": "https://t.co/8peoRc4cj6"
+            },
+            {
+              "display_url": "pic.x.com/8peoRc4cj6",
+              "end": 39,
+              "expanded_url": "https://x.com/w1a2ng/status/1895438563636048266/photo/1",
+              "media_key": "3_1895438539631775744",
+              "start": 16,
+              "url": "https://t.co/8peoRc4cj6"
+            },
+            {
+              "display_url": "pic.x.com/8peoRc4cj6",
+              "end": 39,
+              "expanded_url": "https://x.com/w1a2ng/status/1895438563636048266/photo/1",
+              "media_key": "3_1895438539497852928",
+              "start": 16,
+              "url": "https://t.co/8peoRc4cj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895438563636048266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1240,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "可能是中推圈最甜的四对小情侣。 https://t.co/8peoRc4cj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / 叫我ʟᴜᴍɪ或猫卷姐姐可快速提高好感度🥰 / 💖 @HobartR6 / @altaz_0 / 日雌390泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895131563953696768/T0tzqE7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 832,
+          "like_count": 25291,
+          "listed_count": 11,
+          "media_count": 896,
+          "tweet_count": 9989
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:00:34.000Z",
+        "description": "背景来自@xioshl8                                                             小号@w3a4ng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "xioshl8"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "w3a4ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/w1a2ng",
+                "end": 23,
+                "expanded_url": "http://t.me/w1a2ng",
+                "start": 0,
+                "url": "https://t.co/A4dhQcO59r"
+              }
+            ]
+          }
+        },
+        "id": "1809497565630722052",
+        "location": "Taiwan",
+        "name": "王",
+        "pinned_tweet_id": "1889138032894480534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878600508866277376/KIKXf4NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 978,
+          "like_count": 40830,
+          "listed_count": 7,
+          "media_count": 148,
+          "tweet_count": 7461
+        },
+        "url": "https://t.co/A4dhQcO59r",
+        "username": "w1a2ng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "💖 @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "HobartR6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893912615933366272/EMAJyMss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 66,
+          "like_count": 554,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 392
+        },
+        "username": "HobartR6",
+        "verified": false
+      }
+    ]
+  }
+}

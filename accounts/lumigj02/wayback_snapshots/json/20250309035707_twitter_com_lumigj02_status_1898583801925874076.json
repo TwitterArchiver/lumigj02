@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898464912474550415",
+    "created_at": "2025-03-09T03:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T04:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898583801925874076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3295111409",
+          "start": 0,
+          "username": "ayatoR6"
+        },
+        {
+          "end": 18,
+          "id": "1502860007867502598",
+          "start": 9,
+          "username": "HobartR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898583801925874076",
+    "in_reply_to_user_id": "3295111409",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898464912474550415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayatoR6 @HobartR6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "3_1898464265159188482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlizMM-WIAItwUv.png",
+        "width": 245
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898464912474550415",
+        "created_at": "2025-03-09T03:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898583801925874076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3295111409",
+              "start": 0,
+              "username": "ayatoR6"
+            },
+            {
+              "end": 18,
+              "id": "1502860007867502598",
+              "start": 9,
+              "username": "HobartR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898583801925874076",
+        "in_reply_to_user_id": "3295111409",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898464912474550415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayatoR6 @HobartR6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898464265159188482"
+          ]
+        },
+        "author_id": "3295111409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1898464912474550415",
+        "created_at": "2025-03-08T20:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T21:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898464912474550415"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "FPSLimit",
+              "probability": 0.7735,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 48,
+              "normalized_text": "GameSettings",
+              "probability": 0.5354,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "RainbowSix",
+              "probability": 0.6794,
+              "start": 78,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9P8CF2ax2",
+              "end": 236,
+              "expanded_url": "https://x.com/ayatoR6/status/1898464912474550415/photo/1",
+              "media_key": "3_1898464265159188482",
+              "start": 213,
+              "url": "https://t.co/C9P8CF2ax2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898464912474550415",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 39134,
+          "like_count": 596,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "LOW FPS DX12 FIX\n\nchange FPSLimit in GameSettings.ini under Documents-MyGames-RainbowSix- yourID to your hz rate + 70\n\nfor example:\n\nmy hz rate is 360 + 70 = 430\n\navg fps will increase and low fps should be fixed https://t.co/C9P8CF2ax2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / 日雌380泰补200 / MBA @QUT, ex-@NUSingapore, ex-@SUTDsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "username": "QUT"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "SUTDsg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2134,
+          "following_count": 858,
+          "like_count": 25522,
+          "listed_count": 11,
+          "media_count": 941,
+          "tweet_count": 10487
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-23T11:17:38.000Z",
+        "description": "@MartinGarrix \n\nformer: @BLUEJAYS_Sports @EntropyGaming \ncreator Code: miasanmia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "MartinGarrix"
+              },
+              {
+                "end": 40,
+                "start": 24,
+                "username": "BLUEJAYS_Sports"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "EntropyGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/AyatoR6",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/AyatoR6",
+                "start": 0,
+                "url": "https://t.co/iC1mnf4EuB"
+              }
+            ]
+          }
+        },
+        "id": "3295111409",
+        "location": "Franz-Beckenbauer-Platz 5",
+        "name": "ayxto ➕✖️",
+        "pinned_tweet_id": "1898433537952579845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896301100120133632/JFuMpTWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 867,
+          "like_count": 113546,
+          "listed_count": 4,
+          "media_count": 2561,
+          "tweet_count": 24529
+        },
+        "url": "https://t.co/iC1mnf4EuB",
+        "username": "ayatoR6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "💖 @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "HobartR6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896483474799808512/O-u_oJ1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 76,
+          "like_count": 810,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 682
+        },
+        "username": "HobartR6",
+        "verified": false
+      }
+    ]
+  }
+}

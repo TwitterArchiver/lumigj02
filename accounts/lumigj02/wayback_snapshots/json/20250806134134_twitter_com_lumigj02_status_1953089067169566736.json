@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953012023190602218",
+    "created_at": "2025-08-06T13:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T14:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953089067169566736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2538322138",
+          "start": 0,
+          "username": "PicturesFoIder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953089067169566736",
+    "in_reply_to_user_id": "2538322138",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953012023190602218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PicturesFoIder Can't believe what the fish are eating everyday"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7646,
+        "height": 552,
+        "media_key": "7_1953012009143828480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1953012009143828480/pu/img/Q4CEas6fKSRAd0M2.jpg",
+        "public_metrics": {
+          "view_count": 132982
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953012009143828480/pu/vid/avc1/320x368/FSbeQ8P_ZrvAlZeI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953012009143828480/pu/vid/avc1/480x552/8TM4qSTu56QqV09G.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1953012009143828480/pu/pl/ZmM71l0LH5H6cijz.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953012023190602218",
+        "created_at": "2025-08-06T13:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953089067169566736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2538322138",
+              "start": 0,
+              "username": "PicturesFoIder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953089067169566736",
+        "in_reply_to_user_id": "2538322138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953012023190602218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PicturesFoIder Can't believe what the fish are eating everyday"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953012009143828480"
+          ]
+        },
+        "author_id": "2538322138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410656977961717765",
+              "name": "Oil trading"
+            }
+          }
+        ],
+        "conversation_id": "1953012023190602218",
+        "created_at": "2025-08-06T08:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T09:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953012023190602218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNy4Oi0teV",
+              "end": 105,
+              "expanded_url": "https://x.com/PicturesFoIder/status/1953012023190602218/video/1",
+              "media_key": "7_1953012009143828480",
+              "start": 82,
+              "url": "https://t.co/SNy4Oi0teV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953012023190602218",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 339461,
+          "like_count": 2676,
+          "quote_count": 47,
+          "reply_count": 254,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "This is an open-air restroom constructed for workers on an offshore oil platform. https://t.co/SNy4Oi0teV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "LUMI 猫卷 - 日雌390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 932,
+          "like_count": 27736,
+          "listed_count": 12,
+          "media_count": 1121,
+          "tweet_count": 13307
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-10T04:08:46.000Z",
+        "description": "viral media from around the world",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pictures.foider",
+                "end": 23,
+                "expanded_url": "https://instagram.com/pictures.foider",
+                "start": 0,
+                "url": "https://t.co/jVFPw29ezi"
+              }
+            ]
+          }
+        },
+        "id": "2538322138",
+        "name": "non aesthetic things",
+        "pinned_tweet_id": "1925721442659770688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4896891,
+          "following_count": 575,
+          "like_count": 4685,
+          "listed_count": 8685,
+          "media_count": 19313,
+          "tweet_count": 21372
+        },
+        "url": "https://t.co/jVFPw29ezi",
+        "username": "PicturesFoIder",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1933549960647356824",
+    "created_at": "2025-06-13T17:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T18:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933580403526521204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        },
+        {
+          "end": 26,
+          "id": "1754494415152766976",
+          "start": 15,
+          "username": "Xinyi_ADHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933580403526521204",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933555012535529568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra @Xinyi_ADHD 是的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1933555012535529568].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1933555012535529568",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1933555012535529568"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1933549960647356824",
+        "created_at": "2025-06-13T17:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T18:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933580403526521204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            },
+            {
+              "end": 26,
+              "id": "1754494415152766976",
+              "start": 15,
+              "username": "Xinyi_ADHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933580403526521204",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933555012535529568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra @Xinyi_ADHD 是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬 p4r4n01d 5ch120phr1n14 pr0f35510n4l 7r1p 51773r 3n7ry fr4993r @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "HobartR6"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi (日雌泰补",
+        "pinned_tweet_id": "1932909290324726179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 893,
+          "like_count": 27114,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 12394
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "Fake it till make it",
+        "id": "1746169774147776512",
+        "name": "🩵纯情蟑螂🌘",
+        "pinned_tweet_id": "1930586107181457679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930035511198146560/kLGuWTLq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 858,
+          "like_count": 57313,
+          "listed_count": 2,
+          "media_count": 1531,
+          "tweet_count": 40457
+        },
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "勇敢的人先享受世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpKvQ"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "也是一种独特的人生体验了",
+        "name": "辞鸢婉心漪✨🦈",
+        "pinned_tweet_id": "1932448312701182085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906843104918769664/5Uc-gZdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3493,
+          "following_count": 1649,
+          "like_count": 11136,
+          "listed_count": 8,
+          "media_count": 746,
+          "tweet_count": 7642
+        },
+        "url": "https://t.co/O8fBywpKvQ",
+        "username": "Xinyi_ADHD",
+        "verified": false
+      }
+    ]
+  }
+}

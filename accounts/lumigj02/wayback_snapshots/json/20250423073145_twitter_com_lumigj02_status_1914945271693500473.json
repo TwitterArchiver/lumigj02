@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1914319261235118253",
+    "created_at": "2025-04-23T07:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T08:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914945271693500473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1603838691159339008",
+          "start": 0,
+          "username": "Fa1th_00y"
+        },
+        {
+          "end": 22,
+          "id": "1567847595162091522",
+          "start": 11,
+          "username": "Jiankui_He"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914945271693500473",
+    "in_reply_to_user_id": "1603838691159339008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914545824325091398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fa1th_00y @Jiankui_He 真人 但是是真人在整活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1914319261235118253",
+        "created_at": "2025-04-23T07:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914945271693500473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1603838691159339008",
+              "start": 0,
+              "username": "Fa1th_00y"
+            },
+            {
+              "end": 22,
+              "id": "1567847595162091522",
+              "start": 11,
+              "username": "Jiankui_He"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914945271693500473",
+        "in_reply_to_user_id": "1603838691159339008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914545824325091398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fa1th_00y @Jiankui_He 真人 但是是真人在整活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603838691159339008",
+        "conversation_id": "1914319261235118253",
+        "created_at": "2025-04-22T05:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T06:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914545824325091398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 21,
+              "id": "1567847595162091522",
+              "start": 10,
+              "username": "Jiankui_He"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914545824325091398",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914322530535444709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @Jiankui_He 话说这人是真人还是整活的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | Cat named Neko | @you_miaowu @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 869,
+          "like_count": 26469,
+          "listed_count": 11,
+          "media_count": 1025,
+          "tweet_count": 11536
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-16T19:45:27.000Z",
+        "description": "15y | infp | 悲观主义者 | 喜欢发呆",
+        "id": "1603838691159339008",
+        "name": "Teeeeeeeeeeeee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854883355462086656/kuPirQ2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 96,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 78
+        },
+        "username": "Fa1th_00y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T12:09:56.000Z",
+        "description": "Gene Editing Pioneer.\nPh.D, Rice University, Texas.\n3 years in prison.",
+        "id": "1567847595162091522",
+        "location": "Beijing, China",
+        "name": "Jiankui He",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832081770487115776/UCUf8wdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122725,
+          "following_count": 2,
+          "like_count": 79,
+          "listed_count": 261,
+          "media_count": 173,
+          "tweet_count": 350
+        },
+        "username": "Jiankui_He",
+        "verified": true
+      }
+    ]
+  }
+}

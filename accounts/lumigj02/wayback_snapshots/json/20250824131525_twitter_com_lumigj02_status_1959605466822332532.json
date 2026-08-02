@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1959358597843853608",
+    "created_at": "2025-08-24T13:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T14:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959605466822332532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 25,
+          "id": "1894704119891611648",
+          "start": 16,
+          "username": "AreonLee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959605466822332532",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959596919866659089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit @AreonLee 好厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1959358597843853608",
+        "created_at": "2025-08-24T13:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959605466822332532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 25,
+              "id": "1894704119891611648",
+              "start": 16,
+              "username": "AreonLee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959605466822332532",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959596919866659089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit @AreonLee 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "1959358597843853608",
+        "created_at": "2025-08-24T12:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959596919866659089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894704119891611648",
+              "start": 0,
+              "username": "AreonLee"
+            },
+            {
+              "end": 19,
+              "id": "1176535991454064640",
+              "start": 10,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959596919866659089",
+        "in_reply_to_user_id": "1894704119891611648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959589503380935051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AreonLee @lumigj02 其实花椒也是芸香科的👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_//@JR_YamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "JR_YamanoteE235"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958902621303185409/FZrkKv70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 929,
+          "like_count": 27898,
+          "listed_count": 13,
+          "media_count": 1159,
+          "tweet_count": 13811
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 没有！翻车！💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人 ｜里：@MihariSuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "MihariSuki"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 744,
+          "like_count": 41315,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 5847
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T11:02:56.000Z",
+        "description": "BPD+OCD.今年的目标是不要自杀.",
+        "id": "1894704119891611648",
+        "location": "广州",
+        "name": "烤脑",
+        "pinned_tweet_id": "1956131705238249908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956130955112144901/k7EKx_jZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 76,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 632
+        },
+        "username": "AreonLee",
+        "verified": false
+      }
+    ]
+  }
+}

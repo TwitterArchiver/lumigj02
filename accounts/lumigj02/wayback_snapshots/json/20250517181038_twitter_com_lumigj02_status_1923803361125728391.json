@@ -1,0 +1,706 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "CYCLOPS athlete gaming (Esports)",
+          "id": "872311238788698112",
+          "name": "CYCLOPS athlete gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "CYCLOPS athlete gaming (Esports)",
+          "id": "872311238788698112",
+          "name": "CYCLOPS athlete gaming"
+        }
+      }
+    ],
+    "conversation_id": "1923802621305029065",
+    "created_at": "2025-05-17T18:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T19:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923803361125728391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "788247738924183553",
+          "start": 0,
+          "username": "CYCLOPS_OSAKA"
+        },
+        {
+          "end": 24,
+          "id": "2957699821",
+          "start": 15,
+          "username": "Anitube_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923803361125728391",
+    "in_reply_to_user_id": "788247738924183553",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923802621305029065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CYCLOPS_OSAKA @Anitube_ goat"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18551,
+        "height": 1080,
+        "media_key": "13_1923802510013112320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923802510013112320/img/judbhpoxZFIAHr2I.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923802510013112320/pl/rouA_92jwfnBpsxk.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923802510013112320/vid/avc1/1280x720/9bxYzZGZYOSqgDyK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923802510013112320/vid/avc1/640x360/gy0O8JvpB2bR5Fv3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923802510013112320/vid/avc1/1920x1080/LL6Oyy_T-hsVwGB0.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923802510013112320/vid/avc1/480x270/Qzr2BQGpAJvWPpyr.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "CYCLOPS athlete gaming (Esports)",
+              "id": "872311238788698112",
+              "name": "CYCLOPS athlete gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "CYCLOPS athlete gaming (Esports)",
+              "id": "872311238788698112",
+              "name": "CYCLOPS athlete gaming"
+            }
+          }
+        ],
+        "conversation_id": "1923802621305029065",
+        "created_at": "2025-05-17T18:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923803361125728391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "788247738924183553",
+              "start": 0,
+              "username": "CYCLOPS_OSAKA"
+            },
+            {
+              "end": 24,
+              "id": "2957699821",
+              "start": 15,
+              "username": "Anitube_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923803361125728391",
+        "in_reply_to_user_id": "788247738924183553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923802621305029065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CYCLOPS_OSAKA @Anitube_ goat"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923802510013112320"
+          ]
+        },
+        "author_id": "788247738924183553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "CYCLOPS athlete gaming (Esports)",
+              "id": "872311238788698112",
+              "name": "CYCLOPS athlete gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "CYCLOPS athlete gaming (Esports)",
+              "id": "872311238788698112",
+              "name": "CYCLOPS athlete gaming"
+            }
+          }
+        ],
+        "conversation_id": "1923802621305029065",
+        "created_at": "2025-05-17T18:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923802621305029065"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 89,
+              "tag": "絶対優勝シージXCAGWIN"
+            },
+            {
+              "end": 112,
+              "start": 105,
+              "tag": "CAGWIN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2957699821",
+              "start": 12,
+              "username": "Anitube_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【世界大会】RE:L0:AD 2025 FINALS DAY2本日のタイムスケジュール一覧Match 1 : CAG vs WCMatch 2 : W7M vs FUR*時間は変更される場合があります本日のキャスター一覧■Okayama @TDokayama■CrazyPapiyoN @CrazyPapiyooo...",
+              "display_url": "youtube.com/live/JCU-TgzSL…",
+              "end": 64,
+              "expanded_url": "https://www.youtube.com/live/JCU-TgzSL8U?si=uWoOZ0fKDHtu6SqP",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1923802625000210435/j7VvSlwu?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1923802625000210435/j7VvSlwu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "【世界大会】RE:L0:AD 2025 FINALS DAY2",
+              "unwound_url": "https://www.youtube.com/live/JCU-TgzSL8U?si=uWoOZ0fKDHtu6SqP",
+              "url": "https://t.co/joY72HMFbj"
+            },
+            {
+              "description": "ユービーアイソフト株式会社が運営する公式Eスポーツチャンネルです。 『レインボーシックス シージ』の国内公式大会、海外大会などの日本語同時配信、動画などを公開します。",
+              "display_url": "twitch.tv/rainbow6jp",
+              "end": 88,
+              "expanded_url": "https://www.twitch.tv/rainbow6jp",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/1923759204436934656/JO7ITzjc?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1923759204436934656/JO7ITzjc?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "Rainbow6JP - Twitch",
+              "unwound_url": "https://www.twitch.tv/rainbow6jp",
+              "url": "https://t.co/nJR6zNnLLq"
+            },
+            {
+              "display_url": "pic.x.com/d3Txo4zHG0",
+              "end": 145,
+              "expanded_url": "https://x.com/CYCLOPS_OSAKA/status/1923802621305029065/video/1",
+              "media_key": "13_1923802510013112320",
+              "start": 122,
+              "url": "https://t.co/d3Txo4zHG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923802621305029065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "まずは1ラウンド目！！\n@Anitube_ が進行を止めた！！\nナァァイス！！！\nhttps://t.co/joY72HMFbj\nhttps://t.co/nJR6zNnLLq\n#絶対優勝シージXCAGWIN #CAGWIN ©Ubisoft https://t.co/d3Txo4zHG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "(本账号由 @_Sanxon 代为管理) | 日雌380泰补200 私信/下方Telegram联系 | 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi猫卷🍥HRT药物日雌泰补(本账号由Sanxon代管)",
+        "pinned_tweet_id": "1922906622302523540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 888,
+          "like_count": 26827,
+          "listed_count": 12,
+          "media_count": 1068,
+          "tweet_count": 11977
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-18T05:18:00.000Z",
+        "description": "CAG OSAKA. Professional esports team based in Osaka, Japan. We compete in Fighting Games, R6, PUBG MOBILE, EA Sports FC.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyclops-osaka.jp",
+                "end": 23,
+                "expanded_url": "https://cyclops-osaka.jp/",
+                "start": 0,
+                "url": "https://t.co/SMfVZkL1X1"
+              }
+            ]
+          }
+        },
+        "id": "788247738924183553",
+        "location": "大阪府",
+        "name": "CAG OSAKA",
+        "pinned_tweet_id": "1920394012667884018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765572818694279168/eOtTXuQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42707,
+          "following_count": 139,
+          "like_count": 6454,
+          "listed_count": 311,
+          "media_count": 7346,
+          "tweet_count": 18041
+        },
+        "url": "https://t.co/SMfVZkL1X1",
+        "username": "CYCLOPS_OSAKA",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-03T20:56:23.000Z",
+        "description": "@Rainbow6Game Player For @CYCLOPS_OSAKA 🇯🇵 #CAGWIN 心友@A1kyan_r6 🙇‍♂️@Recchaan \"♡ @_me1o1 \"",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "CAGWIN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Rainbow6Game"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "CYCLOPS_OSAKA"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "A1kyan_r6"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "Recchaan"
+              },
+              {
+                "end": 88,
+                "start": 81,
+                "username": "_me1o1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCQOX_…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCQOX_rD8xnmB67frm3uPTGw?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/R29pYoNo70"
+              }
+            ]
+          }
+        },
+        "id": "2957699821",
+        "location": "Tokyo",
+        "name": "Anitun / CAG",
+        "pinned_tweet_id": "1915303061175644548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886250316904988672/kXrY3aAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19523,
+          "following_count": 1088,
+          "like_count": 16630,
+          "listed_count": 102,
+          "media_count": 3186,
+          "tweet_count": 34645
+        },
+        "url": "https://t.co/R29pYoNo70",
+        "username": "Anitube_",
+        "verified": false
+      }
+    ]
+  }
+}

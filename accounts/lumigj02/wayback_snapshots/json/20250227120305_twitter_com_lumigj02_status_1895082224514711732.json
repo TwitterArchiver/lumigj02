@@ -1,0 +1,715 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime Minister",
+          "id": "857212166100754432",
+          "name": "Boris Johnson"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime Minister",
+          "id": "857212166100754432",
+          "name": "Boris Johnson"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime Minister",
+          "id": "857212166100754432",
+          "name": "Boris Johnson"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1895041324752998438",
+    "created_at": "2025-02-27T12:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T13:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895082224514711732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1809497565630722052",
+          "start": 0,
+          "username": "w1a2ng"
+        },
+        {
+          "end": 21,
+          "id": "1794154221194932224",
+          "start": 8,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 35,
+          "id": "1680834021377593344",
+          "start": 22,
+          "username": "Single_Hyoto"
+        },
+        {
+          "end": 50,
+          "id": "1818731995310309376",
+          "start": 36,
+          "username": "MOLeren198964"
+        },
+        {
+          "end": 59,
+          "id": "1689275528572760064",
+          "start": 51,
+          "username": "5mRtist"
+        },
+        {
+          "end": 73,
+          "id": "3131144855",
+          "start": 60,
+          "username": "BorisJohnson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895082224514711732",
+    "in_reply_to_user_id": "1809497565630722052",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895082152493977980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w1a2ng @NagiVictoria @Single_Hyoto @MOLeren198964 @5mRtist @BorisJohnson 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister",
+              "id": "857212166100754432",
+              "name": "Boris Johnson"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister",
+              "id": "857212166100754432",
+              "name": "Boris Johnson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister",
+              "id": "857212166100754432",
+              "name": "Boris Johnson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1895041324752998438",
+        "created_at": "2025-02-27T12:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895082224514711732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1809497565630722052",
+              "start": 0,
+              "username": "w1a2ng"
+            },
+            {
+              "end": 21,
+              "id": "1794154221194932224",
+              "start": 8,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 35,
+              "id": "1680834021377593344",
+              "start": 22,
+              "username": "Single_Hyoto"
+            },
+            {
+              "end": 50,
+              "id": "1818731995310309376",
+              "start": 36,
+              "username": "MOLeren198964"
+            },
+            {
+              "end": 59,
+              "id": "1689275528572760064",
+              "start": 51,
+              "username": "5mRtist"
+            },
+            {
+              "end": 73,
+              "id": "3131144855",
+              "start": 60,
+              "username": "BorisJohnson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895082224514711732",
+        "in_reply_to_user_id": "1809497565630722052",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895082152493977980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w1a2ng @NagiVictoria @Single_Hyoto @MOLeren198964 @5mRtist @BorisJohnson 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809497565630722052",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister",
+              "id": "857212166100754432",
+              "name": "Boris Johnson"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister",
+              "id": "857212166100754432",
+              "name": "Boris Johnson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister",
+              "id": "857212166100754432",
+              "name": "Boris Johnson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1895041324752998438",
+        "created_at": "2025-02-27T12:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895082152493977980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 27,
+              "id": "1680834021377593344",
+              "start": 14,
+              "username": "Single_Hyoto"
+            },
+            {
+              "end": 42,
+              "id": "1818731995310309376",
+              "start": 28,
+              "username": "MOLeren198964"
+            },
+            {
+              "end": 52,
+              "id": "1176535991454064640",
+              "start": 43,
+              "username": "lumigj02"
+            },
+            {
+              "end": 61,
+              "id": "1689275528572760064",
+              "start": 53,
+              "username": "5mRtist"
+            },
+            {
+              "end": 75,
+              "id": "3131144855",
+              "start": 62,
+              "username": "BorisJohnson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895082152493977980",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895081871496679586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @Single_Hyoto @MOLeren198964 @lumigj02 @5mRtist @BorisJohnson"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / 💖 @HobartR6 / ʟɪʟ ꜰᴏx @altaz_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "HobartR6"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1893577061723504657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892509314335883264/BXt8NBBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 827,
+          "like_count": 25271,
+          "listed_count": 11,
+          "media_count": 889,
+          "tweet_count": 9930
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:00:34.000Z",
+        "description": "作者，感谢@xioshl8提供的背景。  小号@w3a4ng  TG：https://t.co/A4dhQcOCYZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xioshl8"
+              },
+              {
+                "end": 30,
+                "start": 23,
+                "username": "w3a4ng"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/w1a2ng",
+                "end": 58,
+                "expanded_url": "http://t.me/w1a2ng",
+                "start": 35,
+                "url": "https://t.co/A4dhQcOCYZ"
+              }
+            ]
+          }
+        },
+        "id": "1809497565630722052",
+        "name": "王",
+        "pinned_tweet_id": "1889138032894480534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878600508866277376/KIKXf4NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 962,
+          "like_count": 40313,
+          "listed_count": 7,
+          "media_count": 138,
+          "tweet_count": 7284
+        },
+        "username": "w1a2ng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "玩皇室战争/喜欢机厅厕所做爱/喜欢伦敦地铁/用绿猫头像/喜欢debate/喜欢玩抽象/厦门人都可以互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "维多利亚线 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1894455497333330366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3608,
+          "following_count": 845,
+          "like_count": 15363,
+          "listed_count": 7,
+          "media_count": 1831,
+          "tweet_count": 13950
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "青空だけが見たいのは我儘ですか",
+        "id": "1680834021377593344",
+        "location": "Aozora",
+        "name": "温原ひょと 🍥🫖💥",
+        "pinned_tweet_id": "1894698937765990860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894786287845990400/GygpOgUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 957,
+          "like_count": 45,
+          "listed_count": 12,
+          "media_count": 3715,
+          "tweet_count": 22520
+        },
+        "username": "Single_Hyoto",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "一个抽象B🤓爱写软笔字（很烂）小号：@Moleren114514 主人🥺：@hood8964 姐姐：@IAmTheSolipsism想挂的朋友：@charming_xiaoyu @ShadowlessmoonR @5mRtist @w3a4ng @0721sandwich @HANABIRIKAJIANG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Moleren114514"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "hood8964"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "IAmTheSolipsism"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "ShadowlessmoonR"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "5mRtist"
+              },
+              {
+                "end": 122,
+                "start": 115,
+                "username": "w3a4ng"
+              },
+              {
+                "end": 136,
+                "start": 123,
+                "username": "0721sandwich"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "HANABIRIKAJIANG"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "ㄇㄌㄖ",
+        "pinned_tweet_id": "1894688300776198333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893357426335793152/M7kSH9Hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 1594,
+          "like_count": 101794,
+          "listed_count": 7,
+          "media_count": 752,
+          "tweet_count": 15316
+        },
+        "username": "MOLeren198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "15岁高中生｜无明确立场｜无明确意识形态｜发的内容会比较杂｜简中/繁中混用｜对所有人保持友好🩵｜请不要对我扣帽子或人身攻击，说话时保持文明，我也会礼貌对待大家🩵我没有b过任何人，尊重每一种声音💜 有蓝标的才是本人。🙏精神病友好，小孩哥友好🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "5mr.top",
+                "end": 23,
+                "expanded_url": "http://www.5mr.top",
+                "start": 0,
+                "url": "https://t.co/gOK4bNBI2K"
+              }
+            ]
+          }
+        },
+        "id": "1689275528572760064",
+        "location": "距你5.5km",
+        "name": "5mR",
+        "pinned_tweet_id": "1870638198768169190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3750,
+          "following_count": 1525,
+          "like_count": 27543,
+          "listed_count": 12,
+          "media_count": 493,
+          "tweet_count": 5885
+        },
+        "url": "https://t.co/gOK4bNBI2K",
+        "username": "5mRtist",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-01T20:15:49.000Z",
+        "description": "Former Prime Minister of the United Kingdom.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/borisjohnsonuk",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/borisjohnsonuk",
+                "start": 0,
+                "url": "https://t.co/WFcXgv4HnG"
+              }
+            ]
+          }
+        },
+        "id": "3131144855",
+        "location": "United Kingdom",
+        "name": "Boris Johnson",
+        "pinned_tweet_id": "1895051250657612110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678440881890680832/ootyWocq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4612541,
+          "following_count": 453,
+          "like_count": 573,
+          "listed_count": 10636,
+          "media_count": 2567,
+          "tweet_count": 6445
+        },
+        "url": "https://t.co/WFcXgv4HnG",
+        "username": "BorisJohnson",
+        "verified": true
+      }
+    ]
+  }
+}

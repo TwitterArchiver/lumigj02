@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1933885631895314714",
+    "created_at": "2025-06-15T10:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T11:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934189624156725656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "815296260487856128",
+          "start": 0,
+          "username": "colin_s_liu"
+        },
+        {
+          "end": 21,
+          "id": "1693450364341948416",
+          "start": 13,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934189624156725656",
+    "in_reply_to_user_id": "815296260487856128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933989159309619374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@colin_s_liu @igeekbb 傻逼一个，车都买不起的穷逼土狗才能说出这种话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1933885631895314714",
+        "created_at": "2025-06-15T10:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T11:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934189624156725656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "815296260487856128",
+              "start": 0,
+              "username": "colin_s_liu"
+            },
+            {
+              "end": 21,
+              "id": "1693450364341948416",
+              "start": 13,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934189624156725656",
+        "in_reply_to_user_id": "815296260487856128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933989159309619374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@colin_s_liu @igeekbb 傻逼一个，车都买不起的穷逼土狗才能说出这种话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "815296260487856128",
+        "conversation_id": "1933885631895314714",
+        "created_at": "2025-06-14T20:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T21:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933989159309619374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933989159309619374",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21730,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933885631895314714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 如果汽车是绿灯行人被撞了也要罚款。陪人家修车的钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "彩虹六号冠军 APEX猎杀 Valorant神话 王者2万2国服镜 The only thing that kill me is old age 猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "pinned_tweet_id": "1932909290324726179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 893,
+          "like_count": 27123,
+          "listed_count": 12,
+          "media_count": 1103,
+          "tweet_count": 12421
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-31T20:39:10.000Z",
+        "description": "",
+        "id": "815296260487856128",
+        "name": "Colin Liu",
+        "pinned_tweet_id": "1629222815860948992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762293602393497601/za4dx-Nw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 382,
+          "like_count": 2403,
+          "listed_count": 4,
+          "media_count": 361,
+          "tweet_count": 10358
+        },
+        "username": "colin_s_liu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43932,
+          "following_count": 1,
+          "like_count": 3931,
+          "listed_count": 172,
+          "media_count": 4343,
+          "tweet_count": 6742
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

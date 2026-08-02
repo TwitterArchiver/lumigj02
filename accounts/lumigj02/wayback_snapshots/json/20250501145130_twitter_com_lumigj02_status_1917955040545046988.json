@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917955031820800000"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1917953949556228333",
+    "created_at": "2025-05-01T14:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T15:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917955040545046988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "704693722743615488",
+          "start": 0,
+          "username": "EnvyTaylor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XinDJTwSea",
+          "end": 42,
+          "expanded_url": "https://x.com/lumigj02/status/1917955040545046988/photo/1",
+          "media_key": "3_1917955031820800000",
+          "start": 19,
+          "url": "https://t.co/XinDJTwSea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917955040545046988",
+    "in_reply_to_user_id": "704693722743615488",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917953949556228333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EnvyTaylor He can https://t.co/XinDJTwSea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917955031820800000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp3x8I7aEAAAvHc.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 9792,
+        "height": 1080,
+        "media_key": "13_1917953413142466560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917953413142466560/img/tFDRSlIc-UDZxJMU.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917953413142466560/vid/avc1/480x270/EoOx5aZET_1WH6tN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917953413142466560/vid/avc1/640x360/N-2IbznxqrIh-EMo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917953413142466560/vid/avc1/1280x720/hYclGNr2t02Six5A.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917953413142466560/pl/PIMePsbruY3BJ_lF.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917955031820800000"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917953949556228333",
+        "created_at": "2025-05-01T14:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T15:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917955040545046988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "704693722743615488",
+              "start": 0,
+              "username": "EnvyTaylor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XinDJTwSea",
+              "end": 42,
+              "expanded_url": "https://x.com/lumigj02/status/1917955040545046988/photo/1",
+              "media_key": "3_1917955031820800000",
+              "start": 19,
+              "url": "https://t.co/XinDJTwSea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917955040545046988",
+        "in_reply_to_user_id": "704693722743615488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917953949556228333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EnvyTaylor He can https://t.co/XinDJTwSea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917953413142466560"
+          ]
+        },
+        "author_id": "704693722743615488",
+        "conversation_id": "1917953949556228333",
+        "created_at": "2025-05-01T14:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T15:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917953949556228333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "BB",
+              "probability": 0.8029,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 24,
+              "normalized_text": "castle",
+              "probability": 0.5353,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmNgY8RFtu",
+              "end": 64,
+              "expanded_url": "https://x.com/EnvyTaylor/status/1917953949556228333/video/1",
+              "media_key": "13_1917953413142466560",
+              "start": 41,
+              "url": "https://t.co/bmNgY8RFtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917953949556228333",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "How can BB vault a castle barricade? 😂😂😂 https://t.co/bmNgY8RFtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 主人&大老婆 @RanXi_MtF | 小老婆 @_FurryFur_ | @you_miaowu | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 879,
+          "like_count": 26576,
+          "listed_count": 12,
+          "media_count": 1035,
+          "tweet_count": 11644
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-01T15:44:10.000Z",
+        "description": "R6 for \nContact : envytaylor1@gmail.com 👸 @tw_kking",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "tw_kking"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/envytaylor92",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/envytaylor92",
+                "start": 0,
+                "url": "https://t.co/p3TFaFF0Tu"
+              }
+            ]
+          }
+        },
+        "id": "704693722743615488",
+        "location": "대한민국 서울",
+        "name": "EnvyTaylor 🐹",
+        "pinned_tweet_id": "1876616238874722388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673348862818525184/rGKXa5BD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 1215,
+          "like_count": 22551,
+          "listed_count": 32,
+          "media_count": 4354,
+          "tweet_count": 25789
+        },
+        "url": "https://t.co/p3TFaFF0Tu",
+        "username": "EnvyTaylor",
+        "verified": false
+      }
+    ]
+  }
+}

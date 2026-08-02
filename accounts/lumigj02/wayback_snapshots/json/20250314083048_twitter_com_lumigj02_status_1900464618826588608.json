@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900464609838198784"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1900464618826588608",
+    "created_at": "2025-03-14T08:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T09:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900464618826588608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ycNRcAzLS",
+          "end": 84,
+          "expanded_url": "https://x.com/lumigj02/status/1900464618826588608/photo/1",
+          "media_key": "3_1900464609838198784",
+          "start": 61,
+          "url": "https://t.co/0ycNRcAzLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900464618826588608",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2020 screenshot antiguo adjuste de rango -381 puntos MMR lol https://t.co/0ycNRcAzLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900464609838198784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_OflmbcAAuNFa.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900464609838198784"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900464618826588608",
+        "created_at": "2025-03-14T08:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T09:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900464618826588608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ycNRcAzLS",
+              "end": 84,
+              "expanded_url": "https://x.com/lumigj02/status/1900464618826588608/photo/1",
+              "media_key": "3_1900464609838198784",
+              "start": 61,
+              "url": "https://t.co/0ycNRcAzLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900464618826588608",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2020 screenshot antiguo adjuste de rango -381 puntos MMR lol https://t.co/0ycNRcAzLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 💫 @Yan_Xing_Xing | 📧 Contact: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 875,
+          "like_count": 25678,
+          "listed_count": 11,
+          "media_count": 951,
+          "tweet_count": 10657
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

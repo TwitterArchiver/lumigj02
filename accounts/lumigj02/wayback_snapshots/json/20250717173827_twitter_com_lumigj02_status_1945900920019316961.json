@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945827268972195972",
+    "created_at": "2025-07-17T17:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T18:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945900920019316961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860224342778609665",
+          "start": 0,
+          "username": "VonLinne2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945900920019316961",
+    "in_reply_to_user_id": "1860224342778609665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 56,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945827268972195972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonLinne2004 这傻逼男的自己长这么丑不说下自己吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945827268972195972",
+        "created_at": "2025-07-17T17:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T18:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945900920019316961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860224342778609665",
+              "start": 0,
+              "username": "VonLinne2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945900920019316961",
+        "in_reply_to_user_id": "1860224342778609665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945827268972195972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonLinne2004 这傻逼男的自己长这么丑不说下自己吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860224342778609665",
+        "conversation_id": "1945827268972195972",
+        "created_at": "2025-07-17T12:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T13:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945827268972195972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wd6xxj/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/wd6xxj/status/1945737698947538986",
+              "start": 20,
+              "url": "https://t.co/XWuEXGcTUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945827268972195972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1778,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945737698947538986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实拍的好丑，我要cos了我也不跟他拍 https://t.co/XWuEXGcTUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "禍福相倚 死生有名 I 𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎 I 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore I 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Tanglin Rd",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 922,
+          "like_count": 27594,
+          "listed_count": 12,
+          "media_count": 1098,
+          "tweet_count": 12968
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T07:30:29.000Z",
+        "description": "医专护士生冯琳奈的四号机，是一个很无聊的人。\n没那么日常有些严肃的内容在三号机@VonLinne2003\n\n❤️好姬友：@LING_bdnit\n🌟背景板插图的作者：@mo__zk31\n\n🙇🏻‍♀️一个很窝囊的人，你骂我或者挂我，我会无条件投降🏳️\n❤️一个喜欢一切可爱的人和美好的事物的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "VonLinne2003"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "LING_bdnit"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "mo__zk31"
+              }
+            ]
+          }
+        },
+        "id": "1860224342778609665",
+        "location": "Taiwan",
+        "name": "VonLinne(四号机)",
+        "pinned_tweet_id": "1944639216039976978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940964236139917312/ZIV0i0GQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 343,
+          "like_count": 27875,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 9194
+        },
+        "username": "VonLinne2004",
+        "verified": false
+      }
+    ]
+  }
+}

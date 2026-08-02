@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1954547837188136960"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954547896570843575",
+    "created_at": "2025-08-10T14:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T15:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954547896570843575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9HXHzMsKAv",
+          "end": 31,
+          "expanded_url": "https://x.com/lumigj02/status/1954547896570843575/video/1",
+          "media_key": "13_1954547837188136960",
+          "start": 8,
+          "url": "https://t.co/9HXHzMsKAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954547896570843575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩鱿鱼游戏玩的 https://t.co/9HXHzMsKAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7396,
+        "height": 1004,
+        "media_key": "13_1954547837188136960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954547837188136960/img/DzAgfuK_kJZkysgt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954547837188136960/pl/OqYgBSJpG4v56x3R.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954547837188136960/vid/avc1/540x540/hJGMUuUCP3La23DZ.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954547837188136960/vid/avc1/1004x1004/ibcnKPEKu0p7hZ2i.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954547837188136960/vid/avc1/720x720/x3ckxahFrm8YwZNl.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954547837188136960/vid/avc1/320x320/aWcsU-Sgyh1b33NJ.mp4"
+          }
+        ],
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954547837188136960"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1954547896570843575",
+        "created_at": "2025-08-10T14:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954547896570843575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HXHzMsKAv",
+              "end": 31,
+              "expanded_url": "https://x.com/lumigj02/status/1954547896570843575/video/1",
+              "media_key": "13_1954547837188136960",
+              "start": 8,
+              "url": "https://t.co/9HXHzMsKAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954547896570843575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩鱿鱼游戏玩的 https://t.co/9HXHzMsKAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390 私信 or Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 910,
+          "like_count": 27737,
+          "listed_count": 12,
+          "media_count": 1129,
+          "tweet_count": 13430
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

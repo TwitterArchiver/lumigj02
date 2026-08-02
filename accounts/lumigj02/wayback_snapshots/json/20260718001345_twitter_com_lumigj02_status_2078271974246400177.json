@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2077924424448393534",
+    "created_at": "2026-07-18T00:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T01:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078271974246400177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1401062276556197888",
+          "start": 0,
+          "username": "Forty_six_days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078271974246400177",
+    "in_reply_to_user_id": "1401062276556197888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078215939192152135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Forty_six_days 日版替西2.5mg，这俩是一个只是正反面罢了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2077924424448393534",
+        "created_at": "2026-07-18T00:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078271974246400177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1401062276556197888",
+              "start": 0,
+              "username": "Forty_six_days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078271974246400177",
+        "in_reply_to_user_id": "1401062276556197888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078215939192152135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Forty_six_days 日版替西2.5mg，这俩是一个只是正反面罢了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401062276556197888",
+        "conversation_id": "2077924424448393534",
+        "created_at": "2026-07-17T20:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078215939192152135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078215939192152135",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077924424448393534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 这俩分别是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/猫娘女仆@leetfs1/笨蛋姐姐@hoshi_asuka0089\n里@itsCatRoll\n糖商⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 22,
+                "start": 14,
+                "username": "leetfs1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/vNaapx0WBI"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4204,
+          "following_count": 836,
+          "like_count": 4358,
+          "listed_count": 9,
+          "media_count": 123,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/vNaapx0WBI",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-05T06:24:32.000Z",
+        "description": "不是一个人",
+        "id": "1401062276556197888",
+        "location": "南京市青龙山精神病院",
+        "name": "四十六天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1401068163966509057/wRlwLGsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 78,
+          "like_count": 10895,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1663
+        },
+        "url": "",
+        "username": "Forty_six_days",
+        "verified": false
+      }
+    ]
+  }
+}

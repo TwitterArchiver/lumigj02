@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1896471099703181806",
+    "created_at": "2025-03-03T11:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T12:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896524617218695569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618800860",
+          "start": 0,
+          "username": "Artoria2e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896524617218695569",
+    "in_reply_to_user_id": "1618800860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896506898712797681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artoria2e5 万一有人越狱怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1896471099703181806",
+        "created_at": "2025-03-03T11:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T12:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896524617218695569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618800860",
+              "start": 0,
+              "username": "Artoria2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896524617218695569",
+        "in_reply_to_user_id": "1618800860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896506898712797681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artoria2e5 万一有人越狱怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618800860",
+        "conversation_id": "1896471099703181806",
+        "created_at": "2025-03-03T10:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T11:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896506898712797681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896506898712797681",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896471099703181806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 地狱没研究出 solitary confinement 我是不信的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 购药私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ @ 日雌𝟥𝟫𝟢泰补𝟤𝟢𝟢",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 829,
+          "like_count": 25345,
+          "listed_count": 11,
+          "media_count": 908,
+          "tweet_count": 10109
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-24T22:52:36.000Z",
+        "description": "💖 @Tsumikiiss | 小号 @Arthur2e5 | Fully-Stuck Cross-Platform User. she/her || im on https://t.co/jazkZAV5uj 🚪42 请给我钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Tsumikiiss"
+              },
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Arthur2e5"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "enwp.org",
+                "end": 105,
+                "expanded_url": "http://enwp.org",
+                "start": 82,
+                "url": "https://t.co/jazkZAV5uj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/Arthur2e5",
+                "end": 23,
+                "expanded_url": "http://about.me/Arthur2e5",
+                "start": 0,
+                "url": "https://t.co/qOu0ummcvE"
+              }
+            ]
+          }
+        },
+        "id": "1618800860",
+        "location": "Shanghai",
+        "name": "Mingye Wang 4.0.1 🦕🌻🏳️‍⚧️",
+        "pinned_tweet_id": "1782256531150680464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835643449141567488/GSCV91th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 2205,
+          "like_count": 65513,
+          "listed_count": 25,
+          "media_count": 492,
+          "tweet_count": 44684
+        },
+        "url": "https://t.co/qOu0ummcvE",
+        "username": "Artoria2e5",
+        "verified": false
+      }
+    ]
+  }
+}

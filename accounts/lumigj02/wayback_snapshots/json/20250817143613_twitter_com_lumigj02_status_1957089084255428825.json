@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1957012842508685745",
+    "created_at": "2025-08-17T14:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T15:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957089084255428825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957089084255428825",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957012842508685745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 谢谢妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1619,
+        "media_key": "3_1957012834572967936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyi0zemaIAAoeqA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1957012842508685745",
+        "created_at": "2025-08-17T14:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T15:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957089084255428825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957089084255428825",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957012842508685745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 谢谢妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957012834572967936"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1957012842508685745",
+        "created_at": "2025-08-17T09:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T10:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957012842508685745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWA9fKhV5L",
+              "end": 23,
+              "expanded_url": "https://x.com/Kazumasski/status/1957012842508685745/photo/1",
+              "media_key": "3_1957012834572967936",
+              "start": 0,
+              "url": "https://t.co/QWA9fKhV5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957012842508685745",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3655,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QWA9fKhV5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "ʟᴜᴍɪ¹ 日雌390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956730628952805377/JO8kn5GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 917,
+          "like_count": 27825,
+          "listed_count": 12,
+          "media_count": 1145,
+          "tweet_count": 13658
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "おじさんです｜佐々木 和真と申します｜インターネットの悪人｜#音ゲーマー｜13歳中2生｜あの人@chaox1220_2nd｜サブ垢@hhaaiibot 音ゲー垢@bblloocckk_｜头像是 #白买蓝 #Buyblue1107｜メール✉️:sashisusesoowo@hotmail.com ｜よろしく申し上げます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "音ゲーマー"
+              },
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "白买蓝"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "tag": "Buyblue1107"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "bblloocckk_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "irasutoya.com",
+                "end": 23,
+                "expanded_url": "http://irasutoya.com",
+                "start": 0,
+                "url": "https://t.co/vxqq8xI5xm"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "金金金金",
+        "name": "佐々木 和真 🏳️‍🌈🇯🇵",
+        "pinned_tweet_id": "1956014047381610598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955992249348841473/QzFgQsJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 3452,
+          "like_count": 3854,
+          "listed_count": 2,
+          "media_count": 836,
+          "tweet_count": 4539
+        },
+        "url": "https://t.co/vxqq8xI5xm",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1920020144430235948",
+    "created_at": "2025-05-07T07:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T08:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920020144430235948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RonaldSimmonsU…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/RonaldSimmonsUS/status/1919904633788760533",
+          "start": 2,
+          "url": "https://t.co/zjRLsNHWWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920020144430235948",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919904633788760533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/zjRLsNHWWo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1920020144430235948",
+        "created_at": "2025-05-07T07:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920020144430235948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RonaldSimmonsU…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/RonaldSimmonsUS/status/1919904633788760533",
+              "start": 2,
+              "url": "https://t.co/zjRLsNHWWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920020144430235948",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919904633788760533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/zjRLsNHWWo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1186651487155322880",
+        "conversation_id": "1919904633788760533",
+        "created_at": "2025-05-06T23:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T00:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919904633788760533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919904633788760533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10317,
+          "like_count": 124,
+          "quote_count": 4,
+          "reply_count": 41,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "被人误认为是MTF了。😅\n我只是偶尔穿女装玩，纯粹是异装癖，真不是MTF。😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 881,
+          "like_count": 26631,
+          "listed_count": 12,
+          "media_count": 1043,
+          "tweet_count": 11736
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T14:32:26.000Z",
+        "description": "American, Christian, patriot(Republican), journalist, Julian Assange supporter.\nGod bless America!\n🇺🇸🤝🇮🇱\n#MadeInUSA\n#1A\n#2A\n#FollowBack 100%\n#IFBAP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "MadeInUSA"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "1A"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "2A"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "tag": "FollowBack"
+              },
+              {
+                "end": 147,
+                "start": 141,
+                "tag": "IFBAP"
+              }
+            ]
+          }
+        },
+        "id": "1186651487155322880",
+        "location": "Washington, DC",
+        "name": "Ronald Simmons🇺🇸🦅✝️",
+        "pinned_tweet_id": "1869860983642173565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343476573706485760/y4nITVko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58101,
+          "following_count": 48407,
+          "like_count": 165808,
+          "listed_count": 112,
+          "media_count": 25182,
+          "tweet_count": 158878
+        },
+        "username": "RonaldSimmonsUS",
+        "verified": true
+      }
+    ]
+  }
+}

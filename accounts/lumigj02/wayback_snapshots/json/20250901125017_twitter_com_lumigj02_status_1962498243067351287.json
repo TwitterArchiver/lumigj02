@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962498243067351287",
+    "created_at": "2025-09-01T12:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T13:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962498243067351287"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962498243067351287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我吃了一个🍔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962498243067351287",
+        "created_at": "2025-09-01T12:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962498243067351287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962498243067351287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃了一个🍔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Chinese //  FinTech, SWE, (Pharm) Retail Mgmt, researcher @NTUsg @sutdsg peer @_FurryFur_ bf @HobartR6 // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 58,
+                "username": "NTUsg"
+              },
+              {
+                "end": 72,
+                "start": 65,
+                "username": "sutdsg"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "Lumi、Lumi、時々猫巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2916,
+          "following_count": 931,
+          "like_count": 27968,
+          "listed_count": 13,
+          "media_count": 1164,
+          "tweet_count": 13942
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

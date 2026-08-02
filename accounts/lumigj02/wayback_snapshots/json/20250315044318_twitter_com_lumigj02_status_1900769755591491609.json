@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1900769755591491609",
+    "created_at": "2025-03-15T04:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T05:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900769755591491609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900769755591491609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我被陈俊杰拉黑了…说好的关注你免费送我一把分呢！陈俊杰…我还想坐你的挂车啊…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1900769755591491609",
+        "created_at": "2025-03-15T04:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T05:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900769755591491609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900769755591491609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被陈俊杰拉黑了…说好的关注你免费送我一把分呢！陈俊杰…我还想坐你的挂车啊…！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 874,
+          "like_count": 25694,
+          "listed_count": 11,
+          "media_count": 954,
+          "tweet_count": 10689
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

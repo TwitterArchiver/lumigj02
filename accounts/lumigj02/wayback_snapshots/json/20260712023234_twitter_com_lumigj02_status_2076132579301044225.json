@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2076132579301044225",
+    "created_at": "2026-07-12T02:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076132579301044225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/lumigj02/status/2076103967009059284",
+          "start": 11,
+          "url": "https://t.co/fRFICIzqrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076132579301044225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076103967009059284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "这玩意我拿去卖判几年 https://t.co/fRFICIzqrg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2076103930753495040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_Nhn1asAA84Xc.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2076132579301044225",
+        "created_at": "2026-07-12T02:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076132579301044225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/lumigj02/status/2076103967009059284",
+              "start": 11,
+              "url": "https://t.co/fRFICIzqrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076132579301044225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076103967009059284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "这玩意我拿去卖判几年 https://t.co/fRFICIzqrg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076103930753495040"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2076103967009059284",
+        "created_at": "2026-07-12T00:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076103967009059284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3n4pCVkyJ",
+              "end": 36,
+              "expanded_url": "https://x.com/lumigj02/status/2076103967009059284/photo/1",
+              "media_key": "3_2076103930753495040",
+              "start": 13,
+              "url": "https://t.co/k3n4pCVkyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076103967009059284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有意外收获，时代的眼泪 https://t.co/k3n4pCVkyJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6\n猫娘女仆@leetfs1\n笨蛋姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 22,
+                "start": 14,
+                "username": "leetfs1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://t.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/s1BSKPdKto"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4149,
+          "following_count": 834,
+          "like_count": 4331,
+          "listed_count": 9,
+          "media_count": 110,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/s1BSKPdKto",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

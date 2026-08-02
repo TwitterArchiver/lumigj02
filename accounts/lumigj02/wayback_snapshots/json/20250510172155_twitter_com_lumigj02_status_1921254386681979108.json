@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1921254386681979108",
+    "created_at": "2025-05-10T17:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T18:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921254386681979108"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1921254386681979108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "医生说频繁鹿管，记忆力会变差，所以我一天一千发，我以为这样就能忘记你。\n但我发现我好像忘不了你，因此还把身体鹿坏了，直到我快忘记你的时候，你出现在我的梦里。\n原来，鹿管不能让我忘记你，也不能让我忘记对你的思念."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1921254386681979108",
+        "created_at": "2025-05-10T17:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T18:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921254386681979108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921254386681979108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生说频繁鹿管，记忆力会变差，所以我一天一千发，我以为这样就能忘记你。\n但我发现我好像忘不了你，因此还把身体鹿坏了，直到我快忘记你的时候，你出现在我的梦里。\n原来，鹿管不能让我忘记你，也不能让我忘记对你的思念."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 老婆 @RanXi_MtF | 主人 @_temryava | 家猫 @_FurryFur_ | 姐姐 @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "_temryava"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷要吃哦润吉 日雌370包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 883,
+          "like_count": 26716,
+          "listed_count": 12,
+          "media_count": 1055,
+          "tweet_count": 11829
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927079527332638720"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1927079652226441394",
+    "created_at": "2025-05-26T19:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T20:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927079652226441394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/btlcS0bwJM",
+          "end": 31,
+          "expanded_url": "https://x.com/lumigj02/status/1927079652226441394/photo/1",
+          "media_key": "3_1927079527332638720",
+          "start": 8,
+          "url": "https://t.co/btlcS0bwJM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927079652226441394",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "gg bruh https://t.co/btlcS0bwJM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_1927079527332638720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr5cnriW8AASKje.png",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927079527332638720"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1927079652226441394",
+        "created_at": "2025-05-26T19:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T20:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927079652226441394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btlcS0bwJM",
+              "end": 31,
+              "expanded_url": "https://x.com/lumigj02/status/1927079652226441394/photo/1",
+              "media_key": "3_1927079527332638720",
+              "start": 8,
+              "url": "https://t.co/btlcS0bwJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927079652226441394",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "gg bruh https://t.co/btlcS0bwJM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@HobartR6 ❤️ | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系 ############################################################################ Till death do us part_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1924879441324605676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 899,
+          "like_count": 27013,
+          "listed_count": 12,
+          "media_count": 1088,
+          "tweet_count": 12176
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

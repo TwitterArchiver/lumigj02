@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945057434239664375",
+    "created_at": "2025-07-15T10:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T11:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945063605348499559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1406998196904103936",
+          "start": 0,
+          "username": "ts_w_ln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945063605348499559",
+    "in_reply_to_user_id": "1406998196904103936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 56,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945057434239664375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ts_w_ln 哇哦，说明你们关系很好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945057434239664375].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945057434239664375",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945057434239664375"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945057434239664375",
+        "created_at": "2025-07-15T10:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945063605348499559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1406998196904103936",
+              "start": 0,
+              "username": "ts_w_ln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945063605348499559",
+        "in_reply_to_user_id": "1406998196904103936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945057434239664375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ts_w_ln 哇哦，说明你们关系很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore 家猫: @_FurryFur_ 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 919,
+          "like_count": 27522,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12894
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T15:31:34.000Z",
+        "description": "神明啊請賜予我文明與秩序",
+        "id": "1406998196904103936",
+        "name": "Sophie 0",
+        "pinned_tweet_id": "1412031726558187523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410584575936372739/xDFJYBiB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 653,
+          "like_count": 55591,
+          "listed_count": 8,
+          "media_count": 1747,
+          "tweet_count": 10168
+        },
+        "username": "ts_w_ln",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1904463309908131929",
+    "created_at": "2025-03-25T16:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T17:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904578538109579648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677696685072429056",
+          "start": 0,
+          "username": "LeoonwtgR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904578538109579648",
+    "in_reply_to_user_id": "1677696685072429056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904463309908131929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoonwtgR6 Bro it hurts so bad"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1904463309908131929",
+        "created_at": "2025-03-25T16:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T17:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904578538109579648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677696685072429056",
+              "start": 0,
+              "username": "LeoonwtgR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904578538109579648",
+        "in_reply_to_user_id": "1677696685072429056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904463309908131929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoonwtgR6 Bro it hurts so bad"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677696685072429056",
+        "conversation_id": "1904463309908131929",
+        "created_at": "2025-03-25T09:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T10:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904463309908131929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/azheedxv/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/azheedxv/status/1904433700533583890",
+              "start": 8,
+              "url": "https://t.co/2P0RT79klz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904463309908131929",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 23452,
+          "like_count": 595,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904433700533583890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Jobless https://t.co/2P0RT79klz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu # 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无 | 我是海豹手套色布偶, 不是暹罗!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "sutdsg"
+              },
+              {
+                "end": 107,
+                "start": 103,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 858,
+          "like_count": 25949,
+          "listed_count": 11,
+          "media_count": 968,
+          "tweet_count": 11019
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T15:10:46.000Z",
+        "description": "21 🇩🇪 | @R6esports for @Myth_NL | \n@hennyysie ✘ @MNKY_R6 ✘ @Lixafy | \n@Nickmercs: @Fluancyyy ✘ @JFKr6s |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "R6esports"
+              },
+              {
+                "end": 31,
+                "start": 23,
+                "username": "Myth_NL"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "hennyysie"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "username": "MNKY_R6"
+              },
+              {
+                "end": 66,
+                "start": 59,
+                "username": "Lixafy"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "Nickmercs"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Fluancyyy"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "JFKr6s"
+              }
+            ]
+          }
+        },
+        "id": "1677696685072429056",
+        "location": "Mönchengladbach",
+        "name": "Leoonwtg ✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829657828283318276/S1Az3HpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 679,
+          "like_count": 14269,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1667
+        },
+        "username": "LeoonwtgR6",
+        "verified": false
+      }
+    ]
+  }
+}

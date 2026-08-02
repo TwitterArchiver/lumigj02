@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1933946556690080216",
+    "created_at": "2025-06-14T18:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T19:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933948177373413533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690573605711785984",
+          "start": 0,
+          "username": "ndmhwxck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933948177373413533",
+    "in_reply_to_user_id": "1690573605711785984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933947897365889107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ndmhwxck 啊不是 我就单纯想找个人喷 发泄一下情绪 我总不能骂无辜路人去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1933946556690080216",
+        "created_at": "2025-06-14T18:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T19:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933948177373413533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690573605711785984",
+              "start": 0,
+              "username": "ndmhwxck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933948177373413533",
+        "in_reply_to_user_id": "1690573605711785984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933947897365889107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ndmhwxck 啊不是 我就单纯想找个人喷 发泄一下情绪 我总不能骂无辜路人去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690573605711785984",
+        "conversation_id": "1933946556690080216",
+        "created_at": "2025-06-14T18:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T19:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933947897365889107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933947897365889107",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933946556690080216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 这种污秽东西和它吵都算是它赢了，拉黑就好了，别浪费咱心情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "彩虹六号冠军 APEX猎杀 Valorant神话 王者2万2国服镜 The only thing that kill me is old age 猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "pinned_tweet_id": "1932909290324726179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 893,
+          "like_count": 27117,
+          "listed_count": 12,
+          "media_count": 1103,
+          "tweet_count": 12410
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:59:13.000Z",
+        "description": "INFP/06年/5批😋/捞妹😭/不鉴证/古汉语学习中",
+        "id": "1690573605711785984",
+        "name": "小竹小🍥",
+        "pinned_tweet_id": "1894632890610454984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927077588876337152/jKTZq2Rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 106,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 68
+        },
+        "username": "ndmhwxck",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1958977371337630135",
+    "created_at": "2025-08-23T07:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T08:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959161468890620173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798434424176226304",
+          "start": 0,
+          "username": "li8964you"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959161468890620173",
+    "in_reply_to_user_id": "1798434424176226304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959018455434424739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li8964you 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1958977371337630135",
+        "created_at": "2025-08-23T07:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T08:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959161468890620173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798434424176226304",
+              "start": 0,
+              "username": "li8964you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959161468890620173",
+        "in_reply_to_user_id": "1798434424176226304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959018455434424739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li8964you 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798434424176226304",
+        "conversation_id": "1958977371337630135",
+        "created_at": "2025-08-22T22:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T23:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959018455434424739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lsSuDoShutDown…",
+              "end": 33,
+              "expanded_url": "https://x.com/lsSuDoShutDown/status/1916683830834135059?s=19",
+              "start": 10,
+              "url": "https://t.co/0jCybdUazw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959018455434424739",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 190,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916683830834135059",
+            "type": "quoted"
+          },
+          {
+            "id": "1958977371337630135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 https://t.co/0jCybdUazw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "笨猫卷8964",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958902621303185409/FZrkKv70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 929,
+          "like_count": 27888,
+          "listed_count": 12,
+          "media_count": 1157,
+          "tweet_count": 13797
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T19:19:23.000Z",
+        "description": "离游，各种通假写法均可。ftm/ftx，DID，性别是一只青铜鼎。。在春秋的殷商人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuqizai.bsky.social",
+                "end": 23,
+                "expanded_url": "http://zhuqizai.bsky.social",
+                "start": 0,
+                "url": "https://t.co/djjtvHudjS"
+              }
+            ]
+          }
+        },
+        "id": "1798434424176226304",
+        "location": "睢水畔",
+        "name": "离斿🏳️‍⚧️",
+        "pinned_tweet_id": "1804539852467356094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920636124722065408/3kx6w4Ac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 498,
+          "like_count": 35005,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/djjtvHudjS",
+        "username": "li8964you",
+        "verified": false
+      }
+    ]
+  }
+}

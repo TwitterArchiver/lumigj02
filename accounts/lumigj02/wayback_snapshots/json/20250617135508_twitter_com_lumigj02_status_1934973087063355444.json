@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1934955451772453238",
+    "created_at": "2025-06-17T13:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T14:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934973087063355444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618104342451744771",
+          "start": 0,
+          "username": "bxinbshmxin11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934973087063355444",
+    "in_reply_to_user_id": "1618104342451744771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934972276912640452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bxinbshmxin11 这不是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1934955451772453238",
+        "created_at": "2025-06-17T13:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T14:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934973087063355444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618104342451744771",
+              "start": 0,
+              "username": "bxinbshmxin11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934973087063355444",
+        "in_reply_to_user_id": "1618104342451744771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934972276912640452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bxinbshmxin11 这不是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618104342451744771",
+        "conversation_id": "1934955451772453238",
+        "created_at": "2025-06-17T13:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T14:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934972276912640452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934972276912640452",
+        "in_reply_to_user_id": "1618104342451744771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934969178034962523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 植皮吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "友跨顺男 | 日雌泰补在售 私信或联系下方Telegram | 🇸🇬 Yishun人跟我们Orchard人讲话要用敬语 | 家猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934869278580461569/UcFZxe43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 898,
+          "like_count": 27164,
+          "listed_count": 12,
+          "media_count": 1108,
+          "tweet_count": 12477
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T04:32:29.000Z",
+        "description": "There is no straight road in the world, be prepared to take a winding road",
+        "id": "1618104342451744771",
+        "location": "地球",
+        "name": "酒大可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921274850850795520/xlASzrCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 342,
+          "like_count": 7762,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 2291
+        },
+        "username": "bxinbshmxin11",
+        "verified": false
+      }
+    ]
+  }
+}

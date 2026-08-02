@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1800877931587379449",
+    "created_at": "2025-09-01T17:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T18:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962574435304739006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728464821501489152",
+          "start": 0,
+          "username": "theLostCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962574435304739006",
+    "in_reply_to_user_id": "1728464821501489152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800877931587379449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theLostCypress 我会反复来回割"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1800877931587379449",
+        "created_at": "2025-09-01T17:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T18:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962574435304739006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728464821501489152",
+              "start": 0,
+              "username": "theLostCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962574435304739006",
+        "in_reply_to_user_id": "1728464821501489152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800877931587379449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theLostCypress 我会反复来回割"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728464821501489152",
+        "conversation_id": "1800877931587379449",
+        "created_at": "2024-06-12T13:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T14:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800877931587379449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800877931587379449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自残是不会在同一个位置划第二道的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇲🇾 // FinTech, SWE, Retail Mgmt, Researcher @NTUsg @sutdsg peer @_FurryFur_ bf @HobartR6 // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 44,
+                "username": "NTUsg"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "sutdsg"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "Lumi、Lumi、時々猫巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 932,
+          "like_count": 27973,
+          "listed_count": 13,
+          "media_count": 1165,
+          "tweet_count": 13957
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T17:25:28.000Z",
+        "description": "这里充斥着红色的血和黑色的血。吸血鬼|幽灵|面具杀人狂|冷血|反社会|偏执|腹黑|记仇|伪装|嗜血|自残|贪婪|懒惰|无任何裸露内容。",
+        "id": "1728464821501489152",
+        "location": "ABYSS OF DESPAIR",
+        "name": "Albert with Lilith Tsubakiyama【#NYCTOPHILIA】",
+        "pinned_tweet_id": "1955947962506600709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802203882497671168/dnrKWNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 173,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 206
+        },
+        "username": "theLostCypress",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1947519053352079738",
+    "created_at": "2025-07-22T10:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T11:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947599105452323147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709913185351024640",
+          "start": 0,
+          "username": "DukeLitsenbourg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947599105452323147",
+    "in_reply_to_user_id": "1709913185351024640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947519053352079738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DukeLitsenbourg 唉經典兩個朋友吵架\n她人挺好的，沒有看不起大陸人，有時候年輕氣盛而已，不要太在乎"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1947519053352079738].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1947519053352079738",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1947519053352079738"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1947519053352079738",
+        "created_at": "2025-07-22T10:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947599105452323147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709913185351024640",
+              "start": 0,
+              "username": "DukeLitsenbourg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947599105452323147",
+        "in_reply_to_user_id": "1709913185351024640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947519053352079738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DukeLitsenbourg 唉經典兩個朋友吵架\n她人挺好的，沒有看不起大陸人，有時候年輕氣盛而已，不要太在乎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 924,
+          "like_count": 27649,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 13065
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T12:47:38.000Z",
+        "description": "本体→ @Unnamed_RF｜内通厳禁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Unnamed_RF"
+              }
+            ]
+          }
+        },
+        "id": "1709913185351024640",
+        "location": "堺市",
+        "name": "ﾈｺ魚",
+        "pinned_tweet_id": "1927396458933678578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944610842638790657/acHqE5MD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 93,
+          "like_count": 303,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1162
+        },
+        "username": "DukeLitsenbourg",
+        "verified": false
+      }
+    ]
+  }
+}

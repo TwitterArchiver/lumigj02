@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1913487214253920275",
+    "created_at": "2025-04-19T06:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T07:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913487214253920275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coiiada/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/coiiada/status/1913081596975919326",
+          "start": 29,
+          "url": "https://t.co/qwndX8KHJn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913487214253920275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913081596975919326",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你让Maciejay知道了他能在这个角度架两分半不进建筑 https://t.co/qwndX8KHJn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13270,
+        "height": 720,
+        "media_key": "13_1913081530810798080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913081530810798080/img/6zwImKCYbHpRIwO6.jpg",
+        "public_metrics": {
+          "view_count": 11324
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913081530810798080/vid/avc1/480x270/bJfKhyB3KSU7CqnN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913081530810798080/vid/avc1/640x360/RlDOSMZ99gAi--H0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913081530810798080/vid/avc1/1280x720/o9oM0ZzzrsnOm0Ap.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913081530810798080/pl/jXxmHMbkPcrkESAO.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1913487214253920275",
+        "created_at": "2025-04-19T06:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T07:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913487214253920275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coiiada/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/coiiada/status/1913081596975919326",
+              "start": 29,
+              "url": "https://t.co/qwndX8KHJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913487214253920275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913081596975919326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你让Maciejay知道了他能在这个角度架两分半不进建筑 https://t.co/qwndX8KHJn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913081530810798080"
+          ]
+        },
+        "author_id": "1071495178098229249",
+        "conversation_id": "1913081596975919326",
+        "created_at": "2025-04-18T04:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T05:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913081596975919326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbfijXATh8",
+              "end": 46,
+              "expanded_url": "https://x.com/CoIIada/status/1913081596975919326/video/1",
+              "media_key": "13_1913081530810798080",
+              "start": 23,
+              "url": "https://t.co/JbfijXATh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913081596975919326",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 31374,
+          "like_count": 305,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Never seen this before https://t.co/JbfijXATh8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "单杀任何人的彩虹六号冠军 | 猫推 | 日雌370 泰补190 progynon-depot / progynova avail pls DM | 礼貌谦逊文明友善团结尊重从不骂人 | @you_miaowu | 小老婆 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 868,
+          "like_count": 26398,
+          "listed_count": 10,
+          "media_count": 1018,
+          "tweet_count": 11473
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-08T20:02:12.000Z",
+        "description": "@radagunny @pinar6s @levitatexbl @jefevseveryone @kilkzyy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "radagunny"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "pinar6s"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "levitatexbl"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "jefevseveryone"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "kilkzyy_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitch.Tv/Collada_",
+                "end": 23,
+                "expanded_url": "http://Twitch.Tv/Collada_",
+                "start": 0,
+                "url": "https://t.co/Z33MA435d0"
+              }
+            ]
+          }
+        },
+        "id": "1071495178098229249",
+        "location": "Chicago",
+        "name": "e",
+        "pinned_tweet_id": "1532274969555632128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901879026144444416/88GXWg84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4229,
+          "following_count": 744,
+          "like_count": 87283,
+          "listed_count": 6,
+          "media_count": 2424,
+          "tweet_count": 50354
+        },
+        "url": "https://t.co/Z33MA435d0",
+        "username": "CoIIada",
+        "verified": false
+      }
+    ]
+  }
+}

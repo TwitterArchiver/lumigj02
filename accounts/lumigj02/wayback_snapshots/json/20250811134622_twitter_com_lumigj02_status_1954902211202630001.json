@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954902202067345408"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954902211202630001",
+    "created_at": "2025-08-11T13:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T14:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954902211202630001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1TutLe7nDr",
+          "end": 76,
+          "expanded_url": "https://x.com/lumigj02/status/1954902211202630001/photo/1",
+          "media_key": "3_1954902202067345408",
+          "start": 53,
+          "url": "https://t.co/1TutLe7nDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954902211202630001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们可以考虑一下simba sg的这个esim，80GB拿来翻墙还是很爽的）\n但本地就不要用了信号非常差 https://t.co/1TutLe7nDr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954902202067345408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyE1MfzaYAAv6Td.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954902202067345408"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1954902211202630001",
+        "created_at": "2025-08-11T13:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T14:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954902211202630001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TutLe7nDr",
+              "end": 76,
+              "expanded_url": "https://x.com/lumigj02/status/1954902211202630001/photo/1",
+              "media_key": "3_1954902202067345408",
+              "start": 53,
+              "url": "https://t.co/1TutLe7nDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954902211202630001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们可以考虑一下simba sg的这个esim，80GB拿来翻墙还是很爽的）\n但本地就不要用了信号非常差 https://t.co/1TutLe7nDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我没有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 911,
+          "like_count": 27748,
+          "listed_count": 12,
+          "media_count": 1131,
+          "tweet_count": 13475
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

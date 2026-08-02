@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1896530318846464256",
+    "created_at": "2025-03-03T11:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T12:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896530318846464256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zik000001/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/zik000001/status/1896525398483275855",
+          "start": 3,
+          "url": "https://t.co/WnK6KBnJ1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896530318846464256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896525398483275855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天才 https://t.co/WnK6KBnJ1u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1896530318846464256",
+        "created_at": "2025-03-03T11:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T12:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896530318846464256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zik000001/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/zik000001/status/1896525398483275855",
+              "start": 3,
+              "url": "https://t.co/WnK6KBnJ1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896530318846464256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896525398483275855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天才 https://t.co/WnK6KBnJ1u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253566691654561792",
+        "conversation_id": "1896471099703181806",
+        "created_at": "2025-03-03T11:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T12:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896525398483275855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896525398483275855",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896524746835349983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 “唉唉，见面不见面呢？……”这时我已知道自己也还是完全一个愚人，什么踌躇，什么计画，都挡不住三句问，我即刻胆怯起来了，便想全翻过先前的话来，“那是，……实在，我说不清……。其实，究竟有没有魂灵，我也说不清。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 购药私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ @ 日雌𝟥𝟫𝟢泰补𝟤𝟢𝟢",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 828,
+          "like_count": 25346,
+          "listed_count": 11,
+          "media_count": 908,
+          "tweet_count": 10112
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-24T06:09:33.000Z",
+        "description": "05后中的老年人，三次元独身主义者，ENTP，有些强迫症，车万人/BA玩家，喜欢幻想，追求开放与包容，友跨，不鉴政。贫乏生活的唯一兴趣是接触新事物，对寡淡现实中遇不到的一切都想要去了解。唯一掌握的语言是现代汉语。互fo私信，欢迎大家一起求同存异，友善交流！👋😇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "achouzik.com",
+                "end": 23,
+                "expanded_url": "http://achouzik.com",
+                "start": 0,
+                "url": "https://t.co/xEQjOpbqpT"
+              }
+            ]
+          }
+        },
+        "id": "1253566691654561792",
+        "location": "能一直看着你的地方",
+        "name": "AChou ZIK",
+        "pinned_tweet_id": "1895721800774128028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605028647844188160/Jxn2kgsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 234,
+          "like_count": 5754,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/xEQjOpbqpT",
+        "username": "ZIK000001",
+        "verified": false
+      }
+    ]
+  }
+}

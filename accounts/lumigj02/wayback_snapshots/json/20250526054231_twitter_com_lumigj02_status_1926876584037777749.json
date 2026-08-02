@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1926839134129193317",
+    "created_at": "2025-05-26T05:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T06:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926876584037777749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "HyotoChandesuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926876584037777749",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926839134129193317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyotoChandesuyo 小妹妹…😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_1926839110053896192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr2B9jYXoAAzn7C.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1926839134129193317",
+        "created_at": "2025-05-26T05:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T06:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926876584037777749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926876584037777749",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926839134129193317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyotoChandesuyo 小妹妹…😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926839110053896192"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1926839134129193317",
+        "created_at": "2025-05-26T03:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T04:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926839134129193317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Udx76bMIii",
+              "end": 23,
+              "expanded_url": "https://x.com/HyotoChandesuyo/status/1926839134129193317/photo/1",
+              "media_key": "3_1926839110053896192",
+              "start": 0,
+              "url": "https://t.co/Udx76bMIii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926839134129193317",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 415,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Udx76bMIii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @HobartR6 ❤️ | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "HobartR6"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1924879441324605676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 899,
+          "like_count": 27014,
+          "listed_count": 12,
+          "media_count": 1085,
+          "tweet_count": 12165
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "MtX🍥｜雲の高さを指で描こう",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと🍥",
+        "pinned_tweet_id": "1926755491734053335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923528418043277313/-X84ZCRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 987,
+          "like_count": 101914,
+          "listed_count": 14,
+          "media_count": 4257,
+          "tweet_count": 28749
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

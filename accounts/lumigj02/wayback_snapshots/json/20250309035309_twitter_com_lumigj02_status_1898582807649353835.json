@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898577882487857583",
+    "created_at": "2025-03-09T03:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T04:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898582807649353835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480902300432420865",
+          "start": 0,
+          "username": "Notyet_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898582807649353835",
+    "in_reply_to_user_id": "1480902300432420865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898582560432881714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Notyet_cat 喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898577882487857583",
+        "created_at": "2025-03-09T03:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898582807649353835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480902300432420865",
+              "start": 0,
+              "username": "Notyet_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898582807649353835",
+        "in_reply_to_user_id": "1480902300432420865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898582560432881714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Notyet_cat 喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480902300432420865",
+        "conversation_id": "1898577882487857583",
+        "created_at": "2025-03-09T03:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898582560432881714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898582560432881714",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898577882487857583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 可爱呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / 日雌380泰补200 / MBA @QUT, ex-@NUSingapore, ex-@SUTDsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "username": "QUT"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "SUTDsg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2134,
+          "following_count": 858,
+          "like_count": 25518,
+          "listed_count": 11,
+          "media_count": 941,
+          "tweet_count": 10486
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-11T14:00:13.000Z",
+        "description": "无颜值/180+‖60（瘦弱呢)/没钱钱/能力差/情绪价值低/年龄22/泛性恋/想变得可爱/友跨/\n是谁遗失的流浪猫呢，也许某天就见不到了...",
+        "id": "1480902300432420865",
+        "name": "梦韵竹猫🔔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898264236838785024/zo8Q2h5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 108,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 760
+        },
+        "username": "Notyet_cat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897929743754018816"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897841026510770675",
+    "created_at": "2025-03-07T08:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T09:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897929754667630655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393065220323647494",
+          "start": 0,
+          "username": "dangshuang0608"
+        },
+        {
+          "end": 26,
+          "id": "1418942200457662477",
+          "start": 16,
+          "username": "Rikka_Ela"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFjODv6pKL",
+          "end": 60,
+          "expanded_url": "https://x.com/lumigj02/status/1897929754667630655/photo/1",
+          "media_key": "3_1897929743754018816",
+          "start": 37,
+          "url": "https://t.co/DFjODv6pKL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897929754667630655",
+    "in_reply_to_user_id": "1393065220323647494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897927456843350467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangshuang0608 @Rikka_Ela 你做到了，1.3% https://t.co/DFjODv6pKL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1897929743754018816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlbNC9kbQAAQ_RN.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897929743754018816"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897841026510770675",
+        "created_at": "2025-03-07T08:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T09:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897929754667630655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393065220323647494",
+              "start": 0,
+              "username": "dangshuang0608"
+            },
+            {
+              "end": 26,
+              "id": "1418942200457662477",
+              "start": 16,
+              "username": "Rikka_Ela"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFjODv6pKL",
+              "end": 60,
+              "expanded_url": "https://x.com/lumigj02/status/1897929754667630655/photo/1",
+              "media_key": "3_1897929743754018816",
+              "start": 37,
+              "url": "https://t.co/DFjODv6pKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897929754667630655",
+        "in_reply_to_user_id": "1393065220323647494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897927456843350467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangshuang0608 @Rikka_Ela 你做到了，1.3% https://t.co/DFjODv6pKL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393065220323647494",
+        "conversation_id": "1897841026510770675",
+        "created_at": "2025-03-07T08:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T09:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897927456843350467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 20,
+              "id": "1418942200457662477",
+              "start": 10,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897927456843350467",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897926139559264775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @Rikka_Ela 意大利面应该拌24号混凝土"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200 / NSFW不打码恕不回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 843,
+          "like_count": 25454,
+          "listed_count": 11,
+          "media_count": 927,
+          "tweet_count": 10332
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dangshuang",
+                "end": 23,
+                "expanded_url": "http://t.me/dangshuang",
+                "start": 0,
+                "url": "https://t.co/v2rIN31BR3"
+              }
+            ]
+          }
+        },
+        "id": "1393065220323647494",
+        "location": "Kuala Lumpur",
+        "name": "霜",
+        "pinned_tweet_id": "1864318595834237066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833119548117319680/63fWi4wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 543,
+          "like_count": 4573,
+          "listed_count": 4,
+          "media_count": 625,
+          "tweet_count": 5160
+        },
+        "url": "https://t.co/v2rIN31BR3",
+        "username": "dangshuang0608",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 3295,
+          "like_count": 61437,
+          "listed_count": 7,
+          "media_count": 176,
+          "tweet_count": 5109
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

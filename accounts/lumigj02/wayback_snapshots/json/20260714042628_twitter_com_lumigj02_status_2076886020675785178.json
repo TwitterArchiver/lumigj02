@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2076724817190117536",
+    "created_at": "2026-07-14T04:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076886020675785178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650521797299953665",
+          "start": 0,
+          "username": "yorei_puewwoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076886020675785178",
+    "in_reply_to_user_id": "1650521797299953665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076885385163223431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yorei_puewwoc 姐姐快来欺负咱😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2076724817190117536",
+        "created_at": "2026-07-14T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076886020675785178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yorei_puewwoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076886020675785178",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076885385163223431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yorei_puewwoc 姐姐快来欺负咱😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "conversation_id": "2076724817190117536",
+        "created_at": "2026-07-14T04:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076885385163223431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076885385163223431",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076724817190117536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 谁家14岁反串小弟弟🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6\n猫娘女仆@leetfs1\n笨蛋姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 22,
+                "start": 14,
+                "username": "leetfs1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/vNaapx0WBI"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4188,
+          "following_count": 835,
+          "like_count": 4349,
+          "listed_count": 9,
+          "media_count": 116,
+          "tweet_count": 915
+        },
+        "url": "https://t.co/vNaapx0WBI",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "浮游于802.11ax之上的电子🐟｜呼唤我的名字吧 晚餐铃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yulingko.moe",
+                "end": 23,
+                "expanded_url": "https://yulingko.moe/",
+                "start": 0,
+                "url": "https://t.co/oQ3kpYTWi3"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "2026491877558735319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075486760554131456/TLa6HBv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 727,
+          "like_count": 81039,
+          "listed_count": 3,
+          "media_count": 966,
+          "tweet_count": 15662
+        },
+        "url": "https://t.co/oQ3kpYTWi3",
+        "username": "yorei_puewwoc",
+        "verified": true
+      }
+    ]
+  }
+}

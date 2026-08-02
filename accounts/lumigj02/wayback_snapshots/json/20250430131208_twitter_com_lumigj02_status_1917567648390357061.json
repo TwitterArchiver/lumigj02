@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917567637472612352"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1917567648390357061",
+    "created_at": "2025-04-30T13:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T14:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917567648390357061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wpb73r8QaP",
+          "end": 61,
+          "expanded_url": "https://x.com/lumigj02/status/1917567648390357061/photo/1",
+          "media_key": "3_1917567637472612352",
+          "start": 38,
+          "url": "https://t.co/Wpb73r8QaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917567648390357061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "建议买日雌的话多用telegram联系我，我私信烂掉了会漏消息\n呃啊啊啊啊 https://t.co/Wpb73r8QaP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917567637472612352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpyRm0hXEAA-exQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917567637472612352"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1917567648390357061",
+        "created_at": "2025-04-30T13:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T14:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917567648390357061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wpb73r8QaP",
+              "end": 61,
+              "expanded_url": "https://x.com/lumigj02/status/1917567648390357061/photo/1",
+              "media_key": "3_1917567637472612352",
+              "start": 38,
+              "url": "https://t.co/Wpb73r8QaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917567648390357061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建议买日雌的话多用telegram联系我，我私信烂掉了会漏消息\n呃啊啊啊啊 https://t.co/Wpb73r8QaP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 主人&大老婆 @RanXi_MtF | 小老婆 @_FurryFur_ | @you_miaowu | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 878,
+          "like_count": 26570,
+          "listed_count": 11,
+          "media_count": 1034,
+          "tweet_count": 11636
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

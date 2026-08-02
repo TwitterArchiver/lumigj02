@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954905828806529024"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954906017927688590",
+    "created_at": "2025-08-11T14:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T15:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954906017927688590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nHmlZECclO",
+          "end": 50,
+          "expanded_url": "https://x.com/lumigj02/status/1954906017927688590/photo/1",
+          "media_key": "3_1954905828806529024",
+          "start": 27,
+          "url": "https://t.co/nHmlZECclO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954906017927688590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⚠️慎点\n晚上吃完思诺思一不小心改花刀用力过猛了😭😭 https://t.co/nHmlZECclO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954906017927688590].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954906017927688590",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954906017927688590"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954905828806529024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyE4fmdakAAOfYz.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我没有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 911,
+          "like_count": 27748,
+          "listed_count": 12,
+          "media_count": 1132,
+          "tweet_count": 13478
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1944768917349740956",
+    "created_at": "2025-07-16T07:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T08:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945389042121810267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886808864655626240",
+          "start": 0,
+          "username": "keerkeer_1"
+        },
+        {
+          "end": 24,
+          "id": "1777864731136823296",
+          "start": 12,
+          "username": "Hotpot_2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945389042121810267",
+    "in_reply_to_user_id": "1886808864655626240",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945387352207270260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keerkeer_1 @Hotpot_2025 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1944768917349740956",
+        "created_at": "2025-07-16T07:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945389042121810267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886808864655626240",
+              "start": 0,
+              "username": "keerkeer_1"
+            },
+            {
+              "end": 24,
+              "id": "1777864731136823296",
+              "start": 12,
+              "username": "Hotpot_2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945389042121810267",
+        "in_reply_to_user_id": "1886808864655626240",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945387352207270260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keerkeer_1 @Hotpot_2025 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886808864655626240",
+        "conversation_id": "1944768917349740956",
+        "created_at": "2025-07-16T07:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945387352207270260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777864731136823296",
+              "start": 0,
+              "username": "Hotpot_2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945387352207270260",
+        "in_reply_to_user_id": "1777864731136823296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944768917349740956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hotpot_2025 我也是，有次冬天床上没纸我又实在不想下床我真就把吃掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. | 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore | 家猫 @_FurryFur_ | 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 921,
+          "like_count": 27544,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12911
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T16:07:50.000Z",
+        "description": "赛博妓女，网络骚逼，性别中性 性格中性 取向中性，是个见光死肥猪，职业摄影师 修图师 发色图只是情绪不稳定需要被夸夸\n\n无门槛，扩列请私信（查成分，但推上的私信也随时会看哦）",
+        "id": "1886808864655626240",
+        "location": "职高女厕",
+        "name": "🔞keer要被饿死辣（讨个fo谢谢喵）",
+        "pinned_tweet_id": "1894742003587658175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889804039812161536/nYLCHbdT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 345,
+          "like_count": 1834,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1324
+        },
+        "username": "keerkeer_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T01:02:47.000Z",
+        "description": "而你仍然泛空 | 数码 | Furry | 术力口 | 音游 | 日常 | ❌谈论政治❌ | 自由平等多元的人权🏳️‍🌈 | 审查成分后回关，欢迎私信扩列 | 祝好🤞。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hotpot20251",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hotpot20251",
+                "start": 0,
+                "url": "https://t.co/ijVESCiBBT"
+              }
+            ]
+          }
+        },
+        "id": "1777864731136823296",
+        "location": "白桦树下，我望向你的背影",
+        "name": "/tp 火鍋",
+        "pinned_tweet_id": "1943634029674123584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942495001432236032/DWTShOU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 655,
+          "like_count": 2898,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/ijVESCiBBT",
+        "username": "Hotpot_2025",
+        "verified": false
+      }
+    ]
+  }
+}

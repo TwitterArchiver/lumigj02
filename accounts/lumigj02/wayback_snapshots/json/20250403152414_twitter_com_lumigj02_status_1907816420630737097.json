@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907816411541708800"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1907816420630737097",
+    "created_at": "2025-04-03T15:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T16:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907816420630737097"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Dave",
+          "probability": 0.7228,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oR5xagvogd",
+          "end": 44,
+          "expanded_url": "https://x.com/lumigj02/status/1907816420630737097/photo/1",
+          "media_key": "3_1907816411541708800",
+          "start": 21,
+          "url": "https://t.co/oR5xagvogd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907816420630737097",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Top listener of Dave https://t.co/oR5xagvogd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_1907816411541708800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnns6xKaoAAFuoA.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907816411541708800"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1907816420630737097",
+        "created_at": "2025-04-03T15:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907816420630737097"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Dave",
+              "probability": 0.7228,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oR5xagvogd",
+              "end": 44,
+              "expanded_url": "https://x.com/lumigj02/status/1907816420630737097/photo/1",
+              "media_key": "3_1907816411541708800",
+              "start": 21,
+              "url": "https://t.co/oR5xagvogd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907816420630737097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Top listener of Dave https://t.co/oR5xagvogd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | Rapper @NUSingapore | 🏳️‍⚧️ GAHT 20230418 | ❤️ @Yan_Xing_Xing | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "貓歸雲卷",
+        "pinned_tweet_id": "1893566219170488748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 863,
+          "like_count": 26229,
+          "listed_count": 11,
+          "media_count": 986,
+          "tweet_count": 11228
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

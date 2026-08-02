@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2080272271164502345",
+    "created_at": "2026-07-24T08:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080576454853796160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080576454853796160",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080575888450879575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq 无所谓，反正小中去了ucsb你们会一直当好朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2080272271164502345",
+        "created_at": "2026-07-24T08:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080576454853796160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080576454853796160",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080575888450879575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq 无所谓，反正小中去了ucsb你们会一直当好朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690388233778331649",
+        "conversation_id": "2080272271164502345",
+        "created_at": "2026-07-24T08:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080575888450879575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080575888450879575",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080574214541898168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 ？你是不是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4237,
+          "following_count": 840,
+          "like_count": 4381,
+          "listed_count": 9,
+          "media_count": 134,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "Ugrad @UCSBPhysics l Journey Developer | HRT 23/08 | 感谢大家支持喵 🚪67🔪+红黑白企鹅",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "UCSBPhysics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "testflight.apple.com/join/SPGZysjK",
+                "end": 23,
+                "expanded_url": "https://testflight.apple.com/join/SPGZysjK",
+                "start": 0,
+                "url": "https://t.co/NDbzMfBqNJ"
+              }
+            ]
+          }
+        },
+        "id": "1690388233778331649",
+        "location": "Santa Barbara, CA",
+        "name": "MizukiQAQ",
+        "pinned_tweet_id": "2046765807494214040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044335614024425472/aPs3suWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 894,
+          "like_count": 12018,
+          "listed_count": 0,
+          "media_count": 1067,
+          "tweet_count": 4004
+        },
+        "url": "https://t.co/NDbzMfBqNJ",
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      }
+    ]
+  }
+}

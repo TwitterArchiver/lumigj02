@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922693574618939682",
+    "created_at": "2025-05-14T17:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T18:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922698559310176497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922698559310176497",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922693574618939682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko 你双相？😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922693574618939682",
+        "created_at": "2025-05-14T17:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T18:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922698559310176497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922698559310176497",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922693574618939682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko 你双相？😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356940397956620288",
+        "conversation_id": "1922693574618939682",
+        "created_at": "2025-05-14T16:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922693574618939682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922693574618939682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一个双相II型患者居然被打上了温柔，稳定，稳重，耐心陪伴，细心，有安全感之类的标签，不是哥们你没事吧（）\n\n这是双相啊，和稳定沾边嘛😭靠不住的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 主人 @_temryava | @ndmhwxck | 家猫 @_FurryFur_ | 日雌380泰补200 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "_temryava"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷🍥日雌380泰补200",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 886,
+          "like_count": 26777,
+          "listed_count": 12,
+          "media_count": 1067,
+          "tweet_count": 11943
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜ 你饼干自己在用的梯子：https://t.co/i7QKqbPO6T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 64,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=jTnvUau0",
+                "start": 41,
+                "url": "https://t.co/i7QKqbPO6T"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "location": "Shijiazhuang/Beijing/Guangzhou",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "1912579886939824486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726632124412022784/TnqkN0Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8506,
+          "following_count": 2840,
+          "like_count": 14550,
+          "listed_count": 10,
+          "media_count": 768,
+          "tweet_count": 8442
+        },
+        "username": "NyaCookieNeko",
+        "verified": true
+      }
+    ]
+  }
+}

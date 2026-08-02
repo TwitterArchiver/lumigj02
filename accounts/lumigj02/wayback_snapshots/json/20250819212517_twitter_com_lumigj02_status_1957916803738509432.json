@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957916797728104448"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1957914316088439136",
+    "created_at": "2025-08-19T21:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T22:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957916803738509432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        },
+        {
+          "end": 30,
+          "id": "1845454917236031495",
+          "start": 15,
+          "username": "Dontbesadforit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KO2dJAtLEe",
+          "end": 74,
+          "expanded_url": "https://x.com/lumigj02/status/1957916803738509432/photo/1",
+          "media_key": "3_1957916797728104448",
+          "start": 51,
+          "url": "https://t.co/KO2dJAtLEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957916803738509432",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957916260735545789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq @Dontbesadforit 宝宝我一直想说你的头像其实很像这个👽👽 https://t.co/KO2dJAtLEe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "3_1957916797728104448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyvq9DxaoAAUojX.jpg",
+        "width": 224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957916797728104448"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1957914316088439136",
+        "created_at": "2025-08-19T21:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T22:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957916803738509432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            },
+            {
+              "end": 30,
+              "id": "1845454917236031495",
+              "start": 15,
+              "username": "Dontbesadforit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KO2dJAtLEe",
+              "end": 74,
+              "expanded_url": "https://x.com/lumigj02/status/1957916803738509432/photo/1",
+              "media_key": "3_1957916797728104448",
+              "start": 51,
+              "url": "https://t.co/KO2dJAtLEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957916803738509432",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957916260735545789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq @Dontbesadforit 宝宝我一直想说你的头像其实很像这个👽👽 https://t.co/KO2dJAtLEe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690388233778331649",
+        "conversation_id": "1957914316088439136",
+        "created_at": "2025-08-19T21:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T22:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957916260735545789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 25,
+              "id": "1845454917236031495",
+              "start": 10,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957916260735545789",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957914316088439136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @Dontbesadforit 666"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "笨猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957897457658175488/cqcc_2gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 920,
+          "like_count": 27851,
+          "listed_count": 12,
+          "media_count": 1150,
+          "tweet_count": 13710
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "Ugrad @UCSBPhysics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "UCSBPhysics"
+              }
+            ]
+          }
+        },
+        "id": "1690388233778331649",
+        "name": "Mizuki打不过二结局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946592417198522368/LdHsJ1dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 838,
+          "like_count": 11508,
+          "listed_count": 0,
+          "media_count": 988,
+          "tweet_count": 3725
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 没有！翻车！💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人 ｜里：@MihariSuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "MihariSuki"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "笨中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 737,
+          "like_count": 40469,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 5775
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

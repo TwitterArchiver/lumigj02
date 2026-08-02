@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895094974846587080",
+    "created_at": "2025-02-27T12:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T13:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895095165485994427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1615704614766260225",
+          "start": 0,
+          "username": "RanXi_MtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895095165485994427",
+    "in_reply_to_user_id": "1615704614766260225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895095079859298577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RanXi_MtF 叫我姐姐没事，别死了就行……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895094974846587080",
+        "created_at": "2025-02-27T12:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895095165485994427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1615704614766260225",
+              "start": 0,
+              "username": "RanXi_MtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895095165485994427",
+        "in_reply_to_user_id": "1615704614766260225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895095079859298577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RanXi_MtF 叫我姐姐没事，别死了就行……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615704614766260225",
+        "conversation_id": "1895094974846587080",
+        "created_at": "2025-02-27T12:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895095079859298577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895095079859298577",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895094974846587080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 姐姐对不起 🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / call me Lumi or 猫卷 / 💖 @HobartR6 / @altaz_0 / 日雌390泰补200私信或下方telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1893577061723504657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892509314335883264/BXt8NBBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 827,
+          "like_count": 25273,
+          "listed_count": 11,
+          "media_count": 890,
+          "tweet_count": 9936
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T13:36:22.000Z",
+        "description": "摄影📷｜NIKON｜24.8.18｜日常｜@nekomakiQAQ｜@Fly0001985｜@kikoxts｜@lonebef88012｜@RanXi_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "Fly0001985"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "kikoxts"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "username": "lonebef88012"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "RanXi_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikon.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.nikon.com.cn",
+                "start": 0,
+                "url": "https://t.co/0YOLczz4oq"
+              }
+            ]
+          }
+        },
+        "id": "1615704614766260225",
+        "location": "日本国东京都港区港南2-15-3 品川城际",
+        "name": "RanXi｜OS",
+        "pinned_tweet_id": "1865343341266890803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876199238557933568/oyF7OKX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 738,
+          "like_count": 17700,
+          "listed_count": 6,
+          "media_count": 725,
+          "tweet_count": 4692
+        },
+        "url": "https://t.co/0YOLczz4oq",
+        "username": "RanXi_MtF",
+        "verified": false
+      }
+    ]
+  }
+}

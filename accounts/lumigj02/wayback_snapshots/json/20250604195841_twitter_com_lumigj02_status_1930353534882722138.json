@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1929847237745824043",
+    "created_at": "2025-06-04T19:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T20:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930353534882722138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "75715860",
+          "start": 0,
+          "username": "Reputeless"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930353534882722138",
+    "in_reply_to_user_id": "75715860",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929847237745824043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reputeless No wonder they say asians look the same."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 85636,
+        "height": 1200,
+        "media_key": "13_1929846601054670849",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929846601054670849/img/fkgu-4ch6O-EZzeQ.jpg",
+        "public_metrics": {
+          "view_count": 473571
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929846601054670849/vid/avc1/360x270/6UTXm6F9L-uebeRz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929846601054670849/vid/avc1/480x360/nfCKWTYE61iEdoq7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929846601054670849/vid/avc1/960x720/b0SEENtRtz1836GX.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929846601054670849/pl/SPstuqjABuDK8Lvf.m3u8?tag=14"
+          }
+        ],
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1929847237745824043",
+        "created_at": "2025-06-04T19:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T20:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930353534882722138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "75715860",
+              "start": 0,
+              "username": "Reputeless"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930353534882722138",
+        "in_reply_to_user_id": "75715860",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929847237745824043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reputeless No wonder they say asians look the same."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929846601054670849"
+          ]
+        },
+        "author_id": "75715860",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          }
+        ],
+        "conversation_id": "1929847237745824043",
+        "created_at": "2025-06-03T10:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T11:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929847237745824043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "Siv3D"
+            },
+            {
+              "end": 42,
+              "start": 27,
+              "tag": "creativecoding"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0OuSOrxNF",
+              "end": 66,
+              "expanded_url": "https://x.com/Reputeless/status/1929847237745824043/video/1",
+              "media_key": "13_1929846601054670849",
+              "start": 43,
+              "url": "https://t.co/H0OuSOrxNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929847237745824043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2519,
+          "impression_count": 1281576,
+          "like_count": 11298,
+          "quote_count": 249,
+          "reply_count": 33,
+          "retweet_count": 2863
+        },
+        "reply_settings": "everyone",
+        "text": "中華フォントのプロになるゲームを作った\n#Siv3D #creativecoding https://t.co/H0OuSOrxNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 F, R6 Player for , Retired Software Engineer, @NUSingapore alumni. | ❤️ @HobartR6 | @_FurryFur_ | 日雌390泰补210 私信/下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "HobartR6"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Malaysia",
+        "name": "lumifps",
+        "pinned_tweet_id": "1930316290662768737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929970703832625152/Kfp8MsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 898,
+          "like_count": 27058,
+          "listed_count": 12,
+          "media_count": 1096,
+          "tweet_count": 12278
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-20T04:05:39.000Z",
+        "description": "プログラミングを楽しく簡単に。Siv3D 作者。博士（工学） / 『冒険で学ぶ はじめてのプログラミング』 (技術評論社)  / 未踏ジュニア @mitoujr メンター / セキュリティ・キャンプ @security_camp 講師 / C++ プログラミング講座・プライベートレッスン・技術相談依頼は ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 72,
+                "username": "mitoujr"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "security_camp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryo-suzuki-contact.github.io",
+                "end": 23,
+                "expanded_url": "https://ryo-suzuki-contact.github.io/",
+                "start": 0,
+                "url": "https://t.co/oy2RG2tUJX"
+              }
+            ]
+          }
+        },
+        "id": "75715860",
+        "name": "Ryo Suzuki",
+        "pinned_tweet_id": "1894379691571908615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/741948418239537153/0ThD_LEf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6097,
+          "following_count": 469,
+          "like_count": 20696,
+          "listed_count": 141,
+          "media_count": 2717,
+          "tweet_count": 30130
+        },
+        "url": "https://t.co/oy2RG2tUJX",
+        "username": "Reputeless",
+        "verified": false
+      }
+    ]
+  }
+}

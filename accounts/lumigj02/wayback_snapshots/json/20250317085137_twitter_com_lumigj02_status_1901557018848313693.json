@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1901554046399402200",
+    "created_at": "2025-03-17T08:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T09:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901557018848313693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1744970574269661184",
+          "start": 0,
+          "username": "my5121_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901557018848313693",
+    "in_reply_to_user_id": "1744970574269661184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901554046399402200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@my5121_ 你就疯狂abuse那个button一直按下去就好，会有一次成功"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1901554043279101952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmOtU9bb0AAomuy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1901554046399402200",
+        "created_at": "2025-03-17T08:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T09:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901557018848313693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1744970574269661184",
+              "start": 0,
+              "username": "my5121_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901557018848313693",
+        "in_reply_to_user_id": "1744970574269661184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901554046399402200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@my5121_ 你就疯狂abuse那个button一直按下去就好，会有一次成功"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901554043279101952"
+          ]
+        },
+        "author_id": "1744970574269661184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901554046399402200",
+        "created_at": "2025-03-17T08:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T09:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901554046399402200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xrUVTCpLr",
+              "end": 45,
+              "expanded_url": "https://x.com/my5121_/status/1901554046399402200/photo/1",
+              "media_key": "3_1901554043279101952",
+              "start": 22,
+              "url": "https://t.co/8xrUVTCpLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901554046399402200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么为什么不能改用户名啊，怎么改怎么改？ https://t.co/8xrUVTCpLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 851,
+          "like_count": 25727,
+          "listed_count": 0,
+          "media_count": 947,
+          "tweet_count": 10744
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-10T06:33:10.000Z",
+        "description": "头像画师@amamiya_1007｜常驻深圳｜成分较复杂 | 高中生 | 守旧二次元 | 超级鹿乃厨 | 喜欢音游 | FPS低手 | 中度抑郁+双向障碍，但精神状态目前还算稳定 | 术力口厨\n愿望是世界和平，人与人之间少点争端❤\n求互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "amamiya_1007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+R9ber0URp6U2M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+R9ber0URp6U2Mjk1",
+                "start": 0,
+                "url": "https://t.co/eIy3JIop81"
+              }
+            ]
+          }
+        },
+        "id": "1744970574269661184",
+        "location": "末班电车",
+        "name": "0x70E",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900905377417588736/2Wc4drD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 888,
+          "like_count": 1999,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/eIy3JIop81",
+        "username": "my5121_",
+        "verified": false
+      }
+    ]
+  }
+}

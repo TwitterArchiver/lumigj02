@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962841657650663551",
+    "created_at": "2025-09-02T11:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T12:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962845210968522969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1289925617446617088",
+          "start": 0,
+          "username": "LazySpider3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962845210968522969",
+    "in_reply_to_user_id": "1289925617446617088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962841657650663551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazySpider3 难道以前有什么民间文化吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_1962841572699234305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1qAsMbYAET7Zd.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962841657650663551",
+        "created_at": "2025-09-02T11:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962845210968522969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1289925617446617088",
+              "start": 0,
+              "username": "LazySpider3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962845210968522969",
+        "in_reply_to_user_id": "1289925617446617088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962841657650663551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazySpider3 难道以前有什么民间文化吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962841572699234305"
+          ]
+        },
+        "author_id": "1289925617446617088",
+        "conversation_id": "1962841657650663551",
+        "created_at": "2025-09-02T11:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962841657650663551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mm5Y08sGI",
+              "end": 39,
+              "expanded_url": "https://x.com/LazySpider3/status/1962841657650663551/photo/1",
+              "media_key": "3_1962841572699234305",
+              "start": 16,
+              "url": "https://t.co/4mm5Y08sGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962841657650663551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "民间文化都死了 才来做人工呼吸 https://t.co/4mm5Y08sGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@HobartR6 🇲🇾 @sutdsg @_FurryFur_ // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 20,
+                "start": 13,
+                "username": "sutdsg"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi、Lumi、時々猫巻（日雌380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 932,
+          "like_count": 27976,
+          "listed_count": 13,
+          "media_count": 1164,
+          "tweet_count": 13982
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T14:06:54.000Z",
+        "description": "一个还能蹦跶的老B",
+        "id": "1289925617446617088",
+        "location": "Singapore",
+        "name": "Lazy_Spider",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289936266000101377/LPhTSU8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 293,
+          "like_count": 305,
+          "listed_count": 10,
+          "media_count": 1286,
+          "tweet_count": 10429
+        },
+        "username": "LazySpider3",
+        "verified": false
+      }
+    ]
+  }
+}

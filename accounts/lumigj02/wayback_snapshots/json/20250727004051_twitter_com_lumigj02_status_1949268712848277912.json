@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949268700168957952"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1949268712848277912",
+    "created_at": "2025-07-27T00:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T01:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949268712848277912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gl48TCpQVI",
+          "end": 169,
+          "expanded_url": "https://x.com/lumigj02/status/1949268712848277912/photo/1",
+          "media_key": "3_1949268700168957952",
+          "start": 146,
+          "url": "https://t.co/gl48TCpQVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949268712848277912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有个地方我不懂，我开CVT，起步踩下油门到某个深度不动，会提速但转速会非常高而且一直下不来，和一档开60一样，如果不松油再踩的话滑轮的钢带不会往下滑（也就是说“档位”不会变），转速会一直这么高，只有松油再踩转速才低下来（即换到了更高“档位”），这个体验甚至不如AT平滑，说好的黄金转速区间呢 https://t.co/gl48TCpQVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1790,
+        "media_key": "3_1949268700168957952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0xjh1bsAANVdW.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949268700168957952"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1949268712848277912",
+        "created_at": "2025-07-27T00:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T01:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949268712848277912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gl48TCpQVI",
+              "end": 169,
+              "expanded_url": "https://x.com/lumigj02/status/1949268712848277912/photo/1",
+              "media_key": "3_1949268700168957952",
+              "start": 146,
+              "url": "https://t.co/gl48TCpQVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949268712848277912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个地方我不懂，我开CVT，起步踩下油门到某个深度不动，会提速但转速会非常高而且一直下不来，和一档开60一样，如果不松油再踩的话滑轮的钢带不会往下滑（也就是说“档位”不会变），转速会一直这么高，只有松油再踩转速才低下来（即换到了更高“档位”），这个体验甚至不如AT平滑，说好的黄金转速区间呢 https://t.co/gl48TCpQVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 926,
+          "like_count": 27668,
+          "listed_count": 12,
+          "media_count": 1108,
+          "tweet_count": 13148
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

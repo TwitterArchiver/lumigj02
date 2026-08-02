@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895398032872747186",
+    "created_at": "2025-02-28T09:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T10:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895412352176234894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677383468660191232",
+          "start": 0,
+          "username": "mtfmtx138248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895412352176234894",
+    "in_reply_to_user_id": "1677383468660191232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895411266778443779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtfmtx138248 对象不让\n氯硝单纯是耐药性太大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895398032872747186",
+        "created_at": "2025-02-28T09:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895412352176234894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677383468660191232",
+              "start": 0,
+              "username": "mtfmtx138248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895412352176234894",
+        "in_reply_to_user_id": "1677383468660191232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895411266778443779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtfmtx138248 对象不让\n氯硝单纯是耐药性太大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677383468660191232",
+        "conversation_id": "1895398032872747186",
+        "created_at": "2025-02-28T09:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895411266778443779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/donggua7021/st…",
+              "end": 54,
+              "expanded_url": "https://x.com/donggua7021/status/1887765504213066175?s=19",
+              "start": 31,
+              "url": "https://t.co/RSqVmCjfN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895411266778443779",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887765504213066175",
+            "type": "quoted"
+          },
+          {
+            "id": "1895409750046814392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 还有氯胺酮，你不是说过六月回国试一试的吗😭https://t.co/RSqVmCjfN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / Call me ʟᴜᴍɪ or 猫卷 / 💖 @HobartR6 / @altaz_0 / 日雌390",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1893577061723504657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895131563953696768/T0tzqE7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 830,
+          "like_count": 25287,
+          "listed_count": 11,
+          "media_count": 895,
+          "tweet_count": 9977
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T18:26:31.000Z",
+        "description": "我有易性症",
+        "id": "1677383468660191232",
+        "name": "神楽坂美緒",
+        "pinned_tweet_id": "1780086479156543512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763562734128607232/FH7wy4u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 267,
+          "like_count": 66978,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1025
+        },
+        "username": "mtfmtx138248",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2071360711679504532",
+    "created_at": "2026-06-28T22:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T23:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071360711679504532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/lumigj02/status/2070687275370049931",
+          "start": 95,
+          "url": "https://t.co/o4gwuWZbSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071360711679504532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070687275370049931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "先谈涨薪吧给我加钱我加班也能接受\n产品经理的命太苦逼了\n你见过一边用figma miro canva画图一边在GitHub上开发的产品经理吗\n不涨薪直接跑我不相信老板招的第二个人能比我厉害 https://t.co/o4gwuWZbSB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 244,
+        "media_key": "3_2070686277570318336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyOMs_a0AAi6vl.png",
+        "width": 736
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2070686868954562560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyOvIEaQAA1_t8.jpg",
+        "width": 1548
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2070687144822308864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyO_LwaAAAGJeY.jpg",
+        "width": 1552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2071360711679504532",
+        "created_at": "2026-06-28T22:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071360711679504532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/lumigj02/status/2070687275370049931",
+              "start": 95,
+              "url": "https://t.co/o4gwuWZbSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071360711679504532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070687275370049931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "先谈涨薪吧给我加钱我加班也能接受\n产品经理的命太苦逼了\n你见过一边用figma miro canva画图一边在GitHub上开发的产品经理吗\n不涨薪直接跑我不相信老板招的第二个人能比我厉害 https://t.co/o4gwuWZbSB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070686277570318336",
+            "3_2070686868954562560",
+            "3_2070687144822308864"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2070687275370049931",
+        "created_at": "2026-06-27T01:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070687275370049931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfb0XvENNX",
+              "end": 35,
+              "expanded_url": "https://x.com/lumigj02/status/2070687275370049931/photo/1",
+              "media_key": "3_2070686277570318336",
+              "start": 12,
+              "url": "https://t.co/cfb0XvENNX"
+            },
+            {
+              "display_url": "pic.x.com/cfb0XvENNX",
+              "end": 35,
+              "expanded_url": "https://x.com/lumigj02/status/2070687275370049931/photo/1",
+              "media_key": "3_2070686868954562560",
+              "start": 12,
+              "url": "https://t.co/cfb0XvENNX"
+            },
+            {
+              "display_url": "pic.x.com/cfb0XvENNX",
+              "end": 35,
+              "expanded_url": "https://x.com/lumigj02/status/2070687275370049931/photo/1",
+              "media_key": "3_2070687144822308864",
+              "start": 12,
+              "url": "https://t.co/cfb0XvENNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070687275370049931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2120,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下个月跑路，干不下去了 https://t.co/cfb0XvENNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://t.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/s1BSKPdKto"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫滚卷",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4128,
+          "following_count": 827,
+          "like_count": 4250,
+          "listed_count": 9,
+          "media_count": 86,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/s1BSKPdKto",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954822655195930680",
+    "created_at": "2025-08-11T08:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T09:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954822655195930680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nankyuseiichi/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/nankyuseiichi/status/1954454333829091820",
+          "start": 7,
+          "url": "https://t.co/283rqIDKv7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954822655195930680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954454333829091820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就停喹硫平 https://t.co/283rqIDKv7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1954822655195930680",
+        "created_at": "2025-08-11T08:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954822655195930680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nankyuseiichi/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/nankyuseiichi/status/1954454333829091820",
+              "start": 7,
+              "url": "https://t.co/283rqIDKv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954822655195930680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954454333829091820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就停喹硫平 https://t.co/283rqIDKv7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1954454333829091820",
+        "created_at": "2025-08-10T08:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T09:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954454333829091820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954454333829091820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 58567,
+          "like_count": 856,
+          "quote_count": 17,
+          "reply_count": 42,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉你国精神科医生对地雷妹的治疗方案就是骗他们吃喹硫平，等他们吃成肥猪被赶出小圈子之后就变健全了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我没有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 911,
+          "like_count": 27745,
+          "listed_count": 12,
+          "media_count": 1130,
+          "tweet_count": 13462
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 1269,
+          "like_count": 21095,
+          "listed_count": 2,
+          "media_count": 609,
+          "tweet_count": 7429
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1944758860939710569",
+    "created_at": "2025-07-14T22:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T23:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944891959329612150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "786479809647869952",
+          "start": 0,
+          "username": "skywind3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944891959329612150",
+    "in_reply_to_user_id": "786479809647869952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944758860939710569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skywind3000 为什么不能用mac"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1944758852395692033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0r31rXcAEeDGe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1944758860939710569",
+        "created_at": "2025-07-14T22:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T23:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944891959329612150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "786479809647869952",
+              "start": 0,
+              "username": "skywind3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944891959329612150",
+        "in_reply_to_user_id": "786479809647869952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944758860939710569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skywind3000 为什么不能用mac"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944758852395692033"
+          ]
+        },
+        "author_id": "786479809647869952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1807823670506586114",
+              "name": "Gladiator 2"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Action and adventure",
+              "id": "856976360337661952",
+              "name": "Action & adventure films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1944758860939710569",
+        "created_at": "2025-07-14T14:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944758860939710569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7neFPQzXrq",
+              "end": 60,
+              "expanded_url": "https://x.com/skywind3000/status/1944758860939710569/photo/1",
+              "media_key": "3_1944758852395692033",
+              "start": 37,
+              "url": "https://t.co/7neFPQzXrq"
+            },
+            {
+              "display_url": "x.com/skywind3000/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/skywind3000/status/1944748067758190832",
+              "start": 61,
+              "url": "https://t.co/3pShpBSrWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944758860939710569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3599,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944748067758190832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "编程班的老师居然让小孩在 macbook 上学写程序，我感觉受到了冒犯！ https://t.co/7neFPQzXrq https://t.co/3pShpBSrWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore 家猫: @_FurryFur_ 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944806697316257792/p4s37iQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 915,
+          "like_count": 27497,
+          "listed_count": 12,
+          "media_count": 1090,
+          "tweet_count": 12835
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/UQNrDmhScr"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23405,
+          "following_count": 295,
+          "like_count": 5122,
+          "listed_count": 180,
+          "media_count": 903,
+          "tweet_count": 6357
+        },
+        "url": "https://t.co/UQNrDmhScr",
+        "username": "skywind3000",
+        "verified": true
+      }
+    ]
+  }
+}

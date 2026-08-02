@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1958334236626432324",
+    "created_at": "2025-08-21T06:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958423514110959799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "CypressAlbert18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958423514110959799",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958334236626432324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert18 你贴的越多他们越欺负你，很多傻逼就挑新手和女司机加塞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958334214824456192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy1ml7oa8AAhOa5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958334216426737664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy1mmBmb0AAFO4X.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1958334236626432324",
+        "created_at": "2025-08-21T06:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958423514110959799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "CypressAlbert18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958423514110959799",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958334236626432324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert18 你贴的越多他们越欺负你，很多傻逼就挑新手和女司机加塞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958334214824456192",
+            "3_1958334216426737664"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "conversation_id": "1958334236626432324",
+        "created_at": "2025-08-21T01:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T02:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958334236626432324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwP5SpLNo2",
+              "end": 33,
+              "expanded_url": "https://x.com/CypressAlbert18/status/1958334236626432324/photo/1",
+              "media_key": "3_1958334214824456192",
+              "start": 10,
+              "url": "https://t.co/MwP5SpLNo2"
+            },
+            {
+              "display_url": "pic.x.com/MwP5SpLNo2",
+              "end": 33,
+              "expanded_url": "https://x.com/CypressAlbert18/status/1958334236626432324/photo/1",
+              "media_key": "3_1958334216426737664",
+              "start": 10,
+              "url": "https://t.co/MwP5SpLNo2"
+            },
+            {
+              "display_url": "x.com/CypressAlbert1…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/CypressAlbert18/status/1952264941572079635",
+              "start": 34,
+              "url": "https://t.co/9CXWdchprL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958334236626432324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 933,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952264941572079635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这么贴一堆车贴 https://t.co/MwP5SpLNo2 https://t.co/9CXWdchprL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "老猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957897457658175488/cqcc_2gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 921,
+          "like_count": 27864,
+          "listed_count": 12,
+          "media_count": 1153,
+          "tweet_count": 13728
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "【⚠️本账号随时可能被某🦊夺舍】INFJ 5w6（经常化身TP人形态）|Median系统|不是人类不说人话精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|🩸@theLostCypress ✝️@Kashiwagi_7593",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 117,
+                "username": "theLostCypress"
+              },
+              {
+                "end": 150,
+                "start": 135,
+                "username": "Kashiwagi_7593"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1955952988994097507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 1090,
+          "like_count": 26713,
+          "listed_count": 5,
+          "media_count": 1102,
+          "tweet_count": 7661
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "CypressAlbert18",
+        "verified": true
+      }
+    ]
+  }
+}

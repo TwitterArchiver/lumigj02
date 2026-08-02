@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953063443361411226",
+    "created_at": "2025-08-06T12:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T13:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953064666420150729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1305844679284457473",
+          "start": 0,
+          "username": "fjwritsuto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953064666420150729",
+    "in_reply_to_user_id": "1305844679284457473",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953064505241731322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fjwritsuto You gotta move"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953063443361411226",
+        "created_at": "2025-08-06T12:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953064666420150729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1305844679284457473",
+              "start": 0,
+              "username": "fjwritsuto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953064666420150729",
+        "in_reply_to_user_id": "1305844679284457473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953064505241731322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fjwritsuto You gotta move"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305844679284457473",
+        "conversation_id": "1953063443361411226",
+        "created_at": "2025-08-06T12:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953064505241731322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953064505241731322",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953063443361411226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "LUMI 猫卷 - 日雌390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 931,
+          "like_count": 27733,
+          "listed_count": 12,
+          "media_count": 1121,
+          "tweet_count": 13299
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "みんな大好き💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/unnamed_rf",
+                "end": 23,
+                "expanded_url": "http://x.com/unnamed_rf",
+                "start": 0,
+                "url": "https://t.co/9JpbFi7oJk"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "サブ垢こちら→",
+        "name": "坂魚🐟",
+        "pinned_tweet_id": "1949432436741361961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952905313826553857/NY7EdSnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 853,
+          "like_count": 14131,
+          "listed_count": 16,
+          "media_count": 4671,
+          "tweet_count": 40222
+        },
+        "url": "https://t.co/9JpbFi7oJk",
+        "username": "fjwritsuto",
+        "verified": false
+      }
+    ]
+  }
+}

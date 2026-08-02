@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1907467686562640133",
+    "created_at": "2025-04-02T16:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T17:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907467686562640133"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907467686562640133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "貓卷是萬貓之主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1907467686562640133",
+        "created_at": "2025-04-02T16:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907467686562640133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907467686562640133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "貓卷是萬貓之主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ GAHT 20230418 | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "貓歸雲卷",
+        "pinned_tweet_id": "1893566219170488748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 862,
+          "like_count": 26215,
+          "listed_count": 11,
+          "media_count": 982,
+          "tweet_count": 11208
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

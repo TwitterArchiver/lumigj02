@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1906764088056901685",
+    "created_at": "2025-03-31T18:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T19:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906769440588611634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1694052817231613953",
+          "start": 0,
+          "username": "shitasui_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906769440588611634",
+    "in_reply_to_user_id": "1694052817231613953",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906769335122616588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shitasui_ Drop that probably"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906769335122616588].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906769335122616588",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906769335122616588"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906764088056901685",
+        "created_at": "2025-03-31T18:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T19:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906769440588611634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1694052817231613953",
+              "start": 0,
+              "username": "shitasui_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906769440588611634",
+        "in_reply_to_user_id": "1694052817231613953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906769335122616588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shitasui_ Drop that probably"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 4ever | @you_miaowu | @NUSingapore 廠牌第⑥Rapper | 📧 lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "K3nt R1dg3",
+        "name": "雲貓歸卷",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 865,
+          "like_count": 26193,
+          "listed_count": 11,
+          "media_count": 977,
+          "tweet_count": 11190
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-22T18:24:14.000Z",
+        "description": "barely distinguishable from a deterministic pushdown automaton. かわいいくないもあたまない. skill issue. CompE.",
+        "id": "1694052817231613953",
+        "location": "電子の海",
+        "name": "确定下推自动机",
+        "pinned_tweet_id": "1898606843141804245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862114733563793408/8sy_83G7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 309,
+          "like_count": 1701,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 846
+        },
+        "username": "shitasui_",
+        "verified": true
+      }
+    ]
+  }
+}

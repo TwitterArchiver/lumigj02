@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1956310017943990366",
+    "created_at": "2025-08-15T12:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T13:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956328661571063932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624451741382221824",
+          "start": 0,
+          "username": "nya_QianZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956328661571063932",
+    "in_reply_to_user_id": "1624451741382221824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956328576036544530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_QianZi 怎么还不下课"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1956310017943990366",
+        "created_at": "2025-08-15T12:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T13:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956328661571063932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624451741382221824",
+              "start": 0,
+              "username": "nya_QianZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956328661571063932",
+        "in_reply_to_user_id": "1624451741382221824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956328576036544530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_QianZi 怎么还不下课"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624451741382221824",
+        "conversation_id": "1956310017943990366",
+        "created_at": "2025-08-15T12:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T13:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956328576036544530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956328576036544530",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956328433396670620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 怎么还不下课"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "ʟᴜᴍɪ¹ 日雌390",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 912,
+          "like_count": 27790,
+          "listed_count": 12,
+          "media_count": 1142,
+          "tweet_count": 13591
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T16:54:29.000Z",
+        "description": "舞萌吃/INFP-T/会回fo没回可能是忘了戳戳我/167cm60kg减肥中/大概聊天会回不然搞不好又被送扭了/2023.2.6/2023.10.16/2024.5.6",
+        "id": "1624451741382221824",
+        "location": "雨城区",
+        "name": "见雨雨neko🍥",
+        "pinned_tweet_id": "1937351443523993639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704492155966754816/2wAtZ-xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 848,
+          "like_count": 2745,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1772
+        },
+        "username": "nya_QianZi",
+        "verified": false
+      }
+    ]
+  }
+}

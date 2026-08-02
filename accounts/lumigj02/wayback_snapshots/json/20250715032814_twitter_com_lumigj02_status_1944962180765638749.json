@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1944962180765638749",
+    "created_at": "2025-07-15T03:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T04:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944962180765638749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinto9q9/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/rinto9q9/status/1944960362971086912",
+          "start": 6,
+          "url": "https://t.co/idPve6NvvK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944962180765638749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944960362971086912",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊美死了😭 https://t.co/idPve6NvvK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2729,
+        "media_key": "3_1944960350471753728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3jIkgWkAAV_TE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1944962180765638749",
+        "created_at": "2025-07-15T03:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944962180765638749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinto9q9/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/rinto9q9/status/1944960362971086912",
+              "start": 6,
+              "url": "https://t.co/idPve6NvvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944962180765638749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944960362971086912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊美死了😭 https://t.co/idPve6NvvK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944960350471753728"
+          ]
+        },
+        "author_id": "166894676",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1944960362971086912",
+        "created_at": "2025-07-15T03:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944960362971086912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mTcN8Q00L",
+              "end": 40,
+              "expanded_url": "https://x.com/rinto9q9/status/1944960362971086912/photo/1",
+              "media_key": "3_1944960350471753728",
+              "start": 17,
+              "url": "https://t.co/6mTcN8Q00L"
+            },
+            {
+              "display_url": "x.com/tkskon3/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/tkskon3/status/1944899500864057606",
+              "start": 41,
+              "url": "https://t.co/FVTdyXmn3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944960362971086912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 179,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944899500864057606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "見て☺️✨ラプテキはいいぞ🫶🏻💕 https://t.co/6mTcN8Q00L https://t.co/FVTdyXmn3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore 家猫: @_FurryFur_ 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944806697316257792/p4s37iQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 915,
+          "like_count": 27501,
+          "listed_count": 12,
+          "media_count": 1090,
+          "tweet_count": 12839
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-15T07:16:36.000Z",
+        "description": "25.02コス復活。関西コスプレイヤー。ZZZ6課好き❤︎アクナイのサガ最推し♡加工厨。聾者。口話✖︎。文章下手。障害者苦手な方はブロ解お願い、外して頂けると嬉しいです。お仕事休み土日祝。撮影でも歓迎です。リハビリ中なので激しいポージング✖︎。お写真はDMにお願いします。⚠無加工＆無断転載・AI学習禁止⚠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/hz/wishlist/ls/HUUB3EULCZXQ?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/aGUedl8azX"
+              }
+            ]
+          }
+        },
+        "id": "166894676",
+        "location": "ゼンゼロ|アクナイ|スタレ|リコリコ|フリーレン|ガンダム",
+        "name": "Tocchiᙏ̤̫リハビリ中💪🏻",
+        "pinned_tweet_id": "1941691449931858221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942434556721913857/O_2h1b56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12096,
+          "following_count": 686,
+          "like_count": 14747,
+          "listed_count": 143,
+          "media_count": 4632,
+          "tweet_count": 32727
+        },
+        "url": "https://t.co/aGUedl8azX",
+        "username": "rinto9q9",
+        "verified": false
+      }
+    ]
+  }
+}

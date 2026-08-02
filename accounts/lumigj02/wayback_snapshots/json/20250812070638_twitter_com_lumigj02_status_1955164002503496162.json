@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1955164002503496162",
+    "created_at": "2025-08-12T07:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T08:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955164002503496162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/for9otmen0t/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/for9otmen0t/status/1955143068036002183",
+          "start": 9,
+          "url": "https://t.co/hjeYU2QYDC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955164002503496162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955143068036002183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我偶像，帅死了 https://t.co/hjeYU2QYDC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99240,
+        "height": 720,
+        "media_key": "7_1955142967842508800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1955142967842508800/pu/img/PF6ZuI2nYIa4Ukav.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955142967842508800/pu/vid/avc1/476x270/oOvyAQahNAvtDxFD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955142967842508800/pu/vid/avc1/636x360/hJtYh5Nz8fQ-C9eP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955142967842508800/pu/vid/avc1/1272x720/dmu4PJH_Teip7Ni-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1955142967842508800/pu/pl/BKbYbGYzuB-5rcaT.m3u8?tag=12"
+          }
+        ],
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1955164002503496162",
+        "created_at": "2025-08-12T07:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955164002503496162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for9otmen0t/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/for9otmen0t/status/1955143068036002183",
+              "start": 9,
+              "url": "https://t.co/hjeYU2QYDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955164002503496162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955143068036002183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我偶像，帅死了 https://t.co/hjeYU2QYDC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1955142967842508800"
+          ]
+        },
+        "author_id": "1800375758139047936",
+        "conversation_id": "1955143068036002183",
+        "created_at": "2025-08-12T05:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955143068036002183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1175120530673827840",
+              "start": 35,
+              "username": "guitar0704Marcy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MV0zqFDNoB",
+              "end": 75,
+              "expanded_url": "https://x.com/For9otMeN0t/status/1955143068036002183/video/1",
+              "media_key": "7_1955142967842508800",
+              "start": 52,
+              "url": "https://t.co/MV0zqFDNoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955143068036002183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在雨中演奏了atarayo的〖悲しいラブソング〗，期待十月和你们相遇！@guitar0704Marcy https://t.co/MV0zqFDNoB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "17歲小跨妹//日雌390私信//我沒有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 25,
+                "username": "NTUsg"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "HobartR6"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 912,
+          "like_count": 27756,
+          "listed_count": 12,
+          "media_count": 1132,
+          "tweet_count": 13509
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T03:53:36.000Z",
+        "description": "我有脑瘫PTSD",
+        "id": "1800375758139047936",
+        "name": "茜茜弗斯",
+        "pinned_tweet_id": "1922247772704522601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920893326489780225/AYVGR_A5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 23,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 76
+        },
+        "username": "For9otMeN0t",
+        "verified": false
+      }
+    ]
+  }
+}

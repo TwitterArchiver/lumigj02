@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2081351331655376898",
+    "created_at": "2026-07-26T21:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081497938300489923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "767274984263651328",
+          "start": 0,
+          "username": "Stapx_Happy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081497938300489923",
+    "in_reply_to_user_id": "767274984263651328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081386092323111410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Stapx_Happy 半挂司机不减速我就选择撞湘G了估计1死起步了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2081351331655376898",
+        "created_at": "2026-07-26T21:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081497938300489923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "767274984263651328",
+              "start": 0,
+              "username": "Stapx_Happy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081497938300489923",
+        "in_reply_to_user_id": "767274984263651328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081386092323111410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Stapx_Happy 半挂司机不减速我就选择撞湘G了估计1死起步了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "767274984263651328",
+        "conversation_id": "2081351331655376898",
+        "created_at": "2026-07-26T14:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081386092323111410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081386092323111410",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081351331655376898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 半挂司机好人啊 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4251,
+          "following_count": 840,
+          "like_count": 4384,
+          "listed_count": 9,
+          "media_count": 143,
+          "tweet_count": 1079
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-21T08:19:46.000Z",
+        "description": "是 SS——！男孩子，LGBT。名字只是网名。摆烂了社交有效互动可能会比较少…… 猫猫饲养员 @yyl04 😚。里推 @Stapx_Steve 只过熟人。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 47,
+                "username": "yyl04"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "Stapx_Steve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.stapxs.cn",
+                "end": 23,
+                "expanded_url": "https://blog.stapxs.cn",
+                "start": 0,
+                "url": "https://t.co/Wr9WuiVaR2"
+              }
+            ]
+          }
+        },
+        "id": "767274984263651328",
+        "location": "江苏",
+        "name": "林小槐",
+        "pinned_tweet_id": "1981400942751993936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829541116409937920/HzViQu6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 771,
+          "like_count": 58072,
+          "listed_count": 9,
+          "media_count": 4072,
+          "tweet_count": 18732
+        },
+        "url": "https://t.co/Wr9WuiVaR2",
+        "username": "Stapx_Happy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900497835755438080"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1900497844081152499",
+    "created_at": "2025-03-14T10:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T11:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900497844081152499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LxO5dKPkOe",
+          "end": 31,
+          "expanded_url": "https://x.com/lumigj02/status/1900497844081152499/photo/1",
+          "media_key": "3_1900497835755438080",
+          "start": 8,
+          "url": "https://t.co/LxO5dKPkOe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900497844081152499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "CNM，门呢？ https://t.co/LxO5dKPkOe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900497835755438080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_stlyaAAAHm_y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900497835755438080"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1900497844081152499",
+        "created_at": "2025-03-14T10:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900497844081152499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxO5dKPkOe",
+              "end": 31,
+              "expanded_url": "https://x.com/lumigj02/status/1900497844081152499/photo/1",
+              "media_key": "3_1900497835755438080",
+              "start": 8,
+              "url": "https://t.co/LxO5dKPkOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900497844081152499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "CNM，门呢？ https://t.co/LxO5dKPkOe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 💫 @Yan_Xing_Xing | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 874,
+          "like_count": 25683,
+          "listed_count": 11,
+          "media_count": 953,
+          "tweet_count": 10663
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

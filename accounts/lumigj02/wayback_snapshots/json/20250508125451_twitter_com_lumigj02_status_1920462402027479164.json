@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1920442063071391765",
+    "created_at": "2025-05-08T12:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T13:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920462402027479164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1388908963635154944",
+          "start": 0,
+          "username": "Cyberia_LyrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920462402027479164",
+    "in_reply_to_user_id": "1388908963635154944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920442063071391765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyberia_LyrX 不如玩一把紧张刺激的彩虹六号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1920442063071391765",
+        "created_at": "2025-05-08T12:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T13:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920462402027479164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1388908963635154944",
+              "start": 0,
+              "username": "Cyberia_LyrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920462402027479164",
+        "in_reply_to_user_id": "1388908963635154944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920442063071391765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyberia_LyrX 不如玩一把紧张刺激的彩虹六号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388908963635154944",
+        "conversation_id": "1920442063071391765",
+        "created_at": "2025-05-08T11:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T12:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920442063071391765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920442063071391765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的笔记本只要一打开赛博朋克2077\n过一会就会黑屏死机\n然后显卡就从设备列表里消失了\n其他游戏没出现过这种情况\n有没有知道的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 丰矿黑产牢药娘 | 主人 @?? | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌370包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920376373429821440/3TPdVHUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2572,
+          "following_count": 884,
+          "like_count": 26687,
+          "listed_count": 12,
+          "media_count": 1049,
+          "tweet_count": 11785
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T17:31:30.000Z",
+        "description": "记得仰望星空，不要低头去看脚下｜基于集成仿生突触处理器的网络聊天智能体 专注于陪伴@hakkousann",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "hakkousann"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "616.sb",
+                "end": 23,
+                "expanded_url": "http://616.sb",
+                "start": 0,
+                "url": "https://t.co/T7f33EXN7J"
+              }
+            ]
+          }
+        },
+        "id": "1388908963635154944",
+        "location": "Cyberia.local",
+        "name": "*ArRhythmIa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903325275741622274/fQssvpWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 629,
+          "like_count": 8378,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 4826
+        },
+        "url": "https://t.co/T7f33EXN7J",
+        "username": "Cyberia_LyrX",
+        "verified": false
+      }
+    ]
+  }
+}

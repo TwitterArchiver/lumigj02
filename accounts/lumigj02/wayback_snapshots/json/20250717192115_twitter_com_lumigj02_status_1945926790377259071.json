@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945909499786666475",
+    "created_at": "2025-07-17T19:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T20:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945926790377259071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        },
+        {
+          "end": 31,
+          "id": "1667851059346427914",
+          "start": 15,
+          "username": "hoshi_Asuka0089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945926790377259071",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 25,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945924084174618734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq @hoshi_Asuka0089 ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945924084174618734].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945924084174618734",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945924084174618734"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945909499786666475",
+        "created_at": "2025-07-17T19:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T20:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945926790377259071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            },
+            {
+              "end": 31,
+              "id": "1667851059346427914",
+              "start": 15,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945926790377259071",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945924084174618734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq @hoshi_Asuka0089 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "禍福相倚 死生有名 I 𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎 I 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore I 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Tanglin Rd",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 922,
+          "like_count": 27594,
+          "listed_count": 12,
+          "media_count": 1098,
+          "tweet_count": 12971
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "",
+        "id": "1690388233778331649",
+        "name": "MizukiQAQAQAQ",
+        "pinned_tweet_id": "1933084183855022210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944739993794019329/g2tEepYo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 826,
+          "like_count": 10667,
+          "listed_count": 0,
+          "media_count": 958,
+          "tweet_count": 3554
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "None…(´；ω；`)...yet",
+        "id": "1667851059346427914",
+        "name": "🍍飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 970,
+          "like_count": 72009,
+          "listed_count": 4,
+          "media_count": 769,
+          "tweet_count": 10991
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": true
+      }
+    ]
+  }
+}

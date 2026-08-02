@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922247722939097311",
+    "created_at": "2025-05-14T07:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T08:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922561107475988720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "Yuutsuoriko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922561107475988720",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922286463426638023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuutsuoriko 170确实有点逆天了，有的药商都250左右，我便宜了七八十了，没必要卷的大家都没饭吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922247722939097311",
+        "created_at": "2025-05-14T07:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T08:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922561107475988720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "Yuutsuoriko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922561107475988720",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922286463426638023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuutsuoriko 170确实有点逆天了，有的药商都250左右，我便宜了七八十了，没必要卷的大家都没饭吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908086926391033856",
+        "conversation_id": "1922247722939097311",
+        "created_at": "2025-05-13T13:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T14:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922286463426638023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922286463426638023",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922247722939097311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 我的170泰补回不去了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 主人 @_temryava | 家猫 @_FurryFur_ | 日雌380泰补200（私信可能被吞建议Telegram联系）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "_temryava"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷🍥日雌380泰补200",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 883,
+          "like_count": 26758,
+          "listed_count": 12,
+          "media_count": 1064,
+          "tweet_count": 11901
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "我是见习魔女织莉子，希望能给大家带来安慰和快乐，平时学点心理学和精神分析。如何面对死亡与分别？Telegram: https://t.co/IwFQUu4BYN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+2cARZ7y6_rRhO…",
+                "end": 80,
+                "expanded_url": "https://t.me/+2cARZ7y6_rRhODJl",
+                "start": 57,
+                "url": "https://t.co/IwFQUu4BYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yuutsuoriko",
+                "end": 23,
+                "expanded_url": "https://t.me/Yuutsuoriko",
+                "start": 0,
+                "url": "https://t.co/93ytjay9dG"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Minato-ku, Tokyo",
+        "name": "美国织莉子💫",
+        "pinned_tweet_id": "1922442443158405577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922281093937692672/VFBiM3v2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 838,
+          "like_count": 7483,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/93ytjay9dG",
+        "username": "Yuutsuoriko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922247772704522601",
+    "created_at": "2025-05-22T07:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T08:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925449747525239044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800375758139047936",
+          "start": 0,
+          "username": "For9otMeN0t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925449747525239044",
+    "in_reply_to_user_id": "1800375758139047936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922247772704522601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@For9otMeN0t 怎么看着有点眼熟，像是在哪见过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922247742102925312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0yIw5XcAAGy8a.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922247772704522601",
+        "created_at": "2025-05-22T07:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T08:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925449747525239044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800375758139047936",
+              "start": 0,
+              "username": "For9otMeN0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925449747525239044",
+        "in_reply_to_user_id": "1800375758139047936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922247772704522601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@For9otMeN0t 怎么看着有点眼熟，像是在哪见过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922247742102925312"
+          ]
+        },
+        "author_id": "1800375758139047936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1922247772704522601",
+        "created_at": "2025-05-13T11:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T12:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922247772704522601"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "テキサス"
+            },
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "Arknights"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "Texas"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BMIfPl13SI",
+              "end": 71,
+              "expanded_url": "https://x.com/For9otMeN0t/status/1922247772704522601/photo/1",
+              "media_key": "3_1922247742102925312",
+              "start": 48,
+              "url": "https://t.co/BMIfPl13SI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922247772704522601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#アークナイツ #テキサス #Arknights  #Texas #男の娘\n🍋🍵，要来一杯吗？ https://t.co/BMIfPl13SI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @_Sanxon | Computing @NUSingapore | @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系 | 解block请私信 @_Sanxon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "CatRoll.OHP🏳️‍⚧️日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 893,
+          "like_count": 26965,
+          "listed_count": 12,
+          "media_count": 1078,
+          "tweet_count": 12104
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T03:53:36.000Z",
+        "description": "我有脑瘫PTSD",
+        "id": "1800375758139047936",
+        "name": "茜茜弗斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920893326489780225/AYVGR_A5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 20,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 25
+        },
+        "username": "For9otMeN0t",
+        "verified": false
+      }
+    ]
+  }
+}

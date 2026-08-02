@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1935203548834476118",
+    "created_at": "2025-06-18T05:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T06:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935203548834476118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FwaMofu/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/FwaMofu/status/1934978256316616963",
+          "start": 3,
+          "url": "https://t.co/d5oRIe9FYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935203548834476118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934978256316616963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狼！ https://t.co/d5oRIe9FYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3054,
+        "media_key": "3_1934978249114923009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtpsdzKaMAE3PCK.jpg",
+        "width": 2237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1935203548834476118",
+        "created_at": "2025-06-18T05:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T06:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935203548834476118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FwaMofu/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/FwaMofu/status/1934978256316616963",
+              "start": 3,
+              "url": "https://t.co/d5oRIe9FYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935203548834476118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934978256316616963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狼！ https://t.co/d5oRIe9FYM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934978249114923009"
+          ]
+        },
+        "author_id": "1906696693820817408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1934978256316616963",
+        "created_at": "2025-06-17T14:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934978256316616963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1N3PHgJRW2",
+              "end": 31,
+              "expanded_url": "https://x.com/FwaMofu/status/1934978256316616963/photo/1",
+              "media_key": "3_1934978249114923009",
+              "start": 8,
+              "url": "https://t.co/1N3PHgJRW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934978256316616963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 5415,
+          "like_count": 453,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk\n短髪 https://t.co/1N3PHgJRW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "友跨顺男 | 日雌泰补在售 私信或联系下方Telegram | 🇸🇬 Yishun人跟我们Orchard人讲话要用敬语 | 家猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "pinned_tweet_id": "1935009108744425845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 901,
+          "like_count": 27183,
+          "listed_count": 12,
+          "media_count": 1110,
+          "tweet_count": 12499
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T13:15:09.000Z",
+        "description": "まねきわんこ子の趣味垢 ゲームとrkgk ⚠️性癖丸出し 本垢→@Kemo_Maneki Don't reupload my art and don't use my art for AI training",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Kemo_Maneki"
+              }
+            ]
+          }
+        },
+        "id": "1906696693820817408",
+        "name": "ふわふわ",
+        "pinned_tweet_id": "1934978256316616963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926597445774901248/5c8PJLl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 70,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 937
+        },
+        "username": "FwaMofu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1899906023722541428",
+    "created_at": "2025-03-12T20:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T21:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899913446659129695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899913446659129695",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899906023722541428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq 草，昨天凌晨以副产物的形式被迫摄入了315mg咖啡因和175mg甲麻黄碱，导致我兴奋了一上午…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1899906023722541428",
+        "created_at": "2025-03-12T20:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T21:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899913446659129695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899913446659129695",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899906023722541428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq 草，昨天凌晨以副产物的形式被迫摄入了315mg咖啡因和175mg甲麻黄碱，导致我兴奋了一上午…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690388233778331649",
+        "conversation_id": "1899906023722541428",
+        "created_at": "2025-03-12T19:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T20:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899906023722541428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899906023722541428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炫太多能量饮料了好像身体要出事😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 874,
+          "like_count": 25651,
+          "listed_count": 11,
+          "media_count": 946,
+          "tweet_count": 10606
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "Ugrad @UCSBPhysics | 🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "UCSBPhysics"
+              }
+            ]
+          }
+        },
+        "id": "1690388233778331649",
+        "location": "Santa Barbara, CA",
+        "name": "MizukiQAQAQAQ",
+        "pinned_tweet_id": "1887213409563037916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732029592968572928/J51WOOh4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 778,
+          "like_count": 9279,
+          "listed_count": 1,
+          "media_count": 803,
+          "tweet_count": 3078
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      }
+    ]
+  }
+}

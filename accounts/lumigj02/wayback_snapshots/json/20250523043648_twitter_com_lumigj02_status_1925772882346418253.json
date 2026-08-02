@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1925540401668399563",
+    "created_at": "2025-05-23T04:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T05:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925772882346418253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "Xinyi_ADHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925772882346418253",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925540401668399563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinyi_ADHD 我去成都，顺便去重庆看他😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1925540401668399563",
+        "created_at": "2025-05-23T04:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925772882346418253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "Xinyi_ADHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925772882346418253",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925540401668399563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinyi_ADHD 我去成都，顺便去重庆看他😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "1925540401668399563",
+        "created_at": "2025-05-22T13:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T14:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925540401668399563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925540401668399563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 731,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操mino真的好帅啊啊啊啊啊啊啊\n\n我操啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @HobartR6 ❤️ | Computing @NUSingapore | @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系 | 解block请私信 @_Sanxon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "HobartR6"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 896,
+          "like_count": 26975,
+          "listed_count": 12,
+          "media_count": 1081,
+          "tweet_count": 12118
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "沙坪坝，老师好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "辞鸢婉心漪✨🦈",
+        "pinned_tweet_id": "1925497059114647572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906843104918769664/5Uc-gZdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3486,
+          "following_count": 1626,
+          "like_count": 10047,
+          "listed_count": 8,
+          "media_count": 663,
+          "tweet_count": 6453
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "Xinyi_ADHD",
+        "verified": false
+      }
+    ]
+  }
+}

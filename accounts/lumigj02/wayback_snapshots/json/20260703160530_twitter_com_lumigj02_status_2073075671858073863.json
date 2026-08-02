@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2073037980789596659",
+    "created_at": "2026-07-03T16:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073075671858073863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650521797299953665",
+          "start": 0,
+          "username": "yorei_puewwoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073075671858073863",
+    "in_reply_to_user_id": "1650521797299953665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073063166813073799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yorei_puewwoc 啊姐姐原来不是男的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2073037980789596659",
+        "created_at": "2026-07-03T16:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073075671858073863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yorei_puewwoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073075671858073863",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073063166813073799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yorei_puewwoc 啊姐姐原来不是男的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "conversation_id": "2073037980789596659",
+        "created_at": "2026-07-03T15:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073063166813073799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073063166813073799",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073037980789596659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 咱是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo\n兼职糖商 价：350、170\n猫娘女仆@leetfs1\n笨蛋姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "leetfs1"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://t.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/s1BSKPdKto"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 828,
+          "like_count": 4287,
+          "listed_count": 9,
+          "media_count": 94,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/s1BSKPdKto",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "呼唤我的名字吧 晚餐铃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yulingko.moe",
+                "end": 23,
+                "expanded_url": "https://blog.yulingko.moe/",
+                "start": 0,
+                "url": "https://t.co/t6Y3dpb1nq"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "location": "第三公园",
+        "name": "与岭",
+        "pinned_tweet_id": "2026491877558735319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062555853778309120/Zs3A2qZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 726,
+          "like_count": 80248,
+          "listed_count": 3,
+          "media_count": 950,
+          "tweet_count": 15456
+        },
+        "url": "https://t.co/t6Y3dpb1nq",
+        "username": "yorei_puewwoc",
+        "verified": true
+      }
+    ]
+  }
+}

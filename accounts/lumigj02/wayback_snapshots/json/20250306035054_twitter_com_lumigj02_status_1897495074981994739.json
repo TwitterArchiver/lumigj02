@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897302213263024564",
+    "created_at": "2025-03-06T03:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T04:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897495074981994739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886808864655626240",
+          "start": 0,
+          "username": "keerkeer_1"
+        },
+        {
+          "end": 21,
+          "id": "1502860007867502598",
+          "start": 12,
+          "username": "HobartR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897495074981994739",
+    "in_reply_to_user_id": "1886808864655626240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897350339063603602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keerkeer_1 @HobartR6 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897302213263024564",
+        "created_at": "2025-03-06T03:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T04:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897495074981994739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886808864655626240",
+              "start": 0,
+              "username": "keerkeer_1"
+            },
+            {
+              "end": 21,
+              "id": "1502860007867502598",
+              "start": 12,
+              "username": "HobartR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897495074981994739",
+        "in_reply_to_user_id": "1886808864655626240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897350339063603602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keerkeer_1 @HobartR6 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886808864655626240",
+        "conversation_id": "1897302213263024564",
+        "created_at": "2025-03-05T18:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T19:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897350339063603602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1502860007867502598",
+              "start": 0,
+              "username": "HobartR6"
+            },
+            {
+              "end": 19,
+              "id": "1176535991454064640",
+              "start": 10,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897350339063603602",
+        "in_reply_to_user_id": "1502860007867502598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897347212784624044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HobartR6 @lumigj02 总有一天我要把你俩送上火刑架😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 日雌390泰补200 DM or contact Telegram below",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi G. Jiang Cheng Xue 日雌390泰补200",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 836,
+          "like_count": 25401,
+          "listed_count": 11,
+          "media_count": 920,
+          "tweet_count": 10256
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T16:07:50.000Z",
+        "description": "赛博妓女，网络骚逼，双性恋mtx，是个见光死肥猪，摄影师 修图师\n\n无门槛，扩列请私信",
+        "id": "1886808864655626240",
+        "location": "职高女厕",
+        "name": "🔞keer今天拍照又没带卡（讨个fo谢谢喵）",
+        "pinned_tweet_id": "1886815353126445365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889804039812161536/nYLCHbdT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 235,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 619
+        },
+        "username": "keerkeer_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "💖 @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "HobartR6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896483474799808512/O-u_oJ1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 74,
+          "like_count": 728,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 543
+        },
+        "username": "HobartR6",
+        "verified": false
+      }
+    ]
+  }
+}

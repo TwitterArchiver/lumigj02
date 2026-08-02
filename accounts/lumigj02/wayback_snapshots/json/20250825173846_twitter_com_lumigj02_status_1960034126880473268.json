@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1959943589955285069",
+    "created_at": "2025-08-25T17:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T18:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960034126880473268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1855890157989412864",
+          "start": 0,
+          "username": "tzmisaki"
+        },
+        {
+          "end": 25,
+          "id": "1260553941714186241",
+          "start": 10,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960034126880473268",
+    "in_reply_to_user_id": "1855890157989412864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959979664648372622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tzmisaki @whyyoutouzhele 家里得请哈基米了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1959943589955285069",
+        "created_at": "2025-08-25T17:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960034126880473268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1855890157989412864",
+              "start": 0,
+              "username": "tzmisaki"
+            },
+            {
+              "end": 25,
+              "id": "1260553941714186241",
+              "start": 10,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960034126880473268",
+        "in_reply_to_user_id": "1855890157989412864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959979664648372622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tzmisaki @whyyoutouzhele 家里得请哈基米了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855890157989412864",
+        "conversation_id": "1959943589955285069",
+        "created_at": "2025-08-25T14:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T15:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959979664648372622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959979664648372622",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2396,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959943589955285069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 一看全是处男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌380私//💌@HobartR6🐈@_FurryFur_//@JR_YamanoteE235//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 929,
+          "like_count": 27920,
+          "listed_count": 13,
+          "media_count": 1160,
+          "tweet_count": 13841
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T08:27:58.000Z",
+        "description": "里@r18misaki1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "r18misaki1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/d5kq7gfRZ6",
+                "end": 23,
+                "expanded_url": "https://discord.gg/d5kq7gfRZ6",
+                "start": 0,
+                "url": "https://t.co/ZTjhoE619T"
+              }
+            ]
+          }
+        },
+        "id": "1855890157989412864",
+        "location": "南京",
+        "name": "鳶沢 みさき",
+        "pinned_tweet_id": "1941651417351262408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941648532236271619/m-KHGAmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 1580,
+          "like_count": 64127,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 6259
+        },
+        "url": "https://t.co/ZTjhoE619T",
+        "username": "tzmisaki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085319,
+          "following_count": 983,
+          "like_count": 7988,
+          "listed_count": 8285,
+          "media_count": 33919,
+          "tweet_count": 40681
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2079122644843303168",
+    "created_at": "2026-07-20T13:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079198469135409382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3826006034",
+          "start": 0,
+          "username": "yosihiko37"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 41,
+          "expanded_url": "https://x.com/lumigj02/status/2079167992940933264",
+          "start": 18,
+          "url": "https://t.co/9OwxtQbYxC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079198469135409382",
+    "in_reply_to_user_id": "3826006034",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079167992940933264",
+        "type": "quoted"
+      },
+      {
+        "id": "2079196471841452250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yosihiko37 @grok https://t.co/9OwxtQbYxC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2079122644843303168",
+        "created_at": "2026-07-20T13:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079198469135409382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3826006034",
+              "start": 0,
+              "username": "yosihiko37"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 41,
+              "expanded_url": "https://x.com/lumigj02/status/2079167992940933264",
+              "start": 18,
+              "url": "https://t.co/9OwxtQbYxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079198469135409382",
+        "in_reply_to_user_id": "3826006034",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079167992940933264",
+            "type": "quoted"
+          },
+          {
+            "id": "2079196471841452250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yosihiko37 @grok https://t.co/9OwxtQbYxC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2079122644843303168",
+        "created_at": "2026-07-20T11:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079167992940933264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1700038264781230080",
+              "start": 0,
+              "username": "RGW90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079167992940933264",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079167434351907047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RGW90 就是打印一个贴纸上去到轮胎上假装自己没有改装过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3826006034",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201630019065274369",
+              "name": "PlayStation 5"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201630019065274369",
+              "name": "PlayStation 5"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2079122644843303168",
+        "created_at": "2026-07-20T13:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079196471841452250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079196471841452250",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079122644843303168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 @grok 我看不懂，什么是 Ps5，什么合不合法。给我解释一下。谢谢您"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll\n糖商⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/vNaapx0WBI"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4210,
+          "following_count": 840,
+          "like_count": 4370,
+          "listed_count": 9,
+          "media_count": 130,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/vNaapx0WBI",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-08T14:07:10.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xuing",
+                "end": 23,
+                "expanded_url": "https://github.com/xuing",
+                "start": 0,
+                "url": "https://t.co/f4sQAyZXPd"
+              }
+            ]
+          }
+        },
+        "id": "3826006034",
+        "name": "佑希柯",
+        "pinned_tweet_id": "1992940633183686693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040255244467314689/_wFoQzhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 518,
+          "like_count": 8061,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/f4sQAyZXPd",
+        "username": "yosihiko37",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866630,
+          "following_count": 5,
+          "like_count": 121,
+          "listed_count": 7219,
+          "media_count": 9170451,
+          "tweet_count": 131841419
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

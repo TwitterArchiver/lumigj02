@@ -1,0 +1,582 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Texas",
+          "id": "855432197297192961",
+          "name": "Texas"
+        }
+      }
+    ],
+    "conversation_id": "1962270039035494428",
+    "created_at": "2025-08-31T21:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T22:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962270039035494428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/riseillustrato…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/riseillustrator/status/1961670159179133079",
+          "start": 7,
+          "url": "https://t.co/FM8hVb10Gn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962270039035494428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961670159179133079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好方正的德狗 https://t.co/FM8hVb10Gn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1961669027874721792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzk_lmVb0AAUjs-.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1962270039035494428",
+        "created_at": "2025-08-31T21:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T22:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962270039035494428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/riseillustrato…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/riseillustrator/status/1961670159179133079",
+              "start": 7,
+              "url": "https://t.co/FM8hVb10Gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962270039035494428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961670159179133079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好方正的德狗 https://t.co/FM8hVb10Gn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961669027874721792"
+          ]
+        },
+        "author_id": "1684557717594324992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1961670159179133079",
+        "created_at": "2025-08-30T05:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T06:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961670159179133079"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "Arknights"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "アークナイツ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GM6DOmi0YI",
+              "end": 47,
+              "expanded_url": "https://x.com/riseillustrator/status/1961670159179133079/photo/1",
+              "media_key": "3_1961669027874721792",
+              "start": 24,
+              "url": "https://t.co/GM6DOmi0YI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961670159179133079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 7461,
+          "like_count": 585,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "テキサス\n#Arknights #アークナイツ https://t.co/GM6DOmi0YI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Chinese, @NTUsg @sutdsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 9,
+                "username": "NTUsg"
+              },
+              {
+                "end": 23,
+                "start": 16,
+                "username": "sutdsg"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "Lumi、Lumi、時々猫巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 931,
+          "like_count": 27962,
+          "listed_count": 13,
+          "media_count": 1163,
+          "tweet_count": 13928
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T13:34:02.000Z",
+        "description": "イラストレーター/illustrator.\n依頼のご相談はDMでも受け付けております！\nココナラ https://t.co/vuXxWhUP4X\nFANBOX https://t.co/xuqSPraGAl\nskeb→ https://t.co/854R6We7Ht",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "coconala.com/users/5518919",
+                "end": 72,
+                "expanded_url": "https://coconala.com/users/5518919",
+                "start": 49,
+                "url": "https://t.co/vuXxWhUP4X"
+              },
+              {
+                "display_url": "rise4673.fanbox.cc",
+                "end": 103,
+                "expanded_url": "https://rise4673.fanbox.cc/",
+                "start": 80,
+                "url": "https://t.co/xuqSPraGAl"
+              },
+              {
+                "display_url": "skeb.jp/@RISE",
+                "end": 133,
+                "expanded_url": "https://skeb.jp/@RISE",
+                "start": 110,
+                "url": "https://t.co/854R6We7Ht"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41059724",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/41059724",
+                "start": 0,
+                "url": "https://t.co/TafewKPoNv"
+              }
+            ]
+          }
+        },
+        "id": "1684557717594324992",
+        "location": "大阪",
+        "name": "RISE@仕事募集中",
+        "pinned_tweet_id": "1948382050773520877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915695729492058112/U8cjdnau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 471,
+          "like_count": 19971,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 5600
+        },
+        "url": "https://t.co/TafewKPoNv",
+        "username": "riseillustrator",
+        "verified": true
+      }
+    ]
+  }
+}

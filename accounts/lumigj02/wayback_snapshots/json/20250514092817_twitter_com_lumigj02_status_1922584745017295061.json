@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922574784010842622",
+    "created_at": "2025-05-14T09:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T10:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922584745017295061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795299871634948097",
+          "start": 0,
+          "username": "AGGlobalEsports"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922584745017295061",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922584674087440890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGGlobalEsports 还有一个是谁不认识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922574784010842622",
+        "created_at": "2025-05-14T09:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T10:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922584745017295061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795299871634948097",
+              "start": 0,
+              "username": "AGGlobalEsports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922584745017295061",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922584674087440890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGGlobalEsports 还有一个是谁不认识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922574784010842622",
+        "created_at": "2025-05-14T09:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T10:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922584674087440890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795299871634948097",
+              "start": 0,
+              "username": "AGGlobalEsports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922584674087440890",
+        "in_reply_to_user_id": "1795299871634948097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922574784010842622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGGlobalEsports 破案了椰奶鸭子solomidbottomlove"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 我叫陈俊杰 ID: Jason.OGS | 主人 @_temryava | 家猫 @_FurryFur_ | 日雌380泰补200（私信可能被吞建议Telegram联系）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "_temryava"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷🍥日雌380泰补200",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 885,
+          "like_count": 26761,
+          "listed_count": 12,
+          "media_count": 1065,
+          "tweet_count": 11918
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T03:43:54.000Z",
+        "description": "Established in 1999. \nOne of the most recognised and successful Chinese 🇨🇳 esports organisations now stepping in to global scene.",
+        "id": "1795299871634948097",
+        "name": "All Gamers - AG Global",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795699067789721600/deoz30iC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 32,
+          "like_count": 135,
+          "listed_count": 7,
+          "media_count": 129,
+          "tweet_count": 170
+        },
+        "username": "AGGlobalEsports",
+        "verified": false
+      }
+    ]
+  }
+}

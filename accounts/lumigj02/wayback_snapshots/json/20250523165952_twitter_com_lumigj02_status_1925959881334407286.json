@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1925872572396191977",
+    "created_at": "2025-05-23T16:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T17:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925959881334407286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737053348740603904",
+          "start": 0,
+          "username": "shiroko2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925959881334407286",
+    "in_reply_to_user_id": "1737053348740603904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925872572396191977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko2024 白子太可爱惹😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925872470470344704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GroSzuUWwAAP_8x.jpg",
+        "width": 1295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1925872572396191977",
+        "created_at": "2025-05-23T16:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T17:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925959881334407286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737053348740603904",
+              "start": 0,
+              "username": "shiroko2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925959881334407286",
+        "in_reply_to_user_id": "1737053348740603904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925872572396191977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko2024 白子太可爱惹😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925872470470344704"
+          ]
+        },
+        "author_id": "1737053348740603904",
+        "conversation_id": "1925872572396191977",
+        "created_at": "2025-05-23T11:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T12:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925872572396191977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7sYdR7ZKE",
+              "end": 29,
+              "expanded_url": "https://x.com/shiroko2024/status/1925872572396191977/photo/1",
+              "media_key": "3_1925872470470344704",
+              "start": 6,
+              "url": "https://t.co/u7sYdR7ZKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925872572396191977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1760,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小腿袜舒服 https://t.co/u7sYdR7ZKE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @HobartR6 ❤️ | Computing @NUSingapore | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "HobartR6"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1924879441324605676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2668,
+          "following_count": 896,
+          "like_count": 26997,
+          "listed_count": 12,
+          "media_count": 1084,
+          "tweet_count": 12154
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T10:13:24.000Z",
+        "description": "白子单推人！！！\n妈妈 @kurioshifio | 好朋友 @GlimpseAbyss | 爱你 @squirrelGUW | 互动请fo小号@Mostima2025",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kurioshifio"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "GlimpseAbyss"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "squirrelGUW"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Mostima2025"
+              }
+            ]
+          }
+        },
+        "id": "1737053348740603904",
+        "location": "阿拜多斯职业高中",
+        "name": "白子亲～",
+        "pinned_tweet_id": "1923031111115907115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923031773589667845/h0_sZoKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8207,
+          "following_count": 951,
+          "like_count": 211184,
+          "listed_count": 29,
+          "media_count": 1761,
+          "tweet_count": 14878
+        },
+        "username": "shiroko2024",
+        "verified": false
+      }
+    ]
+  }
+}

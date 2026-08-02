@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953901302494462312",
+    "created_at": "2025-08-08T19:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T20:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953901302494462312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daihonyaku/sta…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/daihonyaku/status/1953626285454111024",
+          "start": 102,
+          "url": "https://t.co/nDMRnf45OD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953901302494462312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953626285454111024",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然但是日本在东亚和东南亚杀了那么多人你见过新加坡人对着日本哈气吗，日本挨了颗核弹就开始哈气了，这颗核弹一不是恐怖袭击二不是侵略，怎么看都是正义的战争行为吧，只能说日支支不支啊，给日本人支完了，比支还支 https://t.co/nDMRnf45OD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1953626257348079619",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxysuvUbsAMADuy.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953901302494462312",
+        "created_at": "2025-08-08T19:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T20:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953901302494462312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daihonyaku/sta…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/daihonyaku/status/1953626285454111024",
+              "start": 102,
+              "url": "https://t.co/nDMRnf45OD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953901302494462312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953626285454111024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然但是日本在东亚和东南亚杀了那么多人你见过新加坡人对着日本哈气吗，日本挨了颗核弹就开始哈气了，这颗核弹一不是恐怖袭击二不是侵略，怎么看都是正义的战争行为吧，只能说日支支不支啊，给日本人支完了，比支还支 https://t.co/nDMRnf45OD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953626257348079619"
+          ]
+        },
+        "author_id": "1825427563977592832",
+        "conversation_id": "1953626285454111024",
+        "created_at": "2025-08-08T01:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T02:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953626285454111024"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.902,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 15,
+              "normalized_text": "広島の恋",
+              "probability": 0.5434,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkKhW0cXii",
+              "end": 42,
+              "expanded_url": "https://x.com/daihonyaku/status/1953626285454111024/photo/1",
+              "media_key": "3_1953626257348079619",
+              "start": 19,
+              "url": "https://t.co/CkKhW0cXii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953626285454111024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 3440939,
+          "like_count": 1470,
+          "quote_count": 444,
+          "reply_count": 367,
+          "retweet_count": 879
+        },
+        "reply_settings": "everyone",
+        "text": "中国で大人気の工芸品、「広島の恋」。 https://t.co/CkKhW0cXii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷uwu🐱✨🐈",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953433505246945280/jdZGBDtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 934,
+          "like_count": 27695,
+          "listed_count": 12,
+          "media_count": 1122,
+          "tweet_count": 13354
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T07:01:13.000Z",
+        "description": "",
+        "id": "1825427563977592832",
+        "name": "大翻訳運動",
+        "pinned_tweet_id": "1842025077120119165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826181827507396608/rofo9D1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18508,
+          "following_count": 23,
+          "like_count": 45,
+          "listed_count": 72,
+          "media_count": 416,
+          "tweet_count": 499
+        },
+        "username": "daihonyaku",
+        "verified": true
+      }
+    ]
+  }
+}

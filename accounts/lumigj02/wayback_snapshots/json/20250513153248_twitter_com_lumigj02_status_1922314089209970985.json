@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922250279522615700",
+    "created_at": "2025-05-13T15:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T16:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922314089209970985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1224014088381952002",
+          "start": 0,
+          "username": "YeBuYiya"
+        },
+        {
+          "end": 24,
+          "id": "1920367348617474048",
+          "start": 10,
+          "username": "letogrilsIove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922314089209970985",
+    "in_reply_to_user_id": "1224014088381952002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922313961304715426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeBuYiya @letogrilsIove 不想戒烟啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922250279522615700",
+        "created_at": "2025-05-13T15:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922314089209970985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1224014088381952002",
+              "start": 0,
+              "username": "YeBuYiya"
+            },
+            {
+              "end": 24,
+              "id": "1920367348617474048",
+              "start": 10,
+              "username": "letogrilsIove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922314089209970985",
+        "in_reply_to_user_id": "1224014088381952002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922313961304715426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeBuYiya @letogrilsIove 不想戒烟啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224014088381952002",
+        "conversation_id": "1922250279522615700",
+        "created_at": "2025-05-13T15:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922313961304715426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920367348617474048",
+              "start": 0,
+              "username": "letogrilsIove"
+            },
+            {
+              "end": 24,
+              "id": "1176535991454064640",
+              "start": 15,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922313961304715426",
+        "in_reply_to_user_id": "1920367348617474048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922308808342229033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@letogrilsIove @lumigj02 香烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 老婆 @RanXi_MtF | 主人 @_temryava | 家猫 @_FurryFur_ | 姐姐 @Yan_Xing_Xing | 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "_temryava"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷 日雌380",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 882,
+          "like_count": 26747,
+          "listed_count": 12,
+          "media_count": 1060,
+          "tweet_count": 11880
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T16:58:04.000Z",
+        "description": "X用来瞎叨叨",
+        "id": "1224014088381952002",
+        "location": "North-East Region, Singapore",
+        "name": "花里花啦（戒烟版）",
+        "pinned_tweet_id": "1628017541640749056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889319444943712256/q0DfpVgO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 194,
+          "like_count": 1671,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 1292
+        },
+        "username": "YeBuYiya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T06:37:20.000Z",
+        "description": "持证含糖MTF，刚来到推特，同类的话可以互关的哦（HRT to2023.12.7)炸櫃父母不管黨\n不喜欢百合了再改头像（ Intp+牡羊座）（无主小猫）\n隨機刷新地點：吊州，西安，長沙\n備用小號：@tomtfraiden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "tomtfraiden"
+              }
+            ]
+          }
+        },
+        "id": "1920367348617474048",
+        "name": "神楽坂 星子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920367458893873152/YDehwhu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 205,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 107
+        },
+        "username": "letogrilsIove",
+        "verified": false
+      }
+    ]
+  }
+}

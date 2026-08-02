@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1946254445513220135",
+    "created_at": "2025-07-18T18:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T19:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946269948592209974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946269948592209974",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946254445513220135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq 羡慕淫乱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946254445513220135].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946254445513220135",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946254445513220135"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1946254445513220135",
+        "created_at": "2025-07-18T18:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T19:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946269948592209974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946269948592209974",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946254445513220135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq 羡慕淫乱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "愿意被我杀掉么? I 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore I 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Tanglin Rd",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 922,
+          "like_count": 27608,
+          "listed_count": 12,
+          "media_count": 1098,
+          "tweet_count": 13002
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "",
+        "id": "1690388233778331649",
+        "name": "MizukiQAQAQAQ",
+        "pinned_tweet_id": "1933084183855022210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944739993794019329/g2tEepYo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 824,
+          "like_count": 10702,
+          "listed_count": 0,
+          "media_count": 961,
+          "tweet_count": 3562
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      }
+    ]
+  }
+}

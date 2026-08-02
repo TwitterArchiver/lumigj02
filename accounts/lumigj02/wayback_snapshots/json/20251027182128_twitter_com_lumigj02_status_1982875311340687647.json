@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982875304122023936",
+        "3_1982875304130461696"
+      ]
+    },
+    "author_id": "1978184650548994048",
+    "conversation_id": "1982875311340687647",
+    "created_at": "2025-10-27T18:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T19:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982875311340687647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jyN62V7v6V",
+          "end": 40,
+          "expanded_url": "https://x.com/lumigj02/status/1982875311340687647/photo/1",
+          "media_key": "3_1982875304122023936",
+          "start": 17,
+          "url": "https://t.co/jyN62V7v6V"
+        },
+        {
+          "display_url": "pic.x.com/jyN62V7v6V",
+          "end": 40,
+          "expanded_url": "https://x.com/lumigj02/status/1982875311340687647/photo/1",
+          "media_key": "3_1982875304130461696",
+          "start": 17,
+          "url": "https://t.co/jyN62V7v6V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982875311340687647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沉痛悼念\n吴相泽 吴以新 管书霞 https://t.co/jyN62V7v6V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_1982875304122023936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4SWlVgWgAANChc.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1454,
+        "media_key": "3_1982875304130461696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4SWlViXQAApS60.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982875304122023936",
+            "3_1982875304130461696"
+          ]
+        },
+        "author_id": "1978184650548994048",
+        "conversation_id": "1982875311340687647",
+        "created_at": "2025-10-27T18:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982875311340687647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyN62V7v6V",
+              "end": 40,
+              "expanded_url": "https://x.com/lumigj02/status/1982875311340687647/photo/1",
+              "media_key": "3_1982875304122023936",
+              "start": 17,
+              "url": "https://t.co/jyN62V7v6V"
+            },
+            {
+              "display_url": "pic.x.com/jyN62V7v6V",
+              "end": 40,
+              "expanded_url": "https://x.com/lumigj02/status/1982875311340687647/photo/1",
+              "media_key": "3_1982875304130461696",
+              "start": 17,
+              "url": "https://t.co/jyN62V7v6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982875311340687647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沉痛悼念\n吴相泽 吴以新 管书霞 https://t.co/jyN62V7v6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-14T19:43:07.000Z",
+        "description": "tu5jp4",
+        "id": "1978184650548994048",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980262106688544768/UVM3K8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 36,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

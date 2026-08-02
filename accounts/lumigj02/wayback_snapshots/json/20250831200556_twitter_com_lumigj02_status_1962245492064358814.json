@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      }
+    ],
+    "conversation_id": "1962245492064358814",
+    "created_at": "2025-08-31T20:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T21:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962245492064358814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 289,
+          "expanded_url": "https://twitter.com/lumigj02/status/1959666497682600301",
+          "start": 266,
+          "url": "https://t.co/25raQOociD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962245492064358814",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959666497682600301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "It was the first time someone walked towards the table I was sitting at and pointed at my milo saying \"there's no outside drinks allowed\" while I was not even drinking it\nI know a lot of restaurants have this rule but... bro WHAT?!\nI'll never order food there again https://t.co/25raQOociD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959666491663765506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzIiSpna0AI_duC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "1962245492064358814",
+        "created_at": "2025-08-31T20:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T21:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962245492064358814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 289,
+              "expanded_url": "https://twitter.com/lumigj02/status/1959666497682600301",
+              "start": 266,
+              "url": "https://t.co/25raQOociD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962245492064358814",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959666497682600301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It was the first time someone walked towards the table I was sitting at and pointed at my milo saying \"there's no outside drinks allowed\" while I was not even drinking it\nI know a lot of restaurants have this rule but... bro WHAT?!\nI'll never order food there again https://t.co/25raQOociD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959666491663765506"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1959666497682600301",
+        "created_at": "2025-08-24T17:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T18:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959666497682600301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uO4C7rA0OH",
+              "end": 62,
+              "expanded_url": "https://x.com/lumigj02/status/1959666497682600301/photo/1",
+              "media_key": "3_1959666491663765506",
+              "start": 39,
+              "url": "https://t.co/uO4C7rA0OH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959666497682600301",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Is this 06 or 90\n- A Hot Hideout - NUS https://t.co/uO4C7rA0OH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "头像是德狗草完拉狗的事后烟 @NTUsg @sutdsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "NTUsg"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "sutdsg"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "即便挣扎也毫无办法呢～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 931,
+          "like_count": 27959,
+          "listed_count": 13,
+          "media_count": 1163,
+          "tweet_count": 13926
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

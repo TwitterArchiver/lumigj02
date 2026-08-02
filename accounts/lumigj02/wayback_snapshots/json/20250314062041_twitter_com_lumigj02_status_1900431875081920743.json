@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1900429672413810768",
+    "created_at": "2025-03-14T06:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T07:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900431875081920743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686472989129441281",
+          "start": 0,
+          "username": "_Furryfur_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900431875081920743",
+    "in_reply_to_user_id": "1686472989129441281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900429672413810768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Furryfur_ 呜呜呜是怎样的每次都会被热风吹死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1900429672413810768",
+        "created_at": "2025-03-14T06:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T07:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900431875081920743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686472989129441281",
+              "start": 0,
+              "username": "_Furryfur_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900431875081920743",
+        "in_reply_to_user_id": "1686472989129441281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900429672413810768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Furryfur_ 呜呜呜是怎样的每次都会被热风吹死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686472989129441281",
+        "conversation_id": "1900429672413810768",
+        "created_at": "2025-03-14T06:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T07:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900429672413810768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900429672413810768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在站台等公交，结果一股热浪扑面而来，差点被烤熟了😡\n最喜欢电动公交的一集\n所以为啥这些车的散热器是朝左开的？为了方便烘烤乘客嘛？👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 💫 @Yan_Xing_Xing | 📧 Contact: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 875,
+          "like_count": 25675,
+          "listed_count": 11,
+          "media_count": 949,
+          "tweet_count": 10644
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-01T20:25:04.000Z",
+        "description": "Just a regular VRChat player \nPrefer language: English / Chinese",
+        "id": "1686472989129441281",
+        "location": "Singapura",
+        "name": "Furryfur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853698940295860224/mBcXxPcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 306,
+          "like_count": 28228,
+          "listed_count": 4,
+          "media_count": 145,
+          "tweet_count": 1128
+        },
+        "username": "_Furryfur_",
+        "verified": false
+      }
+    ]
+  }
+}

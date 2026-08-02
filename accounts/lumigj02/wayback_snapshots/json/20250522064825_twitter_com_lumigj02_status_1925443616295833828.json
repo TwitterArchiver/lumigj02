@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1925291500436693409",
+    "created_at": "2025-05-22T06:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T07:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925443616295833828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925443616295833828",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925443532464259517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq 你真的超可爱的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1925291500436693409",
+        "created_at": "2025-05-22T06:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T07:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925443616295833828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925443616295833828",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925443532464259517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq 你真的超可爱的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690388233778331649",
+        "conversation_id": "1925291500436693409",
+        "created_at": "2025-05-22T06:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T07:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925443532464259517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925443532464259517",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925443486364704945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 别看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @_Sanxon | @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系 | 解block请私信 @_Sanxon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "CatRoll.OHP🏳️‍⚧️日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 892,
+          "like_count": 26964,
+          "listed_count": 12,
+          "media_count": 1078,
+          "tweet_count": 12103
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "Ugrad @UCSBPhysics | 🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "UCSBPhysics"
+              }
+            ]
+          }
+        },
+        "id": "1690388233778331649",
+        "location": "Santa Barbara, CA",
+        "name": "MizukiQAQAQAQ",
+        "pinned_tweet_id": "1906024929385935213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924619943074766848/LnejqEeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 808,
+          "like_count": 10144,
+          "listed_count": 0,
+          "media_count": 921,
+          "tweet_count": 3420
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      }
+    ]
+  }
+}

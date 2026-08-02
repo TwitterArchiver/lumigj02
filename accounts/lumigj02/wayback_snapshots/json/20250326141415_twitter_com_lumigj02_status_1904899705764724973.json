@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1904899705764724973",
+    "created_at": "2025-03-26T14:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T15:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904899705764724973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1904899705764724973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 51,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现某同班同学名字后有🍥狂喜结果点进去后发现是顺女然后大失所望（\n（当然不排除另一种可能，如果真pass成这样我就不活了😡👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1904899705764724973",
+        "created_at": "2025-03-26T14:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T15:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904899705764724973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904899705764724973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现某同班同学名字后有🍥狂喜结果点进去后发现是顺女然后大失所望（\n（当然不排除另一种可能，如果真pass成这样我就不活了😡👊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu | 二十多岁的 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无 | 我是海豹手套色布偶, 不是暹罗!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 88,
+                "start": 81,
+                "username": "sutdsg"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 860,
+          "like_count": 25981,
+          "listed_count": 11,
+          "media_count": 969,
+          "tweet_count": 11053
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

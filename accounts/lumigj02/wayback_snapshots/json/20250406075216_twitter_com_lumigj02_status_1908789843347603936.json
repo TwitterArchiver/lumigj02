@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1908788773808435357",
+    "created_at": "2025-04-06T07:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T08:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908789843347603936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1904128012825878529",
+          "start": 0,
+          "username": "SolstasRenex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908789843347603936",
+    "in_reply_to_user_id": "1904128012825878529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908789688011546755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SolstasRenex 一看就是學CompSci的nerd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1908788773808435357",
+        "created_at": "2025-04-06T07:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T08:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908789843347603936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1904128012825878529",
+              "start": 0,
+              "username": "SolstasRenex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908789843347603936",
+        "in_reply_to_user_id": "1904128012825878529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908789688011546755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SolstasRenex 一看就是學CompSci的nerd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904128012825878529",
+        "conversation_id": "1908788773808435357",
+        "created_at": "2025-04-06T07:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T08:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908789688011546755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908789688011546755",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908788773808435357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 一看就是学霸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | Comp @NUSingapore | R6 Champ Player | 🏳️‍⚧️ HRT 20230418 | ❤️ @Yan_Xing_Xing | @you_miaowu | 日雌380包邮 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "猫归云卷 (日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908656993738645506/-6v0h0RO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 863,
+          "like_count": 26253,
+          "listed_count": 11,
+          "media_count": 992,
+          "tweet_count": 11256
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T11:08:45.000Z",
+        "description": "",
+        "id": "1904128012825878529",
+        "location": "Earth",
+        "name": "Anastasia",
+        "pinned_tweet_id": "1905472667895169456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908021600999583745/hNCdxdcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 107,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 525
+        },
+        "username": "SolstasRenex",
+        "verified": true
+      }
+    ]
+  }
+}

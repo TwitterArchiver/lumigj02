@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1955500931791065560",
+    "created_at": "2025-08-13T14:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955645002278969551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "Cypress_7593"
+        },
+        {
+          "end": 20,
+          "id": "1507396901594820608",
+          "start": 14,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955645002278969551",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955582568847626459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_7593 @hgds0 尼玛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1955500931791065560",
+        "created_at": "2025-08-13T14:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955645002278969551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            },
+            {
+              "end": 20,
+              "id": "1507396901594820608",
+              "start": 14,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955645002278969551",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955582568847626459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 @hgds0 尼玛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692136120027320320",
+        "conversation_id": "1955500931791065560",
+        "created_at": "2025-08-13T10:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955582568847626459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955582568847626459",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955500931791065560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 这次考得好不好😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我沒有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2827,
+          "following_count": 912,
+          "like_count": 27779,
+          "listed_count": 12,
+          "media_count": 1137,
+          "tweet_count": 13559
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "【⚠️本账号随时可能被某🦊夺舍】INFJ 5w6（经常化身ISTP形态）|不是人类不说人话精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|第二人格@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 112,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1953385277474664809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1073,
+          "like_count": 25572,
+          "listed_count": 5,
+          "media_count": 1038,
+          "tweet_count": 7208
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "Cypress_7593",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1954814858396119441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87236,
+          "following_count": 2860,
+          "like_count": 43366,
+          "listed_count": 108,
+          "media_count": 2676,
+          "tweet_count": 6981
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

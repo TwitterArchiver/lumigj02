@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1957791362969174225",
+    "created_at": "2025-08-19T23:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T00:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957941680868556911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795137310935408640",
+          "start": 0,
+          "username": "saksamalah2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957941680868556911",
+    "in_reply_to_user_id": "1795137310935408640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957941296578064751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saksamalah2nd 我抽死你个卡兹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1957791362969174225",
+        "created_at": "2025-08-19T23:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T00:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957941680868556911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795137310935408640",
+              "start": 0,
+              "username": "saksamalah2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957941680868556911",
+        "in_reply_to_user_id": "1795137310935408640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957941296578064751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saksamalah2nd 我抽死你个卡兹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795137310935408640",
+        "conversation_id": "1957791362969174225",
+        "created_at": "2025-08-19T23:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T00:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957941296578064751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957941296578064751",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957851293512577081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "笨猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957897457658175488/cqcc_2gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 920,
+          "like_count": 27855,
+          "listed_count": 12,
+          "media_count": 1150,
+          "tweet_count": 13714
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T16:57:58.000Z",
+        "description": "马来西亚是马来西亚人的马来西亚😞   不要遵宪要修宪📕  不要主人要平等📜 人民至上👨🛠 Ketuanan Rakyat  一國三制🇲🇾❤|雪兰莪州|惠州人|@lmao_quien",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "lmao_quien"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/g0moet-jLw8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/g0moet-jLw8?si=IxPxG6Xe51xCb20d",
+                "start": 0,
+                "url": "https://t.co/GwUECa5QTg"
+              }
+            ]
+          }
+        },
+        "id": "1795137310935408640",
+        "location": "重庆 马来西亚/（广东省）闽粤交界",
+        "name": "太阳万寿无疆，向日葵🌻永远健康",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931578182454644737/I1JnCtn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 1472,
+          "like_count": 80602,
+          "listed_count": 9,
+          "media_count": 1891,
+          "tweet_count": 27809
+        },
+        "url": "https://t.co/GwUECa5QTg",
+        "username": "saksamalah2nd",
+        "verified": false
+      }
+    ]
+  }
+}

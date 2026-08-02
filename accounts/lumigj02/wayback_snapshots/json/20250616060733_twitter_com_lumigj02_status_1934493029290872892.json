@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1934491546432475276",
+    "created_at": "2025-06-16T06:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T07:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934493029290872892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646905533386100738",
+          "start": 0,
+          "username": "du_allen45136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934493029290872892",
+    "in_reply_to_user_id": "1646905533386100738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934491546432475276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@du_allen45136 诋毁组怎么这么快就上线了✋😭✋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1934491546432475276",
+        "created_at": "2025-06-16T06:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T07:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934493029290872892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646905533386100738",
+              "start": 0,
+              "username": "du_allen45136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934493029290872892",
+        "in_reply_to_user_id": "1646905533386100738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934491546432475276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@du_allen45136 诋毁组怎么这么快就上线了✋😭✋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646905533386100738",
+        "conversation_id": "1934491546432475276",
+        "created_at": "2025-06-16T06:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T07:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934491546432475276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/lumigj02/status/1934234340076167481",
+              "start": 60,
+              "url": "https://t.co/DoUyRKJi44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934491546432475276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934234340076167481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯杂鱼猫卷，喝之前说自己酒量可大了，根本喝不醉，还说要喝第二轮，结果几个龙舌兰shot直接趴下了，宿醉到第二天下午🤣👉 https://t.co/DoUyRKJi44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "彩虹六号冠军 APEX猎杀 Valorant神话 王者2万2国服镜 The only thing that kill me is old age 猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "pinned_tweet_id": "1932909290324726179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 893,
+          "like_count": 27125,
+          "listed_count": 12,
+          "media_count": 1104,
+          "tweet_count": 12431
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T15:58:06.000Z",
+        "description": "波士顿大学丨哲学专业大一 丨生活推和一些随想 丨喜欢单机主机游戏丨如果你经常点赞或者给出了有价值的回复，我就会回fo",
+        "id": "1646905533386100738",
+        "location": "Massachusetts, USA",
+        "name": "Duber",
+        "pinned_tweet_id": "1672938437538885637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809781135368704000/octFmB6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 70,
+          "like_count": 2166,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 949
+        },
+        "username": "du_allen45136",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922250279522615700",
+    "created_at": "2025-05-14T09:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T10:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922578413069484157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        },
+        {
+          "end": 26,
+          "id": "1754494415152766976",
+          "start": 15,
+          "username": "Xinyi_ADHD"
+        },
+        {
+          "end": 37,
+          "id": "1597257668313260033",
+          "start": 27,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922578413069484157",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922578162711466362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra @Xinyi_ADHD @Minokakay"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1922578162711466362].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1922578162711466362",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1922578162711466362"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922250279522615700",
+        "created_at": "2025-05-14T09:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T10:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922578413069484157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            },
+            {
+              "end": 26,
+              "id": "1754494415152766976",
+              "start": 15,
+              "username": "Xinyi_ADHD"
+            },
+            {
+              "end": 37,
+              "id": "1597257668313260033",
+              "start": 27,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922578413069484157",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922578162711466362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra @Xinyi_ADHD @Minokakay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 主人 @_temryava | 家猫 @_FurryFur_ | 日雌380泰补200（私信可能被吞建议Telegram联系）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "_temryava"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷🍥日雌380泰补200",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 885,
+          "like_count": 26759,
+          "listed_count": 12,
+          "media_count": 1065,
+          "tweet_count": 11913
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "Fake it till make it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ProjectA1saku",
+                "end": 23,
+                "expanded_url": "https://t.me/ProjectA1saku",
+                "start": 0,
+                "url": "https://t.co/MYzhwjB35L"
+              }
+            ]
+          }
+        },
+        "id": "1746169774147776512",
+        "location": "Selangor ",
+        "name": "🩵🌘",
+        "pinned_tweet_id": "1917986436743303595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920879811230101510/WWoAvERm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 857,
+          "like_count": 55321,
+          "listed_count": 2,
+          "media_count": 1642,
+          "tweet_count": 39113
+        },
+        "url": "https://t.co/MYzhwjB35L",
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "致敬传奇厦门地铁3 5 10 12号四线换乘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "辞鸢婉心漪✨🦈",
+        "pinned_tweet_id": "1919833781667614842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906843104918769664/5Uc-gZdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3475,
+          "following_count": 1615,
+          "like_count": 9542,
+          "listed_count": 8,
+          "media_count": 616,
+          "tweet_count": 5946
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "Xinyi_ADHD",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6886,
+          "following_count": 878,
+          "like_count": 42243,
+          "listed_count": 30,
+          "media_count": 952,
+          "tweet_count": 17477
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

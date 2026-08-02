@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1913516790401077493",
+    "created_at": "2025-04-19T10:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T11:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913533498830499924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1305844679284457473",
+          "start": 0,
+          "username": "Unnamed_RF"
+        },
+        {
+          "end": 28,
+          "id": "1807107145756008448",
+          "start": 12,
+          "username": "kagurazakaSiri_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913533498830499924",
+    "in_reply_to_user_id": "1305844679284457473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913533363044094016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unnamed_RF @kagurazakaSiri_ 我以为他退了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1913516790401077493",
+        "created_at": "2025-04-19T10:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T11:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913533498830499924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1305844679284457473",
+              "start": 0,
+              "username": "Unnamed_RF"
+            },
+            {
+              "end": 28,
+              "id": "1807107145756008448",
+              "start": 12,
+              "username": "kagurazakaSiri_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913533498830499924",
+        "in_reply_to_user_id": "1305844679284457473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913533363044094016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unnamed_RF @kagurazakaSiri_ 我以为他退了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305844679284457473",
+        "conversation_id": "1913516790401077493",
+        "created_at": "2025-04-19T10:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T11:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913533363044094016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 26,
+              "id": "1807107145756008448",
+              "start": 10,
+              "username": "kagurazakaSiri_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913533363044094016",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913533098677162198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @kagurazakaSiri_ 是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "单杀任何人的彩虹六号冠军 | 猫推 | 日雌370 泰补190 progynon-depot / progynova avail pls DM | 礼貌谦逊文明友善团结尊重从不骂人 | @you_miaowu | 小老婆 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 868,
+          "like_count": 26401,
+          "listed_count": 10,
+          "media_count": 1018,
+          "tweet_count": 11482
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "ダメ人間｜大学生｜中道左派｜歴史・語学興味｜アジア主義者｜日本語不自由｜POOR English｜中文忘了，不會寫繁體，不会读简体｜裏→ @sirimeturetu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "sirimeturetu_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "info.cern.ch",
+                "end": 23,
+                "expanded_url": "http://info.cern.ch",
+                "start": 0,
+                "url": "https://t.co/dHc6uv06om"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "東朝鮮",
+        "name": "律 🌏",
+        "pinned_tweet_id": "1911400484008517975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904999314247897088/hAq7FJmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 842,
+          "like_count": 9957,
+          "listed_count": 15,
+          "media_count": 4223,
+          "tweet_count": 36115
+        },
+        "url": "https://t.co/dHc6uv06om",
+        "username": "Unnamed_RF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "飞入宇宙的宇航员回望地球发现地球是个巨他妈大的栗子头，四目的对视穿过无垠的太空，穿过人类千万年的历程，穿过第一个氨基酸融合的瞬间，最终湮灭在无尽的时光里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆",
+        "name": "翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906796197278523392/2eeHkFvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 718,
+          "like_count": 17855,
+          "listed_count": 6,
+          "media_count": 871,
+          "tweet_count": 6441
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaSiri_",
+        "verified": false
+      }
+    ]
+  }
+}

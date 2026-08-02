@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1924808938148774073",
+    "created_at": "2025-05-20T15:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T16:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924847613037445365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1629532710745309184",
+          "start": 0,
+          "username": "niukecat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924847613037445365",
+    "in_reply_to_user_id": "1629532710745309184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924815074927247870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niukecat 没办法高分段单排就这样，后面双排两把立刻好起来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1924808938148774073",
+        "created_at": "2025-05-20T15:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T16:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924847613037445365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1629532710745309184",
+              "start": 0,
+              "username": "niukecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924847613037445365",
+        "in_reply_to_user_id": "1629532710745309184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924815074927247870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niukecat 没办法高分段单排就这样，后面双排两把立刻好起来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629532710745309184",
+        "conversation_id": "1924808938148774073",
+        "created_at": "2025-05-20T13:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924815074927247870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924815074927247870",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924808938148774073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 有桂打不了😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 🇸🇬 @NUSComputing | R6 analyst, duo @_Sanxon | ex-banking, ex-fintech | @ndmhwxck @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "NUSComputing"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🍥日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 892,
+          "like_count": 26940,
+          "listed_count": 12,
+          "media_count": 1073,
+          "tweet_count": 12062
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T17:24:24.000Z",
+        "description": "早上好呀ヽ(。ゝω・)ノ☆ 今天天气不错，不出来走走吗/@real__sion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "real__sion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "citrusaroma.org",
+                "end": 23,
+                "expanded_url": "https://citrusaroma.org",
+                "start": 0,
+                "url": "https://t.co/H3i7S4lqVk"
+              }
+            ]
+          }
+        },
+        "id": "1629532710745309184",
+        "location": "Earth",
+        "name": "Citrus sinensis",
+        "pinned_tweet_id": "1910739276503167238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863105397592313856/Doxz60v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 695,
+          "like_count": 19358,
+          "listed_count": 1,
+          "media_count": 642,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/H3i7S4lqVk",
+        "username": "niukecat",
+        "verified": false
+      }
+    ]
+  }
+}

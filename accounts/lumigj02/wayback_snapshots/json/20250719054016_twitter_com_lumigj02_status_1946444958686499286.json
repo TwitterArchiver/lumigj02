@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1946371933660168689",
+    "created_at": "2025-07-19T05:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T06:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946444958686499286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393065220323647494",
+          "start": 0,
+          "username": "dangshuang0608"
+        },
+        {
+          "end": 30,
+          "id": "1663066129923981312",
+          "start": 16,
+          "username": "kawaii_akiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946444958686499286",
+    "in_reply_to_user_id": "1393065220323647494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946444653152370921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangshuang0608 @kawaii_akiiko v我50个兵马俑看看实力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1946371933660168689",
+        "created_at": "2025-07-19T05:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T06:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946444958686499286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393065220323647494",
+              "start": 0,
+              "username": "dangshuang0608"
+            },
+            {
+              "end": 30,
+              "id": "1663066129923981312",
+              "start": 16,
+              "username": "kawaii_akiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946444958686499286",
+        "in_reply_to_user_id": "1393065220323647494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946444653152370921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangshuang0608 @kawaii_akiiko v我50个兵马俑看看实力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393065220323647494",
+        "conversation_id": "1946371933660168689",
+        "created_at": "2025-07-19T05:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T06:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946444653152370921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "kawaii_akiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946444653152370921",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946371933660168689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_akiiko 信这个不如信我是秦始皇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "愿意被我杀掉么? I 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore I 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Tanglin Rd",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 923,
+          "like_count": 27619,
+          "listed_count": 12,
+          "media_count": 1098,
+          "tweet_count": 13013
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dangshuang",
+                "end": 23,
+                "expanded_url": "http://t.me/dangshuang",
+                "start": 0,
+                "url": "https://t.co/v2rIN31BR3"
+              }
+            ]
+          }
+        },
+        "id": "1393065220323647494",
+        "location": "Kuala Lumpur",
+        "name": "霜",
+        "pinned_tweet_id": "1928039030383620552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833119548117319680/63fWi4wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 564,
+          "like_count": 5107,
+          "listed_count": 3,
+          "media_count": 691,
+          "tweet_count": 5674
+        },
+        "url": "https://t.co/v2rIN31BR3",
+        "username": "dangshuang0608",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "⬇️距离我三公里之内的宝子们私信我你大慨在哪里有福利哦！！",
+        "id": "1663066129923981312",
+        "location": "距离你1.6km",
+        "name": "秋以降akiiko",
+        "pinned_tweet_id": "1946371933660168689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913860496383684608/6rdN60Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 1031,
+          "like_count": 147218,
+          "listed_count": 4,
+          "media_count": 1122,
+          "tweet_count": 6615
+        },
+        "username": "kawaii_akiiko",
+        "verified": false
+      }
+    ]
+  }
+}

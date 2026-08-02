@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1951303420591349761"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1951303588535238668",
+    "created_at": "2025-08-01T15:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T16:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951303588535238668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2EhFuY51KV",
+          "end": 35,
+          "expanded_url": "https://x.com/lumigj02/status/1951303588535238668/video/1",
+          "media_key": "7_1951303420591349761",
+          "start": 12,
+          "url": "https://t.co/2EhFuY51KV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951303588535238668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草真的有山体滑坡路啊啊 https://t.co/2EhFuY51KV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18240,
+        "height": 720,
+        "media_key": "7_1951303420591349761",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951303420591349761/pu/img/VW2rjgU4TpdxdhX8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951303420591349761/pu/vid/avc1/480x270/JWkT4XMHUNKlsM2G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951303420591349761/pu/vid/avc1/640x360/W654wgRVkrk_1i09.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951303420591349761/pu/vid/avc1/1280x720/afWNdgFctPgLBY0Q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951303420591349761/pu/pl/gSNSajfNeifuAKJl.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1951303420591349761"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1951303588535238668",
+        "created_at": "2025-08-01T15:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951303588535238668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2EhFuY51KV",
+              "end": 35,
+              "expanded_url": "https://x.com/lumigj02/status/1951303588535238668/video/1",
+              "media_key": "7_1951303420591349761",
+              "start": 12,
+              "url": "https://t.co/2EhFuY51KV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951303588535238668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草真的有山体滑坡路啊啊 https://t.co/2EhFuY51KV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 926,
+          "like_count": 27706,
+          "listed_count": 12,
+          "media_count": 1118,
+          "tweet_count": 13233
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

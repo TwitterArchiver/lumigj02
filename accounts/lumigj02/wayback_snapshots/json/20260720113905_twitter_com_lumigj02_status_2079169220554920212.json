@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      }
+    ],
+    "conversation_id": "2079169220554920212",
+    "created_at": "2026-07-20T11:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079169220554920212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/durantraym9367…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/durantraym93677/status/2079161096242630738",
+          "start": 38,
+          "url": "https://t.co/9JZdmRMwDt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079169220554920212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079161096242630738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "所以我在香港有仓库\n\n因为你运什么东西进来买卖除非是特么石油不然根本不管的 https://t.co/9JZdmRMwDt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2079169220554920212",
+        "created_at": "2026-07-20T11:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079169220554920212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/durantraym9367…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/durantraym93677/status/2079161096242630738",
+              "start": 38,
+              "url": "https://t.co/9JZdmRMwDt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169220554920212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079161096242630738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "所以我在香港有仓库\n\n因为你运什么东西进来买卖除非是特么石油不然根本不管的 https://t.co/9JZdmRMwDt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699273459325390848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2079161096242630738",
+        "created_at": "2026-07-20T11:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079161096242630738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079161096242630738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 268,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "研究各国税法才发现香港的含金量🇭🇰\n0资本利得税，0赠与税，0遗产税，0增值税\n\n而且香港是仅本地征税，其他国家很多都是全球征税\n\n相比而言，日本是20.315%-39.63%的资本利得税，最高55%的遗产或赠与税；\n澳洲资本利得税也将改革，最低30%"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll\n糖商⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/vNaapx0WBI"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4209,
+          "following_count": 840,
+          "like_count": 4364,
+          "listed_count": 9,
+          "media_count": 130,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/vNaapx0WBI",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @chiyorin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "chiyorin8964"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3466,
+          "following_count": 4052,
+          "like_count": 50833,
+          "listed_count": 15,
+          "media_count": 604,
+          "tweet_count": 12197
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

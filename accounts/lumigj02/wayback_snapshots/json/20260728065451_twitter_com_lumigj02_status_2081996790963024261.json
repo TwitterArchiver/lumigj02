@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2081963255258665362",
+    "created_at": "2026-07-28T06:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081996790963024261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650521797299953665",
+          "start": 0,
+          "username": "yorei_puewwoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081996790963024261",
+    "in_reply_to_user_id": "1650521797299953665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081988016927912286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yorei_puewwoc 咬回去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2081963255258665362",
+        "created_at": "2026-07-28T06:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081996790963024261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yorei_puewwoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081996790963024261",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081988016927912286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yorei_puewwoc 咬回去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "conversation_id": "2081963255258665362",
+        "created_at": "2026-07-28T06:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081988016927912286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081988016927912286",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081963255258665362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 咬咬小猫卷🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "leetfs1"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "TUTAIiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 839,
+          "like_count": 4388,
+          "listed_count": 9,
+          "media_count": 144,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "浮游于802.11ax之上的电子🐟｜呼唤我的名字吧 晚餐铃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yulingko.moe",
+                "end": 23,
+                "expanded_url": "https://yulingko.moe/",
+                "start": 0,
+                "url": "https://t.co/oQ3kpYTWi3"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "2026491877558735319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075486760554131456/TLa6HBv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 727,
+          "like_count": 81849,
+          "listed_count": 3,
+          "media_count": 978,
+          "tweet_count": 15808
+        },
+        "url": "https://t.co/oQ3kpYTWi3",
+        "username": "yorei_puewwoc",
+        "verified": false
+      }
+    ]
+  }
+}

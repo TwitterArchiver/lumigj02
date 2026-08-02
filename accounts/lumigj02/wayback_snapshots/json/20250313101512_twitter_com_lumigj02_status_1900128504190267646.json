@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1900111308596613180",
+    "created_at": "2025-03-13T10:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T11:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900128504190267646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1789586690400800769",
+          "start": 0,
+          "username": "ameear8964"
+        },
+        {
+          "end": 26,
+          "id": "2180953680",
+          "start": 12,
+          "username": "PrinzEugenOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900128504190267646",
+    "in_reply_to_user_id": "1789586690400800769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900121522024718464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameear8964 @PrinzEugenOwO 你个坏家伙😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1900111308596613180",
+        "created_at": "2025-03-13T10:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T11:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900128504190267646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789586690400800769",
+              "start": 0,
+              "username": "ameear8964"
+            },
+            {
+              "end": 26,
+              "id": "2180953680",
+              "start": 12,
+              "username": "PrinzEugenOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900128504190267646",
+        "in_reply_to_user_id": "1789586690400800769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900121522024718464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameear8964 @PrinzEugenOwO 你个坏家伙😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789586690400800769",
+        "conversation_id": "1900111308596613180",
+        "created_at": "2025-03-13T09:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T10:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900121522024718464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2180953680",
+              "start": 0,
+              "username": "PrinzEugenOwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ameear8964/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ameear8964/status/1897943767895974269",
+              "start": 34,
+              "url": "https://t.co/iLy6S6C8Oq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900121522024718464",
+        "in_reply_to_user_id": "2180953680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897943767895974269",
+            "type": "quoted"
+          },
+          {
+            "id": "1900111308596613180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrinzEugenOwO 我也要去。啊.. 明天吗？不可能吧。 https://t.co/iLy6S6C8Oq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 875,
+          "like_count": 25660,
+          "listed_count": 11,
+          "media_count": 947,
+          "tweet_count": 10624
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "EARHART AMELIA M. 896489648USN BN CHRISTIAN",
+        "id": "1789586690400800769",
+        "location": "미해군항공대 제8964항모항공단",
+        "name": "아멜리아 에어하트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862830820064432129/g7Hpsfzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3224,
+          "following_count": 1285,
+          "like_count": 28916,
+          "listed_count": 15,
+          "media_count": 640,
+          "tweet_count": 7597
+        },
+        "username": "ameear8964",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-07T22:21:26.000Z",
+        "description": "大中華主義蛆我一律B加掛最好祈禱我不要找到你/軍盲/百合豚/東方廚\nAnti CCP👎🇨🇳 \nStandWithUkraine🇺🇦\n逃生艙：@Yukikaze_UwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Yukikaze_UwU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yuk.en…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yuk.enchenia.com",
+                "start": 0,
+                "url": "https://t.co/VSjZYmpD3p"
+              }
+            ]
+          }
+        },
+        "id": "2180953680",
+        "location": "Taipei City, Taiwan",
+        "name": "幼月",
+        "pinned_tweet_id": "1826534110543618351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639809605592313856/45_OEskC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6388,
+          "following_count": 1071,
+          "like_count": 193076,
+          "listed_count": 22,
+          "media_count": 7938,
+          "tweet_count": 21601
+        },
+        "url": "https://t.co/VSjZYmpD3p",
+        "username": "PrinzEugenOwO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1901833683193237842",
+    "created_at": "2025-03-18T03:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T04:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901833683193237842"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1901833683193237842",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I feel terrible. The deadline is approaching, but I have no idea how to do the assignment. If I fail, I might as well drop out. I’ve already lost 15% of my grade. I can’t hold on any longer. When will the break finally come…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1901833683193237842",
+        "created_at": "2025-03-18T03:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T04:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901833683193237842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901833683193237842",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I feel terrible. The deadline is approaching, but I have no idea how to do the assignment. If I fail, I might as well drop out. I’ve already lost 15% of my grade. I can’t hold on any longer. When will the break finally come…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 🇦🇺 @QUT 🇸🇬 @sutdsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 38,
+                "start": 34,
+                "username": "QUT"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "sutdsg"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 852,
+          "like_count": 25732,
+          "listed_count": 11,
+          "media_count": 947,
+          "tweet_count": 10750
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

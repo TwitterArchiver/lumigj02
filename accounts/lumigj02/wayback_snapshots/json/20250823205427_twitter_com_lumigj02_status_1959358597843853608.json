@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1959358597843853608",
+    "created_at": "2025-08-23T20:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T21:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959358597843853608"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "yuzu",
+          "probability": 0.4842,
+          "start": 42,
+          "type": "Person"
+        },
+        {
+          "end": 53,
+          "normalized_text": "pomelo",
+          "probability": 0.5174,
+          "start": 48,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "grapefruit",
+          "probability": 0.4848,
+          "start": 56,
+          "type": "Other"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959358597843853608",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I still don't know the difference between yuzu, pomelo, grapefruit, citrus, orange and tangerine and mandarin"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1959358597843853608",
+        "created_at": "2025-08-23T20:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T21:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959358597843853608"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "yuzu",
+              "probability": 0.4842,
+              "start": 42,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "pomelo",
+              "probability": 0.5174,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "grapefruit",
+              "probability": 0.4848,
+              "start": 56,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959358597843853608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I still don't know the difference between yuzu, pomelo, grapefruit, citrus, orange and tangerine and mandarin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_//@JR_YamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "JR_YamanoteE235"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958902621303185409/FZrkKv70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 929,
+          "like_count": 27897,
+          "listed_count": 13,
+          "media_count": 1159,
+          "tweet_count": 13810
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

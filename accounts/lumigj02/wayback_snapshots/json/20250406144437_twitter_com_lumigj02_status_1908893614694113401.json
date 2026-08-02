@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1908891073101152370",
+    "created_at": "2025-04-06T14:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T15:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908893614694113401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487681811144921089",
+          "start": 0,
+          "username": "LeoAlexios"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 43,
+          "expanded_url": "https://x.com/lumigj02/status/1908788773808435357",
+          "start": 20,
+          "url": "https://t.co/yRV9XSGgRV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908893614694113401",
+    "in_reply_to_user_id": "1487681811144921089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908788773808435357",
+        "type": "quoted"
+      },
+      {
+        "id": "1908893348355600623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoAlexios 是兄弟也可以的\nhttps://t.co/yRV9XSGgRV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908788764518072320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1hRKRbQAAvYV8.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1908891073101152370",
+        "created_at": "2025-04-06T14:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T15:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908893614694113401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487681811144921089",
+              "start": 0,
+              "username": "LeoAlexios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 43,
+              "expanded_url": "https://x.com/lumigj02/status/1908788773808435357",
+              "start": 20,
+              "url": "https://t.co/yRV9XSGgRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908893614694113401",
+        "in_reply_to_user_id": "1487681811144921089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908788773808435357",
+            "type": "quoted"
+          },
+          {
+            "id": "1908893348355600623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoAlexios 是兄弟也可以的\nhttps://t.co/yRV9XSGgRV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908788764518072320"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1908788773808435357",
+        "created_at": "2025-04-06T07:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T08:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908788773808435357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKnmPq4RxY",
+              "end": 51,
+              "expanded_url": "https://x.com/lumigj02/status/1908788773808435357/photo/1",
+              "media_key": "3_1908788764518072320",
+              "start": 28,
+              "url": "https://t.co/LKnmPq4RxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908788773808435357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5337,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這16歲的我在南洋理工大學\n我去翻相冊思考了半天這是誰 https://t.co/LKnmPq4RxY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487681811144921089",
+        "conversation_id": "1908891073101152370",
+        "created_at": "2025-04-06T14:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T15:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908893348355600623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908893348355600623",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908891073101152370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 猫卷是女的😭还以为是兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | ❤️ 阿星 @Yan_Xing_Xing | @you_miaowu | 日雌380包邮 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "猫归云卷 (日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908656993738645506/-6v0h0RO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 862,
+          "like_count": 26267,
+          "listed_count": 11,
+          "media_count": 997,
+          "tweet_count": 11277
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T06:59:27.000Z",
+        "description": "Save it",
+        "id": "1487681811144921089",
+        "location": "0.1 km",
+        "name": "LeoAlex@",
+        "pinned_tweet_id": "1554476090386939904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495057783070154754/pbD0ztC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 472,
+          "like_count": 2434,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1243
+        },
+        "username": "LeoAlexios",
+        "verified": false
+      }
+    ]
+  }
+}

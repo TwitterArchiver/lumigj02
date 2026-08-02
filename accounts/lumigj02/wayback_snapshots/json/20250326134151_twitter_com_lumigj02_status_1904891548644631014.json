@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1904764251086189049",
+    "created_at": "2025-03-26T13:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T14:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904891548644631014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904891548644631014",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904768201977978914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 既漂亮又可爱哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1904764251086189049",
+        "created_at": "2025-03-26T13:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T14:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904891548644631014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904891548644631014",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904768201977978914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 既漂亮又可爱哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "1904764251086189049",
+        "created_at": "2025-03-26T05:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T06:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904768201977978914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "CnHpaHky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904768201977978914",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904764251086189049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnHpaHky 为什么没有人说过我漂亮……看来都是安慰话啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu # 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无 | 我是海豹手套色布偶, 不是暹罗!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "sutdsg"
+              },
+              {
+                "end": 107,
+                "start": 103,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 859,
+          "like_count": 25970,
+          "listed_count": 11,
+          "media_count": 968,
+          "tweet_count": 11039
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中）٩(˃̶͈̀௰˂̶͈́)و\n已有男友，是正经人\ntg群组https://t.co/kvz722N3ba",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+s-NP42sLYX43M…",
+                "end": 70,
+                "expanded_url": "https://t.me/+s-NP42sLYX43M2I1",
+                "start": 47,
+                "url": "https://t.co/kvz722N3ba"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "name": "折筱orisam🏳️‍⚧️",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900853317590544384/t0IwKa3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 655,
+          "like_count": 19076,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 3230
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

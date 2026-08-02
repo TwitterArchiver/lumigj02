@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1955274337986003056",
+    "created_at": "2025-08-12T16:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T17:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955302327239446868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1289925617446617088",
+          "start": 0,
+          "username": "LazySpider3"
+        },
+        {
+          "end": 23,
+          "id": "91001699",
+          "start": 13,
+          "username": "halfamonk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955302327239446868",
+    "in_reply_to_user_id": "1289925617446617088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955297296016375909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazySpider3 @halfamonk 差了一下14万多，要么补贴再大点要么COE下来再说吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1955274337986003056",
+        "created_at": "2025-08-12T16:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955302327239446868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1289925617446617088",
+              "start": 0,
+              "username": "LazySpider3"
+            },
+            {
+              "end": 23,
+              "id": "91001699",
+              "start": 13,
+              "username": "halfamonk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955302327239446868",
+        "in_reply_to_user_id": "1289925617446617088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955297296016375909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazySpider3 @halfamonk 差了一下14万多，要么补贴再大点要么COE下来再说吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289925617446617088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044387802",
+              "name": "Tesla - Model 3"
+            }
+          }
+        ],
+        "conversation_id": "1955274337986003056",
+        "created_at": "2025-08-12T15:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955297296016375909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 20,
+              "id": "91001699",
+              "start": 10,
+              "username": "halfamonk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955297296016375909",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955296014338031655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @halfamonk 其实EV已经有补贴了，只是COE太疯狂\n比如Model 3的Cat A版本， 含COE也就和Altis（丰田卡罗拉）一个价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我沒有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 911,
+          "like_count": 27764,
+          "listed_count": 12,
+          "media_count": 1135,
+          "tweet_count": 13539
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T14:06:54.000Z",
+        "description": "一个还能蹦跶的老B",
+        "id": "1289925617446617088",
+        "location": "Singapore",
+        "name": "Lazy_Spider",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289936266000101377/LPhTSU8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 293,
+          "like_count": 305,
+          "listed_count": 9,
+          "media_count": 1273,
+          "tweet_count": 10324
+        },
+        "username": "LazySpider3",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T00:56:50.000Z",
+        "description": "- 程序猿 Python / Golang \n- 伪宅=faked otaku=ゴミ箱 \n- 冒名顶替症候群 | 自信缺乏症候群 | 拖延症晚期 \n- 4杯咖啡/天 \n- 有着自认为远大的想法和向其努力的决心\n- Aiming Guru\n- Stoicism | Optimistic Nihilism",
+        "id": "91001699",
+        "name": "HalfAMonk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1129263300754075649/nl9XvhHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 475,
+          "like_count": 13445,
+          "listed_count": 14,
+          "media_count": 1926,
+          "tweet_count": 21939
+        },
+        "username": "halfamonk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962544580408345014",
+    "created_at": "2025-09-01T15:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962544580408345014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/lumigj02/status/1962481941728678053",
+          "start": 25,
+          "url": "https://t.co/5PpSJwL7F2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962544580408345014",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962481941728678053",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Update: still struggling https://t.co/5PpSJwL7F2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962544580408345014",
+        "created_at": "2025-09-01T15:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962544580408345014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/lumigj02/status/1962481941728678053",
+              "start": 25,
+              "url": "https://t.co/5PpSJwL7F2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962544580408345014",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962481941728678053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Update: still struggling https://t.co/5PpSJwL7F2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962481941728678053",
+        "created_at": "2025-09-01T11:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962481941728678053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962481941728678053",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The mods I took this sem are mostly MBA like. I thought it's easier writing an essay than doing math / writing code but I'm totally wrong\nBeen sitting here at my table in front of my laptop for 2h now and I ain't written a single word"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇲🇾 // FinTech, SWE, Retail Mgmt, Researcher @NTUsg @sutdsg peer @_FurryFur_ bf @HobartR6 // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 44,
+                "username": "NTUsg"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "sutdsg"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "Lumi、Lumi、時々猫巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2929,
+          "following_count": 932,
+          "like_count": 27972,
+          "listed_count": 13,
+          "media_count": 1165,
+          "tweet_count": 13949
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895398032872747186",
+    "created_at": "2025-02-28T13:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T14:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895473216677945520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701511380312924160",
+          "start": 0,
+          "username": "_Sasaki2007"
+        },
+        {
+          "end": 22,
+          "id": "1502860007867502598",
+          "start": 13,
+          "username": "HobartR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895473216677945520",
+    "in_reply_to_user_id": "1701511380312924160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895473143281840358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Sasaki2007 @HobartR6 😭对不起"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1895473143281840358].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1895473143281840358",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1895473143281840358"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895398032872747186",
+        "created_at": "2025-02-28T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895473216677945520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701511380312924160",
+              "start": 0,
+              "username": "_Sasaki2007"
+            },
+            {
+              "end": 22,
+              "id": "1502860007867502598",
+              "start": 13,
+              "username": "HobartR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895473216677945520",
+        "in_reply_to_user_id": "1701511380312924160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895473143281840358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Sasaki2007 @HobartR6 😭对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / 叫我ʟᴜᴍɪ或猫卷姐姐可快速提高好感度🥰 / 💖 @HobartR6 / @altaz_0 / 日雌390泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895131563953696768/T0tzqE7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 832,
+          "like_count": 25291,
+          "listed_count": 11,
+          "media_count": 897,
+          "tweet_count": 9996
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T08:21:47.000Z",
+        "description": "盘底的洋葱像我，永远是配角。\n偷偷的看着你，偷偷的隐藏着自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sasaki89345",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sasaki89345",
+                "start": 0,
+                "url": "https://t.co/LoiV9jVqnD"
+              }
+            ]
+          }
+        },
+        "id": "1701511380312924160",
+        "location": "您所拨打的电话是空号",
+        "name": "佐佐木🇯🇵",
+        "pinned_tweet_id": "1887720826331668995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877344386159357953/vJxciMUx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 42,
+          "like_count": 7069,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/LoiV9jVqnD",
+        "username": "_Sasaki2007",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "💖 @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "HobartR6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893912615933366272/EMAJyMss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 66,
+          "like_count": 559,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 396
+        },
+        "username": "HobartR6",
+        "verified": false
+      }
+    ]
+  }
+}

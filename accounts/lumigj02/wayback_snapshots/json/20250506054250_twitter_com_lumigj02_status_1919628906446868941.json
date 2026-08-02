@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1919308876941340748",
+    "created_at": "2025-05-06T05:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T06:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919628906446868941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487681811144921089",
+          "start": 0,
+          "username": "LeoAlexios"
+        },
+        {
+          "end": 20,
+          "id": "1433678976564662273",
+          "start": 12,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919628906446868941",
+    "in_reply_to_user_id": "1487681811144921089",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919530817941864668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoAlexios @hsn8086 （）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1919308876941340748",
+        "created_at": "2025-05-06T05:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919628906446868941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487681811144921089",
+              "start": 0,
+              "username": "LeoAlexios"
+            },
+            {
+              "end": 20,
+              "id": "1433678976564662273",
+              "start": 12,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919628906446868941",
+        "in_reply_to_user_id": "1487681811144921089",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919530817941864668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoAlexios @hsn8086 （）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487681811144921089",
+        "conversation_id": "1919308876941340748",
+        "created_at": "2025-05-05T23:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T00:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919530817941864668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            },
+            {
+              "end": 18,
+              "id": "1176535991454064640",
+              "start": 9,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919530817941864668",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919308876941340748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 @lumigj02 😧😧😧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 881,
+          "like_count": 26626,
+          "listed_count": 12,
+          "media_count": 1042,
+          "tweet_count": 11718
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-30T06:59:27.000Z",
+        "description": "Save it",
+        "id": "1487681811144921089",
+        "location": "0.1 km",
+        "name": "LeoAlex@",
+        "pinned_tweet_id": "1554476090386939904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495057783070154754/pbD0ztC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 472,
+          "like_count": 2540,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1292
+        },
+        "username": "LeoAlexios",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64712,
+          "following_count": 962,
+          "like_count": 39620,
+          "listed_count": 145,
+          "media_count": 10462,
+          "tweet_count": 16640
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

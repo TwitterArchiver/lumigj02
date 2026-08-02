@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1916031502791705049",
+    "created_at": "2025-04-26T08:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T09:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916053572783116737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "HyotoChandesuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916053572783116737",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916031502791705049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyotoChandesuyo 跨出"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916031499989889024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpccf2dbMAA-MHj.jpg",
+        "width": 1377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1916031502791705049",
+        "created_at": "2025-04-26T08:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916053572783116737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916053572783116737",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916031502791705049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyotoChandesuyo 跨出"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916031499989889024"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1916031502791705049",
+        "created_at": "2025-04-26T07:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T08:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916031502791705049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UD83L4Hele",
+              "end": 23,
+              "expanded_url": "https://x.com/HyotoChandesuyo/status/1916031502791705049/photo/1",
+              "media_key": "3_1916031499989889024",
+              "start": 0,
+              "url": "https://t.co/UD83L4Hele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916031502791705049",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UD83L4Hele"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | HRT药商 | Cat named Neko | 主人&老婆 @RanXi_MtF | 小老婆 @_FurryFur_ | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 875,
+          "like_count": 26528,
+          "listed_count": 11,
+          "media_count": 1029,
+          "tweet_count": 11603
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "いつまでも風に吹かれたい",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと 🍥🌂💤",
+        "pinned_tweet_id": "1903805604915020062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915857999618572288/KcKV9Jo6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 979,
+          "like_count": 93731,
+          "listed_count": 14,
+          "media_count": 4138,
+          "tweet_count": 27666
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

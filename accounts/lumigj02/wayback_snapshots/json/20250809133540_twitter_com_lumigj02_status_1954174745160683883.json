@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953918410058068232",
+    "created_at": "2025-08-09T13:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T14:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954174745160683883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1502860007867502598",
+          "start": 0,
+          "username": "HobartR6"
+        },
+        {
+          "end": 20,
+          "id": "1120911007629529091",
+          "start": 10,
+          "username": "Li2CO3ICU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954174745160683883",
+    "in_reply_to_user_id": "1502860007867502598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954172933804359891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HobartR6 @Li2CO3ICU 我是好猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953918410058068232",
+        "created_at": "2025-08-09T13:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954174745160683883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1502860007867502598",
+              "start": 0,
+              "username": "HobartR6"
+            },
+            {
+              "end": 20,
+              "id": "1120911007629529091",
+              "start": 10,
+              "username": "Li2CO3ICU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954174745160683883",
+        "in_reply_to_user_id": "1502860007867502598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954172933804359891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HobartR6 @Li2CO3ICU 我是好猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502860007867502598",
+        "conversation_id": "1953918410058068232",
+        "created_at": "2025-08-09T13:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954172933804359891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1120911007629529091",
+              "start": 0,
+              "username": "Li2CO3ICU"
+            },
+            {
+              "end": 20,
+              "id": "1176535991454064640",
+              "start": 11,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954172933804359891",
+        "in_reply_to_user_id": "1120911007629529091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953931833030455371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li2CO3ICU @lumigj02 😡坏蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 934,
+          "like_count": 27698,
+          "listed_count": 12,
+          "media_count": 1124,
+          "tweet_count": 13365
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "@lumigj02 @ndmhwxck @Snow_Flurrying 秋天是倒放的春天 晚安是爱你的续篇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "lumigj02"
+              },
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Snow_Flurrying"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "哦润吉",
+        "pinned_tweet_id": "1912785799986442479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919444964989399040/Z6OLkJuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 194,
+          "like_count": 2814,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1399
+        },
+        "username": "HobartR6",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-24T04:43:04.000Z",
+        "description": "|04药娘🏳️‍⚧️|\n|172cm 55kg|\n|HRT：2023.5.24|\n|本科在读|\n|tg群组：https://t.co/5S8vaJZVEC|\n|涩涩内容都在亮点|\n|同类会回fo|\n|不见证|\n|不接推广|\n|不公开墙内联络方式|\n|随缘b人|",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lithiumawa",
+                "end": 77,
+                "expanded_url": "https://t.me/lithiumawa",
+                "start": 54,
+                "url": "https://t.co/5S8vaJZVEC"
+              }
+            ]
+          }
+        },
+        "id": "1120911007629529091",
+        "location": "拉尼亚凯亚超星系团",
+        "name": "𝙇𝙞₂𝘾𝙊₃🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947125574415126528/loYfVti-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 113,
+          "like_count": 961,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 146
+        },
+        "username": "Li2CO3ICU",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1929347883603759257",
+    "created_at": "2025-06-02T08:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T09:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929458960140058649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        },
+        {
+          "end": 26,
+          "id": "1686472989129441281",
+          "start": 15,
+          "username": "_Furryfur_"
+        },
+        {
+          "end": 37,
+          "id": "1597257668313260033",
+          "start": 27,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929458960140058649",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929450043624374475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra @_Furryfur_ @Minokakay 那个地方有垃圾桶，上面还有烟灰缸，可以抽的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929450043624374475].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929450043624374475",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929450043624374475"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1929347883603759257",
+        "created_at": "2025-06-02T08:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T09:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929458960140058649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            },
+            {
+              "end": 26,
+              "id": "1686472989129441281",
+              "start": 15,
+              "username": "_Furryfur_"
+            },
+            {
+              "end": 37,
+              "id": "1597257668313260033",
+              "start": 27,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929458960140058649",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929450043624374475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra @_Furryfur_ @Minokakay 那个地方有垃圾桶，上面还有烟灰缸，可以抽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "❤️ @HobartR6 | 家猫 @_FurryFur_ | 日雌390泰补210 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🍥出日雌泰补",
+        "pinned_tweet_id": "1927788822642749514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 897,
+          "like_count": 27033,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12252
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "Fake it till make it",
+        "id": "1746169774147776512",
+        "name": "🩵魅魔女孩营养不良🌘",
+        "pinned_tweet_id": "1917986436743303595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927028090657476608/VmQWUKvB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 858,
+          "like_count": 56387,
+          "listed_count": 2,
+          "media_count": 1516,
+          "tweet_count": 39531
+        },
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T20:25:04.000Z",
+        "description": "Just a regular VRChat player | 是猫猫 | 涩涩! | \nPrefer language: English / Chinese | 现居🇸🇬 \n大猫猫: @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1686472989129441281",
+        "location": "Singapura",
+        "name": "Furryfur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853698940295860224/mBcXxPcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 351,
+          "like_count": 43545,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 1573
+        },
+        "username": "_Furryfur_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1928280801998787060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7332,
+          "following_count": 882,
+          "like_count": 42951,
+          "listed_count": 30,
+          "media_count": 1100,
+          "tweet_count": 18234
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

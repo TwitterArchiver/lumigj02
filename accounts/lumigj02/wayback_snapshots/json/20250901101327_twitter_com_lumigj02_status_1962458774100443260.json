@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962347913348338078",
+    "created_at": "2025-09-01T10:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T11:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962458774100443260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 27,
+          "id": "1360522586317348865",
+          "start": 16,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962458774100443260",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962357788266660244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit @nanami_mua 我觉得你头发很好看啊 卷发像是烫的造型"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962347913348338078",
+        "created_at": "2025-09-01T10:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962458774100443260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 27,
+              "id": "1360522586317348865",
+              "start": 16,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962458774100443260",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962357788266660244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit @nanami_mua 我觉得你头发很好看啊 卷发像是烫的造型"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "1962347913348338078",
+        "created_at": "2025-09-01T03:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T04:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962357788266660244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962357788266660244",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962347913348338078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 我也是（\n本来头发就卷 然后想扯扯顺 然后每次下来一堆头发😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Chinese, researcher @NTUsg @sutdsg // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 20,
+                "username": "NTUsg"
+              },
+              {
+                "end": 34,
+                "start": 27,
+                "username": "sutdsg"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "Lumi、Lumi、時々猫巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 930,
+          "like_count": 27965,
+          "listed_count": 13,
+          "media_count": 1164,
+          "tweet_count": 13937
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 没有！翻车！💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人 ｜里：@MihariSuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "MihariSuki"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 760,
+          "like_count": 42225,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 6010
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/并非健全/永远的好妹妹:@LCG_Akiball/可爱猫猫～:@nanami5513/是主人的乖猫猫～ @ling1639040",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "nanami5513"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "ling1639040"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "1960235222831604043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949129357697630208/apEDxwfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 512,
+          "like_count": 66700,
+          "listed_count": 1,
+          "media_count": 560,
+          "tweet_count": 5244
+        },
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

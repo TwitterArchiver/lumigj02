@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1906587135819591747",
+    "created_at": "2025-03-31T05:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T06:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906587135819591747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/swisswga/statu…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/swisswga/status/1906018505188597993",
+          "start": 37,
+          "url": "https://t.co/T8effZJVpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906587135819591747",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906018505188597993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Feel like a couple weeks ago... jeez https://t.co/T8effZJVpl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906587135819591747",
+        "created_at": "2025-03-31T05:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T06:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906587135819591747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/swisswga/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/swisswga/status/1906018505188597993",
+              "start": 37,
+              "url": "https://t.co/T8effZJVpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906587135819591747",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906018505188597993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Feel like a couple weeks ago... jeez https://t.co/T8effZJVpl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403581576043188230",
+        "conversation_id": "1905743870614487087",
+        "created_at": "2025-03-29T16:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906018505188597993"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Melusi",
+              "probability": 0.5177,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1428617245",
+              "start": 0,
+              "username": "Pengu"
+            },
+            {
+              "end": 20,
+              "id": "368994459",
+              "start": 7,
+              "username": "Iamsharknado"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906018505188597993",
+        "in_reply_to_user_id": "1428617245",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 49483,
+          "like_count": 72,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906011260619215057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pengu @Iamsharknado Melusi came out 5 years ago tbh, but rest is fair enough"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 4ever | @you_miaowu | 📧 lumi@u.nus.edu | 不想就此變得平庸 對初心過意不去",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "雲貓歸卷",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 864,
+          "like_count": 26169,
+          "listed_count": 11,
+          "media_count": 975,
+          "tweet_count": 11171
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T05:15:03.000Z",
+        "description": "🇹🇷 21 | The Dictator for Bon Voyage | @baiowga",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "baiowga"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/swisswga",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/swisswga",
+                "start": 0,
+                "url": "https://t.co/tha7cRAFVq"
+              }
+            ]
+          }
+        },
+        "id": "1403581576043188230",
+        "location": "İstanbul",
+        "name": "swiss",
+        "pinned_tweet_id": "1880005326315090404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853541188902469632/B5hIGH44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 693,
+          "like_count": 73149,
+          "listed_count": 3,
+          "media_count": 1392,
+          "tweet_count": 17917
+        },
+        "url": "https://t.co/tha7cRAFVq",
+        "username": "swisswga",
+        "verified": false
+      }
+    ]
+  }
+}

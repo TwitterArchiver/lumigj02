@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1934358325317226656",
+    "created_at": "2025-06-16T05:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T06:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934484762795864153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810962908987396096",
+          "start": 0,
+          "username": "SakurazakiAiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934484762795864153",
+    "in_reply_to_user_id": "1810962908987396096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934439627961884895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurazakiAiko 你告诉我的啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934439627961884895].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934439627961884895",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934439627961884895"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1934358325317226656",
+        "created_at": "2025-06-16T05:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T06:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934484762795864153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810962908987396096",
+              "start": 0,
+              "username": "SakurazakiAiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934484762795864153",
+        "in_reply_to_user_id": "1810962908987396096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934439627961884895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurazakiAiko 你告诉我的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "彩虹六号冠军 APEX猎杀 Valorant神话 王者2万2国服镜 The only thing that kill me is old age 猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "pinned_tweet_id": "1932909290324726179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 893,
+          "like_count": 27125,
+          "listed_count": 12,
+          "media_count": 1104,
+          "tweet_count": 12430
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T09:03:21.000Z",
+        "description": "主人：@Poetry_Luna 妹妹： @HuliCaijia\n持證HRT🏳️‍⚧️重鬱中焦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "HuliCaijia"
+              }
+            ]
+          }
+        },
+        "id": "1810962908987396096",
+        "location": "Silverymoon",
+        "name": "SakurazakiAiko🌸詩月🍥",
+        "pinned_tweet_id": "1880247872270283012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884631668998430720/mMIX9fqy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 78,
+          "like_count": 8064,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 2343
+        },
+        "username": "SakurazakiAiko",
+        "verified": false
+      }
+    ]
+  }
+}

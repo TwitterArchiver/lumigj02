@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1948815254802366522",
+    "created_at": "2025-07-26T03:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T04:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948945539028173141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921977458",
+          "start": 0,
+          "username": "FaQAsooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948945539028173141",
+    "in_reply_to_user_id": "1921977458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948912906009297235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FaQAsooo 都兄弟了还说啥呢，这车送你了，你说这扯不扯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1948815254802366522",
+        "created_at": "2025-07-26T03:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T04:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948945539028173141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921977458",
+              "start": 0,
+              "username": "FaQAsooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948945539028173141",
+        "in_reply_to_user_id": "1921977458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948912906009297235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FaQAsooo 都兄弟了还说啥呢，这车送你了，你说这扯不扯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921977458",
+        "conversation_id": "1948815254802366522",
+        "created_at": "2025-07-26T01:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T02:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948912906009297235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948912906009297235",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948815254802366522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 先生大义啊，太银翼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 926,
+          "like_count": 27669,
+          "listed_count": 12,
+          "media_count": 1107,
+          "tweet_count": 13145
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-01T02:23:02.000Z",
+        "description": "请叫我键盘侠！接招吧！",
+        "id": "1921977458",
+        "location": "Fujian",
+        "name": "Tony Ma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417897128597221381/LrGNzmd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 1554,
+          "like_count": 10394,
+          "listed_count": 6,
+          "media_count": 199,
+          "tweet_count": 3259
+        },
+        "username": "FaQAsooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897121677559083090",
+    "created_at": "2025-03-05T03:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T04:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897121677559083090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cnhpahky/statu…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/cnhpahky/status/1896998791221534757",
+          "start": 40,
+          "url": "https://t.co/quU4cRmWB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897121677559083090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896998791221534757",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上大学确实对导致HIV转播，本人上大学以后做爱次数明显增加😭珍惜生命远离大学😭 https://t.co/quU4cRmWB5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1957,
+        "media_key": "3_1896998774645645317",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlN-VbYa4AUWouN.jpg",
+        "width": 1066
+      },
+      {
+        "height": 1514,
+        "media_key": "3_1896998774641401856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlN-VbXaIAA0Tb8.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897121677559083090",
+        "created_at": "2025-03-05T03:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T04:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897121677559083090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cnhpahky/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/cnhpahky/status/1896998791221534757",
+              "start": 40,
+              "url": "https://t.co/quU4cRmWB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897121677559083090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896998791221534757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上大学确实对导致HIV转播，本人上大学以后做爱次数明显增加😭珍惜生命远离大学😭 https://t.co/quU4cRmWB5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896998774645645317",
+            "3_1896998774641401856"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1896998791221534757",
+        "created_at": "2025-03-04T18:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T19:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896998791221534757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVbeHxmi2T",
+              "end": 35,
+              "expanded_url": "https://x.com/CnHpaHky/status/1896998791221534757/photo/1",
+              "media_key": "3_1896998774645645317",
+              "start": 12,
+              "url": "https://t.co/KVbeHxmi2T"
+            },
+            {
+              "display_url": "pic.x.com/KVbeHxmi2T",
+              "end": 35,
+              "expanded_url": "https://x.com/CnHpaHky/status/1896998791221534757/photo/1",
+              "media_key": "3_1896998774641401856",
+              "start": 12,
+              "url": "https://t.co/KVbeHxmi2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896998791221534757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 960,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上大学会导致HIV传播 https://t.co/KVbeHxmi2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 日雌390泰补200 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "𝗟𝗨𝗠𝗜 𝗚. 𝗝𝗜𝗔𝗡𝗚 𝗖𝗛𝗘𝗡𝗚 𝗫𝗨𝗘",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 829,
+          "like_count": 25346,
+          "listed_count": 11,
+          "media_count": 912,
+          "tweet_count": 10161
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Bluesky同名，防走丢可提前前往blue sky。俄罗斯是一个大实验室，中国是一个精神病院。Void @Sayols_  @MikuMiku3648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Sayols_"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "MikuMiku3648"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "Neverland",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1896975396509507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895357639879524352/W86f868N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 757,
+          "like_count": 2936,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2237
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897881335110549507"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897311285404184726",
+    "created_at": "2025-03-07T05:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T06:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897881343306129504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        },
+        {
+          "end": 28,
+          "id": "1757630242288541696",
+          "start": 12,
+          "username": "Zhixiang_312145"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bN7bFObHmw",
+          "end": 60,
+          "expanded_url": "https://x.com/lumigj02/status/1897881343306129504/photo/1",
+          "media_key": "3_1897881335110549507",
+          "start": 37,
+          "url": "https://t.co/bN7bFObHmw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897881343306129504",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897659979857043686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 @Zhixiang_312145 MitM还能用 https://t.co/bN7bFObHmw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1897881335110549507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlahBNUbwAM8ssy.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897881335110549507"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897311285404184726",
+        "created_at": "2025-03-07T05:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T06:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897881343306129504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            },
+            {
+              "end": 28,
+              "id": "1757630242288541696",
+              "start": 12,
+              "username": "Zhixiang_312145"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bN7bFObHmw",
+              "end": 60,
+              "expanded_url": "https://x.com/lumigj02/status/1897881343306129504/photo/1",
+              "media_key": "3_1897881335110549507",
+              "start": 37,
+              "url": "https://t.co/bN7bFObHmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897881343306129504",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897659979857043686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 @Zhixiang_312145 MitM还能用 https://t.co/bN7bFObHmw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "1897311285404184726",
+        "created_at": "2025-03-06T14:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T15:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897659979857043686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757630242288541696",
+              "start": 0,
+              "username": "Zhixiang_312145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897659979857043686",
+        "in_reply_to_user_id": "1757630242288541696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 652,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897311285404184726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhixiang_312145 Spotify官方采取行动了，所有Mod版本全都失效了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 843,
+          "like_count": 25444,
+          "listed_count": 11,
+          "media_count": 926,
+          "tweet_count": 10324
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，术力口/头图来自剧毒的KCN老师/⚠️会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本/数码产品迷，Windows二合一爱好者/鹿野灸一生推/编程一生黑/拉黑政治歧视仇恨言论/有大量政治内容的账号恕不回fo/扩列可私信/二代目@Exusiai159_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 131,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "https://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/7uMHbOqbVv"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1853604123599622531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872518131320782849/gk6fK5jD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3852,
+          "following_count": 4620,
+          "like_count": 94236,
+          "listed_count": 6,
+          "media_count": 2926,
+          "tweet_count": 28197
+        },
+        "url": "https://t.co/7uMHbOqbVv",
+        "username": "Exusiai159",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:58:13.000Z",
+        "description": "ESFP/Student/Male/Free to disturb me by DM/Sharing my daily life and various moods/中文 or English/Firm Android lover/No sexual and political contents/@HongLitber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 149,
+                "username": "HongLitber"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/sfWpBMyD",
+                "end": 23,
+                "expanded_url": "https://discord.gg/sfWpBMyD",
+                "start": 0,
+                "url": "https://t.co/cgrPIVkMFf"
+              }
+            ]
+          }
+        },
+        "id": "1757630242288541696",
+        "location": "Fujian, China",
+        "name": "Zhixiang Huang",
+        "pinned_tweet_id": "1885583710499856582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757630635047280640/bkSrQETY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 1465,
+          "like_count": 43873,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 4683
+        },
+        "url": "https://t.co/cgrPIVkMFf",
+        "username": "Zhixiang_312145",
+        "verified": false
+      }
+    ]
+  }
+}

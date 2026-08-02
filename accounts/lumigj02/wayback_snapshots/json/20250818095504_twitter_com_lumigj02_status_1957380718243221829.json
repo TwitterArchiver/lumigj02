@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1956976901416702144",
+    "created_at": "2025-08-18T09:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T10:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957380718243221829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521851592827310080",
+          "start": 0,
+          "username": "Kayaforone"
+        },
+        {
+          "end": 28,
+          "id": "1828709783723245568",
+          "start": 12,
+          "username": "nipplepig126572"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957380718243221829",
+    "in_reply_to_user_id": "1521851592827310080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957244305946677634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kayaforone @nipplepig126572 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1956976901416702144",
+        "created_at": "2025-08-18T09:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T10:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957380718243221829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521851592827310080",
+              "start": 0,
+              "username": "Kayaforone"
+            },
+            {
+              "end": 28,
+              "id": "1828709783723245568",
+              "start": 12,
+              "username": "nipplepig126572"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957380718243221829",
+        "in_reply_to_user_id": "1521851592827310080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957244305946677634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kayaforone @nipplepig126572 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521851592827310080",
+        "conversation_id": "1956976901416702144",
+        "created_at": "2025-08-18T00:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T01:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957244305946677634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1828709783723245568",
+              "start": 0,
+              "username": "nipplepig126572"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957244305946677634",
+        "in_reply_to_user_id": "1828709783723245568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3116,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957244187356872852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nipplepig126572 对不起就给我跪下啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "布偶猫咪卷//日雌380私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "LUMI猫卷 出日雌喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956730628952805377/JO8kn5GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 920,
+          "like_count": 27841,
+          "listed_count": 12,
+          "media_count": 1145,
+          "tweet_count": 13680
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T13:58:05.000Z",
+        "description": "省流请看亮点｜@Lu_lu4Xi1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Lu_lu4Xi1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=ATyPkgkN",
+                "start": 0,
+                "url": "https://t.co/bYRS9DrSVf"
+              }
+            ]
+          }
+        },
+        "id": "1521851592827310080",
+        "location": "好用vpn👉🏻",
+        "name": "快乐冠军",
+        "pinned_tweet_id": "1957016536448725073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645592507559063554/wDXTr60v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181363,
+          "following_count": 693,
+          "like_count": 14512,
+          "listed_count": 338,
+          "media_count": 584,
+          "tweet_count": 6620
+        },
+        "url": "https://t.co/bYRS9DrSVf",
+        "username": "Kayaforone",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T08:23:02.000Z",
+        "description": "",
+        "id": "1828709783723245568",
+        "name": "ni pp le pi g",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828710403020615680/s492brQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 97,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 308
+        },
+        "username": "nipplepig126572",
+        "verified": false
+      }
+    ]
+  }
+}

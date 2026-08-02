@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914941463496155137"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1914941473071550607",
+    "created_at": "2025-04-23T07:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T08:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914941473071550607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8ZXpmIKdk",
+          "end": 73,
+          "expanded_url": "https://x.com/lumigj02/status/1914941473071550607/photo/1",
+          "media_key": "3_1914941463496155137",
+          "start": 50,
+          "url": "https://t.co/P8ZXpmIKdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914941473071550607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "日雌370 泰补180 包邮 （价格调整）\n熟人/经济状况不好者可私信问低价喵\n猫卷姐姐很温柔的喵"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日雌370 泰补180 包邮 （价格调整）\n熟人/经济状况不好者可私信问低价喵\n猫卷姐姐很温柔的喵 https://t.co/P8ZXpmIKdk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914941463496155137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpM9HYFa4AEpiL3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914941463496155137"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1914941473071550607",
+        "created_at": "2025-04-23T07:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914941473071550607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8ZXpmIKdk",
+              "end": 73,
+              "expanded_url": "https://x.com/lumigj02/status/1914941473071550607/photo/1",
+              "media_key": "3_1914941463496155137",
+              "start": 50,
+              "url": "https://t.co/P8ZXpmIKdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914941473071550607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日雌370 泰补180 包邮 （价格调整）\n熟人/经济状况不好者可私信问低价喵\n猫卷姐姐很温柔的喵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日雌370 泰补180 包邮 （价格调整）\n熟人/经济状况不好者可私信问低价喵\n猫卷姐姐很温柔的喵 https://t.co/P8ZXpmIKdk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | Cat named Neko | @you_miaowu @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 869,
+          "like_count": 26469,
+          "listed_count": 11,
+          "media_count": 1025,
+          "tweet_count": 11535
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

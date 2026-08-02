@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1906758365226946857",
+    "created_at": "2025-03-31T17:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T18:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906759116653228267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906759116653228267",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906758365226946857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra 逆天"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906758365226946857].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906758365226946857",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906758365226946857"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906758365226946857",
+        "created_at": "2025-03-31T17:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906759116653228267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906759116653228267",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906758365226946857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra 逆天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 4ever | @you_miaowu | @NUSingapore 廠牌第⑥Rapper | 📧 lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "K3nt R1dg3",
+        "name": "雲貓歸卷",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 864,
+          "like_count": 26184,
+          "listed_count": 11,
+          "media_count": 976,
+          "tweet_count": 11181
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "\"这就像买一架钢琴，首先因为你负担得起，其次是因为你有一群渴望用它演奏音乐的人。\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ProjectA1saku",
+                "end": 23,
+                "expanded_url": "https://t.me/ProjectA1saku",
+                "start": 0,
+                "url": "https://t.co/MYzhwjB35L"
+              }
+            ]
+          }
+        },
+        "id": "1746169774147776512",
+        "location": "Selangor ",
+        "name": "🩵出女大自用99新9800x3d🌘",
+        "pinned_tweet_id": "1896825967953510605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866046325076430848/emfgMK-H_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 842,
+          "like_count": 51054,
+          "listed_count": 2,
+          "media_count": 1550,
+          "tweet_count": 36921
+        },
+        "url": "https://t.co/MYzhwjB35L",
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      }
+    ]
+  }
+}

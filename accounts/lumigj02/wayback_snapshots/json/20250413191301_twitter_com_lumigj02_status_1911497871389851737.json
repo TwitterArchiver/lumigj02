@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911497859213524992"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1911497871389851737",
+    "created_at": "2025-04-13T19:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T20:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911497871389851737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MaJSG1pxaV",
+          "end": 127,
+          "expanded_url": "https://x.com/lumigj02/status/1911497871389851737/photo/1",
+          "media_key": "3_1911497859213524992",
+          "start": 104,
+          "url": "https://t.co/MaJSG1pxaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911497871389851737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "彩虹六号真是个抽象游戏，APAC一点热度没有，北美一堆看的killcam次数比击杀还多的underage小孩发highlights，预瞄都瞄不明白的天才选手打challenger league开透视演都不演 https://t.co/MaJSG1pxaV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911497859213524992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GocBLOdXgAAX5vW.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911497859213524992"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1911497871389851737",
+        "created_at": "2025-04-13T19:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T20:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911497871389851737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MaJSG1pxaV",
+              "end": 127,
+              "expanded_url": "https://x.com/lumigj02/status/1911497871389851737/photo/1",
+              "media_key": "3_1911497859213524992",
+              "start": 104,
+              "url": "https://t.co/MaJSG1pxaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911497871389851737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彩虹六号真是个抽象游戏，APAC一点热度没有，北美一堆看的killcam次数比击杀还多的underage小孩发highlights，预瞄都瞄不明白的天才选手打challenger league开透视演都不演 https://t.co/MaJSG1pxaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "CompSci @NUSingapore @sutdsg | ❤️ @_Sanxon | @you_miaowu | 日雌380 泰补210 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "sutdsg"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 868,
+          "like_count": 26343,
+          "listed_count": 11,
+          "media_count": 1008,
+          "tweet_count": 11386
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

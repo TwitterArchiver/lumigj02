@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953021418679222448",
+    "created_at": "2025-08-06T11:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T12:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953056312779997578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1305844679284457473",
+          "start": 0,
+          "username": "fjwritsuto"
+        },
+        {
+          "end": 26,
+          "id": "1685834053939806208",
+          "start": 12,
+          "username": "TsuyuriNagisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953056312779997578",
+    "in_reply_to_user_id": "1305844679284457473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953055699958911363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fjwritsuto @TsuyuriNagisa 好吃爱吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953021418679222448",
+        "created_at": "2025-08-06T11:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T12:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953056312779997578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1305844679284457473",
+              "start": 0,
+              "username": "fjwritsuto"
+            },
+            {
+              "end": 26,
+              "id": "1685834053939806208",
+              "start": 12,
+              "username": "TsuyuriNagisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953056312779997578",
+        "in_reply_to_user_id": "1305844679284457473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953055699958911363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fjwritsuto @TsuyuriNagisa 好吃爱吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305844679284457473",
+        "conversation_id": "1953021418679222448",
+        "created_at": "2025-08-06T11:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T12:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953055699958911363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685834053939806208",
+              "start": 0,
+              "username": "TsuyuriNagisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953055699958911363",
+        "in_reply_to_user_id": "1685834053939806208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953021418679222448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TsuyuriNagisa 中国的冷面几乎全部都是延边冷面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "LUMI 猫卷 - 日雌390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 931,
+          "like_count": 27730,
+          "listed_count": 12,
+          "media_count": 1123,
+          "tweet_count": 13295
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "みんな大好き💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/unnamed_rf",
+                "end": 23,
+                "expanded_url": "http://x.com/unnamed_rf",
+                "start": 0,
+                "url": "https://t.co/9JpbFi7oJk"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "サブ垢こちら→",
+        "name": "坂魚🐟",
+        "pinned_tweet_id": "1949432436741361961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952905313826553857/NY7EdSnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 853,
+          "like_count": 14125,
+          "listed_count": 16,
+          "media_count": 4671,
+          "tweet_count": 40218
+        },
+        "url": "https://t.co/9JpbFi7oJk",
+        "username": "fjwritsuto",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T02:05:48.000Z",
+        "description": "やられたらやり返す、倍返しだ！ ｜Ｈ２０生中国人高校生｜ヲタク・近代東亜史・語学｜アイコンはオリジナルキャラクター・転載禁止・作画@zlqdhyz｜GT7・F1興味｜ サブ@NagisaTsuyuri 鍵@POTUS11451419｜質問歓迎（Web欄）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "zlqdhyz"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "NagisaTsuyuri"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "POTUS11451419"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/TsuyuriNa…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/TsuyuriNagisa1",
+                "start": 0,
+                "url": "https://t.co/SwadWxwfhV"
+              }
+            ]
+          }
+        },
+        "id": "1685834053939806208",
+        "location": "Hong Kong",
+        "name": "ツユナギ【南方遠征中の中国人】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930658336984465409/yQdsKhNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5288,
+          "following_count": 661,
+          "like_count": 86863,
+          "listed_count": 20,
+          "media_count": 1476,
+          "tweet_count": 16272
+        },
+        "url": "https://t.co/SwadWxwfhV",
+        "username": "TsuyuriNagisa",
+        "verified": false
+      }
+    ]
+  }
+}

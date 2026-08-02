@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945057960541016558",
+    "created_at": "2025-07-15T13:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T14:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945111758680539278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810962908987396096",
+          "start": 0,
+          "username": "SakurazakiAiko"
+        },
+        {
+          "end": 32,
+          "id": "1313383273079345152",
+          "start": 16,
+          "username": "ValeriaEulabeia"
+        },
+        {
+          "end": 48,
+          "id": "1845454917236031495",
+          "start": 33,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945111758680539278",
+    "in_reply_to_user_id": "1810962908987396096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 22,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945111660748005416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurazakiAiko @ValeriaEulabeia @Dontbesadforit 你家诗月呢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945111660748005416].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945111660748005416",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945111660748005416"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945057960541016558",
+        "created_at": "2025-07-15T13:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T14:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945111758680539278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810962908987396096",
+              "start": 0,
+              "username": "SakurazakiAiko"
+            },
+            {
+              "end": 32,
+              "id": "1313383273079345152",
+              "start": 16,
+              "username": "ValeriaEulabeia"
+            },
+            {
+              "end": 48,
+              "id": "1845454917236031495",
+              "start": 33,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945111758680539278",
+        "in_reply_to_user_id": "1810962908987396096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945111660748005416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurazakiAiko @ValeriaEulabeia @Dontbesadforit 你家诗月呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore 家猫: @_FurryFur_ 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 921,
+          "like_count": 27522,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12894
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T09:03:21.000Z",
+        "description": "主人：@Poetry_Luna 妹妹： @HuliCaijia\n持證HRT🏳️‍⚧️重鬱中焦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "HuliCaijia"
+              }
+            ]
+          }
+        },
+        "id": "1810962908987396096",
+        "location": "Silverymoon",
+        "name": "SakurazakiAiko🌸詩月🍥",
+        "pinned_tweet_id": "1880247872270283012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884631668998430720/mMIX9fqy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 82,
+          "like_count": 8644,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 2489
+        },
+        "username": "SakurazakiAiko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zone2.nessbyte.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://zone2.nessbyte.top/#/register?code=fEQOPAcf",
+                "start": 0,
+                "url": "https://t.co/x655wqqoK7"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1942793846691385779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6527,
+          "following_count": 3541,
+          "like_count": 135242,
+          "listed_count": 15,
+          "media_count": 2194,
+          "tweet_count": 20421
+        },
+        "url": "https://t.co/x655wqqoK7",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 只有愚人节翻车💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人 ｜里：@MihariSuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "MihariSuki"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 593,
+          "like_count": 32848,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 4763
+        },
+        "username": "Dontbesadforit",
+        "verified": false
+      }
+    ]
+  }
+}

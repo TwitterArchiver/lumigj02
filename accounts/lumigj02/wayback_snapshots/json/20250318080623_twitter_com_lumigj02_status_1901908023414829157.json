@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1901896157540069695",
+    "created_at": "2025-03-18T08:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T09:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901908023414829157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781308864438345728",
+          "start": 0,
+          "username": "FoxRed695449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901908023414829157",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901896157540069695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRed695449 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901895992527732736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmTkVBpawAA44V7.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1901895992645140480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmTkVCFaQAAo0sV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 810,
+        "media_key": "3_1901896149331738624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmTkeJyaAAAWs24.jpg",
+        "width": 1080
+      },
+      {
+        "height": 809,
+        "media_key": "3_1901895993580474369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmTkVFkaUAEayMm.jpg",
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1901896157540069695",
+        "created_at": "2025-03-18T08:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T09:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901908023414829157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901908023414829157",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901896157540069695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901895992527732736",
+            "3_1901895992645140480",
+            "3_1901896149331738624",
+            "3_1901895993580474369"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1141284776185171968",
+              "name": "يوسُف"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1141284776185171968",
+              "name": "يوسُف"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1141284776185171968",
+              "name": "يوسُف"
+            }
+          }
+        ],
+        "conversation_id": "1901896157540069695",
+        "created_at": "2025-03-18T07:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T08:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901896157540069695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMWoJVY4FY",
+              "end": 181,
+              "expanded_url": "https://x.com/FoxRed695449/status/1901896157540069695/photo/1",
+              "media_key": "3_1901895992527732736",
+              "start": 158,
+              "url": "https://t.co/kMWoJVY4FY"
+            },
+            {
+              "display_url": "pic.x.com/kMWoJVY4FY",
+              "end": 181,
+              "expanded_url": "https://x.com/FoxRed695449/status/1901896157540069695/photo/1",
+              "media_key": "3_1901895992645140480",
+              "start": 158,
+              "url": "https://t.co/kMWoJVY4FY"
+            },
+            {
+              "display_url": "pic.x.com/kMWoJVY4FY",
+              "end": 181,
+              "expanded_url": "https://x.com/FoxRed695449/status/1901896157540069695/photo/1",
+              "media_key": "3_1901896149331738624",
+              "start": 158,
+              "url": "https://t.co/kMWoJVY4FY"
+            },
+            {
+              "display_url": "pic.x.com/kMWoJVY4FY",
+              "end": 181,
+              "expanded_url": "https://x.com/FoxRed695449/status/1901896157540069695/photo/1",
+              "media_key": "3_1901895993580474369",
+              "start": 158,
+              "url": "https://t.co/kMWoJVY4FY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901896157540069695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這裡是RedFox，大家也可以叫我紅狐/狐狸，是跨性別女性\nA level在讀學生（選課為數學，物理，心理，經濟）\n普通話可以，英語可能有一些小錯誤，廣東話可以聽懂但不會說，日語和法語會一些基礎內容\n喜歡cosplay，綑綁，槍械，acg及R18-G类內容\n政治立場偏左偏黃(接受不同觀點)\n如果你喜歡我可以打賞我 https://t.co/kMWoJVY4FY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 🇦🇺 @QUT 🇸🇬 @sutdsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 38,
+                "start": 34,
+                "username": "QUT"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "sutdsg"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷",
+        "pinned_tweet_id": "1843231992315555922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 852,
+          "like_count": 25738,
+          "listed_count": 11,
+          "media_count": 947,
+          "tweet_count": 10759
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1901896157540069695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3901,
+          "following_count": 574,
+          "like_count": 2525,
+          "listed_count": 6,
+          "media_count": 421,
+          "tweet_count": 1305
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

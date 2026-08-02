@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900559521397067776"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1900559547405914242",
+    "created_at": "2025-03-14T14:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T15:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900559547405914242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfAUsqE1HB",
+          "end": 60,
+          "expanded_url": "https://x.com/lumigj02/status/1900559547405914242/photo/1",
+          "media_key": "3_1900559521397067776",
+          "start": 37,
+          "url": "https://t.co/zfAUsqE1HB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900559547405914242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "路过Anglo minus Chinese学校，这个塔配后面的云好漂亮！ https://t.co/zfAUsqE1HB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1900559521397067776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmAk0Ktb0AAgYTm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900559521397067776"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1900559547405914242",
+        "created_at": "2025-03-14T14:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T15:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900559547405914242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfAUsqE1HB",
+              "end": 60,
+              "expanded_url": "https://x.com/lumigj02/status/1900559547405914242/photo/1",
+              "media_key": "3_1900559521397067776",
+              "start": 37,
+              "url": "https://t.co/zfAUsqE1HB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900559547405914242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过Anglo minus Chinese学校，这个塔配后面的云好漂亮！ https://t.co/zfAUsqE1HB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 💫 @Yan_Xing_Xing | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 874,
+          "like_count": 25690,
+          "listed_count": 11,
+          "media_count": 953,
+          "tweet_count": 10680
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

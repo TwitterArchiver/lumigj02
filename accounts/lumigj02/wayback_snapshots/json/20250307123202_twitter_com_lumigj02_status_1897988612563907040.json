@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897954004669436167",
+    "created_at": "2025-03-07T12:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T13:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897988612563907040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "840657664342343681",
+          "start": 0,
+          "username": "Yuna_Kamisato"
+        },
+        {
+          "end": 27,
+          "id": "1738260366831071232",
+          "start": 15,
+          "username": "UnguentumLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897988612563907040",
+    "in_reply_to_user_id": "840657664342343681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897982010947518617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuna_Kamisato @UnguentumLi 推荐Mango sticky rice (甜), basil chicken fried rice (可能有点辣), Pad Thai (不算辣)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897954004669436167",
+        "created_at": "2025-03-07T12:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897988612563907040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "840657664342343681",
+              "start": 0,
+              "username": "Yuna_Kamisato"
+            },
+            {
+              "end": 27,
+              "id": "1738260366831071232",
+              "start": 15,
+              "username": "UnguentumLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897988612563907040",
+        "in_reply_to_user_id": "840657664342343681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897982010947518617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuna_Kamisato @UnguentumLi 推荐Mango sticky rice (甜), basil chicken fried rice (可能有点辣), Pad Thai (不算辣)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840657664342343681",
+        "conversation_id": "1897954004669436167",
+        "created_at": "2025-03-07T12:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897982010947518617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738260366831071232",
+              "start": 0,
+              "username": "UnguentumLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897982010947518617",
+        "in_reply_to_user_id": "1738260366831071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897981855368200252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnguentumLi 因为泰国菜太辣了啊……\n另外一点主要是想看看味道正不正……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200 / NSFW不打码恕不回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 847,
+          "like_count": 25468,
+          "listed_count": 11,
+          "media_count": 932,
+          "tweet_count": 10370
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-11T20:16:20.000Z",
+        "description": "INFP-A🦋 Les-PP 老婆是：@Yue_0404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "Yue_0404"
+              }
+            ]
+          }
+        },
+        "id": "840657664342343681",
+        "location": "距您65535km内，汐之梦 - Yuna's Dream",
+        "name": "汐",
+        "pinned_tweet_id": "1890428968160915911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868704258948055043/KDYDiFzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 336,
+          "like_count": 22518,
+          "listed_count": 13,
+          "media_count": 566,
+          "tweet_count": 6207
+        },
+        "username": "Yuna_Kamisato",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-22T18:09:12.000Z",
+        "description": "雪霖霖的新号 je suis parfumeur 大齡術後小阿姨（重生日7.1日）Nomen Latinum 考古學愛好 東亞전통 의상 我們的存在是對惡意最大的反抗",
+        "id": "1738260366831071232",
+        "name": "눈霖霖🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871383167170379776/23SXRg23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 1185,
+          "like_count": 5886,
+          "listed_count": 5,
+          "media_count": 211,
+          "tweet_count": 1314
+        },
+        "username": "UnguentumLi",
+        "verified": false
+      }
+    ]
+  }
+}

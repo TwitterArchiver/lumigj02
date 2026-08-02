@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1896192957021335623",
+    "created_at": "2025-03-02T13:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T14:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896197028826554756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 24,
+          "id": "1764728841010831360",
+          "start": 14,
+          "username": "Quack_one"
+        },
+        {
+          "end": 32,
+          "id": "1864739862697644032",
+          "start": 25,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896197028826554756",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896192957021335623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria @Quack_one @2196F3 啊？我没叫你帮忙啊，我都多久没提她了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896192952935866368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlChcblXYAAJlQL.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1896192952940068865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlChcbmXgAEA6kx.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1896192957021335623",
+        "created_at": "2025-03-02T13:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T14:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896197028826554756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 24,
+              "id": "1764728841010831360",
+              "start": 14,
+              "username": "Quack_one"
+            },
+            {
+              "end": 32,
+              "id": "1864739862697644032",
+              "start": 25,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896197028826554756",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896192957021335623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @Quack_one @2196F3 啊？我没叫你帮忙啊，我都多久没提她了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896192952935866368",
+            "3_1896192952940068865"
+          ]
+        },
+        "author_id": "1794154221194932224",
+        "conversation_id": "1896192957021335623",
+        "created_at": "2025-03-02T13:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T14:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896192957021335623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764728841010831360",
+              "start": 1,
+              "username": "Quack_one"
+            },
+            {
+              "end": 19,
+              "id": "1864739862697644032",
+              "start": 12,
+              "username": "2196F3"
+            },
+            {
+              "end": 29,
+              "id": "1176535991454064640",
+              "start": 20,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jeVa4XZrts",
+              "end": 118,
+              "expanded_url": "https://x.com/NagiVictoria/status/1896192957021335623/photo/1",
+              "media_key": "3_1896192952935866368",
+              "start": 95,
+              "url": "https://t.co/jeVa4XZrts"
+            },
+            {
+              "display_url": "pic.x.com/jeVa4XZrts",
+              "end": 118,
+              "expanded_url": "https://x.com/NagiVictoria/status/1896192957021335623/photo/1",
+              "media_key": "3_1896192952940068865",
+              "start": 95,
+              "url": "https://t.co/jeVa4XZrts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896192957021335623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把@Quack_one @2196F3 @lumigj02 双取单删了\n我前任跟我没啥关系了\n我没义务帮你们做这些事情\n你们父母如果没教会你们\n做人最基本的边界感\n那我今天就来给你们上一课 https://t.co/jeVa4XZrts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 一般路过女大 / 🥰 叫我Lumi或猫卷姐姐可快速刷好感度 / 💖 @HobartR6 / 日雌𝟥𝟫𝟢泰补𝟤𝟢𝟢 京东快递包邮 提供HRT指导",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ @ 日雌𝟥𝟫𝟢泰补𝟤𝟢𝟢",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 829,
+          "like_count": 25325,
+          "listed_count": 11,
+          "media_count": 905,
+          "tweet_count": 10061
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "Nagi 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1896030143552118918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 856,
+          "like_count": 15710,
+          "listed_count": 6,
+          "media_count": 1885,
+          "tweet_count": 14260
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "mtf",
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "Quack_one",
+        "pinned_tweet_id": "1766141866582720788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766138560439365632/joQaBvHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 59,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 378
+        },
+        "username": "Quack_one",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "HRT 2025 Sept， 准备今年暑假出cos，本体是香香软软没有攻击性的可爱猞猁(INTP-T; mtx? 友一切，想交更多朋友。现居美国，日常就是女装, 博士攻读中。私信话题: 今天凯尔希也在忠诚执行源石计划吗?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1894621355267776615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864779287246819329/6oEg9bcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 184,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": false
+      }
+    ]
+  }
+}

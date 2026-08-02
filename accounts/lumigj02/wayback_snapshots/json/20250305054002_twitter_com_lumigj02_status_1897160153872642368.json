@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897143626549039129",
+    "created_at": "2025-03-05T05:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T06:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897160153872642368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "931934663198703616",
+          "start": 0,
+          "username": "BakaHDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897160153872642368",
+    "in_reply_to_user_id": "931934663198703616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897143626549039129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BakaHDT Dopamin和GABA我都要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1897143620156719104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlQCEi9XAAA3UF7.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897143626549039129",
+        "created_at": "2025-03-05T05:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T06:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897160153872642368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "931934663198703616",
+              "start": 0,
+              "username": "BakaHDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897160153872642368",
+        "in_reply_to_user_id": "931934663198703616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897143626549039129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BakaHDT Dopamin和GABA我都要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897143620156719104"
+          ]
+        },
+        "author_id": "931934663198703616",
+        "conversation_id": "1897143626549039129",
+        "created_at": "2025-03-05T04:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T05:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897143626549039129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iycn5rZOmm",
+              "end": 37,
+              "expanded_url": "https://x.com/BakaHDT/status/1897143626549039129/photo/1",
+              "media_key": "3_1897143620156719104",
+              "start": 14,
+              "url": "https://t.co/Iycn5rZOmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897143626549039129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "：你的精神状态怎么样\n我： https://t.co/Iycn5rZOmm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 日雌390泰补200 DM or contact Telegram below",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi G. Jiang Cheng Xue 日雌390泰补200",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2087,
+          "following_count": 832,
+          "like_count": 25382,
+          "listed_count": 11,
+          "media_count": 913,
+          "tweet_count": 10191
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T17:18:33.000Z",
+        "description": "mtf/双相/bpd/dpd/asd/adhd | 今天也在努力活着的小女孩，可以叫我123 | 发一些生活中的事情 | 下面的链接是提问箱 | 最爱的主人是 @FTMiaoX 愿意为他付出一切",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "FTMiaoX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bakahdt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bakahdt",
+                "start": 0,
+                "url": "https://t.co/DVXWY0OIcQ"
+              }
+            ]
+          }
+        },
+        "id": "931934663198703616",
+        "location": "发条喵家的笼子里",
+        "name": "BakaHDT🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876193252422164480/fZqr5cG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 473,
+          "like_count": 6299,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 1861
+        },
+        "url": "https://t.co/DVXWY0OIcQ",
+        "username": "BakaHDT",
+        "verified": false
+      }
+    ]
+  }
+}

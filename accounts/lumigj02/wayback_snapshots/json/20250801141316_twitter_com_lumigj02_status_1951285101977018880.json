@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950924543754727637",
+    "created_at": "2025-08-01T14:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T15:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951285101977018880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906416508349370368",
+          "start": 0,
+          "username": "yuzhimao_miaowu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951285101977018880",
+    "in_reply_to_user_id": "1906416508349370368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950948569222938740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhimao_miaowu 贴贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950924543754727637",
+        "created_at": "2025-08-01T14:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T15:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951285101977018880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906416508349370368",
+              "start": 0,
+              "username": "yuzhimao_miaowu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951285101977018880",
+        "in_reply_to_user_id": "1906416508349370368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950948569222938740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhimao_miaowu 贴贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906416508349370368",
+        "conversation_id": "1950924543754727637",
+        "created_at": "2025-07-31T15:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T16:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950948569222938740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950948569222938740",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950924543754727637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 捉到一只猫卷~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 926,
+          "like_count": 27699,
+          "listed_count": 12,
+          "media_count": 1117,
+          "tweet_count": 13229
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T18:41:43.000Z",
+        "description": "期待有主人莫名其妙把我捡走 | mtf |HRT 12.2023| 超级可爱的姐姐@XiaoHuiHuiH | 无敌大姐头@lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "XiaoHuiHuiH"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1906416508349370368",
+        "location": "北京",
+        "name": "预制猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907893121934868480/zCrdoSjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 66,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 266
+        },
+        "username": "yuzhimao_miaowu",
+        "verified": false
+      }
+    ]
+  }
+}

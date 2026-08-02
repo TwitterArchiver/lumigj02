@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954206374839111948",
+    "created_at": "2025-08-10T03:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T04:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954377406414024818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1305844679284457473",
+          "start": 0,
+          "username": "fjwritsuto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954377406414024818",
+    "in_reply_to_user_id": "1305844679284457473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954377342278832477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fjwritsuto 我不要我不喜欢榴莲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1954206374839111948",
+        "created_at": "2025-08-10T03:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954377406414024818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1305844679284457473",
+              "start": 0,
+              "username": "fjwritsuto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954377406414024818",
+        "in_reply_to_user_id": "1305844679284457473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954377342278832477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fjwritsuto 我不要我不喜欢榴莲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305844679284457473",
+        "conversation_id": "1954206374839111948",
+        "created_at": "2025-08-10T03:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954377342278832477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954377342278832477",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954376452717391980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 给你把芒果换成榴莲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 934,
+          "like_count": 27707,
+          "listed_count": 12,
+          "media_count": 1124,
+          "tweet_count": 13373
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "みんな大好き💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/unnamed_rf",
+                "end": 23,
+                "expanded_url": "http://x.com/unnamed_rf",
+                "start": 0,
+                "url": "https://t.co/9JpbFi7oJk"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "サブ垢こちら→",
+        "name": "坂魚🐟",
+        "pinned_tweet_id": "1949432436741361961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953296825752141827/56ytafyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 850,
+          "like_count": 14184,
+          "listed_count": 16,
+          "media_count": 4678,
+          "tweet_count": 40313
+        },
+        "url": "https://t.co/9JpbFi7oJk",
+        "username": "fjwritsuto",
+        "verified": false
+      }
+    ]
+  }
+}

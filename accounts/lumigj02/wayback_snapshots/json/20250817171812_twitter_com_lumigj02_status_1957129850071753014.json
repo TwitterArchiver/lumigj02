@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1956781783175118944",
+    "created_at": "2025-08-17T17:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T18:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957129850071753014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1161626074150658048",
+          "start": 0,
+          "username": "Biantaibear01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957129850071753014",
+    "in_reply_to_user_id": "1161626074150658048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 51,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956781783175118944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Biantaibear01 想被这样捆起来烤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16058,
+        "height": 772,
+        "media_key": "13_1956781709871267840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956781709871267840/img/bOCopCsMtVG6TkAn.jpg",
+        "public_metrics": {
+          "view_count": 50091
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956781709871267840/pl/DeOdqbo3TM-U4ArT.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956781709871267840/vid/avc1/308x270/WuU7pyQA_HetTl6H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956781709871267840/vid/avc1/412x360/z_F5ymkrJfD0valC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956781709871267840/vid/avc1/826x720/0Fx5UHEuygNMgmoV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956781709871267840/vid/avc1/886x772/EPSx1Erv_WFf70qR.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1956781783175118944",
+        "created_at": "2025-08-17T17:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957129850071753014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1161626074150658048",
+              "start": 0,
+              "username": "Biantaibear01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957129850071753014",
+        "in_reply_to_user_id": "1161626074150658048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956781783175118944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Biantaibear01 想被这样捆起来烤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956781709871267840"
+          ]
+        },
+        "author_id": "1161626074150658048",
+        "conversation_id": "1956781783175118944",
+        "created_at": "2025-08-16T18:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T19:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956781783175118944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruMtABDD5r",
+              "end": 40,
+              "expanded_url": "https://x.com/Biantaibear01/status/1956781783175118944/video/1",
+              "media_key": "13_1956781709871267840",
+              "start": 17,
+              "url": "https://t.co/ruMtABDD5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956781783175118944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 93662,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "最绝的戒烟广告，抽烟要命啊😆😆😆 https://t.co/ruMtABDD5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "布偶猫咪卷//日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "LUMI猫卷 出日雌喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956730628952805377/JO8kn5GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 921,
+          "like_count": 27838,
+          "listed_count": 12,
+          "media_count": 1145,
+          "tweet_count": 13677
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-14T13:10:12.000Z",
+        "description": "生活推，碎碎念/ISFP/BD人/血型B/双子座/偶像西西弗/践行斯多葛/喜欢熬鸡汤/白兰地信徒/每日坚持冥想，运动，冰浴……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/zh/%E5%8C%97%E…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/zh/%E5%8C%97%E6%A5%B5%E7%86%8A",
+                "start": 0,
+                "url": "https://t.co/N68ZTmRkeM"
+              }
+            ]
+          }
+        },
+        "id": "1161626074150658048",
+        "location": "北极",
+        "name": "一只北极熊",
+        "pinned_tweet_id": "1344285055653269504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288286236226908160/4NCC_7z3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33440,
+          "following_count": 1250,
+          "like_count": 16398,
+          "listed_count": 147,
+          "media_count": 7024,
+          "tweet_count": 26995
+        },
+        "url": "https://t.co/N68ZTmRkeM",
+        "username": "Biantaibear01",
+        "verified": true
+      }
+    ]
+  }
+}

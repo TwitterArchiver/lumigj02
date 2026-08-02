@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922906622302523540",
+    "created_at": "2025-05-17T07:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T08:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923649445784412267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        },
+        {
+          "end": 23,
+          "id": "1552918719440924672",
+          "start": 15,
+          "username": "_Sanxon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923649445784412267",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922973398419837032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko @_Sanxon 貓卷說你是壞餅乾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922906622302523540",
+        "created_at": "2025-05-17T07:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T08:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923649445784412267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            },
+            {
+              "end": 23,
+              "id": "1552918719440924672",
+              "start": 15,
+              "username": "_Sanxon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923649445784412267",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922973398419837032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko @_Sanxon 貓卷說你是壞餅乾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356940397956620288",
+        "conversation_id": "1922906622302523540",
+        "created_at": "2025-05-15T11:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T12:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922973398419837032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 18,
+              "id": "1552918719440924672",
+              "start": 10,
+              "username": "_Sanxon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922973398419837032",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922906622302523540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @_Sanxon 猫卷是豪猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "(本账号由 @_Sanxon 代为管理) | 日雌380泰补200 私信/下方Telegram联系 | 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi猫卷🍥HRT药物日雌泰补(本账号由Sanxon代管)",
+        "pinned_tweet_id": "1922906622302523540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 889,
+          "like_count": 26818,
+          "listed_count": 12,
+          "media_count": 1068,
+          "tweet_count": 11966
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜ 你饼干自己在用的梯子：https://t.co/i7QKqbPO6T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 64,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=jTnvUau0",
+                "start": 41,
+                "url": "https://t.co/i7QKqbPO6T"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "location": "Shijiazhuang/Beijing/Guangzhou",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "1912579886939824486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726632124412022784/TnqkN0Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8533,
+          "following_count": 2843,
+          "like_count": 14568,
+          "listed_count": 10,
+          "media_count": 768,
+          "tweet_count": 8450
+        },
+        "username": "NyaCookieNeko",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "女的 // 沒有任何技能的一個笨蛋 // 妹妹 & R6 duo @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "濟南/石家莊",
+        "name": "Sanxon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922960489253830656/RT_aQy91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 136,
+          "like_count": 154,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 163
+        },
+        "username": "_Sanxon",
+        "verified": false
+      }
+    ]
+  }
+}

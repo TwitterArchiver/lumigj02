@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895807920652399052",
+    "created_at": "2025-03-01T17:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T18:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895882073929629886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2486372011",
+          "start": 0,
+          "username": "Meowneko_Mio"
+        },
+        {
+          "end": 27,
+          "id": "1427572752358141956",
+          "start": 14,
+          "username": "Hongcha_Meow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895882073929629886",
+    "in_reply_to_user_id": "2486372011",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895820423797096577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowneko_Mio @Hongcha_Meow 卷卷卷卷卷猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895807920652399052",
+        "created_at": "2025-03-01T17:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T18:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895882073929629886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2486372011",
+              "start": 0,
+              "username": "Meowneko_Mio"
+            },
+            {
+              "end": 27,
+              "id": "1427572752358141956",
+              "start": 14,
+              "username": "Hongcha_Meow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895882073929629886",
+        "in_reply_to_user_id": "2486372011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895820423797096577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowneko_Mio @Hongcha_Meow 卷卷卷卷卷猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2486372011",
+        "conversation_id": "1895807920652399052",
+        "created_at": "2025-03-01T12:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895820423797096577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 23,
+              "id": "1427572752358141956",
+              "start": 10,
+              "username": "Hongcha_Meow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895820423797096577",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895814389212856442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @Hongcha_Meow 猫卷卷卷卷卷！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 一般路过女大 / 🥰 叫我ʟᴜᴍɪ或猫卷姐姐可快速刷好感度 / 💖 @HobartR6 / 日雌390泰补200 购药提供HRT指导",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895809529268330496/Ys7dbosQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 829,
+          "like_count": 25303,
+          "listed_count": 11,
+          "media_count": 900,
+          "tweet_count": 10020
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-10T01:56:58.000Z",
+        "description": "📷 | 🚃 | 🇲🇴 | 🇭🇰 | 85.60x53.98 ｜Best Linux @debian | https://t.co/hCUoYx0hAa in Computer Science ｜Moonlight @Hongcha_Meow｜💫@McXiaowei  @RenkoUsagi1155",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 42,
+                "username": "debian"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Hongcha_Meow"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "McXiaowei"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "RenkoUsagi1155"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "B.Sc",
+                "end": 75,
+                "expanded_url": "http://B.Sc",
+                "start": 52,
+                "url": "https://t.co/hCUoYx0hAa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amiya.eu.org",
+                "end": 23,
+                "expanded_url": "https://amiya.eu.org",
+                "start": 0,
+                "url": "https://t.co/CGRr5ZrJmw"
+              }
+            ]
+          }
+        },
+        "id": "2486372011",
+        "location": "Nether",
+        "name": "Mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718374429770776576/Yn6W1pM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 743,
+          "like_count": 53377,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 3377
+        },
+        "url": "https://t.co/CGRr5ZrJmw",
+        "username": "Meowneko_Mio",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T10:07:31.000Z",
+        "description": "雨の街路脇、君は立っていた。片手には赤いカトレア 。| 最好的恋人@datadelete_4444 @JR_YamanoteE235 & Sunlight @Meowneko_Mio | 姐姐@Shenyuebanran | 贪吃猫@McXiaowei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "datadelete_4444"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Meowneko_Mio"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Shenyuebanran"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "McXiaowei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+x0xvld9DC78yM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+x0xvld9DC78yMjk0",
+                "start": 0,
+                "url": "https://t.co/xLlFX14WkX"
+              }
+            ]
+          }
+        },
+        "id": "1427572752358141956",
+        "location": "44怀里~",
+        "name": "紅茶",
+        "pinned_tweet_id": "1888656037705855197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618954126871924741/ZXkOdYhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 1595,
+          "like_count": 31486,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 4838
+        },
+        "url": "https://t.co/xLlFX14WkX",
+        "username": "Hongcha_Meow",
+        "verified": false
+      }
+    ]
+  }
+}

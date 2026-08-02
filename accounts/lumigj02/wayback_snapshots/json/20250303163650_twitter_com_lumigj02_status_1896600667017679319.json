@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1896592551169450449",
+    "created_at": "2025-03-03T16:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T17:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896600667017679319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1841494812475932672",
+          "start": 0,
+          "username": "Yan_Xing_Xing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896600667017679319",
+    "in_reply_to_user_id": "1841494812475932672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896600248476434473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan_Xing_Xing 那你快画呜呜呜呜咱要姐姐画一个猫卷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1896592551169450449",
+        "created_at": "2025-03-03T16:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T17:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896600667017679319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1841494812475932672",
+              "start": 0,
+              "username": "Yan_Xing_Xing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896600667017679319",
+        "in_reply_to_user_id": "1841494812475932672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896600248476434473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan_Xing_Xing 那你快画呜呜呜呜咱要姐姐画一个猫卷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841494812475932672",
+        "conversation_id": "1896592551169450449",
+        "created_at": "2025-03-03T16:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T17:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896600248476434473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896600248476434473",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896600035783229465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 要睡觉了来不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 购药私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ @ 日雌𝟥𝟫𝟢泰补𝟤𝟢𝟢",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 828,
+          "like_count": 25336,
+          "listed_count": 11,
+          "media_count": 909,
+          "tweet_count": 10127
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T15:06:06.000Z",
+        "description": "",
+        "id": "1841494812475932672",
+        "location": "东西南北京市",
+        "name": "-洐-⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861651110089629697/uItj9JZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 234,
+          "like_count": 18272,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 182
+        },
+        "username": "Yan_Xing_Xing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953092734300111190",
+    "created_at": "2025-08-06T14:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T15:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953096107740828058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646905533386100738",
+          "start": 0,
+          "username": "du_allen45136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953096107740828058",
+    "in_reply_to_user_id": "1646905533386100738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953092734300111190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@du_allen45136 肝怎么了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "3_1953092731225686017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrHfboawAEE9qn.jpg",
+        "width": 263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953092734300111190",
+        "created_at": "2025-08-06T14:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T15:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953096107740828058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646905533386100738",
+              "start": 0,
+              "username": "du_allen45136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953096107740828058",
+        "in_reply_to_user_id": "1646905533386100738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953092734300111190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@du_allen45136 肝怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953092731225686017"
+          ]
+        },
+        "author_id": "1646905533386100738",
+        "conversation_id": "1953092734300111190",
+        "created_at": "2025-08-06T13:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953092734300111190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeQ7aKmkRI",
+              "end": 31,
+              "expanded_url": "https://x.com/du_allen45136/status/1953092734300111190/photo/1",
+              "media_key": "3_1953092731225686017",
+              "start": 8,
+              "url": "https://t.co/YeQ7aKmkRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953092734300111190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像输了。。。 https://t.co/YeQ7aKmkRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "LUMI 猫卷 - 日雌390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 932,
+          "like_count": 27738,
+          "listed_count": 12,
+          "media_count": 1121,
+          "tweet_count": 13308
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T15:58:06.000Z",
+        "description": "波士顿大学丨哲学专业大一 丨生活推和一些随想 丨喜欢单机主机游戏丨如果你经常点赞或者给出了有价值的回复，我就会回fo",
+        "id": "1646905533386100738",
+        "location": "Massachusetts, USA",
+        "name": "Duber",
+        "pinned_tweet_id": "1672938437538885637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950224135340064770/UQm44Rlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 73,
+          "like_count": 2368,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1046
+        },
+        "username": "du_allen45136",
+        "verified": true
+      }
+    ]
+  }
+}

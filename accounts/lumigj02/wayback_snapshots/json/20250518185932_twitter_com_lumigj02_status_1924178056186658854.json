@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1924082549753786557",
+    "created_at": "2025-05-18T18:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T19:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924178056186658854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841847755691745280",
+          "start": 0,
+          "username": "jimi_yang22770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924178056186658854",
+    "in_reply_to_user_id": "1841847755691745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924082549753786557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimi_yang22770 牢英雄還是太超標了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924082547299942400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrO24e5XgAAg9Wk.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1924082549753786557",
+        "created_at": "2025-05-18T18:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T19:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924178056186658854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841847755691745280",
+              "start": 0,
+              "username": "jimi_yang22770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924178056186658854",
+        "in_reply_to_user_id": "1841847755691745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924082549753786557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimi_yang22770 牢英雄還是太超標了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924082547299942400"
+          ]
+        },
+        "author_id": "1841847755691745280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924082549753786557",
+        "created_at": "2025-05-18T12:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T13:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924082549753786557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKDp275Br6",
+              "end": 32,
+              "expanded_url": "https://x.com/jimi_yang22770/status/1924082549753786557/photo/1",
+              "media_key": "3_1924082547299942400",
+              "start": 9,
+              "url": "https://t.co/PKDp275Br6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924082549753786557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刘备：礼貌你吗？ https://t.co/PKDp275Br6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "一只猫卷 | 竹鼠 @ndmhwxck | 家猫 @_FurryFur_ | 日雌380泰补200 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🍥日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 888,
+          "like_count": 26857,
+          "listed_count": 12,
+          "media_count": 1069,
+          "tweet_count": 12004
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T14:28:28.000Z",
+        "description": "友跨顺男（总有刁民想害朕翻车）\n  ENTJ  \n小鹿🦌@LightlyXiaoLu99    牢哥@AnYeEternal   一個抽象逼@Xinyi_ADHD\n\n怎么你们都那么变态，我跟不上节奏啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "LightlyXiaoLu99"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "AnYeEternal"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          }
+        },
+        "id": "1841847755691745280",
+        "location": "距您0.02公里",
+        "name": "YYY",
+        "pinned_tweet_id": "1915238382072131802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906626847124983808/Ao9FzEG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 1360,
+          "like_count": 57513,
+          "listed_count": 8,
+          "media_count": 430,
+          "tweet_count": 10507
+        },
+        "username": "jimi_yang22770",
+        "verified": false
+      }
+    ]
+  }
+}

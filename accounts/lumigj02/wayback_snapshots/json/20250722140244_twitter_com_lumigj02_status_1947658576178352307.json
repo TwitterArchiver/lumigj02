@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1947657185003245789",
+    "created_at": "2025-07-22T14:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T15:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947658576178352307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667792526445780992",
+          "start": 0,
+          "username": "Midnight_Pigeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947658576178352307",
+    "in_reply_to_user_id": "1667792526445780992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 43,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947657185003245789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Midnight_Pigeon 啊？换个角度思考，那我在中国拿新币就能爽爽玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1947657185003245789",
+        "created_at": "2025-07-22T14:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947658576178352307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667792526445780992",
+              "start": 0,
+              "username": "Midnight_Pigeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947658576178352307",
+        "in_reply_to_user_id": "1667792526445780992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947657185003245789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Midnight_Pigeon 啊？换个角度思考，那我在中国拿新币就能爽爽玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667792526445780992",
+        "conversation_id": "1947657185003245789",
+        "created_at": "2025-07-22T13:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947657185003245789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947657185003245789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然可能发过也可能没发过但我还是要发一次\nSGD我去你大爷的5.6汇率\n给购物和租房提供了一种纯粹的心疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 926,
+          "like_count": 27662,
+          "listed_count": 12,
+          "media_count": 1104,
+          "tweet_count": 13100
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T07:15:05.000Z",
+        "description": "小提琴手，开发者，作家，调查员 | 犹格索托斯的浅信徒 | 我是什么取决于你用什么方式与我交流 | 中文&EN, (РЯ&日本語)  | 编织现实与空想\n发布一些稀碎的生活和思绪片段，言辞倾向机械化是正常现象。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/MidnightPigeon",
+                "end": 23,
+                "expanded_url": "https://github.com/MidnightPigeon",
+                "start": 0,
+                "url": "https://t.co/Yv8QIkQWgY"
+              }
+            ]
+          }
+        },
+        "id": "1667792526445780992",
+        "location": "天空の城ラピュタ",
+        "name": "深夜",
+        "pinned_tweet_id": "1720449265959350764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726467606180474880/5d-QHXIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 63,
+          "like_count": 1900,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/Yv8QIkQWgY",
+        "username": "Midnight_Pigeon",
+        "verified": false
+      }
+    ]
+  }
+}

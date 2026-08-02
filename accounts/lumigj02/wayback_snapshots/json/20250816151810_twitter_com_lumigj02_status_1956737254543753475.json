@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1956067534794580375",
+    "created_at": "2025-08-16T15:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956737254543753475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1821087558077722624",
+          "start": 0,
+          "username": "QhLzdPP3Jw18641"
+        },
+        {
+          "end": 26,
+          "id": "1502860007867502598",
+          "start": 17,
+          "username": "HobartR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956737254543753475",
+    "in_reply_to_user_id": "1821087558077722624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956737079960105226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QhLzdPP3Jw18641 @HobartR6 你怎么还没翻车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1956067534794580375",
+        "created_at": "2025-08-16T15:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956737254543753475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1821087558077722624",
+              "start": 0,
+              "username": "QhLzdPP3Jw18641"
+            },
+            {
+              "end": 26,
+              "id": "1502860007867502598",
+              "start": 17,
+              "username": "HobartR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956737254543753475",
+        "in_reply_to_user_id": "1821087558077722624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956737079960105226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QhLzdPP3Jw18641 @HobartR6 你怎么还没翻车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821087558077722624",
+        "conversation_id": "1956067534794580375",
+        "created_at": "2025-08-16T15:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956737079960105226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 19,
+              "id": "1502860007867502598",
+              "start": 10,
+              "username": "HobartR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956737079960105226",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956067534794580375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @HobartR6 我能联系你对象让他去当药娘吗。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "ʟᴜᴍɪ¹ 日雌390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956730628952805377/JO8kn5GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 916,
+          "like_count": 27820,
+          "listed_count": 12,
+          "media_count": 1144,
+          "tweet_count": 13647
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T07:34:56.000Z",
+        "description": "",
+        "id": "1821087558077722624",
+        "name": "洛夜",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 48,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "QhLzdPP3Jw18641",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "@lumigj02 @ndmhwxck @Snow_Flurrying 秋天是倒放的春天 晚安是爱你的续篇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "lumigj02"
+              },
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Snow_Flurrying"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "哦润吉",
+        "pinned_tweet_id": "1912785799986442479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919444964989399040/Z6OLkJuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 196,
+          "like_count": 2835,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1401
+        },
+        "username": "HobartR6",
+        "verified": false
+      }
+    ]
+  }
+}

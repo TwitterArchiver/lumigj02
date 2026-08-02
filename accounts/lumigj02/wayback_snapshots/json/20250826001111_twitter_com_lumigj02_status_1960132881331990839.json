@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1960118551014248890",
+    "created_at": "2025-08-26T00:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T01:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960132881331990839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583858559544332290",
+          "start": 0,
+          "username": "_sharkee1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960132881331990839",
+    "in_reply_to_user_id": "1583858559544332290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960132620618232179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sharkee1024 我在骂自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1960118551014248890",
+        "created_at": "2025-08-26T00:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T01:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960132881331990839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583858559544332290",
+              "start": 0,
+              "username": "_sharkee1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960132881331990839",
+        "in_reply_to_user_id": "1583858559544332290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960132620618232179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sharkee1024 我在骂自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583858559544332290",
+        "conversation_id": "1960118551014248890",
+        "created_at": "2025-08-26T00:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T01:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960132620618232179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960132620618232179",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960118551014248890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 别骂了别骂了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//小证含糖//💌@HobartR6🐈@_FurryFur_//@JR_YamanoteE235//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "香香软软趴窝小猫卷🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 930,
+          "like_count": 27926,
+          "listed_count": 13,
+          "media_count": 1160,
+          "tweet_count": 13849
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T16:31:31.000Z",
+        "description": "是村雨哦/不爱说话但是很会说话/infj/喜欢晕乎乎喜欢逃避现实/🚪20",
+        "id": "1583858559544332290",
+        "location": "在荒诞可笑的现实里",
+        "name": "村雨🍤",
+        "pinned_tweet_id": "1959646165353586769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852520211595038720/AiBYkHsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 506,
+          "like_count": 3566,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 1685
+        },
+        "username": "_sharkee1024",
+        "verified": false
+      }
+    ]
+  }
+}

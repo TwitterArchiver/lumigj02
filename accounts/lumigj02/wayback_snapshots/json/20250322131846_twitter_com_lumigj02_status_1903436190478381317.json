@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1903434456255615171",
+    "created_at": "2025-03-22T13:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T14:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903436190478381317"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903436190478381317",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903434456255615171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "北京有人接机吗111猫卷带你喝豆汁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 232,
+        "media_key": "3_1903434448911409152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmpbi-SbIAA-1bU.jpg",
+        "width": 1100
+      },
+      {
+        "height": 358,
+        "media_key": "3_1903434448957505536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmpbi-dagAANzpF.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1903434456255615171",
+        "created_at": "2025-03-22T13:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T14:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903436190478381317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903436190478381317",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903434456255615171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北京有人接机吗111猫卷带你喝豆汁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903434448911409152",
+            "3_1903434448957505536"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1903434456255615171",
+        "created_at": "2025-03-22T13:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T14:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903434456255615171"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Beijing",
+              "probability": 0.7845,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/scbx94oXhG",
+              "end": 38,
+              "expanded_url": "https://x.com/lumigj02/status/1903434456255615171/photo/1",
+              "media_key": "3_1903434448911409152",
+              "start": 15,
+              "url": "https://t.co/scbx94oXhG"
+            },
+            {
+              "display_url": "pic.x.com/scbx94oXhG",
+              "end": 38,
+              "expanded_url": "https://x.com/lumigj02/status/1903434456255615171/photo/1",
+              "media_key": "3_1903434448957505536",
+              "start": 15,
+              "url": "https://t.co/scbx94oXhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903434456255615171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Wassup Beijing https://t.co/scbx94oXhG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 / @you_miaowu / 日雌380包邮 第二盒以上370 私信或下方Telegram / 4月19号以后接彩虹六号排位代练 / 我见到人就哈气",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "Lumi 猫卷 - 日雌380包邮",
+        "pinned_tweet_id": "1892809550308180095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 858,
+          "like_count": 25844,
+          "listed_count": 11,
+          "media_count": 960,
+          "tweet_count": 10904
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

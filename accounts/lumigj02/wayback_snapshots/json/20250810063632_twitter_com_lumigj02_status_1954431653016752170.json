@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954431255069720815",
+    "created_at": "2025-08-10T06:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T07:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954431653016752170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810962908987396096",
+          "start": 0,
+          "username": "SakurazakiAiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954431653016752170",
+    "in_reply_to_user_id": "1810962908987396096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954431562180616697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurazakiAiko 我最不缺的就是实力"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1954431562180616697].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1954431562180616697",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1954431562180616697"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1954431255069720815",
+        "created_at": "2025-08-10T06:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T07:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954431653016752170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810962908987396096",
+              "start": 0,
+              "username": "SakurazakiAiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954431653016752170",
+        "in_reply_to_user_id": "1810962908987396096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954431562180616697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurazakiAiko 我最不缺的就是实力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 934,
+          "like_count": 27711,
+          "listed_count": 12,
+          "media_count": 1124,
+          "tweet_count": 13385
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T09:03:21.000Z",
+        "description": "主人：@Poetry_Luna 妹妹： @HuliCaijia\n持證HRT🏳️‍⚧️重鬱中焦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "HuliCaijia"
+              }
+            ]
+          }
+        },
+        "id": "1810962908987396096",
+        "location": "Silverymoon",
+        "name": "SakurazakiAiko🌸詩月🍥",
+        "pinned_tweet_id": "1880247872270283012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884631668998430720/mMIX9fqy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 85,
+          "like_count": 8448,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 2611
+        },
+        "username": "SakurazakiAiko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1902163481480311101",
+    "created_at": "2025-03-19T03:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T04:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902195495625425281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902195495625425281",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902163481480311101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 坏人喵，不过我也喜欢这个词，虽然我不割了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1902163481480311101",
+        "created_at": "2025-03-19T03:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T04:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902195495625425281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902195495625425281",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902163481480311101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 坏人喵，不过我也喜欢这个词，虽然我不割了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "1902163481480311101",
+        "created_at": "2025-03-19T01:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T02:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902163481480311101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZHUZHU_miku3/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ZHUZHU_miku3/status/1901571868089532451",
+              "start": 43,
+              "url": "https://t.co/amS1I4hhl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902163481480311101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901571868089532451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像是我带起来的这个说法(22年在QQ上开始使用，被传播了)，不过现在还是觉得很形象 https://t.co/amS1I4hhl7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 19 🇸🇬 🏳️‍⚧️ | @you_miaowu | Visiting Scholar @QUT 🇦🇺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 80,
+                "start": 76,
+                "username": "QUT"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷",
+        "pinned_tweet_id": "1892809550308180095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 853,
+          "like_count": 25764,
+          "listed_count": 11,
+          "media_count": 952,
+          "tweet_count": 10780
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中）٩(˃̶͈̀௰˂̶͈́)و\n已有男友，是正经人\ntg群组https://t.co/kvz722N3ba\nQQ 2332956562",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+s-NP42sLYX43M…",
+                "end": 70,
+                "expanded_url": "https://t.me/+s-NP42sLYX43M2I1",
+                "start": 47,
+                "url": "https://t.co/kvz722N3ba"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "name": "折筱orisam🏳️‍⚧️",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900853317590544384/t0IwKa3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 625,
+          "like_count": 17647,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 2955
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

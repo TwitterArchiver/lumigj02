@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895350394353844615",
+    "created_at": "2025-02-28T14:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T15:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895480577408839795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 29,
+          "id": "1841847755691745280",
+          "start": 14,
+          "username": "jimi_yang22770"
+        },
+        {
+          "end": 39,
+          "id": "1502860007867502598",
+          "start": 30,
+          "username": "HobartR6"
+        },
+        {
+          "end": 52,
+          "id": "1769742689514455040",
+          "start": 40,
+          "username": "HzShibari86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895480577408839795",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895478816430276846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria @jimi_yang22770 @HobartR6 @HzShibari86 不是等等我没厘清你这个逻辑关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895350394353844615",
+        "created_at": "2025-02-28T14:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895480577408839795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 29,
+              "id": "1841847755691745280",
+              "start": 14,
+              "username": "jimi_yang22770"
+            },
+            {
+              "end": 39,
+              "id": "1502860007867502598",
+              "start": 30,
+              "username": "HobartR6"
+            },
+            {
+              "end": 52,
+              "id": "1769742689514455040",
+              "start": 40,
+              "username": "HzShibari86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895480577408839795",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895478816430276846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @jimi_yang22770 @HobartR6 @HzShibari86 不是等等我没厘清你这个逻辑关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1895350394353844615",
+        "created_at": "2025-02-28T14:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895478816430276846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 25,
+              "id": "1841847755691745280",
+              "start": 10,
+              "username": "jimi_yang22770"
+            },
+            {
+              "end": 35,
+              "id": "1502860007867502598",
+              "start": 26,
+              "username": "HobartR6"
+            },
+            {
+              "end": 48,
+              "id": "1769742689514455040",
+              "start": 36,
+              "username": "HzShibari86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895478816430276846",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895477831230189788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @jimi_yang22770 @HobartR6 @HzShibari86 《女婿把老丈人和媳妇捆一起》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / 叫我ʟᴜᴍɪ或猫卷姐姐可快速提高好感度🥰 / 💖 @HobartR6 / @altaz_0 / 日雌390泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895131563953696768/T0tzqE7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 832,
+          "like_count": 25292,
+          "listed_count": 11,
+          "media_count": 897,
+          "tweet_count": 9999
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "玩皇室战争/喜欢机厅厕所做爱/喜欢伦敦地铁/用绿猫头像/喜欢debate/喜欢玩抽象/厦门人都可以互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "维多利亚线 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1895279630535532806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3614,
+          "following_count": 849,
+          "like_count": 15495,
+          "listed_count": 7,
+          "media_count": 1845,
+          "tweet_count": 14075
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T14:28:28.000Z",
+        "description": "友跨顺男\n 我不搞基（）\n  ENTJ  \n間歇性極端\n  喜歡運動（现已成宅男）\n农  蒸  甲级战犯\n\n怎么你们都那么变态，我跟不上节奏啊",
+        "id": "1841847755691745280",
+        "location": "正在某个草丛里蓄力大招的屑光信",
+        "name": "YYY （见人就fo版）",
+        "pinned_tweet_id": "1891087055033094272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888556222405828608/-hqP8VRz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 1087,
+          "like_count": 39718,
+          "listed_count": 5,
+          "media_count": 274,
+          "tweet_count": 7016
+        },
+        "username": "jimi_yang22770",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "💖 @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "HobartR6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893912615933366272/EMAJyMss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 66,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 398
+        },
+        "username": "HobartR6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T15:08:37.000Z",
+        "description": "这里是燃～\n是一只爱哭爱闹爱说爱笑的家养刺猬～\n馋嘴吃货～摩托佬～脆皮绳架子~\n主人: @TarsMark2\n老婆: @Bismark_fmpire \n宠物: @Vincy1230 \n绳缚版: @HzShibari\n隐藏版: @HzShibari404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "TarsMark2"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "Bismark_fmpire"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Vincy1230"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "HzShibari"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "HzShibari404"
+              }
+            ]
+          }
+        },
+        "id": "1769742689514455040",
+        "location": "北京",
+        "name": "燃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875151764120604672/_y-AWI2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 266,
+          "like_count": 6812,
+          "listed_count": 3,
+          "media_count": 675,
+          "tweet_count": 2379
+        },
+        "username": "HzShibari86",
+        "verified": false
+      }
+    ]
+  }
+}

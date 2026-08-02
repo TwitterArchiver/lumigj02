@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2079900994058756312",
+    "created_at": "2026-07-26T08:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081296520817844366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1167792264795394048",
+          "start": 0,
+          "username": "leetfs1"
+        },
+        {
+          "end": 17,
+          "id": "1643146263876214784",
+          "start": 9,
+          "username": "iluoing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081296520817844366",
+    "in_reply_to_user_id": "1167792264795394048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079934571735601307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leetfs1 @iluoing 不行你不是男的你绝对不能是男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2079900994058756312",
+        "created_at": "2026-07-26T08:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081296520817844366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            },
+            {
+              "end": 17,
+              "id": "1643146263876214784",
+              "start": 9,
+              "username": "iluoing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081296520817844366",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079934571735601307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 @iluoing 不行你不是男的你绝对不能是男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167792264795394048",
+        "conversation_id": "2079900994058756312",
+        "created_at": "2026-07-22T14:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079934571735601307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1643146263876214784",
+              "start": 0,
+              "username": "iluoing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079934571735601307",
+        "in_reply_to_user_id": "1643146263876214784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079920161189232707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iluoing 我不是trans，也未hrt，所以不会（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 839,
+          "like_count": 4383,
+          "listed_count": 9,
+          "media_count": 140,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "Member of @MtFwiki & @RLEwiki & @AB_aboutTrans | Intern at https://t.co/dkwoFb9hyL | Love front-end and RISC-V | Trans ally 🏳️‍⚧️ | They/Them | 可爱猫卷 @itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "username": "RLEwiki"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "AB_aboutTrans"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "itsCatRoll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "is.cas.cn",
+                "end": 82,
+                "expanded_url": "http://is.cas.cn",
+                "start": 59,
+                "url": "https://t.co/dkwoFb9hyL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leetfs.com",
+                "end": 23,
+                "expanded_url": "https://leetfs.com/",
+                "start": 0,
+                "url": "https://t.co/US8IASVs7i"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028353368008339456/o3OhBxWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4480,
+          "following_count": 2206,
+          "like_count": 2550,
+          "listed_count": 23,
+          "media_count": 989,
+          "tweet_count": 6254
+        },
+        "url": "https://t.co/US8IASVs7i",
+        "username": "leetfs1",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-04T06:59:46.000Z",
+        "description": "是一个不可名状的东西。年纪有点大，会写点代码。",
+        "id": "1643146263876214784",
+        "location": "南京",
+        "name": "落樱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898451511002419200/GLB-ctNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 142,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "iluoing",
+        "verified": false
+      }
+    ]
+  }
+}

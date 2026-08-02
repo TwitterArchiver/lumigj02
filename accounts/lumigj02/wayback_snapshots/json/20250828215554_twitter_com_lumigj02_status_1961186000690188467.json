@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961185994398670848"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1961186000690188467",
+    "created_at": "2025-08-28T21:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T22:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961186000690188467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hEtSsiKq6k",
+          "end": 35,
+          "expanded_url": "https://x.com/lumigj02/status/1961186000690188467/photo/1",
+          "media_key": "3_1961185994398670848",
+          "start": 12,
+          "url": "https://t.co/hEtSsiKq6k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961186000690188467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这才是我，很厉害的雄性 https://t.co/hEtSsiKq6k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961185994398670848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzeIRWaaoAA7e1b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961185994398670848"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1961186000690188467",
+        "created_at": "2025-08-28T21:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T22:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961186000690188467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEtSsiKq6k",
+              "end": 35,
+              "expanded_url": "https://x.com/lumigj02/status/1961186000690188467/photo/1",
+              "media_key": "3_1961185994398670848",
+              "start": 12,
+              "url": "https://t.co/hEtSsiKq6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961186000690188467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这才是我，很厉害的雄性 https://t.co/hEtSsiKq6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//💌@HobartR6🐈@_FurryFur_//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "猫",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 925,
+          "like_count": 27936,
+          "listed_count": 13,
+          "media_count": 1162,
+          "tweet_count": 13872
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

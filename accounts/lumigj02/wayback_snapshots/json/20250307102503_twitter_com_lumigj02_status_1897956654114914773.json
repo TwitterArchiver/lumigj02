@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897954765075878000",
+    "created_at": "2025-03-07T10:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T11:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897956654114914773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781308864438345728",
+          "start": 0,
+          "username": "FoxRed695449"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 68,
+          "expanded_url": "https://x.com/lumigj02/status/1897823676114125175",
+          "start": 45,
+          "url": "https://t.co/8Th4mlgtGe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897956654114914773",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897823676114125175",
+        "type": "quoted"
+      },
+      {
+        "id": "1897954765075878000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRed695449 我也一样烂掉 没事 我的目标一直是保持正常精神状态不挂科就行\nhttps://t.co/8Th4mlgtGe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_1897823665489874944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlZskZPakAAD_9E.jpg",
+        "width": 1290
+      },
+      {
+        "height": 159,
+        "media_key": "3_1897954761032531968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlbjzKMbAAANvmD.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897954765075878000",
+        "created_at": "2025-03-07T10:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T11:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897956654114914773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 68,
+              "expanded_url": "https://x.com/lumigj02/status/1897823676114125175",
+              "start": 45,
+              "url": "https://t.co/8Th4mlgtGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897956654114914773",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897823676114125175",
+            "type": "quoted"
+          },
+          {
+            "id": "1897954765075878000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我也一样烂掉 没事 我的目标一直是保持正常精神状态不挂科就行\nhttps://t.co/8Th4mlgtGe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897823665489874944"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897823676114125175",
+        "created_at": "2025-03-07T01:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T02:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897823676114125175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVMNAQrJXJ",
+              "end": 41,
+              "expanded_url": "https://x.com/lumigj02/status/1897823676114125175/photo/1",
+              "media_key": "3_1897823665489874944",
+              "start": 18,
+              "url": "https://t.co/OVMNAQrJXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897823676114125175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要挂科了，烂掉了，下个学期再见喵 https://t.co/OVMNAQrJXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897954761032531968"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897954765075878000",
+        "created_at": "2025-03-07T10:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T11:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897954765075878000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNoRRdHFvf",
+              "end": 136,
+              "expanded_url": "https://x.com/FoxRed695449/status/1897954765075878000/photo/1",
+              "media_key": "3_1897954761032531968",
+              "start": 113,
+              "url": "https://t.co/zNoRRdHFvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897954765075878000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "emm...那麼正式的說下我目前的學習加精神狀況吧\n簡單點來說就是1月份考的3場理科全部考砸了\n我現在開始後悔我選2門理科2門文科了\n然後大概就是知道成績以後非常崩潰，整個精神狀態一下子崩了，昨天到今天差不多犯了5，6次病\n雖然家長和老師都說沒事可以重考，但我現在整個學習壓力真的超級加倍，可能又要重新開始吃抗焦慮藥了\n各位看上去我是個挺正常的人，其實我也是一個自殺過2次可以拿傷殘津貼的靠精神藥品穩定的人\n至於為什麼會得精神疾病，就是我當年在內地普通學校讀書的時候因為跨性別的事情被同學和老師欺負，自殺過以後家長才考慮讓我去讀國際學校的事情\n慶幸的是我之前的大半年都沒有太大的壓力，在國際學校的環境下學業壓力也很小（不過因為沒刷題導致理科成績全爛完了）\n至於之後的話大概會在學習上多花點時間...當然也不是卷吧...然後用adhd申請了延長考試時間，也能讓我試卷寫不完的問題解決一下吧\n至於自殺干預以及其他相關的社會工作也會繼續做，各位也可以接著來找我，我目前大學想修社會工作的想法還是沒变的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emm...那麼正式的說下我目前的學習加精神狀況吧\n簡單點來說就是1月份考的3場理科全部考砸了\n我現在開始後悔我選2門理科2門文科了\n然後大概就是知道成績以後非常崩潰，整個精神狀態一下子崩了，昨天到今天差不多犯了5，6次病… https://t.co/zNoRRdHFvf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200 / NSFW不打码恕不回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 843,
+          "like_count": 25462,
+          "listed_count": 11,
+          "media_count": 928,
+          "tweet_count": 10352
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3849,
+          "following_count": 543,
+          "like_count": 2253,
+          "listed_count": 5,
+          "media_count": 402,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

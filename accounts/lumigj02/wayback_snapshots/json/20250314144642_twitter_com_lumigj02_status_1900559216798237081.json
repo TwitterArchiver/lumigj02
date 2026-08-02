@@ -1,0 +1,642 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1900558032523735379",
+    "created_at": "2025-03-14T14:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T15:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900559216798237081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "89421672",
+          "start": 0,
+          "username": "USA_China_Talk"
+        },
+        {
+          "end": 22,
+          "id": "1879650942410481666",
+          "start": 16,
+          "username": "POTUS"
+        },
+        {
+          "end": 28,
+          "id": "249677516",
+          "start": 23,
+          "username": "USUN"
+        },
+        {
+          "end": 37,
+          "id": "19386622",
+          "start": 29,
+          "username": "iaeaorg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900559216798237081",
+    "in_reply_to_user_id": "89421672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900558032523735379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@USA_China_Talk @POTUS @USUN @iaeaorg 特朗普玩原神吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1900558032523735379",
+        "created_at": "2025-03-14T14:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T15:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900559216798237081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "89421672",
+              "start": 0,
+              "username": "USA_China_Talk"
+            },
+            {
+              "end": 22,
+              "id": "1879650942410481666",
+              "start": 16,
+              "username": "POTUS"
+            },
+            {
+              "end": 28,
+              "id": "249677516",
+              "start": 23,
+              "username": "USUN"
+            },
+            {
+              "end": 37,
+              "id": "19386622",
+              "start": 29,
+              "username": "iaeaorg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900559216798237081",
+        "in_reply_to_user_id": "89421672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900558032523735379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USA_China_Talk @POTUS @USUN @iaeaorg 特朗普玩原神吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89421672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1900558032523735379",
+        "created_at": "2025-03-14T14:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T15:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900558032523735379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879650942410481666",
+              "start": 9,
+              "username": "POTUS"
+            },
+            {
+              "end": 47,
+              "id": "249677516",
+              "start": 42,
+              "username": "USUN"
+            },
+            {
+              "end": 107,
+              "id": "19386622",
+              "start": 99,
+              "username": "iaeaorg"
+            }
+          ],
+          "urls": [
+            {
+              "description": "President Trump has made clear that Iran’s nuclear program poses a threat to international peace and security, which the Security Council is charged with protecting.As reported by the International Atomic Energy Agency (IAEA) Director General, Tehran continues to rapidly accelerate its production of highly enriched uranium. It is also the only country in the world without nuclear weapons producing highly enriched uranium, for which it has no credible peaceful purpose. Moreover, Iran continues to flagrantly defy the Security Council, violate its IAEA safeguards obligations, and ignore the clear and consistent concerns of both the Council and the international community.",
+              "display_url": "usun.usmission.gov/u-s-statement-…",
+              "end": 152,
+              "expanded_url": "https://usun.usmission.gov/u-s-statement-on-un-security-council-meeting-on-iran/",
+              "images": [
+                {
+                  "height": 1800,
+                  "url": "https://pbs.twimg.com/news_img/1899929215535112194/HBcjkmI-?format=jpg&name=orig",
+                  "width": 3000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1899929215535112194/HBcjkmI-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 129,
+              "status": 200,
+              "title": "U.S. Statement on UN Security Council Meeting on Iran",
+              "unwound_url": "https://usun.usmission.gov/u-s-statement-on-un-security-council-meeting-on-iran/",
+              "url": "https://t.co/Bh5HTUDXN5"
+            },
+            {
+              "display_url": "x.com/USUN/status/18…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/USUN/status/1899929205384823125",
+              "start": 153,
+              "url": "https://t.co/FzdXcqdRMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900558032523735379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 835,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899929205384823125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了执行特朗普总统@POTUS对伊朗政权再次最大限度施压的战略，美国常驻联合国代表团@USUN和我们的伙伴今天召开了联合国安理会会议，强调伊朗核计划的惊人发展威胁到国际和平与安全，正如国际原子能机构@IAEAorg所报道的，并要求伊朗立即停止其升级的核活动。https://t.co/Bh5HTUDXN5 https://t.co/FzdXcqdRMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 💫 @Yan_Xing_Xing | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 874,
+          "like_count": 25690,
+          "listed_count": 11,
+          "media_count": 952,
+          "tweet_count": 10679
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 US MissionCN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664138,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4090,
+          "media_count": 3480,
+          "tweet_count": 19007
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T22:04:52.000Z",
+        "description": "45th & 47th President of the United States. The Golden Age of America Begins Right Now.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/OwBzgKL1qh"
+              }
+            ]
+          }
+        },
+        "id": "1879650942410481666",
+        "name": "President Donald J. Trump",
+        "pinned_tweet_id": "1881408246067744887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881368435453542400/NnD56DYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2974172,
+          "following_count": 4,
+          "like_count": 26,
+          "listed_count": 4521,
+          "media_count": 52,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/OwBzgKL1qh",
+        "username": "POTUS",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-09T15:10:45.000Z",
+        "description": "Helping keep Americans safe and the U.S. prosperous through our work at the United Nations. Terms of use: https://t.co/J427BlWUTj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "state.gov/tou",
+                "end": 129,
+                "expanded_url": "http://state.gov/tou",
+                "start": 106,
+                "url": "https://t.co/J427BlWUTj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usun.usmission.gov",
+                "end": 23,
+                "expanded_url": "http://usun.usmission.gov",
+                "start": 0,
+                "url": "https://t.co/k1PS5zrWq1"
+              }
+            ]
+          }
+        },
+        "id": "249677516",
+        "location": "New York, NY",
+        "name": "U.S. Mission to the UN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230137009529856002/01ldhmlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430780,
+          "following_count": 936,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 2380,
+          "tweet_count": 23705
+        },
+        "url": "https://t.co/k1PS5zrWq1",
+        "username": "USUN",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-23T08:28:52.000Z",
+        "description": "IAEA is the 🌍's centre for cooperation in the #nuclear field, promoting the safe, secure & peaceful use of nuclear technology. IAEA DG @RafaelMGrossi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "nuclear"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "RafaelMGrossi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iaea.org",
+                "end": 23,
+                "expanded_url": "http://www.iaea.org",
+                "start": 0,
+                "url": "https://t.co/J6cWI9NHUS"
+              }
+            ]
+          }
+        },
+        "id": "19386622",
+        "location": "Vienna, Austria",
+        "name": "IAEA - International Atomic Energy Agency ⚛️",
+        "pinned_tweet_id": "1900170919449952598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522138647943856128/y_vymsTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244812,
+          "following_count": 3462,
+          "like_count": 4845,
+          "listed_count": 4464,
+          "media_count": 15373,
+          "tweet_count": 28398
+        },
+        "url": "https://t.co/J6cWI9NHUS",
+        "username": "iaeaorg",
+        "verified": true
+      }
+    ]
+  }
+}

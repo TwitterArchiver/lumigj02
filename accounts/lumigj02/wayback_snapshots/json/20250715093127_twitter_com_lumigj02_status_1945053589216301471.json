@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945047809348219008",
+    "created_at": "2025-07-15T09:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T10:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945053589216301471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646905533386100738",
+          "start": 0,
+          "username": "du_allen45136"
+        },
+        {
+          "end": 28,
+          "id": "1692136120027320320",
+          "start": 15,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945053589216301471",
+    "in_reply_to_user_id": "1646905533386100738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945048613563855039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@du_allen45136 @Cypress_7593 哎呦老北京"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945047809348219008",
+        "created_at": "2025-07-15T09:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945053589216301471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646905533386100738",
+              "start": 0,
+              "username": "du_allen45136"
+            },
+            {
+              "end": 28,
+              "id": "1692136120027320320",
+              "start": 15,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945053589216301471",
+        "in_reply_to_user_id": "1646905533386100738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945048613563855039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@du_allen45136 @Cypress_7593 哎呦老北京"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646905533386100738",
+        "conversation_id": "1945047809348219008",
+        "created_at": "2025-07-15T09:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945048613563855039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945048613563855039",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945047809348219008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 我怎么不觉得好，城市文化已经被稀释干净了，而且还没什么娱乐方式🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore 家猫: @_FurryFur_ 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944806697316257792/p4s37iQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 918,
+          "like_count": 27508,
+          "listed_count": 12,
+          "media_count": 1093,
+          "tweet_count": 12865
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T15:58:06.000Z",
+        "description": "波士顿大学丨哲学专业大一 丨生活推和一些随想 丨喜欢单机主机游戏丨如果你经常点赞或者给出了有价值的回复，我就会回fo",
+        "id": "1646905533386100738",
+        "location": "Massachusetts, USA",
+        "name": "Duber",
+        "pinned_tweet_id": "1672938437538885637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809781135368704000/octFmB6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 71,
+          "like_count": 2257,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 978
+        },
+        "username": "du_allen45136",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "【⚠️本账号随时可能被某🦊夺舍】你好我是柏树七代目|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|INFJ 5w6|无性恋&泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANITY】",
+        "pinned_tweet_id": "1940655533679432057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 996,
+          "like_count": 19717,
+          "listed_count": 5,
+          "media_count": 755,
+          "tweet_count": 5442
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

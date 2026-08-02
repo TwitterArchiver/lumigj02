@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895759813617074659",
+    "created_at": "2025-03-01T17:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T18:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895882255563976898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 26,
+          "id": "1599546260402638848",
+          "start": 14,
+          "username": "chika_ichii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895882255563976898",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895858036503429467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria @chika_ichii ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895759813617074659",
+        "created_at": "2025-03-01T17:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T18:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895882255563976898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 26,
+              "id": "1599546260402638848",
+              "start": 14,
+              "username": "chika_ichii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895882255563976898",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895858036503429467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @chika_ichii ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1895759813617074659",
+        "created_at": "2025-03-01T15:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T16:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895858036503429467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599546260402638848",
+              "start": 0,
+              "username": "chika_ichii"
+            },
+            {
+              "end": 22,
+              "id": "1176535991454064640",
+              "start": 13,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895858036503429467",
+        "in_reply_to_user_id": "1599546260402638848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895856314615791732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chika_ichii @lumigj02 想草你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 一般路过女大 / 🥰 叫我ʟᴜᴍɪ或猫卷姐姐可快速刷好感度 / 💖 @HobartR6 / 日雌390泰补200 购药提供HRT指导",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895809529268330496/Ys7dbosQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 829,
+          "like_count": 25303,
+          "listed_count": 11,
+          "media_count": 900,
+          "tweet_count": 10021
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "Euston ⭢ King X",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "维多利亚线 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1895279630535532806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 854,
+          "like_count": 15604,
+          "listed_count": 7,
+          "media_count": 1863,
+          "tweet_count": 14171
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T23:28:52.000Z",
+        "description": "🧊🔥冰棍必须是涩的！/千夏/あまねく奇跡の始発点/メンヘラの子/医師/日本語N2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chikaii",
+                "end": 23,
+                "expanded_url": "http://lit.link/chikaii",
+                "start": 0,
+                "url": "https://t.co/6I4EThYGLx"
+              }
+            ]
+          }
+        },
+        "id": "1599546260402638848",
+        "location": "東京都千代田区神田須田町1丁目12-3アルカディアビル",
+        "name": "冰棍好涩喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1878613884468379893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713906913589764096/h3IZfzmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 138,
+          "like_count": 352,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/6I4EThYGLx",
+        "username": "chika_ichii",
+        "verified": true
+      }
+    ]
+  }
+}

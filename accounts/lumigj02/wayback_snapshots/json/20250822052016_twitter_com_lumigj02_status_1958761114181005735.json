@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1958485514560151553",
+    "created_at": "2025-08-22T05:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T06:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958761114181005735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713243756818792448",
+          "start": 0,
+          "username": "ramen_naritai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958761114181005735",
+    "in_reply_to_user_id": "1713243756818792448",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958747497708601535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ramen_naritai oi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "3_1958747488309190658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy7ednVboAItfAj.jpg",
+        "width": 236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1958485514560151553",
+        "created_at": "2025-08-22T05:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T06:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958761114181005735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713243756818792448",
+              "start": 0,
+              "username": "ramen_naritai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958761114181005735",
+        "in_reply_to_user_id": "1713243756818792448",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958747497708601535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ramen_naritai oi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958747488309190658"
+          ]
+        },
+        "author_id": "1713243756818792448",
+        "conversation_id": "1958485514560151553",
+        "created_at": "2025-08-22T04:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T05:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958747497708601535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMg82tqKHG",
+              "end": 33,
+              "expanded_url": "https://x.com/ramen_naritai/status/1958747497708601535/photo/1",
+              "media_key": "3_1958747488309190658",
+              "start": 10,
+              "url": "https://t.co/KMg82tqKHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958747497708601535",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958485514560151553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 https://t.co/KMg82tqKHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "老猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958724587904204800/cbMp7Omf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 922,
+          "like_count": 27869,
+          "listed_count": 12,
+          "media_count": 1154,
+          "tweet_count": 13742
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T17:22:05.000Z",
+        "description": "慇懃無礼な一般通過人類っす | Ph.D student in Bullshitology | AI Luddite | VRChat is the best homo-propaganda in existence.",
+        "id": "1713243756818792448",
+        "name": "ラーメンNRT",
+        "pinned_tweet_id": "1945455116380758350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882329867024211968/c2lSpk33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 229,
+          "like_count": 2773,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 711
+        },
+        "username": "ramen_naritai",
+        "verified": false
+      }
+    ]
+  }
+}

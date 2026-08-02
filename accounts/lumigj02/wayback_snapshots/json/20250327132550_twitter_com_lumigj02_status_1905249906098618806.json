@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1905170032264716554",
+    "created_at": "2025-03-27T13:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T14:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905249906098618806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480902300432420865",
+          "start": 0,
+          "username": "Notyet_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905249906098618806",
+    "in_reply_to_user_id": "1480902300432420865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905227458074513766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Notyet_cat 哇哦！第一次被这样叫，好开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1905170032264716554",
+        "created_at": "2025-03-27T13:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905249906098618806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480902300432420865",
+              "start": 0,
+              "username": "Notyet_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905249906098618806",
+        "in_reply_to_user_id": "1480902300432420865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905227458074513766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Notyet_cat 哇哦！第一次被这样叫，好开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480902300432420865",
+        "conversation_id": "1905170032264716554",
+        "created_at": "2025-03-27T11:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T12:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905227458074513766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905227458074513766",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905170032264716554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 猫卷小姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu | 二十多岁的 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无 | 我是海豹手套色布偶, 不是暹罗!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 88,
+                "start": 81,
+                "username": "sutdsg"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 861,
+          "like_count": 26021,
+          "listed_count": 11,
+          "media_count": 970,
+          "tweet_count": 11098
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-11T14:00:13.000Z",
+        "description": "修行求互fo/mtx/180+‖60/现坐标郑州/能力培养中/年龄22/泛性恋/喜欢随机刷新/\n🐱这里是可养可啪可带回家的小竹猫🐱",
+        "id": "1480902300432420865",
+        "name": "梦韵竹猫🔔（顾曦猫猫）",
+        "pinned_tweet_id": "1903452746478666113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902966585356324867/-GdMPtTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 149,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1224
+        },
+        "username": "Notyet_cat",
+        "verified": false
+      }
+    ]
+  }
+}

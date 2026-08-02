@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1904396172258894134",
+    "created_at": "2025-03-25T05:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T06:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904400960895766922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1146774049986494470",
+          "start": 0,
+          "username": "SyAILz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904400960895766922",
+    "in_reply_to_user_id": "1146774049986494470",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904396172258894134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyAILz Does he bite"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904396166823051264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm3GOUsagAAUE1Y.jpg",
+        "width": 1674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1904396172258894134",
+        "created_at": "2025-03-25T05:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T06:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904400960895766922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1146774049986494470",
+              "start": 0,
+              "username": "SyAILz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904400960895766922",
+        "in_reply_to_user_id": "1146774049986494470",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904396172258894134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyAILz Does he bite"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904396166823051264"
+          ]
+        },
+        "author_id": "1146774049986494470",
+        "conversation_id": "1904396172258894134",
+        "created_at": "2025-03-25T04:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T05:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904396172258894134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTTpiOCUTa",
+              "end": 34,
+              "expanded_url": "https://x.com/SyAILz/status/1904396172258894134/photo/1",
+              "media_key": "3_1904396166823051264",
+              "start": 11,
+              "url": "https://t.co/cTTpiOCUTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904396172258894134",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "SO CUTEEEE https://t.co/cTTpiOCUTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu ### 19 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 87,
+                "start": 80,
+                "username": "sutdsg"
+              },
+              {
+                "end": 112,
+                "start": 108,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 859,
+          "like_count": 25922,
+          "listed_count": 11,
+          "media_count": 966,
+          "tweet_count": 11001
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-04T13:33:34.000Z",
+        "description": "🇰🇷ex) @CLOUD9 / @FearXBusan R6S Pro Player | Military & Cosplay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "CLOUD9"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "FearXBusan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SyAILz",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/SyAILz",
+                "start": 0,
+                "url": "https://t.co/fhTg93trCb"
+              }
+            ]
+          }
+        },
+        "id": "1146774049986494470",
+        "location": "Tisy military base",
+        "name": "SyAIL❄️",
+        "pinned_tweet_id": "1902149301184426140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802870183230590977/zg6nriSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7303,
+          "following_count": 641,
+          "like_count": 13392,
+          "listed_count": 28,
+          "media_count": 246,
+          "tweet_count": 2249
+        },
+        "url": "https://t.co/fhTg93trCb",
+        "username": "SyAILz",
+        "verified": true
+      }
+    ]
+  }
+}

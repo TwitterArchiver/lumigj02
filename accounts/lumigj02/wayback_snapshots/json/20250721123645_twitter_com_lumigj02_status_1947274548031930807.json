@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1947274548031930807",
+    "created_at": "2025-07-21T12:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947274548031930807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/lumigj02/status/1946284884236063000",
+          "start": 16,
+          "url": "https://t.co/AFdsl0vNHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947274548031930807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 7683,
+      "like_count": 112,
+      "quote_count": 1,
+      "reply_count": 11,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946284884236063000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "十年药娘无人问，一朝猫娘天下知 https://t.co/AFdsl0vNHa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1947274548031930807",
+        "created_at": "2025-07-21T12:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947274548031930807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/lumigj02/status/1946284884236063000",
+              "start": 16,
+              "url": "https://t.co/AFdsl0vNHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947274548031930807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7683,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946284884236063000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十年药娘无人问，一朝猫娘天下知 https://t.co/AFdsl0vNHa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1946284884236063000",
+        "created_at": "2025-07-18T19:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T20:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946284884236063000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chzonggemin/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/chzonggemin/status/1946167196729946179",
+              "start": 5,
+              "url": "https://t.co/g9GU3MmXIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946284884236063000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 177941,
+          "like_count": 2290,
+          "quote_count": 24,
+          "reply_count": 129,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946167196729946179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫娘养的 https://t.co/g9GU3MmXIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 923,
+          "like_count": 27645,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 13047
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

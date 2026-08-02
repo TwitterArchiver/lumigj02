@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1914738352336908534",
+    "created_at": "2025-04-22T17:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T18:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914738352336908534"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "喜欢阿",
+          "probability": 0.4878,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1841494812475932672",
+          "start": 5,
+          "username": "Yan_Xing_Xing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914738352336908534",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢阿星 @Yan_Xing_Xing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1914738352336908534",
+        "created_at": "2025-04-22T17:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T18:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914738352336908534"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "喜欢阿",
+              "probability": 0.4878,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1841494812475932672",
+              "start": 5,
+              "username": "Yan_Xing_Xing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914738352336908534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢阿星 @Yan_Xing_Xing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@you_miaowu | @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 869,
+          "like_count": 26467,
+          "listed_count": 11,
+          "media_count": 1022,
+          "tweet_count": 11528
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T15:06:06.000Z",
+        "description": "",
+        "id": "1841494812475932672",
+        "location": "雪豹芝市",
+        "name": "-洐-⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861651110089629697/uItj9JZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 313,
+          "like_count": 24856,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 283
+        },
+        "username": "Yan_Xing_Xing",
+        "verified": false
+      }
+    ]
+  }
+}

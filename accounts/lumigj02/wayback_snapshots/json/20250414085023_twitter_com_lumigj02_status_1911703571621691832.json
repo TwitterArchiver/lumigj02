@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "1911703571621691832",
+    "created_at": "2025-04-14T08:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T09:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911703571621691832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vllm_project/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/vllm_project/status/1911669255428542913",
+          "start": 35,
+          "url": "https://t.co/IY5QbliJo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911703571621691832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911669255428542913",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Honestly speaking this is a huge W https://t.co/IY5QbliJo2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "1911703571621691832",
+        "created_at": "2025-04-14T08:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T09:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911703571621691832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vllm_project/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/vllm_project/status/1911669255428542913",
+              "start": 35,
+              "url": "https://t.co/IY5QbliJo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911703571621691832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911669255428542913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Honestly speaking this is a huge W https://t.co/IY5QbliJo2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774187564276289536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "1911669255428542913",
+        "created_at": "2025-04-14T06:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:30:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911668345444974920",
+          "1911669255428542913"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 74,
+              "normalized_text": "vLLM",
+              "probability": 0.6836,
+              "start": 71,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714580962569588736",
+              "start": 2,
+              "username": "deepseek_ai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation - deepseek-ai/open-infra-index",
+              "display_url": "github.com/deepseek-ai/op…",
+              "end": 274,
+              "expanded_url": "https://github.com/deepseek-ai/open-infra-index/blob/main/OpenSourcing_DeepSeek_Inference_Engine/README.md",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1911668388499529728/59HVNdlV?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1911668388499529728/59HVNdlV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 251,
+              "status": 200,
+              "title": "open-infra-index/OpenSourcing_DeepSeek_Inference_Engine/README.md at main · deepseek-ai/open-infra-index",
+              "unwound_url": "https://github.com/deepseek-ai/open-infra-index/blob/main/OpenSourcing_DeepSeek_Inference_Engine/README.md",
+              "url": "https://t.co/0bEYh8p97W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911669255428542913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 14472,
+          "like_count": 357,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "🙏 @deepseek_ai's highly performant inference engine is built on top of vLLM. Now they are open-sourcing the engine the right way: instead of a separate repo, they are bringing changes to the open source community so everyone can immediately benefit!\n\nhttps://t.co/0bEYh8p97W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🏳️‍⚧️ | R6 Player for ? | @you_miaowu | 日雌380 泰补210 progynon-depot / progynova 📧 inquiry@nekomakipharma.com | CS @NUSingapore 📧 lumi@u.nus.edu ###########",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "NUSingapore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2301,
+          "following_count": 871,
+          "like_count": 26361,
+          "listed_count": 11,
+          "media_count": 1010,
+          "tweet_count": 11405
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-30T21:31:01.000Z",
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs. Join https://t.co/lxJ0SfX5pJ to discuss together with the community!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "slack.vllm.ai",
+                "end": 106,
+                "expanded_url": "http://slack.vllm.ai",
+                "start": 83,
+                "url": "https://t.co/lxJ0SfX5pJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/vllm-project/v…",
+                "end": 23,
+                "expanded_url": "https://github.com/vllm-project/vllm",
+                "start": 0,
+                "url": "https://t.co/KmyOI0Gnbj"
+              }
+            ]
+          }
+        },
+        "id": "1774187564276289536",
+        "name": "vLLM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774187681746182144/N_5NJ8B1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11154,
+          "following_count": 15,
+          "like_count": 78,
+          "listed_count": 146,
+          "media_count": 85,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/KmyOI0Gnbj",
+        "username": "vllm_project",
+        "verified": true
+      }
+    ]
+  }
+}

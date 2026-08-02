@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1909905674462437804",
+    "created_at": "2025-04-09T11:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T12:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909934208048587081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "CnHpaHky"
+        },
+        {
+          "end": 24,
+          "id": "872113640064786432",
+          "start": 10,
+          "username": "ChariseStever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909934208048587081",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909933807320563935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CnHpaHky @ChariseStever 我可以欺负你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1909905674462437804",
+        "created_at": "2025-04-09T11:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T12:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909934208048587081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "CnHpaHky"
+            },
+            {
+              "end": 24,
+              "id": "872113640064786432",
+              "start": 10,
+              "username": "ChariseStever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909934208048587081",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909933807320563935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnHpaHky @ChariseStever 我可以欺负你吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1909905674462437804",
+        "created_at": "2025-04-09T11:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T12:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909933807320563935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909933807320563935",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909905674462437804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever 欺负我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | ❤️ 少女wgh @Yan_Xing_Xing | @you_miaowu | 日雌380包邮 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "写给衍星的情书💌",
+        "name": "Luminous СОНЦЕ 猫卷 日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 867,
+          "like_count": 26300,
+          "listed_count": 11,
+          "media_count": 998,
+          "tweet_count": 11322
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我叫阳阳，ASD在学着如何成为人类，欢迎私信。⭐️ @Littlecat111007 @quitee123 @ming_li19274 @Ark_merhod @LMegurine03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "quitee123"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "ming_li19274"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Ark_merhod"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "LMegurine03"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "北京安定医院",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1909802293966651890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898402237363507200/Wx3H_9yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 2032,
+          "like_count": 14690,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 6367
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索）& Recommender Systems （推荐系统）",
+        "id": "872113640064786432",
+        "location": "Goblin Den",
+        "name": "nil",
+        "pinned_tweet_id": "1908277022604013875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 81,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 565
+        },
+        "username": "ChariseStever",
+        "verified": true
+      }
+    ]
+  }
+}

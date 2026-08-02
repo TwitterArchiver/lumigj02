@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950621046157234637",
+    "created_at": "2025-07-30T18:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T19:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950628779115823389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1163982769309061120",
+          "start": 0,
+          "username": "Shiiny77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950628779115823389",
+    "in_reply_to_user_id": "1163982769309061120",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950621046157234637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiiny77 Is it \"played with\" or \"queued with\"\nI might encounter a cheater in my team for many times (like 5+) on aus server since the player base is too small"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950621046157234637",
+        "created_at": "2025-07-30T18:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T19:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950628779115823389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1163982769309061120",
+              "start": 0,
+              "username": "Shiiny77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950628779115823389",
+        "in_reply_to_user_id": "1163982769309061120",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950621046157234637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiiny77 Is it \"played with\" or \"queued with\"\nI might encounter a cheater in my team for many times (like 5+) on aus server since the player base is too small"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163982769309061120",
+        "conversation_id": "1950621046157234637",
+        "created_at": "2025-07-30T18:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T19:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950621046157234637"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Siege X",
+              "probability": 0.6616,
+              "start": 4,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950621046157234637",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "New Siege X ban system has been implemented,\n\nIf you play \"too many matches\" with a cheater before he gets banned, as soon as that cheater gets banned, your account will be automatically flagged and you will  get banned at the end of the month no matter if you are a legit player or not.\n\nIt will be a permanent ban."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 27317,
+          "like_count": 375,
+          "quote_count": 9,
+          "reply_count": 27,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "New Siege X ban system has been implemented,\n\nIf you play \"too many matches\" with a cheater before he gets banned, as soon as that cheater gets banned, your account will be automatically flagged and you will  get banned at the end of the month no matter if you are a legit player"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 926,
+          "like_count": 27690,
+          "listed_count": 12,
+          "media_count": 1113,
+          "tweet_count": 13204
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-21T01:15:03.000Z",
+        "description": "Ex R6 Leaker & Marketplace enthusiast / SIO Cyber Security / Cyberpunk worshiper🧬 / Worked on the Blackwall mod \n\nAlt : @dll_handle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "dll_handle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "e-z.bio/shiny",
+                "end": 23,
+                "expanded_url": "https://e-z.bio/shiny",
+                "start": 0,
+                "url": "https://t.co/7DVGTDHUuW"
+              }
+            ]
+          }
+        },
+        "id": "1163982769309061120",
+        "location": "In a Simulation ",
+        "name": "Shiny🦋",
+        "pinned_tweet_id": "1905681295746703455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859460628382986240/50JIjCQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17064,
+          "following_count": 152,
+          "like_count": 7083,
+          "listed_count": 14,
+          "media_count": 787,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/7DVGTDHUuW",
+        "username": "Shiiny77",
+        "verified": true
+      }
+    ]
+  }
+}

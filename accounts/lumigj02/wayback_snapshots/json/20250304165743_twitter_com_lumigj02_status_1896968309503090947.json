@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1896968194117787742",
+    "created_at": "2025-03-04T16:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T17:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896968309503090947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1855890157989412864",
+          "start": 0,
+          "username": "w3a4ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896968309503090947",
+    "in_reply_to_user_id": "1855890157989412864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896968194117787742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w3a4ng 正常的，借古讽今"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1896968194117787742",
+        "created_at": "2025-03-04T16:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T17:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896968309503090947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1855890157989412864",
+              "start": 0,
+              "username": "w3a4ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896968309503090947",
+        "in_reply_to_user_id": "1855890157989412864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896968194117787742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w3a4ng 正常的，借古讽今"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855890157989412864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1896968194117787742",
+        "created_at": "2025-03-04T16:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T17:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896968194117787742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896968194117787742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平上台怀念胡锦涛\n特朗普上台怀念乔拜登\n你们他妈的是不是脑子有问题啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 购药私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "𝗟𝗨𝗠𝗜 𝗚. 𝗝𝗜𝗔𝗡𝗚 𝗖𝗛𝗘𝗡𝗚 𝗫𝗨𝗘",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 829,
+          "like_count": 25345,
+          "listed_count": 11,
+          "media_count": 912,
+          "tweet_count": 10151
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T08:27:58.000Z",
+        "description": "",
+        "id": "1855890157989412864",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886053848470753280/bJ6OV6F5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 374,
+          "like_count": 1860,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 844
+        },
+        "username": "w3a4ng",
+        "verified": false
+      }
+    ]
+  }
+}

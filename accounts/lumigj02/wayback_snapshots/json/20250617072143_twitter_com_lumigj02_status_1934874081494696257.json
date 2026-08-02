@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1934568749732139191",
+    "created_at": "2025-06-17T07:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T08:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934874081494696257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835916332447199232",
+          "start": 0,
+          "username": "C173F263Y084"
+        },
+        {
+          "end": 27,
+          "id": "1695975046051942400",
+          "start": 14,
+          "username": "mitsuki87613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934874081494696257",
+    "in_reply_to_user_id": "1835916332447199232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934768038274060621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C173F263Y084 @mitsuki87613 靠嫩娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1934568749732139191",
+        "created_at": "2025-06-17T07:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934874081494696257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835916332447199232",
+              "start": 0,
+              "username": "C173F263Y084"
+            },
+            {
+              "end": 27,
+              "id": "1695975046051942400",
+              "start": 14,
+              "username": "mitsuki87613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934874081494696257",
+        "in_reply_to_user_id": "1835916332447199232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934768038274060621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C173F263Y084 @mitsuki87613 靠嫩娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835916332447199232",
+        "conversation_id": "1934568749732139191",
+        "created_at": "2025-06-17T00:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T01:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934768038274060621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695975046051942400",
+              "start": 0,
+              "username": "mitsuki87613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934768038274060621",
+        "in_reply_to_user_id": "1695975046051942400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934568749732139191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki87613 你的学校好不好\n你的成绩好不好\n经济条件好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Yishun人跟我们Orchard人讲话要用敬语 猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934869278580461569/UcFZxe43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 897,
+          "like_count": 27149,
+          "listed_count": 12,
+          "media_count": 1107,
+          "tweet_count": 12468
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T05:39:45.000Z",
+        "description": "普普通通日子人，仅被12306和海底捞承认的学生，就爱拍点不能发的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/jnfFGD9Tf1"
+              }
+            ]
+          }
+        },
+        "id": "1835916332447199232",
+        "location": "成都市青羊区快活村&沈阳市皇姑区陵北街一号Tel:12339",
+        "name": "崔奉壹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836261422113890305/8OkSLq-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 711,
+          "like_count": 2196,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 3136
+        },
+        "url": "https://t.co/jnfFGD9Tf1",
+        "username": "C173F263Y084",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T01:42:26.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️/免费树洞/已出柜/跨女同/社会主义/马列毛主义，卢森堡思想/反资反修/术力口/愿人类彻底解放，愿人类真正自由/想和大家交朋友，同类会回fo(◍˃̶ᗜ˂̶◍)/为世界上所有的美好而战/\nWe shall meet in the place where there is no darkness",
+        "id": "1695975046051942400",
+        "location": "亚细亚苏维埃社会主义人民联盟（PASSU）-上海公社",
+        "name": "なな🍥",
+        "pinned_tweet_id": "1924281280566583396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908598291681677312/j-YqJbMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 720,
+          "like_count": 10101,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2189
+        },
+        "username": "mitsuki87613",
+        "verified": false
+      }
+    ]
+  }
+}

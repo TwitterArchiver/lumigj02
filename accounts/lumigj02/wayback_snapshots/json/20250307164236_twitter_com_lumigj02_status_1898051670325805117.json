@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026653538",
+          "name": "Ubisoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10026653538",
+          "name": "Ubisoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026653538",
+          "name": "Ubisoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "1898051670325805117",
+    "created_at": "2025-03-07T16:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T17:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898051670325805117"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 127,
+          "normalized_text": "Stan",
+          "probability": 0.392,
+          "start": 124,
+          "type": "Other"
+        },
+        {
+          "end": 136,
+          "normalized_text": "Slim",
+          "probability": 0.5538,
+          "start": 133,
+          "type": "Other"
+        },
+        {
+          "end": 149,
+          "normalized_text": "Ubisoft",
+          "probability": 0.8584,
+          "start": 143,
+          "type": "Organization"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 301,
+          "expanded_url": "https://twitter.com/lumigj02/status/1897844989339877767",
+          "start": 278,
+          "url": "https://t.co/SJjqzeICPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898051670325805117",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897844989339877767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I remember my acc got manualled and I sent emails to ubisoft continuously for 1 year and they finally unbanned me\nIt's like Stan and Slim\nDear Ubisoft, you still ain't called or wrote, I hope you have a chance\nI ain't mad, I just think it's fucked up you don't answer players 😭 https://t.co/SJjqzeICPT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 927,
+        "media_key": "3_1897844981844623360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlZ_9K2bQAAFAL3.jpg",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1898051670325805117",
+        "created_at": "2025-03-07T16:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T17:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898051670325805117"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "Stan",
+              "probability": 0.392,
+              "start": 124,
+              "type": "Other"
+            },
+            {
+              "end": 136,
+              "normalized_text": "Slim",
+              "probability": 0.5538,
+              "start": 133,
+              "type": "Other"
+            },
+            {
+              "end": 149,
+              "normalized_text": "Ubisoft",
+              "probability": 0.8584,
+              "start": 143,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/lumigj02/status/1897844989339877767",
+              "start": 278,
+              "url": "https://t.co/SJjqzeICPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898051670325805117",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897844989339877767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I remember my acc got manualled and I sent emails to ubisoft continuously for 1 year and they finally unbanned me\nIt's like Stan and Slim\nDear Ubisoft, you still ain't called or wrote, I hope you have a chance\nI ain't mad, I just think it's fucked up you don't answer players 😭 https://t.co/SJjqzeICPT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897844981844623360"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897842756833493042",
+        "created_at": "2025-03-07T03:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T04:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897844989339877767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3WYC7Zz9j",
+              "end": 25,
+              "expanded_url": "https://x.com/lumigj02/status/1897844989339877767/photo/1",
+              "media_key": "3_1897844981844623360",
+              "start": 2,
+              "url": "https://t.co/p3WYC7Zz9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897844989339877767",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897842756833493042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😨 https://t.co/p3WYC7Zz9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 849,
+          "like_count": 25489,
+          "listed_count": 11,
+          "media_count": 934,
+          "tweet_count": 10400
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

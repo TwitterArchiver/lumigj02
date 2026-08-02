@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1914261276295049526",
+    "created_at": "2025-04-21T10:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T11:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914264136340701556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612855155128504335",
+          "start": 0,
+          "username": "plantie_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914264136340701556",
+    "in_reply_to_user_id": "1612855155128504335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914261276295049526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plantie_awa 你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1914261276295049526",
+        "created_at": "2025-04-21T10:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T11:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914264136340701556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612855155128504335",
+              "start": 0,
+              "username": "plantie_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914264136340701556",
+        "in_reply_to_user_id": "1612855155128504335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914261276295049526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plantie_awa 你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612855155128504335",
+        "conversation_id": "1914261276295049526",
+        "created_at": "2025-04-21T10:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T11:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914261276295049526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914261276295049526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然有双头龙 有没有双头飞机杯啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "报我猫卷名字。 | @you_miaowu | 小老婆 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 871,
+          "like_count": 26453,
+          "listed_count": 11,
+          "media_count": 1020,
+          "tweet_count": 11512
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-10T16:53:52.000Z",
+        "description": "Pointless stuff here. Main: @plantie_uwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "plantie_uwu"
+              }
+            ]
+          }
+        },
+        "id": "1612855155128504335",
+        "name": "plantiee✨🌚 (ordinary ver.)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913605495006601216/aMmaSEiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 110,
+          "like_count": 567,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 537
+        },
+        "username": "plantie_awa",
+        "verified": false
+      }
+    ]
+  }
+}

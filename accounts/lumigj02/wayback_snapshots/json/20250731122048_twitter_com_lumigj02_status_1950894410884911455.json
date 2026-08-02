@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950758246173782353",
+    "created_at": "2025-07-31T12:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T13:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950894410884911455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725683921763905536",
+          "start": 0,
+          "username": "luonbe69"
+        },
+        {
+          "end": 19,
+          "id": "1452537509875834880",
+          "start": 10,
+          "username": "kkggxxyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950894410884911455",
+    "in_reply_to_user_id": "1725683921763905536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950889239560028163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luonbe69 @kkggxxyy 意思就是顺男顺女也一样，你爸妈年轻的时候也是郎才女貌，人都会老的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950758246173782353",
+        "created_at": "2025-07-31T12:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T13:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950894410884911455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725683921763905536",
+              "start": 0,
+              "username": "luonbe69"
+            },
+            {
+              "end": 19,
+              "id": "1452537509875834880",
+              "start": 10,
+              "username": "kkggxxyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950894410884911455",
+        "in_reply_to_user_id": "1725683921763905536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950889239560028163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luonbe69 @kkggxxyy 意思就是顺男顺女也一样，你爸妈年轻的时候也是郎才女貌，人都会老的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "1950758246173782353",
+        "created_at": "2025-07-31T12:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T13:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950889239560028163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452537509875834880",
+              "start": 0,
+              "username": "kkggxxyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950889239560028163",
+        "in_reply_to_user_id": "1452537509875834880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950888383045423564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkggxxyy 不懂？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 926,
+          "like_count": 27690,
+          "listed_count": 12,
+          "media_count": 1114,
+          "tweet_count": 13214
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 寂寞 世界 空心 呢喃 命运 废死 流浪 列车 白梦 闪烁 凝视 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "罗伦贝尔🎫",
+        "pinned_tweet_id": "1949533337917509801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850527858571325440/tCL5f4k4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 6240,
+          "like_count": 44777,
+          "listed_count": 4,
+          "media_count": 623,
+          "tweet_count": 18434
+        },
+        "username": "luonbe69",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "一般通过跨女🏳️‍⚧️｜韩语学习中｜性取向是会摸摸我狗头的抱枕｜isfp｜爱玩英雄联盟欢迎带我上分｜🖤🩶🤍💜 ｜碎碎念｜阴暗蠕动",
+        "id": "1452537509875834880",
+        "location": "大屯路东",
+        "name": "하나🫧",
+        "pinned_tweet_id": "1946493703037837422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918973778018848768/_IiO1I0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 216,
+          "like_count": 5636,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 4093
+        },
+        "username": "kkggxxyy",
+        "verified": false
+      }
+    ]
+  }
+}

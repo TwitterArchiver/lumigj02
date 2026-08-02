@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1944747472313856199",
+    "created_at": "2025-07-14T13:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T14:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944748218077905187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618104342451744771",
+          "start": 0,
+          "username": "bxinbshmxin11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944748218077905187",
+    "in_reply_to_user_id": "1618104342451744771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944747472313856199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bxinbshmxin11 哇哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944747460284583936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0hguwbEAAMi3o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1944747472313856199",
+        "created_at": "2025-07-14T13:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944748218077905187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618104342451744771",
+              "start": 0,
+              "username": "bxinbshmxin11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944748218077905187",
+        "in_reply_to_user_id": "1618104342451744771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944747472313856199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bxinbshmxin11 哇哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944747460284583936"
+          ]
+        },
+        "author_id": "1618104342451744771",
+        "conversation_id": "1944747472313856199",
+        "created_at": "2025-07-14T13:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944747472313856199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxXsxz90zl",
+              "end": 29,
+              "expanded_url": "https://x.com/bxinbshmxin11/status/1944747472313856199/photo/1",
+              "media_key": "3_1944747460284583936",
+              "start": 6,
+              "url": "https://t.co/KxXsxz90zl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944747472313856199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇还有智障 https://t.co/KxXsxz90zl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "家猫: @_FurryFur_ 泰补170 opinions are my own 私信关 DM closed 请联系 please contact https://t.co/xnU7yfJnaD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "_FurryFur_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 98,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 75,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944429548168527872/Kxx8zP9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 915,
+          "like_count": 27484,
+          "listed_count": 12,
+          "media_count": 1088,
+          "tweet_count": 12824
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T04:32:29.000Z",
+        "description": "There is no straight road in the world, be prepared to take a winding road",
+        "id": "1618104342451744771",
+        "location": "地球",
+        "name": "酒大可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921274850850795520/xlASzrCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 356,
+          "like_count": 8110,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 2401
+        },
+        "username": "bxinbshmxin11",
+        "verified": false
+      }
+    ]
+  }
+}

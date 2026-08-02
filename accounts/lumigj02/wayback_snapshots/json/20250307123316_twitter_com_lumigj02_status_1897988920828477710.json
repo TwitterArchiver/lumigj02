@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897689539336093757",
+    "created_at": "2025-03-07T12:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T13:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897988920828477710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "949475832426242048",
+          "start": 0,
+          "username": "Kokokoro__"
+        },
+        {
+          "end": 21,
+          "id": "1585244555775205376",
+          "start": 12,
+          "username": "zhreeesy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897988920828477710",
+    "in_reply_to_user_id": "949475832426242048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897873556576649563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kokokoro__ @zhreeesy 草www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897689539336093757",
+        "created_at": "2025-03-07T12:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897988920828477710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "949475832426242048",
+              "start": 0,
+              "username": "Kokokoro__"
+            },
+            {
+              "end": 21,
+              "id": "1585244555775205376",
+              "start": 12,
+              "username": "zhreeesy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897988920828477710",
+        "in_reply_to_user_id": "949475832426242048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897873556576649563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kokokoro__ @zhreeesy 草www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "949475832426242048",
+        "conversation_id": "1897689539336093757",
+        "created_at": "2025-03-07T04:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T05:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897873556576649563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1585244555775205376",
+              "start": 0,
+              "username": "zhreeesy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897873556576649563",
+        "in_reply_to_user_id": "1585244555775205376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897870606546223177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhreeesy 咬著吐司 在轉角跟學妹相撞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200 / NSFW不打码恕不回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 847,
+          "like_count": 25469,
+          "listed_count": 11,
+          "media_count": 932,
+          "tweet_count": 10371
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-06T03:00:53.000Z",
+        "description": "妳好，我是國際難民\n連結是我ㄉ噗浪\n廢文太多避免擾民 推特基本只放圖\n和借放影片(因為噗浪不能上傳影片\n發病文只會貼在噗浪自己點進去看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "plurk.com/yuri193ck6",
+                "end": 23,
+                "expanded_url": "https://www.plurk.com/yuri193ck6",
+                "start": 0,
+                "url": "https://t.co/GuQKw8huZu"
+              }
+            ]
+          }
+        },
+        "id": "949475832426242048",
+        "location": "鬼島",
+        "name": "ここころ C105 1日目　東 シ-45a",
+        "pinned_tweet_id": "1878775182107799677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1225002784170201088/30KeAyfN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9941,
+          "following_count": 240,
+          "like_count": 12498,
+          "listed_count": 48,
+          "media_count": 1016,
+          "tweet_count": 5590
+        },
+        "url": "https://t.co/GuQKw8huZu",
+        "username": "Kokokoro__",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T12:20:17.000Z",
+        "description": "你好，我是人類 小號：@bailanleeeeee  宿敵：@sakumamutsuki 宿敵2 ：@iIQEFr1PJ9yaW5Q 雜魚：@BetulaMnc08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "bailanleeeeee"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "sakumamutsuki"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "iIQEFr1PJ9yaW5Q"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "BetulaMnc08"
+              }
+            ]
+          }
+        },
+        "id": "1585244555775205376",
+        "location": "Malaysia",
+        "name": "澤西",
+        "pinned_tweet_id": "1797987225621418377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695985371962904576/CRcRqttV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 504,
+          "like_count": 55325,
+          "listed_count": 5,
+          "media_count": 1114,
+          "tweet_count": 18992
+        },
+        "username": "zhreeesy",
+        "verified": false
+      }
+    ]
+  }
+}

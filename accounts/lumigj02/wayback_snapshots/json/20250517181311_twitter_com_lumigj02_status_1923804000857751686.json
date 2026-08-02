@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1923738606977548672",
+    "created_at": "2025-05-17T18:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T19:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923804000857751686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811547409161551873",
+          "start": 0,
+          "username": "redkiller8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923804000857751686",
+    "in_reply_to_user_id": "1811547409161551873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923738606977548672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redkiller8964 666對號入座"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1923738606977548672",
+        "created_at": "2025-05-17T18:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923804000857751686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811547409161551873",
+              "start": 0,
+              "username": "redkiller8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923804000857751686",
+        "in_reply_to_user_id": "1811547409161551873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923738606977548672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redkiller8964 666對號入座"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811547409161551873",
+        "conversation_id": "1923738606977548672",
+        "created_at": "2025-05-17T13:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923738606977548672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ValeriaEulabei…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/1923682536364048829",
+              "start": 48,
+              "url": "https://t.co/ny8S11IlO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923738606977548672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 134,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923682536364048829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是一个一眼男的家伙凭借一句“我认为我是女的”就进了女厕所，这合理吗？考虑过普通女性的感受吗？ https://t.co/ny8S11IlO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "(本账号由 @_Sanxon 代为管理) | 日雌380泰补200 私信/下方Telegram联系 | 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi猫卷🍥HRT药物日雌泰补(本账号由Sanxon代管)",
+        "pinned_tweet_id": "1922906622302523540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 889,
+          "like_count": 26827,
+          "listed_count": 12,
+          "media_count": 1068,
+          "tweet_count": 11978
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T23:45:48.000Z",
+        "description": "A thief who steals a gem is guilty, but one who seizes a nation becomes a lord",
+        "id": "1811547409161551873",
+        "location": "Commonwealth of East Asian",
+        "name": "赤色杀人魔👊🇺🇲🔥",
+        "pinned_tweet_id": "1917141507754332332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812725729844441088/kbijftUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 367,
+          "like_count": 37704,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 7021
+        },
+        "username": "redkiller8964",
+        "verified": false
+      }
+    ]
+  }
+}

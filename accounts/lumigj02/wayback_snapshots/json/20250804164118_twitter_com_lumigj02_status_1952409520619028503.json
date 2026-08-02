@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1952285877469896858",
+    "created_at": "2025-08-04T16:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T17:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952409520619028503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "Xinyi_ADHD"
+        },
+        {
+          "end": 19,
+          "id": "1854224109011664896",
+          "start": 12,
+          "username": "A5Tr41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952409520619028503",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952406332428243097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinyi_ADHD @A5Tr41 为啥是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1952285877469896858",
+        "created_at": "2025-08-04T16:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952409520619028503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "Xinyi_ADHD"
+            },
+            {
+              "end": 19,
+              "id": "1854224109011664896",
+              "start": 12,
+              "username": "A5Tr41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952409520619028503",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952406332428243097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinyi_ADHD @A5Tr41 为啥是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "1952285877469896858",
+        "created_at": "2025-08-04T16:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952406332428243097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1854224109011664896",
+              "start": 0,
+              "username": "A5Tr41"
+            },
+            {
+              "end": 25,
+              "id": "1176535991454064640",
+              "start": 16,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952406332428243097",
+        "in_reply_to_user_id": "1854224109011664896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952285877469896858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A5Tr41 一眼看成猫卷了\n@lumigj02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷uwu🐱✨🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 929,
+          "like_count": 27726,
+          "listed_count": 12,
+          "media_count": 1120,
+          "tweet_count": 13259
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "勇敢的人先享受世界\nafab跨男同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpKvQ"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "立栀",
+        "pinned_tweet_id": "1952045734255370543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947324222071861248/7tZGQQ4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 1716,
+          "like_count": 14309,
+          "listed_count": 6,
+          "media_count": 1064,
+          "tweet_count": 11509
+        },
+        "url": "https://t.co/O8fBywpKvQ",
+        "username": "Xinyi_ADHD",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "",
+        "id": "1854224109011664896",
+        "name": "卷卷☁️",
+        "pinned_tweet_id": "1900982077845369340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927764186139938816/bUVYlhXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 73,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1452
+        },
+        "username": "A5Tr41",
+        "verified": false
+      }
+    ]
+  }
+}

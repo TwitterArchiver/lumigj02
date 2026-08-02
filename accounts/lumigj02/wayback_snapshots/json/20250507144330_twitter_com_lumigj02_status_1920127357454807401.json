@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1557342305748627457",
+          "name": "Andrew Tate"
+        }
+      }
+    ],
+    "conversation_id": "1920035466574725362",
+    "created_at": "2025-05-07T14:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920127357454807401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "333357345",
+          "start": 0,
+          "username": "Cobratate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920127357454807401",
+    "in_reply_to_user_id": "333357345",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920035466574725362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cobratate I'm sorry"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557342305748627457",
+              "name": "Andrew Tate"
+            }
+          }
+        ],
+        "conversation_id": "1920035466574725362",
+        "created_at": "2025-05-07T14:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920127357454807401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "333357345",
+              "start": 0,
+              "username": "Cobratate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920127357454807401",
+        "in_reply_to_user_id": "333357345",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920035466574725362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cobratate I'm sorry"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "333357345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1920035466574725362",
+        "created_at": "2025-05-07T08:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920035466574725362"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "GTA 6",
+              "probability": 0.8688,
+              "start": 20,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920035466574725362",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1621,
+          "impression_count": 1347176,
+          "like_count": 27842,
+          "quote_count": 576,
+          "reply_count": 2182,
+          "retweet_count": 1965
+        },
+        "reply_settings": "everyone",
+        "text": "Youre obsessed with GTA 6 because you have zero cars, women, yachts, money or action in your real life."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 丰矿黑产牢药娘 | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌370包邮",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920109170419978240/bIbfpJLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 882,
+          "like_count": 26649,
+          "listed_count": 12,
+          "media_count": 1046,
+          "tweet_count": 11753
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-11T12:15:34.000Z",
+        "description": "2025 Worlds Sexiest Man.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cobratate.com",
+                "end": 23,
+                "expanded_url": "http://www.cobratate.com",
+                "start": 0,
+                "url": "https://t.co/b2DF1rm9ij"
+              }
+            ]
+          }
+        },
+        "id": "333357345",
+        "location": "The War Room",
+        "name": "Andrew Tate",
+        "pinned_tweet_id": "1910701995486232635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887763323464146945/5HdM0_7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10760888,
+          "following_count": 1146,
+          "like_count": 18475,
+          "listed_count": 9419,
+          "media_count": 4306,
+          "tweet_count": 21017
+        },
+        "url": "https://t.co/b2DF1rm9ij",
+        "username": "Cobratate",
+        "verified": true
+      }
+    ]
+  }
+}

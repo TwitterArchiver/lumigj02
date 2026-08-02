@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      }
+    ],
+    "conversation_id": "1902621378802831657",
+    "created_at": "2025-03-20T07:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T08:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902622945937416257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "89421672",
+          "start": 0,
+          "username": "USA_China_Talk"
+        },
+        {
+          "end": 22,
+          "id": "1879650942410481666",
+          "start": 16,
+          "username": "POTUS"
+        },
+        {
+          "end": 35,
+          "id": "1120633726478823425",
+          "start": 23,
+          "username": "ZelenskyyUa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902622945937416257",
+    "in_reply_to_user_id": "89421672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902621378802831657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@USA_China_Talk @POTUS @ZelenskyyUa 玛丽·安妮·特朗普是五个孩子的母亲，其中包括美国总统唐纳德·特朗普。\n\n玛丽·安妮于2000年8月7日去世，享年88岁，逝世地点为纽约新海德公园的长岛犹太医疗中心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "1902621378802831657",
+        "created_at": "2025-03-20T07:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T08:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902622945937416257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "89421672",
+              "start": 0,
+              "username": "USA_China_Talk"
+            },
+            {
+              "end": 22,
+              "id": "1879650942410481666",
+              "start": 16,
+              "username": "POTUS"
+            },
+            {
+              "end": 35,
+              "id": "1120633726478823425",
+              "start": 23,
+              "username": "ZelenskyyUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902622945937416257",
+        "in_reply_to_user_id": "89421672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902621378802831657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USA_China_Talk @POTUS @ZelenskyyUa 玛丽·安妮·特朗普是五个孩子的母亲，其中包括美国总统唐纳德·特朗普。\n\n玛丽·安妮于2000年8月7日去世，享年88岁，逝世地点为纽约新海德公园的长岛犹太医疗中心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89421672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "1902621378802831657",
+        "created_at": "2025-03-20T07:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T08:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902621378802831657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1879650942410481666",
+              "start": 12,
+              "username": "POTUS"
+            },
+            {
+              "end": 37,
+              "id": "1120633726478823425",
+              "start": 25,
+              "username": "ZelenskyyUa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SecRubio/statu…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/SecRubio/status/1902430330037903386",
+              "start": 72,
+              "url": "https://t.co/nmE6yuNUKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902621378802831657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 960,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902430330037903386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卢比奥国务卿：特朗普总统@POTUS和泽连斯基总统@ZelenskyyUa进行了一次很好且富有成效的通话--我们离结束这场血腥战争又近了一步。 https://t.co/nmE6yuNUKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 / Visiting Scholar @QUT 🇦🇺 / @you_miaowu / 日雌380包邮第二盒以上370私信或下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 48,
+                "username": "QUT"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 - 日雌380包邮",
+        "pinned_tweet_id": "1892809550308180095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 854,
+          "like_count": 25798,
+          "listed_count": 11,
+          "media_count": 955,
+          "tweet_count": 10824
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 US MissionCN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666507,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4092,
+          "media_count": 3488,
+          "tweet_count": 19046
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T22:04:52.000Z",
+        "description": "45th & 47th President of the United States. The Golden Age of America Begins Right Now.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/OwBzgKL1qh"
+              }
+            ]
+          }
+        },
+        "id": "1879650942410481666",
+        "name": "President Donald J. Trump",
+        "pinned_tweet_id": "1881408246067744887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881368435453542400/NnD56DYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047332,
+          "following_count": 4,
+          "like_count": 26,
+          "listed_count": 4691,
+          "media_count": 56,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/OwBzgKL1qh",
+        "username": "POTUS",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-23T10:21:15.000Z",
+        "description": "President of Ukraine / Президент України",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.ua",
+                "end": 23,
+                "expanded_url": "https://www.president.gov.ua",
+                "start": 0,
+                "url": "https://t.co/ctVL0atMBQ"
+              }
+            ]
+          }
+        },
+        "id": "1120633726478823425",
+        "location": "Україна",
+        "name": "Volodymyr Zelenskyy / Володимир Зеленський",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585550046740848642/OpGKpqx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8117632,
+          "following_count": 1,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 4606,
+          "tweet_count": 10179
+        },
+        "url": "https://t.co/ctVL0atMBQ",
+        "username": "ZelenskyyUa",
+        "verified": true
+      }
+    ]
+  }
+}

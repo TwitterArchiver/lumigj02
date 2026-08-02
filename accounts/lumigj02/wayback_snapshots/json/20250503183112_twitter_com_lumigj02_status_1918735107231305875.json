@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1918735107231305875",
+    "created_at": "2025-05-03T18:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T19:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918735107231305875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1428617245",
+          "start": 3,
+          "username": "Pengu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918735107231305875",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918624252565062121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pengu: A small thing that's been bothering me lately is the inconsistency of enemy lineup being revealed:\nIn this clip I drone, shoot &amp;…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35883,
+        "height": 1080,
+        "media_key": "13_1918623938143281152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1918623938143281152/img/aC9GeIXRlWv5c7gY.jpg",
+        "public_metrics": {
+          "view_count": 5730
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918623938143281152/vid/avc1/480x270/GOb4KLRC3jWy_3iq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918623938143281152/vid/avc1/640x360/djq_ynkDbbdSVvsn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918623938143281152/vid/avc1/1280x720/qRhJPnyvKYEJdqxP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1918623938143281152/pl/DzFyjClgV4AubiqR.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1918735107231305875",
+        "created_at": "2025-05-03T18:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T19:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918735107231305875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1428617245",
+              "start": 3,
+              "username": "Pengu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918735107231305875",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918624252565062121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pengu: A small thing that's been bothering me lately is the inconsistency of enemy lineup being revealed:\nIn this clip I drone, shoot &amp;…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1918623938143281152"
+          ]
+        },
+        "author_id": "1428617245",
+        "conversation_id": "1918624252565062121",
+        "created_at": "2025-05-03T11:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T12:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918624252565062121"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 158,
+              "normalized_text": "azami",
+              "probability": 0.4769,
+              "start": 154,
+              "type": "Other"
+            },
+            {
+              "end": 229,
+              "normalized_text": "solis",
+              "probability": 0.5224,
+              "start": 225,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ax49eaEhgV",
+              "end": 307,
+              "expanded_url": "https://x.com/Pengu/status/1918624252565062121/video/1",
+              "media_key": "13_1918623938143281152",
+              "start": 284,
+              "url": "https://t.co/ax49eaEhgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918624252565062121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16036,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "A small thing that's been bothering me lately is the inconsistency of enemy lineup being revealed:\nIn this clip I drone, shoot &amp; Check the first body azami ( yet the top right shows a questionmark )\nI see and call i kill solis, and also a questionmark:\nWhy aren't dead ops shown? https://t.co/ax49eaEhgV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 主人&大老婆 @RanXi_MtF | 小老婆 @_FurryFur_ | @you_miaowu | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 881,
+          "like_count": 26599,
+          "listed_count": 12,
+          "media_count": 1036,
+          "tweet_count": 11676
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-14T18:58:03.000Z",
+        "description": "Content Creator for  @psgtalonR6 \n2x World champion 🐧 also I cast sometimes 🎙\nContact: pengu@goodday.gg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "psgtalonR6"
+              }
+            ]
+          }
+        },
+        "id": "1428617245",
+        "name": "Pengu",
+        "pinned_tweet_id": "1366403814677504003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768184840355037184/eQUua9DL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258487,
+          "following_count": 2028,
+          "like_count": 19538,
+          "listed_count": 294,
+          "media_count": 2751,
+          "tweet_count": 43582
+        },
+        "username": "Pengu",
+        "verified": false
+      }
+    ]
+  }
+}

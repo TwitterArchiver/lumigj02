@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1919425571907588513",
+    "created_at": "2025-05-06T09:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T10:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919689879702622693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1670362954590728197",
+          "start": 0,
+          "username": "Kagurazakahyoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919689879702622693",
+    "in_reply_to_user_id": "1670362954590728197",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919429012889469288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagurazakahyoto 喵喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1919429012889469288].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919429012889469288",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1919429012889469288"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1919425571907588513",
+        "created_at": "2025-05-06T09:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T10:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919689879702622693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1670362954590728197",
+              "start": 0,
+              "username": "Kagurazakahyoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919689879702622693",
+        "in_reply_to_user_id": "1670362954590728197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919429012889469288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagurazakahyoto 喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 881,
+          "like_count": 26628,
+          "listed_count": 12,
+          "media_count": 1043,
+          "tweet_count": 11723
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "07| MTX🏳️‍⚧️|:HRT：2025/01/14|无证含糖｜Asexuality｜🍋@kiriyama_lemon清酱@heiwawomamore妈妈@asahi_jx 小语@charming_xiaoyu杂鱼兰@Inwal3310 姐姐@VicoOci",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "kiriyama_lemon"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "heiwawomamore"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "asahi_jx"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "Inwal3310"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "username": "VicoOci"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "土星",
+        "name": "神樂坂 溫原🍥🏳️‍⚧️🌂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918737542113021952/svJoWWN9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1055,
+          "like_count": 11223,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 2703
+        },
+        "username": "Kagurazakahyoto",
+        "verified": false
+      }
+    ]
+  }
+}

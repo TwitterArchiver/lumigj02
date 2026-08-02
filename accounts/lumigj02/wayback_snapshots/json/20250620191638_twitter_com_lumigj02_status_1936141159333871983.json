@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "1936140229423120821",
+    "created_at": "2025-06-20T19:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T20:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936141159333871983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1692580662614847488",
+          "start": 0,
+          "username": "fangunmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936141159333871983",
+    "in_reply_to_user_id": "1692580662614847488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936140229423120821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangunmao 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1936140229423120821",
+        "created_at": "2025-06-20T19:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T20:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936141159333871983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1692580662614847488",
+              "start": 0,
+              "username": "fangunmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936141159333871983",
+        "in_reply_to_user_id": "1692580662614847488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936140229423120821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangunmao 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692580662614847488",
+        "conversation_id": "1936140229423120821",
+        "created_at": "2025-06-20T19:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T20:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936140229423120821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936140229423120821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也挺奇怪的一边讨厌无聊的寒暄，但是我每天和师师用🍴叉来叉去我又觉得特别有意思，而且特别是在他向往常一样（尖叫）（跑来跑去）的时候，我的心情就会变得特别愉快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "",
+        "id": "1552918719440924672",
+        "name": "Sanxon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936033403167817733/NuR14f9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 140,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 177
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T16:54:25.000Z",
+        "description": "小猫的日常/最好最好的朋友@Ki69762/提问箱https://t.co/4MNxJ8gfE8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Ki69762"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fangunmao",
+                "end": 48,
+                "expanded_url": "https://ngl.link/fangunmao",
+                "start": 25,
+                "url": "https://t.co/4MNxJ8gfE8"
+              }
+            ]
+          }
+        },
+        "id": "1692580662614847488",
+        "name": "翻滚猫",
+        "pinned_tweet_id": "1912745125501161686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875793826822107136/uB4hA2yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 240,
+          "like_count": 36707,
+          "listed_count": 8,
+          "media_count": 675,
+          "tweet_count": 8716
+        },
+        "username": "fangunmao",
+        "verified": false
+      }
+    ]
+  }
+}

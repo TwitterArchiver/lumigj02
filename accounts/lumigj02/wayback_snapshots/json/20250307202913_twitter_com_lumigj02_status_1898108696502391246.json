@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898067994976436315",
+    "created_at": "2025-03-07T20:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T21:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898108696502391246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "865915067572813828",
+          "start": 0,
+          "username": "MrBom_R6M"
+        },
+        {
+          "end": 23,
+          "id": "821324432165609472",
+          "start": 11,
+          "username": "MentalistC_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898108696502391246",
+    "in_reply_to_user_id": "865915067572813828",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898106712675979748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrBom_R6M @MentalistC_ Thanks bro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898067994976436315",
+        "created_at": "2025-03-07T20:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T21:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898108696502391246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "865915067572813828",
+              "start": 0,
+              "username": "MrBom_R6M"
+            },
+            {
+              "end": 23,
+              "id": "821324432165609472",
+              "start": 11,
+              "username": "MentalistC_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898108696502391246",
+        "in_reply_to_user_id": "865915067572813828",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898106712675979748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrBom_R6M @MentalistC_ Thanks bro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "865915067572813828",
+        "conversation_id": "1898067994976436315",
+        "created_at": "2025-03-07T20:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T21:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898106712675979748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 22,
+              "id": "821324432165609472",
+              "start": 10,
+              "username": "MentalistC_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NovaSixEN/stat…",
+              "end": 46,
+              "expanded_url": "https://x.com/NovaSixEN/status/1897431296852545562?t=A2CcgczEU9_pAS-D5C7JYA&s=19",
+              "start": 23,
+              "url": "https://t.co/FRcD5jtpMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898106712675979748",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897431296852545562",
+            "type": "quoted"
+          },
+          {
+            "id": "1898106378537123881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @MentalistC_ https://t.co/FRcD5jtpMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 853,
+          "like_count": 25501,
+          "listed_count": 11,
+          "media_count": 936,
+          "tweet_count": 10428
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-20T13:00:14.000Z",
+        "description": "Rainbow Six Mobile & other mobile games content creator. First R6M Tournament Winner",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowSixMobi…",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowSixMobileRu",
+                "start": 0,
+                "url": "https://t.co/wrvJ3sBhUF"
+              }
+            ]
+          }
+        },
+        "id": "865915067572813828",
+        "location": "🇷🇺🕊️Россия",
+        "name": "MrBom 🦄",
+        "pinned_tweet_id": "1746670949758349746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668705800489975808/7fijnKLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 112,
+          "like_count": 50850,
+          "listed_count": 20,
+          "media_count": 322,
+          "tweet_count": 6158
+        },
+        "url": "https://t.co/wrvJ3sBhUF",
+        "username": "MrBom_R6M",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-17T11:52:58.000Z",
+        "description": "24 |  🇨🇳 Captain and IGL for TEAM JOEL R6S | FF14 nerd | SMG11 slave | Opinions are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mentalistc",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mentalistc",
+                "start": 0,
+                "url": "https://t.co/f33Hrc7ipS"
+              }
+            ]
+          }
+        },
+        "id": "821324432165609472",
+        "location": "新加坡",
+        "name": "MentalistC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350895504423436288/3cFQRds7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11211,
+          "following_count": 1065,
+          "like_count": 15078,
+          "listed_count": 48,
+          "media_count": 1721,
+          "tweet_count": 8523
+        },
+        "url": "https://t.co/f33Hrc7ipS",
+        "username": "MentalistC_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953901753742897153"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953901759690420663",
+    "created_at": "2025-08-08T19:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T20:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953901759690420663"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 8,
+          "normalized_text": "SINGAPORE",
+          "probability": 0.6661,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UACFIolyYo",
+          "end": 43,
+          "expanded_url": "https://x.com/lumigj02/status/1953901759690420663/photo/1",
+          "media_key": "3_1953901753742897153",
+          "start": 20,
+          "url": "https://t.co/UACFIolyYo"
+        },
+        {
+          "display_url": "x.com/nekonesiagov/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/nekonesiagov/status/1953856022562402772",
+          "start": 44,
+          "url": "https://t.co/zJyghZXbnR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953901759690420663",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953856022562402772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "SINGAPORE MENTIONED https://t.co/UACFIolyYo https://t.co/zJyghZXbnR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1953901753742897153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2nSvXbsAE5OU_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1953856016984289284",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx19sgqbsAQ4bF0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953901753742897153"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953901759690420663",
+        "created_at": "2025-08-08T19:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T20:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953901759690420663"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "SINGAPORE",
+              "probability": 0.6661,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UACFIolyYo",
+              "end": 43,
+              "expanded_url": "https://x.com/lumigj02/status/1953901759690420663/photo/1",
+              "media_key": "3_1953901753742897153",
+              "start": 20,
+              "url": "https://t.co/UACFIolyYo"
+            },
+            {
+              "display_url": "x.com/nekonesiagov/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/nekonesiagov/status/1953856022562402772",
+              "start": 44,
+              "url": "https://t.co/zJyghZXbnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953901759690420663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953856022562402772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "SINGAPORE MENTIONED https://t.co/UACFIolyYo https://t.co/zJyghZXbnR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953856016984289284"
+          ]
+        },
+        "author_id": "1678055759198953472",
+        "conversation_id": "1953856022562402772",
+        "created_at": "2025-08-08T16:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T17:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953856022562402772"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "sg60"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jroSA4qQA2",
+              "end": 110,
+              "expanded_url": "https://x.com/Nekonesiagov/status/1953856022562402772/photo/1",
+              "media_key": "3_1953856016984289284",
+              "start": 87,
+              "url": "https://t.co/jroSA4qQA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953856022562402772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我們祝賀新加坡獨立60週年快樂。\n在重重打壓下，新加坡人民仍憑藉堅韌意志，打造出今日的繁榮家園。\n包括新加坡等多國的治理經驗在貓貓尼西亞的發展上起到了重要作用。\n#sg60 https://t.co/jroSA4qQA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷uwu🐱✨🐈",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953433505246945280/jdZGBDtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 934,
+          "like_count": 27696,
+          "listed_count": 12,
+          "media_count": 1123,
+          "tweet_count": 13355
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T14:57:30.000Z",
+        "description": "Official Twitter of Nekonesia; Showcasing to the world - a micronation based on cats. 貓貓尼西亞官方推特帳號；為世界宣傳展示以貓貓為本的微國家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.nekonesia.org",
+                "end": 23,
+                "expanded_url": "https://gov.nekonesia.org/",
+                "start": 0,
+                "url": "https://t.co/Lr960l1MI9"
+              }
+            ]
+          }
+        },
+        "id": "1678055759198953472",
+        "name": "Nekonesia Government",
+        "pinned_tweet_id": "1944411851422388723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907121103916748801/77n4PktC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 177,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/Lr960l1MI9",
+        "username": "Nekonesiagov",
+        "verified": false
+      }
+    ]
+  }
+}

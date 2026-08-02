@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "1934985567307276555",
+    "created_at": "2025-06-17T14:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934985567307276555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/101grams/statu…",
+          "end": 190,
+          "expanded_url": "https://twitter.com/101grams/status/1934378012021018728",
+          "start": 167,
+          "url": "https://t.co/bQnKvV2vuH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934985567307276555",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934378012021018728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Call it a situationship to shirk responsibilities which u have to take in a relationship\nThat's actually kinda sick considering people not taking each other seriously https://t.co/bQnKvV2vuH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1934985567307276555",
+        "created_at": "2025-06-17T14:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934985567307276555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/101grams/statu…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/101grams/status/1934378012021018728",
+              "start": 167,
+              "url": "https://t.co/bQnKvV2vuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934985567307276555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934378012021018728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Call it a situationship to shirk responsibilities which u have to take in a relationship\nThat's actually kinda sick considering people not taking each other seriously https://t.co/bQnKvV2vuH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816855697461551104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1934378012021018728",
+        "created_at": "2025-06-15T22:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T23:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934378012021018728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934378012021018728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 14311701,
+          "like_count": 1769,
+          "quote_count": 361,
+          "reply_count": 93,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "how u in a situationship for 5+ years that’s a marriage"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "友跨顺男 | 日雌泰补在售 私信或联系下方Telegram | 🇸🇬 Yishun人跟我们Orchard人讲话要用敬语 | 家猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934869278580461569/UcFZxe43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 898,
+          "like_count": 27167,
+          "listed_count": 12,
+          "media_count": 1109,
+          "tweet_count": 12479
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T15:18:55.000Z",
+        "description": "",
+        "id": "1816855697461551104",
+        "location": "(｡•́︿•̀｡) !! 22",
+        "name": "jess",
+        "pinned_tweet_id": "1827840037964141003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927430939753205760/RWVf-Sq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 408,
+          "like_count": 17829,
+          "listed_count": 5,
+          "media_count": 1123,
+          "tweet_count": 14598
+        },
+        "username": "101Grams",
+        "verified": false
+      }
+    ]
+  }
+}

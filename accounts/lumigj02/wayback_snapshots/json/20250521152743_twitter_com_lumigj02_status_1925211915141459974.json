@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1925162051032522968",
+    "created_at": "2025-05-21T15:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T16:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925211915141459974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1692580662614847488",
+          "start": 0,
+          "username": "fangunmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925211915141459974",
+    "in_reply_to_user_id": "1692580662614847488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925211548739588347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangunmao CatRoll就是猫咪卷呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1925162051032522968",
+        "created_at": "2025-05-21T15:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925211915141459974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1692580662614847488",
+              "start": 0,
+              "username": "fangunmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925211915141459974",
+        "in_reply_to_user_id": "1692580662614847488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925211548739588347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangunmao CatRoll就是猫咪卷呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692580662614847488",
+        "conversation_id": "1925162051032522968",
+        "created_at": "2025-05-21T15:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925211548739588347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925211548739588347",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925204992870474097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 猫卷又改名了😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @_Sanxon | @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系 | 解block请私信 @_Sanxon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "CatRoll.OHP🏳️‍⚧️日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 892,
+          "like_count": 26950,
+          "listed_count": 12,
+          "media_count": 1076,
+          "tweet_count": 12073
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T16:54:25.000Z",
+        "description": "小猫的日常/最好最好的朋友@Ki69762/🐈的提问箱https://t.co/4MNxJ8gfE8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Ki69762"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fangunmao",
+                "end": 50,
+                "expanded_url": "https://ngl.link/fangunmao",
+                "start": 27,
+                "url": "https://t.co/4MNxJ8gfE8"
+              }
+            ]
+          }
+        },
+        "id": "1692580662614847488",
+        "name": "翻滚猫",
+        "pinned_tweet_id": "1912745125501161686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875793826822107136/uB4hA2yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 682,
+          "like_count": 35785,
+          "listed_count": 9,
+          "media_count": 654,
+          "tweet_count": 8312
+        },
+        "username": "fangunmao",
+        "verified": false
+      }
+    ]
+  }
+}

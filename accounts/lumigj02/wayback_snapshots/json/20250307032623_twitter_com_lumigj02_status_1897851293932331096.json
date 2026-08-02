@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897841026510770675",
+    "created_at": "2025-03-07T03:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T04:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897851293932331096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418942200457662477",
+          "start": 0,
+          "username": "Rikka_Ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897851293932331096",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897841026510770675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_Ela 有点幽默了，除非顶尖大学博士论文，不然3%大概率都是自己编的\n比如有些实验步骤都是完全一致的，你用了这个实验方法我也用了这个实验方法，这种怎么去重我很好奇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 589,
+        "media_key": "3_1897841017572753408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlZ8WayXAAACuuN.jpg",
+        "width": 367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897841026510770675",
+        "created_at": "2025-03-07T03:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T04:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897851293932331096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897851293932331096",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897841026510770675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 有点幽默了，除非顶尖大学博士论文，不然3%大概率都是自己编的\n比如有些实验步骤都是完全一致的，你用了这个实验方法我也用了这个实验方法，这种怎么去重我很好奇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897841017572753408"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1897841026510770675",
+        "created_at": "2025-03-07T02:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T03:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897841026510770675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C64mIaU59J",
+              "end": 68,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1897841026510770675/photo/1",
+              "media_key": "3_1897841017572753408",
+              "start": 45,
+              "url": "https://t.co/C64mIaU59J"
+            },
+            {
+              "display_url": "x.com/rikka_ela/stat…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/rikka_ela/status/1897535971844890952",
+              "start": 69,
+              "url": "https://t.co/bwqBI3ewF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897841026510770675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897535971844890952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经……不能再战斗了，拼劲全力最低的查重（我们学校硬性规定查重低于3%查重部分才算满分😇 https://t.co/C64mIaU59J https://t.co/bwqBI3ewF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 || 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 842,
+          "like_count": 25433,
+          "listed_count": 11,
+          "media_count": 926,
+          "tweet_count": 10312
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3875,
+          "following_count": 3294,
+          "like_count": 61404,
+          "listed_count": 7,
+          "media_count": 176,
+          "tweet_count": 5102
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

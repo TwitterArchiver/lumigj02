@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2078426840667189286",
+    "created_at": "2026-07-19T04:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078693813879705992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781308864438345728",
+          "start": 0,
+          "username": "FoxRed695449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078693813879705992",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078426840667189286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRed695449 对的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078426823562809344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgOLx4a0AAXRJM.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1790,
+        "media_key": "3_2078426823571161088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgOLx6aQAA2UeM.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2078426840667189286",
+        "created_at": "2026-07-19T04:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078693813879705992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078693813879705992",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078426840667189286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 对的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078426823562809344",
+            "3_2078426823571161088"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2078426840667189286",
+        "created_at": "2026-07-18T10:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078426840667189286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbP8iaJuhL",
+              "end": 33,
+              "expanded_url": "https://x.com/FoxRed695449/status/2078426840667189286/photo/1",
+              "media_key": "3_2078426823562809344",
+              "start": 10,
+              "url": "https://t.co/KbP8iaJuhL"
+            },
+            {
+              "display_url": "pic.x.com/KbP8iaJuhL",
+              "end": 33,
+              "expanded_url": "https://x.com/FoxRed695449/status/2078426840667189286/photo/1",
+              "media_key": "3_2078426823571161088",
+              "start": 10,
+              "url": "https://t.co/KbP8iaJuhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078426840667189286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1416,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是大大的瑞希😋😋😋 https://t.co/KbP8iaJuhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/猫娘女仆@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll\n糖商⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 22,
+                "start": 14,
+                "username": "leetfs1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/vNaapx0WBI"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4201,
+          "following_count": 838,
+          "like_count": 4364,
+          "listed_count": 9,
+          "media_count": 126,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/vNaapx0WBI",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 846,
+          "like_count": 8255,
+          "listed_count": 6,
+          "media_count": 1072,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

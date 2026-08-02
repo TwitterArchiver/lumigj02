@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922472842727186726",
+    "created_at": "2025-05-14T07:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T08:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922561976972042353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "Anastasia195113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922561976972042353",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922472842727186726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anastasia195113 我胸太大了重心太靠前，过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922472842727186726",
+        "created_at": "2025-05-14T07:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T08:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922561976972042353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "Anastasia195113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922561976972042353",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922472842727186726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anastasia195113 我胸太大了重心太靠前，过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "1922472842727186726",
+        "created_at": "2025-05-14T02:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T03:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922472842727186726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thefigen_/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/thefigen_/status/1922285527782322560",
+              "start": 11,
+              "url": "https://t.co/9aLIBCP7Z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922472842727186726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 824,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922285527782322560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很轻松就做到左边了】 https://t.co/9aLIBCP7Z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 主人 @_temryava | 家猫 @_FurryFur_ | 日雌380泰补200（私信可能被吞建议Telegram联系）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "_temryava"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷🍥日雌380泰补200",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 883,
+          "like_count": 26760,
+          "listed_count": 12,
+          "media_count": 1064,
+          "tweet_count": 11902
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。恋人@Sorsacerba 见不得人的碎碎念小号@Teia20010914 反理性反进步反人类，碎碎念推，跨畜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Teia20010914"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "川和博美Hacchi",
+        "pinned_tweet_id": "1899743108784644275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662061289781460993/EDwofmWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 1520,
+          "like_count": 45475,
+          "listed_count": 7,
+          "media_count": 720,
+          "tweet_count": 22483
+        },
+        "username": "Anastasia195113",
+        "verified": false
+      }
+    ]
+  }
+}

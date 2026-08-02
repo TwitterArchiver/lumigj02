@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1913109726419931400",
+    "created_at": "2025-04-18T20:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T21:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913326753332019348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1881736437055303680",
+          "start": 0,
+          "username": "shou_zhi80056"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913326753332019348",
+    "in_reply_to_user_id": "1881736437055303680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913326033597866123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shou_zhi80056 我洗你妈的胎盘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_1913326024969932800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go1_4enX0AAPfHW.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1913109726419931400",
+        "created_at": "2025-04-18T20:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T21:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913326753332019348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1881736437055303680",
+              "start": 0,
+              "username": "shou_zhi80056"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913326753332019348",
+        "in_reply_to_user_id": "1881736437055303680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913326033597866123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shou_zhi80056 我洗你妈的胎盘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913326024969932800"
+          ]
+        },
+        "author_id": "1881736437055303680",
+        "conversation_id": "1913109726419931400",
+        "created_at": "2025-04-18T20:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T21:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913326033597866123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "description": "If you have Telegram, you can contact @httpsmn123 right",
+              "display_url": "t.me/httpsmn123",
+              "end": 40,
+              "expanded_url": "https://t.me/httpsmn123",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/1913325868128321536/1i37Mv5G?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1913325868128321536/1i37Mv5G?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Telegram: Contact @httpsmn123",
+              "unwound_url": "https://t.me/httpsmn123",
+              "url": "https://t.co/bj1nC6Ja9C"
+            },
+            {
+              "display_url": "pic.x.com/ipMG03pfrs",
+              "end": 64,
+              "expanded_url": "https://x.com/shou_zhi80056/status/1913326033597866123/photo/1",
+              "media_key": "3_1913326024969932800",
+              "start": 41,
+              "url": "https://t.co/ipMG03pfrs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913326033597866123",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913109726419931400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 关注飞机频道：https://t.co/bj1nC6Ja9C https://t.co/ipMG03pfrs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "单杀任何人的彩虹六号冠军 | 猫推 | 日雌370 泰补190 progynon-depot / progynova avail pls DM | 礼貌谦逊文明友善团结尊重从不骂人 | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 868,
+          "like_count": 26393,
+          "listed_count": 10,
+          "media_count": 1016,
+          "tweet_count": 11463
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-21T16:11:49.000Z",
+        "description": "搬砖黑客盗来的U，洗货暴利，这里无先款后u，要做的备好自己买的u找我买黑u\n项目，日入上万，起盘一次5000u，1.7倍返利，你的地址打9000u，✈️联系\n@helu_dg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 79,
+                "username": "helu_dg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/MQsIWCNaHG"
+              }
+            ]
+          }
+        },
+        "id": "1881736437055303680",
+        "location": "Taiwan",
+        "name": "黑u，跑u，拦截u，混币洗u，你拿白u换我黑u，1.7倍反利，拦截盘口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909022902504112129/fsCopsL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/MQsIWCNaHG",
+        "username": "shou_zhi80056",
+        "verified": false
+      }
+    ]
+  }
+}

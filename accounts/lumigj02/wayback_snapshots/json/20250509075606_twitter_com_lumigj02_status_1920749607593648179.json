@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1920749607593648179",
+    "created_at": "2025-05-09T07:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T08:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920749607593648179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fengxia1706304…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/fengxia17063046/status/1920490950071034098",
+          "start": 24,
+          "url": "https://t.co/A9mQZovmnY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920749607593648179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920490950071034098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好我是小药娘，30岁就直接死了，不用考虑35 https://t.co/A9mQZovmnY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1920749607593648179",
+        "created_at": "2025-05-09T07:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920749607593648179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fengxia1706304…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/fengxia17063046/status/1920490950071034098",
+              "start": 24,
+              "url": "https://t.co/A9mQZovmnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920749607593648179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920490950071034098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好我是小药娘，30岁就直接死了，不用考虑35 https://t.co/A9mQZovmnY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577574077933682688",
+        "conversation_id": "1920490950071034098",
+        "created_at": "2025-05-08T14:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920490950071034098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920490950071034098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 169584,
+          "like_count": 291,
+          "quote_count": 51,
+          "reply_count": 181,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "35岁了还在一线写代码，并以这个为主要工作，这本身就是一个错误。\n理论上到了这个年纪，如果真正是有思考与成长，要么已经上升到管理层，要么已经完成了自己的初始资本积累，有了自己的事业。\n那么这个时候还是一个一线的码农，那就说明工作这么多年就没有认真思考和成长。\n这才是35岁真正的困惑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 主人 @_temryava | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 姐姐 @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "_temryava"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌370包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 883,
+          "like_count": 26693,
+          "listed_count": 12,
+          "media_count": 1051,
+          "tweet_count": 11792
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T08:19:22.000Z",
+        "description": "【技术栈深耕者 | 历史人文探索者】  一名拥有10年实战经验的资深全栈工程师，专注iOS生态开发（Swift/Objective-C），同时驾驭React Native/Flutter跨端架构与Node.js/Python后端技术。",
+        "id": "1577574077933682688",
+        "name": "iOSRE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684837922250575873/I8M2Wx5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 71,
+          "like_count": 484,
+          "listed_count": 7,
+          "media_count": 138,
+          "tweet_count": 1548
+        },
+        "username": "fengxia17063046",
+        "verified": false
+      }
+    ]
+  }
+}

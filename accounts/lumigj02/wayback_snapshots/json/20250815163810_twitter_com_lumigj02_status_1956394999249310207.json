@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1956287847457075446",
+    "created_at": "2025-08-15T16:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T17:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956394999249310207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494661165804240899",
+          "start": 0,
+          "username": "FrankWu134226"
+        },
+        {
+          "end": 22,
+          "id": "23067442",
+          "start": 15,
+          "username": "keiaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956394999249310207",
+    "in_reply_to_user_id": "1494661165804240899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956318417730019399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankWu134226 @keiaku 我也喜欢糖醋酱呜呜呜鸡块蘸糖醋酱特别好吃！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1956287847457075446",
+        "created_at": "2025-08-15T16:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T17:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956394999249310207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494661165804240899",
+              "start": 0,
+              "username": "FrankWu134226"
+            },
+            {
+              "end": 22,
+              "id": "23067442",
+              "start": 15,
+              "username": "keiaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956394999249310207",
+        "in_reply_to_user_id": "1494661165804240899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956318417730019399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankWu134226 @keiaku 我也喜欢糖醋酱呜呜呜鸡块蘸糖醋酱特别好吃！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494661165804240899",
+        "conversation_id": "1956287847457075446",
+        "created_at": "2025-08-15T11:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T12:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956318417730019399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "23067442",
+              "start": 0,
+              "username": "keiaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956318417730019399",
+        "in_reply_to_user_id": "23067442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1639,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956287847457075446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keiaku 我高中時候糖醋醬不用錢，吃超爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "ʟᴜᴍɪ¹ 日雌390",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836,
+          "following_count": 914,
+          "like_count": 27795,
+          "listed_count": 12,
+          "media_count": 1142,
+          "tweet_count": 13601
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:13:14.000Z",
+        "description": "Veterinarian toxicopathologist and epidemiologist for GLP study. 拒絕撰寫假報告。",
+        "id": "1494661165804240899",
+        "name": "Frank Ng Icterohaemorrhage",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928106730426355716/mBo7kHPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 178,
+          "like_count": 89689,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 12459
+        },
+        "username": "FrankWu134226",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-06T14:12:17.000Z",
+        "description": "❌知識分子 / ⭕️滋事分子 / 小眼睛亮晶晶的魅力 / 台湾人です / 🔥 ⚯ / 🌙⛰️",
+        "id": "23067442",
+        "location": "Hualien, Taiwan",
+        "name": "Aku Kei 祁居 惡 🔥 ⚯",
+        "pinned_tweet_id": "1761700859166240924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/619738132003450880/-fDJKheY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 984,
+          "like_count": 221378,
+          "listed_count": 17,
+          "media_count": 15495,
+          "tweet_count": 131853
+        },
+        "username": "keiaku",
+        "verified": true
+      }
+    ]
+  }
+}

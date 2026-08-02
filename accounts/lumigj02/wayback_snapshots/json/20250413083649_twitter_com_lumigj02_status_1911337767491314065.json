@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1911296563860902317",
+    "created_at": "2025-04-13T08:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T09:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911337767491314065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1167792264795394048",
+          "start": 0,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911337767491314065",
+    "in_reply_to_user_id": "1167792264795394048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911296563860902317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leetfs1 好啊加速"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 365,
+        "media_key": "3_1911296551315443712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoZKFkGWEAA3vVl.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1911296563860902317",
+        "created_at": "2025-04-13T08:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T09:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911337767491314065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911337767491314065",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911296563860902317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 好啊加速"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911296551315443712"
+          ]
+        },
+        "author_id": "1167792264795394048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1911296563860902317",
+        "created_at": "2025-04-13T05:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T06:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911296563860902317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Select Topic Area Question Body Starting this morning (April 13, 2025, UTC+8), I am unable to access GitHub without a proxy: My IP information are as follows: IPv4: 58.19.128.79 IPv6: 2408:824e:307...",
+              "display_url": "github.com/orgs/community…",
+              "end": 45,
+              "expanded_url": "https://github.com/orgs/community/discussions/156515",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1911284193042251776/R7z2HAbA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1911284193042251776/R7z2HAbA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "Access to this site has been restricted · community · Discussion #156515",
+              "unwound_url": "https://github.com/orgs/community/discussions/156515",
+              "url": "https://t.co/LPayIx4i4v"
+            },
+            {
+              "display_url": "pic.x.com/nOeI6mgxgm",
+              "end": 69,
+              "expanded_url": "https://x.com/leetfs1/status/1911296563860902317/photo/1",
+              "media_key": "3_1911296551315443712",
+              "start": 46,
+              "url": "https://t.co/nOeI6mgxgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911296563860902317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "GitHub 已主动屏蔽来自中国大陆的访问\nhttps://t.co/LPayIx4i4v https://t.co/nOeI6mgxgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "CompSci @NUSingapore @sutdsg | ❤️ @_Sanxon | 日雌380 泰补210 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "sutdsg"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 868,
+          "like_count": 26317,
+          "listed_count": 11,
+          "media_count": 1005,
+          "tweet_count": 11351
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "@MtFwiki & @RLEwiki 成员 | 喜欢前端",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "RLEwiki"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "name": "Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901813483391574016/URlQ6yLb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4054,
+          "following_count": 2569,
+          "like_count": 1307,
+          "listed_count": 20,
+          "media_count": 761,
+          "tweet_count": 5542
+        },
+        "username": "leetfs1",
+        "verified": false
+      }
+    ]
+  }
+}

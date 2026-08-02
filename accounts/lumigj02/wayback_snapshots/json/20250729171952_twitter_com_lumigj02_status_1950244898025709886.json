@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950199557171634252",
+    "created_at": "2025-07-29T17:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T18:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950244898025709886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1186651487155322880",
+          "start": 0,
+          "username": "RonaldSimmonsUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950244898025709886",
+    "in_reply_to_user_id": "1186651487155322880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950199557171634252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RonaldSimmonsUS 你什么时候翻车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950199557171634252",
+        "created_at": "2025-07-29T17:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T18:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950244898025709886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1186651487155322880",
+              "start": 0,
+              "username": "RonaldSimmonsUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950244898025709886",
+        "in_reply_to_user_id": "1186651487155322880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950199557171634252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RonaldSimmonsUS 你什么时候翻车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1186651487155322880",
+        "conversation_id": "1950199557171634252",
+        "created_at": "2025-07-29T14:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T15:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950199557171634252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Konekoutena/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Konekoutena/status/1949613090255069199",
+              "start": 56,
+              "url": "https://t.co/3C68vSU58r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950199557171634252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2543,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949613090255069199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说真的，我感觉变性手术挺残忍的，一刀下去，下面就没了。😣\n你确定要做吗？反正我是不敢做，我只敢偶尔穿女装玩玩。 https://t.co/3C68vSU58r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949744633480912897/-ekbjwHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 926,
+          "like_count": 27679,
+          "listed_count": 12,
+          "media_count": 1111,
+          "tweet_count": 13191
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T14:32:26.000Z",
+        "description": "American, Christian, patriot(Republican), journalist, Julian Assange supporter.\nGod bless America!\n🇺🇸🤝🇮🇱\n#MadeInUSA\n#1A\n#2A\n#FollowBack 100%\n#IFBAP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "MadeInUSA"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "1A"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "2A"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "tag": "FollowBack"
+              },
+              {
+                "end": 147,
+                "start": 141,
+                "tag": "IFBAP"
+              }
+            ]
+          }
+        },
+        "id": "1186651487155322880",
+        "location": "Washington, DC",
+        "name": "Ronald Simmons🇺🇸🦅✝️",
+        "pinned_tweet_id": "1869860983642173565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343476573706485760/y4nITVko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59698,
+          "following_count": 50240,
+          "like_count": 181504,
+          "listed_count": 112,
+          "media_count": 25260,
+          "tweet_count": 161579
+        },
+        "username": "RonaldSimmonsUS",
+        "verified": true
+      }
+    ]
+  }
+}

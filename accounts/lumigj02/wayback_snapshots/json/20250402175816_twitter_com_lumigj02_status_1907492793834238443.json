@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1907492793834238443",
+    "created_at": "2025-04-02T17:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T18:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907492793834238443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jinwang6948910…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/jinwang69489102/status/1906625852605133133",
+          "start": 3,
+          "url": "https://t.co/uxsmPZjC9N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907492793834238443",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906625852605133133",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "sb https://t.co/uxsmPZjC9N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1907492793834238443",
+        "created_at": "2025-04-02T17:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907492793834238443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jinwang6948910…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/jinwang69489102/status/1906625852605133133",
+              "start": 3,
+              "url": "https://t.co/uxsmPZjC9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907492793834238443",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906625852605133133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sb https://t.co/uxsmPZjC9N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746527586912735232",
+        "conversation_id": "1906625852605133133",
+        "created_at": "2025-03-31T08:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T09:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906625852605133133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906625852605133133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 36194,
+          "like_count": 243,
+          "quote_count": 7,
+          "reply_count": 59,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "之前认识一跨男\n鼓动我参加“骄傲月”游行\n我挺反感“庆祝秀”\n就回绝了\n这段时间吃个他的瓜\n发现没跟着去就对了\n那会和他走得近的几个跨男\n被他鼓动，为赶时髦\n在老拜头任期最后一年\n纷纷都把🐔噶了\n也是49年加入国军了\n虽捞到点好处，约等于无\n如今全后悔了\n🐔是装不回去了\n精神上还被定性为“精神病”了🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ GAHT 20230418 | ❤️ @Yan_Xing_Xing | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "貓歸雲卷",
+        "pinned_tweet_id": "1893566219170488748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 863,
+          "like_count": 26218,
+          "listed_count": 11,
+          "media_count": 983,
+          "tweet_count": 11215
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-14T13:40:12.000Z",
+        "description": "满族格格，完颜氏，长居LA\n上推纯为看戏。\n注：\n1.MAGA🇺🇸，工作狂，熬夜小能手，支持川普总统，不定时出现。\n2.支持美中友好，反对挑拨离间\n    支持实事求是，反对吹牛说大话\n    地球能容下两个大国，支持合作共赢\n3.高强度刷推选手，全家都用一个号",
+        "id": "1746527586912735232",
+        "location": "Billionaires' Row, NYC",
+        "name": "海兰珠（Victoria）",
+        "pinned_tweet_id": "1786940451750302021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757272481759641601/HvXJ40rS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16694,
+          "following_count": 487,
+          "like_count": 31990,
+          "listed_count": 49,
+          "media_count": 695,
+          "tweet_count": 22728
+        },
+        "username": "jinwang69489102",
+        "verified": false
+      }
+    ]
+  }
+}

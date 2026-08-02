@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913343418308472832"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1913284961530220786",
+    "created_at": "2025-04-18T21:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T22:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913343420778832344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yfrs9GYIPu",
+          "end": 23,
+          "expanded_url": "https://x.com/lumigj02/status/1913343420778832344/photo/1",
+          "media_key": "3_1913343418308472832",
+          "start": 0,
+          "url": "https://t.co/Yfrs9GYIPu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913343420778832344",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913284961530220786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Yfrs9GYIPu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913343418308472832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go2Ps52bsAAlB-x.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1913284952621514752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go1ahwMbAAAnX9E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913343418308472832"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1913284961530220786",
+        "created_at": "2025-04-18T21:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T22:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913343420778832344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yfrs9GYIPu",
+              "end": 23,
+              "expanded_url": "https://x.com/lumigj02/status/1913343420778832344/photo/1",
+              "media_key": "3_1913343418308472832",
+              "start": 0,
+              "url": "https://t.co/Yfrs9GYIPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913343420778832344",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913284961530220786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Yfrs9GYIPu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913284952621514752"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1913284961530220786",
+        "created_at": "2025-04-18T17:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T18:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913284961530220786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686472989129441281",
+              "start": 5,
+              "username": "_Furryfur_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2ujS1qjsn",
+              "end": 46,
+              "expanded_url": "https://x.com/lumigj02/status/1913284961530220786/photo/1",
+              "media_key": "3_1913284952621514752",
+              "start": 23,
+              "url": "https://t.co/Y2ujS1qjsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913284961530220786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和小老婆 @_Furryfur_ 的作战记录 https://t.co/Y2ujS1qjsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "单杀任何人的彩虹六号冠军 | 猫推 | 日雌370 泰补190 progynon-depot / progynova avail pls DM | 礼貌谦逊文明友善团结尊重从不骂人 | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 868,
+          "like_count": 26393,
+          "listed_count": 10,
+          "media_count": 1017,
+          "tweet_count": 11464
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

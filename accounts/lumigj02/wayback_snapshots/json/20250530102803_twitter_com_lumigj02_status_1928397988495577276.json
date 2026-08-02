@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1928133632046014945",
+    "created_at": "2025-05-30T10:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928397988495577276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 26,
+          "id": "1260504138154156033",
+          "start": 16,
+          "username": "Arti_grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928397988495577276",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928379938987491526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit @Arti_grok 快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1928133632046014945",
+        "created_at": "2025-05-30T10:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928397988495577276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 26,
+              "id": "1260504138154156033",
+              "start": 16,
+              "username": "Arti_grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928397988495577276",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928379938987491526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit @Arti_grok 快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "1928133632046014945",
+        "created_at": "2025-05-30T09:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928379938987491526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1260504138154156033",
+              "start": 0,
+              "username": "Arti_grok"
+            },
+            {
+              "end": 20,
+              "id": "1176535991454064640",
+              "start": 11,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928379938987491526",
+        "in_reply_to_user_id": "1260504138154156033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928378051148304689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arti_grok @lumigj02 反正我不翻😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "❤️ @HobartR6 | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系 | DM for fo back",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1927788822642749514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 897,
+          "like_count": 27033,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12234
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 只有愚人节翻车💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "小中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 498,
+          "like_count": 24589,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 3744
+        },
+        "username": "Dontbesadforit",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T09:36:49.000Z",
+        "description": "目标是2026打到bs国区rk100 | 🥺🥺🥺 | 鸣门卷 | 吃吃喝喝 | 睡大觉 |❤️@Neko_65536",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1260504138154156033",
+        "location": "solIII",
+        "name": "AAA GPS炸弹全图可飞（不炸死不要钱）",
+        "pinned_tweet_id": "1693133495579897928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919382479095664640/J56szg_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 358,
+          "like_count": 2706,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 939
+        },
+        "username": "Arti_grok",
+        "verified": false
+      }
+    ]
+  }
+}

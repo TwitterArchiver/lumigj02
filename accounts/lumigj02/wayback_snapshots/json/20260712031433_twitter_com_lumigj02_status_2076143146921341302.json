@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2075437158660513847",
+    "created_at": "2026-07-12T03:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076143146921341302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "972636375102119937",
+          "start": 0,
+          "username": "FOR_USSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076143146921341302",
+    "in_reply_to_user_id": "972636375102119937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075437158660513847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FOR_USSR 草"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1618,
+        "media_key": "3_2075437155233730560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1vGLdakAACiiO.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2075437158660513847",
+        "created_at": "2026-07-12T03:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076143146921341302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "972636375102119937",
+              "start": 0,
+              "username": "FOR_USSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076143146921341302",
+        "in_reply_to_user_id": "972636375102119937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075437158660513847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FOR_USSR 草"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075437155233730560"
+          ]
+        },
+        "author_id": "972636375102119937",
+        "conversation_id": "2075437158660513847",
+        "created_at": "2026-07-10T04:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075437158660513847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgfhBgd1jk",
+              "end": 85,
+              "expanded_url": "https://x.com/FOR_USSR/status/2075437158660513847/photo/1",
+              "media_key": "3_2075437155233730560",
+              "start": 62,
+              "url": "https://t.co/LgfhBgd1jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075437158660513847",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1193,
+          "impression_count": 93052,
+          "like_count": 3522,
+          "quote_count": 29,
+          "reply_count": 59,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "S……sorry for invading your country,P……Please don't shoot me…… https://t.co/LgfhBgd1jk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6\n猫娘女仆@leetfs1\n笨蛋姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 22,
+                "start": 14,
+                "username": "leetfs1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://t.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/s1BSKPdKto"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4151,
+          "following_count": 834,
+          "like_count": 4332,
+          "listed_count": 9,
+          "media_count": 110,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/s1BSKPdKto",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-11T00:52:37.000Z",
+        "description": "Burning in the Mare Tranquillitatis",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vk.com/id783639198",
+                "end": 23,
+                "expanded_url": "https://vk.com/id783639198",
+                "start": 0,
+                "url": "https://t.co/I5rQxlLlpd"
+              }
+            ]
+          }
+        },
+        "id": "972636375102119937",
+        "location": "Birch forest(omw 2 find Letov)",
+        "name": "Hotline Hyperborea",
+        "pinned_tweet_id": "2070503059021775155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968561253678219264/PHV6Ucg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 265,
+          "like_count": 106,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/I5rQxlLlpd",
+        "username": "FOR_USSR",
+        "verified": false
+      }
+    ]
+  }
+}

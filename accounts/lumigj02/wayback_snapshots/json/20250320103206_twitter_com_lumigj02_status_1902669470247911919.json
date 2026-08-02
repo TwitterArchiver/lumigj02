@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1902424107133890719",
+    "created_at": "2025-03-20T10:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T11:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902669470247911919"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "aimbot",
+          "probability": 0.4459,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1115652629017706496",
+          "start": 0,
+          "username": "ImGrimothy"
+        },
+        {
+          "end": 23,
+          "id": "1785635035623587841",
+          "start": 12,
+          "username": "Sinful7xFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902669470247911919",
+    "in_reply_to_user_id": "1115652629017706496",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902424107133890719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ImGrimothy @Sinful7xFn I love how the aimbot auto locked the next target after he got a kill lol dude that's sick"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45366,
+        "height": 1080,
+        "media_key": "7_1902423927164694528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1902423927164694528/pu/img/RuJSYehEH18n3fZN.jpg",
+        "public_metrics": {
+          "view_count": 1462
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902423927164694528/pu/vid/avc1/480x270/V2nxbUWk6M91I4vU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902423927164694528/pu/vid/avc1/640x360/k7z3uwGgM1Vl7n5h.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902423927164694528/pu/vid/avc1/1280x720/tKzVUHmojYrdo1hc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1902423927164694528/pu/pl/ckTEIQ15ndjj8-_4.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 45366,
+        "height": 1080,
+        "media_key": "7_1902423935951527936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1902423935951527936/pu/img/yZWVshk152qwrczM.jpg",
+        "public_metrics": {
+          "view_count": 104
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902423935951527936/pu/vid/avc1/480x270/S8ULuehzSyJPN7kR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902423935951527936/pu/vid/avc1/640x360/O9S4xFrWRv8TO8sP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902423935951527936/pu/vid/avc1/1280x720/D_8zjXS8AIs2AGnC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1902423935951527936/pu/pl/9BMiPtqwzQ67TGvK.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1902424107133890719",
+        "created_at": "2025-03-20T10:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T11:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902669470247911919"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "aimbot",
+              "probability": 0.4459,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1115652629017706496",
+              "start": 0,
+              "username": "ImGrimothy"
+            },
+            {
+              "end": 23,
+              "id": "1785635035623587841",
+              "start": 12,
+              "username": "Sinful7xFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902669470247911919",
+        "in_reply_to_user_id": "1115652629017706496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902424107133890719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ImGrimothy @Sinful7xFn I love how the aimbot auto locked the next target after he got a kill lol dude that's sick"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902423927164694528",
+            "7_1902423935951527936"
+          ]
+        },
+        "author_id": "1115652629017706496",
+        "conversation_id": "1902424107133890719",
+        "created_at": "2025-03-19T18:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T19:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902424107133890719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1785635035623587841",
+              "start": 21,
+              "username": "Sinful7xFn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4eoploltq",
+              "end": 91,
+              "expanded_url": "https://x.com/ImGrimothy/status/1902424107133890719/video/1",
+              "media_key": "7_1902423927164694528",
+              "start": 68,
+              "url": "https://t.co/r4eoploltq"
+            },
+            {
+              "display_url": "pic.x.com/r4eoploltq",
+              "end": 91,
+              "expanded_url": "https://x.com/ImGrimothy/status/1902424107133890719/video/1",
+              "media_key": "7_1902423935951527936",
+              "start": 68,
+              "url": "https://t.co/r4eoploltq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902424107133890719",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4695,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "This not you lil bro @Sinful7xFn do something better with your life https://t.co/r4eoploltq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 / @you_miaowu / 日雌380包邮 第二盒以上370 私信或下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "Lumi 猫卷 - 日雌380包邮",
+        "pinned_tweet_id": "1892809550308180095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 854,
+          "like_count": 25802,
+          "listed_count": 11,
+          "media_count": 955,
+          "tweet_count": 10828
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-09T16:28:09.000Z",
+        "description": "Sub for @OverTakeSector | Pittsburgh Penguins fan | My GOAT: @Poktio_ @TroyR6S | When you win, say nothing, when you lose say less",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "OverTakeSector"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "Poktio_"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "username": "TroyR6S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/imgrimothy",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/imgrimothy",
+                "start": 0,
+                "url": "https://t.co/DAAVjI5VrZ"
+              }
+            ]
+          }
+        },
+        "id": "1115652629017706496",
+        "location": "Toronto, Ontario",
+        "name": "Grim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833924404046069760/cEIRsmqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 619,
+          "like_count": 4108,
+          "listed_count": 3,
+          "media_count": 524,
+          "tweet_count": 8511
+        },
+        "url": "https://t.co/DAAVjI5VrZ",
+        "username": "ImGrimothy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T11:39:10.000Z",
+        "description": "17 l LFT",
+        "id": "1785635035623587841",
+        "name": "Cola",
+        "pinned_tweet_id": "1877871854171373912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894418815401775104/n3HHlZFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 257,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 81
+        },
+        "username": "Sinful7xFn",
+        "verified": true
+      }
+    ]
+  }
+}

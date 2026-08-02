@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1913524782576157102",
+    "created_at": "2025-04-19T09:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T10:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913525513152520316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680247071608303616",
+          "start": 0,
+          "username": "AsdQWD358224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913525513152520316",
+    "in_reply_to_user_id": "1680247071608303616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913524782576157102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsdQWD358224 唉真正的成都人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1913524766189002752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go40ovWboAA9jBy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 944,
+        "media_key": "3_1913524767812186112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go40o1ZbcAAccS2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 944,
+        "media_key": "3_1913524761210265600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go40oczaIAAGTcA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1913524782576157102",
+        "created_at": "2025-04-19T09:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913525513152520316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913525513152520316",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913524782576157102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 唉真正的成都人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913524766189002752",
+            "3_1913524767812186112",
+            "3_1913524761210265600"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1913524782576157102",
+        "created_at": "2025-04-19T09:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913524782576157102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSVIfvjcly",
+              "end": 30,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1913524782576157102/photo/1",
+              "media_key": "3_1913524766189002752",
+              "start": 7,
+              "url": "https://t.co/wSVIfvjcly"
+            },
+            {
+              "display_url": "pic.x.com/wSVIfvjcly",
+              "end": 30,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1913524782576157102/photo/1",
+              "media_key": "3_1913524767812186112",
+              "start": 7,
+              "url": "https://t.co/wSVIfvjcly"
+            },
+            {
+              "display_url": "pic.x.com/wSVIfvjcly",
+              "end": 30,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1913524782576157102/photo/1",
+              "media_key": "3_1913524761210265600",
+              "start": 7,
+              "url": "https://t.co/wSVIfvjcly"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/lumigj02/status/1898684779761193431",
+              "start": 31,
+              "url": "https://t.co/2naWwFY0Kp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913524782576157102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898684779761193431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喝茶打牌好玩 https://t.co/wSVIfvjcly https://t.co/2naWwFY0Kp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "单杀任何人的彩虹六号冠军 | 猫推 | 日雌370 泰补190 progynon-depot / progynova avail pls DM | 礼貌谦逊文明友善团结尊重从不骂人 | @you_miaowu | 小老婆 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 868,
+          "like_count": 26400,
+          "listed_count": 10,
+          "media_count": 1018,
+          "tweet_count": 11480
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/他、她、它/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "fe_ions"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "Zero_158newsys"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 3077,
+          "like_count": 86876,
+          "listed_count": 12,
+          "media_count": 1824,
+          "tweet_count": 14290
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

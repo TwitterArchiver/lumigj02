@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1960608795832315925",
+    "created_at": "2025-08-27T14:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T15:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960705174621839642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686472989129441281",
+          "start": 0,
+          "username": "_Furryfur_"
+        },
+        {
+          "end": 23,
+          "id": "1456875138801012737",
+          "start": 12,
+          "username": "KevinLi414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960705174621839642",
+    "in_reply_to_user_id": "1686472989129441281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960704398306562336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Furryfur_ @KevinLi414 你不是睡觉了吗不陪我玩欧卡在这刷推明天我宰了你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1960704395731148800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXSQnkaIAAZdFb.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1960608795832315925",
+        "created_at": "2025-08-27T14:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960705174621839642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686472989129441281",
+              "start": 0,
+              "username": "_Furryfur_"
+            },
+            {
+              "end": 23,
+              "id": "1456875138801012737",
+              "start": 12,
+              "username": "KevinLi414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960705174621839642",
+        "in_reply_to_user_id": "1686472989129441281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960704398306562336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Furryfur_ @KevinLi414 你不是睡觉了吗不陪我玩欧卡在这刷推明天我宰了你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960704395731148800"
+          ]
+        },
+        "author_id": "1686472989129441281",
+        "conversation_id": "1960608795832315925",
+        "created_at": "2025-08-27T14:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960704398306562336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1456875138801012737",
+              "start": 0,
+              "username": "KevinLi414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKPH5xtQEg",
+              "end": 63,
+              "expanded_url": "https://x.com/_Furryfur_/status/1960704398306562336/photo/1",
+              "media_key": "3_1960704395731148800",
+              "start": 40,
+              "url": "https://t.co/jKPH5xtQEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960704398306562336",
+        "in_reply_to_user_id": "1456875138801012737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960608795832315925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KevinLi414 欢迎来到新加坡！\n别忘了去看喷水大狮子（还有一个小的🐱 https://t.co/jKPH5xtQEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//💌@HobartR6🐈@_FurryFur_//⭐️😡@Xinyi_ADHD||好久没写的正式的自我介绍: 小证含糖//🇨🇳🇸🇬🇲🇾//@NTUsg学习(退学)中//抽烟喝酒//纹身(很多波奇酱!还有雌二醇)//嗑药改花刀//双相确诊//",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Xinyi_ADHD"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "username": "NTUsg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "香香软软趴窝小猫卷🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 927,
+          "like_count": 27927,
+          "listed_count": 13,
+          "media_count": 1161,
+          "tweet_count": 13859
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T20:25:04.000Z",
+        "description": "Just a regular VRChat player | 是猫猫 | 涩涩! | \nPrefer language: English / 中文 | 现居🇸🇬 \n大猫猫: @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1686472989129441281",
+        "location": "Singapura",
+        "name": "Furryfur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853698940295860224/mBcXxPcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 379,
+          "like_count": 56491,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 1951
+        },
+        "username": "_Furryfur_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:44:47.000Z",
+        "description": "一個通過四處旅行來緩解憂鬱症的「邊緣人」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100069960277468",
+                "start": 0,
+                "url": "https://t.co/3aqPobj17z"
+              }
+            ]
+          }
+        },
+        "id": "1456875138801012737",
+        "location": "Shanghai",
+        "name": "KevinLi414",
+        "pinned_tweet_id": "1944279606082613524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855904036370685952/i1xiZgpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 233,
+          "like_count": 1265,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/3aqPobj17z",
+        "username": "KevinLi414",
+        "verified": false
+      }
+    ]
+  }
+}

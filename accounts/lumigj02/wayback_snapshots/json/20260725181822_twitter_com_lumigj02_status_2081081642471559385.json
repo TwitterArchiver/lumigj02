@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2081079744595177528",
+    "created_at": "2026-07-25T18:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081081642471559385"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081081642471559385",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081079744595177528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "半夜给我冻醒了，川西太冷了呜呜呜，我临时起意到甚至没带衣服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2081079730384871424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF6_R7bIAAue3_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2081079730410004480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF6_SBaoAAJq29.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2081079730376527872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF6_R5b0AAmlcZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2081079730439327744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF6_SIaEAAI3iV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2081079744595177528",
+        "created_at": "2026-07-25T18:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081081642471559385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081081642471559385",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081079744595177528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "半夜给我冻醒了，川西太冷了呜呜呜，我临时起意到甚至没带衣服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081079730384871424",
+            "3_2081079730410004480",
+            "3_2081079730376527872",
+            "3_2081079730439327744"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2081079744595177528",
+        "created_at": "2026-07-25T18:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081079744595177528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yh1Ecgt7AP",
+              "end": 52,
+              "expanded_url": "https://x.com/lumigj02/status/2081079744595177528/photo/1",
+              "media_key": "3_2081079730384871424",
+              "start": 29,
+              "url": "https://t.co/Yh1Ecgt7AP"
+            },
+            {
+              "display_url": "pic.x.com/Yh1Ecgt7AP",
+              "end": 52,
+              "expanded_url": "https://x.com/lumigj02/status/2081079744595177528/photo/1",
+              "media_key": "3_2081079730410004480",
+              "start": 29,
+              "url": "https://t.co/Yh1Ecgt7AP"
+            },
+            {
+              "display_url": "pic.x.com/Yh1Ecgt7AP",
+              "end": 52,
+              "expanded_url": "https://x.com/lumigj02/status/2081079744595177528/photo/1",
+              "media_key": "3_2081079730376527872",
+              "start": 29,
+              "url": "https://t.co/Yh1Ecgt7AP"
+            },
+            {
+              "display_url": "pic.x.com/Yh1Ecgt7AP",
+              "end": 52,
+              "expanded_url": "https://x.com/lumigj02/status/2081079744595177528/photo/1",
+              "media_key": "3_2081079730439327744",
+              "start": 29,
+              "url": "https://t.co/Yh1Ecgt7AP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081079744595177528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "先去看了汶川然后抱着小澄闪的小豆泥美美睡车里\n（已经醒了 https://t.co/Yh1Ecgt7AP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 838,
+          "like_count": 4382,
+          "listed_count": 9,
+          "media_count": 137,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898385814133895326",
+    "created_at": "2025-03-08T14:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T15:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898387602333749608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1167792264795394048",
+          "start": 0,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898387602333749608",
+    "in_reply_to_user_id": "1167792264795394048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898385814133895326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leetfs1 不建议？严禁！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898385814133895326",
+        "created_at": "2025-03-08T14:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T15:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898387602333749608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898387602333749608",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898385814133895326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 不建议？严禁！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167792264795394048",
+        "conversation_id": "1898385814133895326",
+        "created_at": "2025-03-08T14:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T15:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898385814133895326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898385814133895326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "个人看法：\nhrt应遵循最低剂量原则，既在能稳定激素水平的前提下，使用最小的服药量。\n\n不建议采用50mg/d的cpa用法。身边统计学大多为6mg-12.5mg，最高止步到25mg，均能稳定控制。\n\n高雌可能会增加血栓风险，高泌乳素则可能诱发垂体瘤。\n近几年确实见过因垂体瘤破裂不幸离世的案例，秋叶上亦有记载。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 857,
+          "like_count": 25528,
+          "listed_count": 11,
+          "media_count": 939,
+          "tweet_count": 10477
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "重新开始",
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "pinned_tweet_id": "1898335785818247182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600006556661125120/q-YVWHwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4041,
+          "following_count": 2577,
+          "like_count": 1288,
+          "listed_count": 21,
+          "media_count": 728,
+          "tweet_count": 5469
+        },
+        "username": "leetfs1",
+        "verified": false
+      }
+    ]
+  }
+}

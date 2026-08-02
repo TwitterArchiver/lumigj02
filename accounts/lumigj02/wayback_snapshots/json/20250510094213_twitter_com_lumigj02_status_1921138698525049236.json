@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1921098739218841622",
+    "created_at": "2025-05-10T09:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T10:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921138698525049236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418942200457662477",
+          "start": 0,
+          "username": "Rikka_Ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921138698525049236",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921098739218841622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_Ela 666国服最强心跳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24933,
+        "height": 720,
+        "media_key": "13_1921098658856267777",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921098658856267777/img/iEX2_10LhnakOwBQ.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921098658856267777/vid/avc1/480x270/Zb1byxkbB4mzM7CE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921098658856267777/vid/avc1/640x360/x8qhkAhuW7OGsBH4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921098658856267777/vid/avc1/1280x720/X1BJPQsmN6xLM5N1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921098658856267777/pl/C9w-ZBjuwMXD-I8B.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1921098739218841622",
+        "created_at": "2025-05-10T09:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T10:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921138698525049236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921138698525049236",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921098739218841622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 666国服最强心跳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921098658856267777"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1921098739218841622",
+        "created_at": "2025-05-10T07:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T08:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921098739218841622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXzC4Uc5jL",
+              "end": 39,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1921098739218841622/video/1",
+              "media_key": "13_1921098658856267777",
+              "start": 16,
+              "url": "https://t.co/OXzC4Uc5jL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921098739218841622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们彩六黄金局人杰地灵这一块👍 https://t.co/OXzC4Uc5jL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 老婆 @RanXi_MtF | 主人 @_temryava | 家猫 @_FurryFur_ | 姐姐 @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "_temryava"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "咱要吃哦润吉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 882,
+          "like_count": 26712,
+          "listed_count": 12,
+          "media_count": 1055,
+          "tweet_count": 11823
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4196,
+          "following_count": 3399,
+          "like_count": 66274,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 5833
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1902312342391759127",
+    "created_at": "2025-03-19T11:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T12:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902319345851932719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "89421672",
+          "start": 0,
+          "username": "USA_China_Talk"
+        },
+        {
+          "end": 25,
+          "id": "1858947201709305856",
+          "start": 16,
+          "username": "SecRubio"
+        },
+        {
+          "end": 40,
+          "id": "1883691197832572928",
+          "start": 26,
+          "username": "statedeptspox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902319345851932719",
+    "in_reply_to_user_id": "89421672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902312342391759127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@USA_China_Talk @SecRubio @statedeptspox 卢比奥玩原神吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1902312342391759127",
+        "created_at": "2025-03-19T11:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T12:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902319345851932719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "89421672",
+              "start": 0,
+              "username": "USA_China_Talk"
+            },
+            {
+              "end": 25,
+              "id": "1858947201709305856",
+              "start": 16,
+              "username": "SecRubio"
+            },
+            {
+              "end": 40,
+              "id": "1883691197832572928",
+              "start": 26,
+              "username": "statedeptspox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902319345851932719",
+        "in_reply_to_user_id": "89421672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902312342391759127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USA_China_Talk @SecRubio @statedeptspox 卢比奥玩原神吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89421672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about US Foreign Policy",
+              "id": "847876936378441729",
+              "name": "United States Foreign Policy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Department of State",
+              "id": "854844910888902656",
+              "name": "US Department of State"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Department of State",
+              "id": "854844910888902656",
+              "name": "US Department of State"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1902312342391759127",
+        "created_at": "2025-03-19T10:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T11:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902312342391759127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858947201709305856",
+              "start": 6,
+              "username": "SecRubio"
+            },
+            {
+              "end": 75,
+              "id": "1883691197832572928",
+              "start": 61,
+              "username": "statedeptspox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/StateDept/stat…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/StateDept/status/1902090820590743694",
+              "start": 88,
+              "url": "https://t.co/ySNLE9vSgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902312342391759127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3557,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902090820590743694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卢比奥国务卿@SecRubio领导下的美国国务院仍然致力于推进美国的国家利益。“以实力求和平”回来了。——美国国务院发言人@StateDeptSpox在国务院新闻简报会上表示 https://t.co/ySNLE9vSgJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 / Visiting Scholar @QUT 🇦🇺 / @you_miaowu / 日雌380包邮第二盒以上370私信或下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 48,
+                "username": "QUT"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 - 日雌380包邮",
+        "pinned_tweet_id": "1892809550308180095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 853,
+          "like_count": 25779,
+          "listed_count": 11,
+          "media_count": 952,
+          "tweet_count": 10800
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 US MissionCN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666227,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4092,
+          "media_count": 3487,
+          "tweet_count": 19040
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-19T18:56:28.000Z",
+        "description": "72nd Secretary of State serving under the leadership of @POTUS Trump.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 56,
+                "username": "POTUS"
+              }
+            ]
+          }
+        },
+        "id": "1858947201709305856",
+        "location": "Washington, DC",
+        "name": "Secretary Marco Rubio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884698736950988800/YqKlDWfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873987,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 2229,
+          "media_count": 68,
+          "tweet_count": 174
+        },
+        "username": "SecRubio",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-27T01:39:33.000Z",
+        "description": "The official account of @StateDept’s Spokesperson serving under the leadership of the 72nd Secretary of State @SecRubio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "StateDept"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "SecRubio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "state.gov/newsroom",
+                "end": 23,
+                "expanded_url": "http://state.gov/newsroom",
+                "start": 0,
+                "url": "https://t.co/D2R3wz6xmG"
+              }
+            ]
+          }
+        },
+        "id": "1883691197832572928",
+        "location": "Washington, DC",
+        "name": "Tammy Bruce",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898048184280100864/YCiCh3ey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146506,
+          "following_count": 86,
+          "like_count": 89,
+          "listed_count": 376,
+          "media_count": 34,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/D2R3wz6xmG",
+        "username": "statedeptspox",
+        "verified": true
+      }
+    ]
+  }
+}

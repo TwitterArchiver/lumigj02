@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1935227057312796893",
+    "created_at": "2025-06-18T06:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T07:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935227057312796893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/lumigj02/status/1932530209615659132",
+          "start": 30,
+          "url": "https://t.co/ogginOX2Ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935227057312796893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932530209615659132",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天去看她，跟她转达了，各位想对她说的话，希望她能幸福快乐 https://t.co/ogginOX2Ku"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1935227057312796893",
+        "created_at": "2025-06-18T06:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T07:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935227057312796893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/lumigj02/status/1932530209615659132",
+              "start": 30,
+              "url": "https://t.co/ogginOX2Ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935227057312796893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932530209615659132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天去看她，跟她转达了，各位想对她说的话，希望她能幸福快乐 https://t.co/ogginOX2Ku"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1932530209615659132",
+        "created_at": "2025-06-10T20:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T21:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932530209615659132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1688233455363219456",
+              "start": 12,
+              "username": "JR_YamanoteE235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932530209615659132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2359,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后天去长沙看Susie @JR_YamanoteE235 ，有什么想对她说的话可以告诉我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "友跨顺男 | 日雌泰补在售 私信或联系下方Telegram | 🇸🇬 Yishun人跟我们Orchard人讲话要用敬语 | 家猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "pinned_tweet_id": "1935009108744425845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2730,
+          "following_count": 902,
+          "like_count": 27184,
+          "listed_count": 12,
+          "media_count": 1110,
+          "tweet_count": 12500
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

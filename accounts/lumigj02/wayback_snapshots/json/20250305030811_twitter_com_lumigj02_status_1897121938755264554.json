@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897109181355979225",
+    "created_at": "2025-03-05T03:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T04:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897121938755264554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "CnHpaHky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897121938755264554",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897109181355979225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CnHpaHky 恋词癖啊，哎呀妈呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897109181355979225",
+        "created_at": "2025-03-05T03:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T04:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897121938755264554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "CnHpaHky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897121938755264554",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897109181355979225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnHpaHky 恋词癖啊，哎呀妈呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1897109181355979225",
+        "created_at": "2025-03-05T02:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T03:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897109181355979225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/target2bundead…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/target2bundead/status/1897109014099693771",
+              "start": 25,
+              "url": "https://t.co/1FSxaeapI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897109181355979225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897109014099693771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的妈呀中文还能这么排列组合。\n读一遍我要断气了 https://t.co/1FSxaeapI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 日雌390泰补200 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "𝗟𝗨𝗠𝗜 𝗚. 𝗝𝗜𝗔𝗡𝗚 𝗖𝗛𝗘𝗡𝗚 𝗫𝗨𝗘",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 829,
+          "like_count": 25346,
+          "listed_count": 11,
+          "media_count": 912,
+          "tweet_count": 10162
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Bluesky同名，防走丢可提前前往blue sky。俄罗斯是一个大实验室，中国是一个精神病院。Void @Sayols_  @MikuMiku3648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Sayols_"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "MikuMiku3648"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "Neverland",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1896975396509507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895357639879524352/W86f868N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 757,
+          "like_count": 2936,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2237
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      }
+    ]
+  }
+}

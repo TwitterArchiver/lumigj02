@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945072490889535493",
+    "created_at": "2025-07-16T07:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T08:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945388941684957375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2708480810",
+          "start": 0,
+          "username": "2924684350Ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945388941684957375",
+    "in_reply_to_user_id": "2708480810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945196755294769362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2924684350Ku 你要这玩意干啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945072490889535493",
+        "created_at": "2025-07-16T07:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945388941684957375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2708480810",
+              "start": 0,
+              "username": "2924684350Ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945388941684957375",
+        "in_reply_to_user_id": "2708480810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945196755294769362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2924684350Ku 你要这玩意干啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2708480810",
+        "conversation_id": "1945072490889535493",
+        "created_at": "2025-07-15T19:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T20:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945196755294769362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945196755294769362",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945072490889535493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 你好，可以卖给我么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. | 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore | 家猫 @_FurryFur_ | 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 921,
+          "like_count": 27543,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12910
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-05T06:02:16.000Z",
+        "description": "",
+        "id": "2708480810",
+        "location": "People's Republic of China",
+        "name": "Manifold",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1090754281253171200/q9zPaauT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "2924684350Ku",
+        "verified": false
+      }
+    ]
+  }
+}

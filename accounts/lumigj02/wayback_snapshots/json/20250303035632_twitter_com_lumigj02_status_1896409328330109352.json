@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1896409328330109352",
+    "created_at": "2025-03-03T03:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T04:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896409328330109352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1n_fhtagn/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/1n_fhtagn/status/1896042652166209646",
+          "start": 10,
+          "url": "https://t.co/6lvHpzzyoF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896409328330109352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896042652166209646",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "言语如苏打般涌现。 https://t.co/6lvHpzzyoF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1896409328330109352",
+        "created_at": "2025-03-03T03:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T04:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896409328330109352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1n_fhtagn/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/1n_fhtagn/status/1896042652166209646",
+              "start": 10,
+              "url": "https://t.co/6lvHpzzyoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896409328330109352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896042652166209646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "言语如苏打般涌现。 https://t.co/6lvHpzzyoF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832834649493762048",
+        "conversation_id": "1896042652166209646",
+        "created_at": "2025-03-02T03:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T04:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896042652166209646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896042652166209646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 23427,
+          "like_count": 256,
+          "quote_count": 8,
+          "reply_count": 168,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "俳句怎么写😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / Lumi or 猫卷 / 永远最爱 💖 @HobartR6 / 日雌390泰补200 京东快递包邮 提供HRT指导",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ @ 日雌𝟥𝟫𝟢泰补𝟤𝟢𝟢",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 830,
+          "like_count": 25337,
+          "listed_count": 11,
+          "media_count": 907,
+          "tweet_count": 10087
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "🥺",
+        "id": "1832834649493762048",
+        "name": "雪他妈的山葵",
+        "pinned_tweet_id": "1888601125664051682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888600101402419200/Vnl1CWLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3033,
+          "following_count": 1214,
+          "like_count": 27030,
+          "listed_count": 4,
+          "media_count": 2352,
+          "tweet_count": 10753
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

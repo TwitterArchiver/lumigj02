@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Un mentaliste utilise ses dons d'observation pour résoudre des crimes en tant que consultant pour la police. Une façon pour lui contribuer à la justice et de démasquer le mystérieux tueur en série qui a assassiné son épouse et sa fille.",
+          "id": "10028343759",
+          "name": "The Mentalist"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10029054247",
+          "name": "El Mentalista"
+        }
+      }
+    ],
+    "conversation_id": "1914592882813755880",
+    "created_at": "2025-04-22T08:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T09:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914592882813755880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/terdsta/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/terdsta/status/1898016922157171131",
+          "start": 5,
+          "url": "https://t.co/tiajbgOAqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914592882813755880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898016922157171131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "重温经典 https://t.co/tiajbgOAqJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Un mentaliste utilise ses dons d'observation pour résoudre des crimes en tant que consultant pour la police. Une façon pour lui contribuer à la justice et de démasquer le mystérieux tueur en série qui a assassiné son épouse et sa fille.",
+              "id": "10028343759",
+              "name": "The Mentalist"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029054247",
+              "name": "El Mentalista"
+            }
+          }
+        ],
+        "conversation_id": "1914592882813755880",
+        "created_at": "2025-04-22T08:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T09:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914592882813755880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/terdsta/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/terdsta/status/1898016922157171131",
+              "start": 5,
+              "url": "https://t.co/tiajbgOAqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914592882813755880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898016922157171131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重温经典 https://t.co/tiajbgOAqJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385148410441834498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Un mentaliste utilise ses dons d'observation pour résoudre des crimes en tant que consultant pour la police. Une façon pour lui contribuer à la justice et de démasquer le mystérieux tueur en série qui a assassiné son épouse et sa fille.",
+              "id": "10028343759",
+              "name": "The Mentalist"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029054247",
+              "name": "El Mentalista"
+            }
+          }
+        ],
+        "conversation_id": "1898016922157171131",
+        "created_at": "2025-03-07T14:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T15:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898016922157171131"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Joel",
+              "probability": 0.4783,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "APAC Cup",
+              "probability": 0.7702,
+              "start": 86,
+              "type": "Other"
+            },
+            {
+              "end": 242,
+              "normalized_text": "Joel",
+              "probability": 0.5748,
+              "start": 239,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898016922157171131",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I would like to formally address the situation regarding Team Joel and Mentalist from APAC Cup to Post SI 2025.\n\nDue to a miscommunication about my removal from the team, my girlfriend and I made hurtful and damaging comments towards Team Joel and Mentalist. Which in turn led to the spread of harmful and baseless rumors about both parties on Twitter and Chinese socials. They harmed the team’s morale and image, and Mentalist’s reputation. I'm truly sorry for what I have said, and all the trouble that they caused.\n\nI want to emphasise that the harmful comments were made under intense, wrongly placed emotions, but Mentalist was not actually at fault for the misunderstanding. He had always been an accountable and inspiring figure of the team, so please do not send hate towards him, or spread and believe the rumors. \n\nI take full responsibility for this incident and deeply regret the impact my words have had. Moving forward, I will put 100% of my focus into competing, and I am committed to learn from this incident and ensuring that something like this never happens again."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 68355,
+          "like_count": 448,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "I would like to formally address the situation regarding Team Joel and Mentalist from APAC Cup to Post SI 2025.\n\nDue to a miscommunication about my removal from the team, my girlfriend and I made hurtful and damaging comments towards Team Joel and Mentalist. Which in turn led to"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "报我猫卷名字。 | @you_miaowu | 小老婆 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 870,
+          "like_count": 26462,
+          "listed_count": 11,
+          "media_count": 1021,
+          "tweet_count": 11522
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-22T08:28:15.000Z",
+        "description": "Pro @WeiboGamingWin | @guiguimeow ♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "WeiboGamingWin"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "guiguimeow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/terd",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/terd",
+                "start": 0,
+                "url": "https://t.co/NCFHGFO3O1"
+              }
+            ]
+          }
+        },
+        "id": "1385148410441834498",
+        "location": "💫 ",
+        "name": "Terd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910841575908708353/PG3Et0l__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4740,
+          "following_count": 544,
+          "like_count": 6901,
+          "listed_count": 16,
+          "media_count": 87,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/NCFHGFO3O1",
+        "username": "Terdsta",
+        "verified": true
+      }
+    ]
+  }
+}

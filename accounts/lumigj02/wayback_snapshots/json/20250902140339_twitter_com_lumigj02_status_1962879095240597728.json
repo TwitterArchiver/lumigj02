@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962878949685334016"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962879095240597728",
+    "created_at": "2025-09-02T14:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T15:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962879095240597728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XQiOMY9frj",
+          "end": 42,
+          "expanded_url": "https://x.com/lumigj02/status/1962879095240597728/photo/1",
+          "media_key": "3_1962878949685334016",
+          "start": 19,
+          "url": "https://t.co/XQiOMY9frj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962879095240597728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈基米娜美鲁多，曼波曼波欧玛吉利曼波 https://t.co/XQiOMY9frj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_1962878949685334016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2MAUUWEAAPclp.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962878949685334016"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962879095240597728",
+        "created_at": "2025-09-02T14:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T15:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962879095240597728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQiOMY9frj",
+              "end": 42,
+              "expanded_url": "https://x.com/lumigj02/status/1962879095240597728/photo/1",
+              "media_key": "3_1962878949685334016",
+              "start": 19,
+              "url": "https://t.co/XQiOMY9frj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962879095240597728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基米娜美鲁多，曼波曼波欧玛吉利曼波 https://t.co/XQiOMY9frj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@HobartR6 🇲🇾 @sutdsg @_FurryFur_ // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 20,
+                "start": 13,
+                "username": "sutdsg"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi、Lumi、時々猫巻（日雌380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 932,
+          "like_count": 27977,
+          "listed_count": 13,
+          "media_count": 1165,
+          "tweet_count": 13987
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

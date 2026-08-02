@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1930862775359898050",
+    "created_at": "2025-06-06T05:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T06:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930866854836453876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        },
+        {
+          "end": 29,
+          "id": "1646905533386100738",
+          "start": 15,
+          "username": "du_allen45136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930866854836453876",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930866774972702861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq @du_allen45136 你俩都坏"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1930866774972702861].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1930866774972702861",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1930866774972702861"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1930862775359898050",
+        "created_at": "2025-06-06T05:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T06:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930866854836453876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            },
+            {
+              "end": 29,
+              "id": "1646905533386100738",
+              "start": 15,
+              "username": "du_allen45136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930866854836453876",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930866774972702861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq @du_allen45136 你俩都坏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 F | R6 Analyst | Retired Software Engineer | @NUSingapore Alumni | ❤️ @HobartR6 | @_FurryFur_ | 日雌390泰补210 私信/下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "HobartR6"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Malaysia",
+        "name": "lumifps",
+        "pinned_tweet_id": "1930316290662768737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930683991180587008/HXiTh4eq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2699,
+          "following_count": 897,
+          "like_count": 27066,
+          "listed_count": 12,
+          "media_count": 1096,
+          "tweet_count": 12299
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "",
+        "id": "1690388233778331649",
+        "name": "MizukiQAQAQAQ",
+        "pinned_tweet_id": "1906024929385935213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924619943074766848/LnejqEeG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 811,
+          "like_count": 10205,
+          "listed_count": 0,
+          "media_count": 933,
+          "tweet_count": 3444
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-14T15:58:06.000Z",
+        "description": "波士顿大学丨哲学专业大一 丨生活推和一些随想 丨喜欢单机主机游戏丨如果你经常点赞或者给出了有价值的回复，我就会回fo",
+        "id": "1646905533386100738",
+        "location": "Massachusetts, USA",
+        "name": "Duber",
+        "pinned_tweet_id": "1672938437538885637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809781135368704000/octFmB6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 70,
+          "like_count": 2098,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 940
+        },
+        "username": "du_allen45136",
+        "verified": true
+      }
+    ]
+  }
+}

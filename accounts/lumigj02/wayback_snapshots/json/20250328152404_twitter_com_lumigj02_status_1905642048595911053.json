@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1560343340867932160",
+          "name": "IShowSpeed"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1560343340867932160",
+          "name": "IShowSpeed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560343340867932160",
+          "name": "IShowSpeed"
+        }
+      }
+    ],
+    "conversation_id": "1905607632272195847",
+    "created_at": "2025-03-28T15:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T16:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905642048595911053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "402468053",
+          "start": 0,
+          "username": "all_1k"
+        },
+        {
+          "end": 22,
+          "id": "1040214455525797888",
+          "start": 8,
+          "username": "ishowspeedsui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905642048595911053",
+    "in_reply_to_user_id": "402468053",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905613387419033649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@all_1k @ishowspeedsui Bold lol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          }
+        ],
+        "conversation_id": "1905607632272195847",
+        "created_at": "2025-03-28T15:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T16:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905642048595911053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "402468053",
+              "start": 0,
+              "username": "all_1k"
+            },
+            {
+              "end": 22,
+              "id": "1040214455525797888",
+              "start": 8,
+              "username": "ishowspeedsui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905642048595911053",
+        "in_reply_to_user_id": "402468053",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905613387419033649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@all_1k @ishowspeedsui Bold lol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "402468053",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          }
+        ],
+        "conversation_id": "1905607632272195847",
+        "created_at": "2025-03-28T13:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T14:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905613387419033649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1040214455525797888",
+              "start": 0,
+              "username": "ishowspeedsui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905613387419033649",
+        "in_reply_to_user_id": "1040214455525797888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 121867,
+          "like_count": 2507,
+          "quote_count": 8,
+          "reply_count": 76,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905607632272195847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ishowspeedsui Bro did you go bold 😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu | 海豹手套色布偶 | 回fo请私信或以任何方式互动 不然我看不到提示",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 863,
+          "like_count": 26074,
+          "listed_count": 11,
+          "media_count": 971,
+          "tweet_count": 11126
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-01T03:37:38.000Z",
+        "description": "6M+ YouTube • 500K Twitch • CEO of StickyGlue",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/all_1k",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/all_1k",
+                "start": 0,
+                "url": "https://t.co/axsLzQhi1A"
+              }
+            ]
+          }
+        },
+        "id": "402468053",
+        "location": "DM for Bookings/Promos/Feats📩",
+        "name": "B LOU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436461513741586436/fhKMYKQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197536,
+          "following_count": 1167,
+          "like_count": 4882,
+          "listed_count": 46,
+          "media_count": 850,
+          "tweet_count": 14983
+        },
+        "url": "https://t.co/axsLzQhi1A",
+        "username": "all_1k",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-13T12:23:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@IShowSpeed?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@IShowSpeed?si=IeG64CdHu85oTEYG",
+                "start": 0,
+                "url": "https://t.co/GaDsGMHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1040214455525797888",
+        "location": "Tokyo ",
+        "name": "Speed⭐️",
+        "pinned_tweet_id": "1410059307454959618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362579425804644353/8L3BctZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3453071,
+          "following_count": 169,
+          "like_count": 743,
+          "listed_count": 729,
+          "media_count": 181,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/GaDsGMHLlz",
+        "username": "ishowspeedsui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1923458916316266608",
+    "created_at": "2025-05-16T19:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T20:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923458916316266608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cya_ninnensuki…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/cya_ninnensuki/status/1922932098127536264",
+          "start": 32,
+          "url": "https://t.co/cry0chGTXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923458916316266608",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922932098127536264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Unexpectedly learning phonetics https://t.co/cry0chGTXr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1923458916316266608",
+        "created_at": "2025-05-16T19:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T20:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923458916316266608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cya_ninnensuki…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/cya_ninnensuki/status/1922932098127536264",
+              "start": 32,
+              "url": "https://t.co/cry0chGTXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923458916316266608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922932098127536264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Unexpectedly learning phonetics https://t.co/cry0chGTXr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "1922910358743679005",
+        "created_at": "2025-05-15T08:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T09:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922932098127536264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922932098127536264",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4179,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922910358743679005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 ʃ（国际音标）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "(本账号由 @_Sanxon 代为管理) | 日雌380泰补200 私信/下方Telegram联系 | 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi猫卷🍥HRT药物日雌泰补(本账号由Sanxon代管)",
+        "pinned_tweet_id": "1922906622302523540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 887,
+          "like_count": 26811,
+          "listed_count": 12,
+          "media_count": 1068,
+          "tweet_count": 11964
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "169㎝ 52.5㎏・OCD・ADHD可能・喜欢JK制服/lolita/地雷系・一直是果然多\n常态化的Nagi",
+        "id": "1586779015574327296",
+        "name": "鹿野外的茶酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908588163553255426/clN8pKQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 360,
+          "like_count": 13444,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 11634
+        },
+        "username": "Cya_Ninnensuki",
+        "verified": false
+      }
+    ]
+  }
+}

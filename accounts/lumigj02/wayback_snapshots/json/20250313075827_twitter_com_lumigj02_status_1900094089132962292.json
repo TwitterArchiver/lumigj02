@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1900048160061612333",
+    "created_at": "2025-03-13T07:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T08:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900094089132962292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821324432165609472",
+          "start": 0,
+          "username": "MentalistC_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900094089132962292",
+    "in_reply_to_user_id": "821324432165609472",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900048160061612333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MentalistC_ 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1900048160061612333",
+        "created_at": "2025-03-13T07:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T08:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900094089132962292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821324432165609472",
+              "start": 0,
+              "username": "MentalistC_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900094089132962292",
+        "in_reply_to_user_id": "821324432165609472",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900048160061612333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MentalistC_ 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "821324432165609472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          }
+        ],
+        "conversation_id": "1900048160061612333",
+        "created_at": "2025-03-13T04:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T05:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900048160061612333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "SiegeX Co",
+              "probability": 0.8084,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "bilibili",
+              "probability": 0.4484,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 142,
+              "normalized_text": "Twitch",
+              "probability": 0.9719,
+              "start": 137,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rainbow6Game/s…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/Rainbow6Game/status/1899920865094967622",
+              "start": 168,
+              "url": "https://t.co/RWxyhyxRyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900048160061612333",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1344,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899920865094967622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👀 Invited as SiegeX Co-stream partner\n\nHave been consistently streaming on bilibili for a while. It's time to set up the multi-stream on Twitch for tonight and onwards https://t.co/RWxyhyxRyA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 874,
+          "like_count": 25652,
+          "listed_count": 11,
+          "media_count": 946,
+          "tweet_count": 10612
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-17T11:52:58.000Z",
+        "description": "24 |  🇨🇳 Captain and IGL for TEAM JOEL R6S | FF14 nerd | SMG11 slave | Opinions are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mentalistc",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mentalistc",
+                "start": 0,
+                "url": "https://t.co/f33Hrc7ipS"
+              }
+            ]
+          }
+        },
+        "id": "821324432165609472",
+        "location": "新加坡",
+        "name": "MentalistC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350895504423436288/3cFQRds7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11211,
+          "following_count": 1066,
+          "like_count": 15084,
+          "listed_count": 48,
+          "media_count": 1721,
+          "tweet_count": 8526
+        },
+        "url": "https://t.co/f33Hrc7ipS",
+        "username": "MentalistC_",
+        "verified": true
+      }
+    ]
+  }
+}

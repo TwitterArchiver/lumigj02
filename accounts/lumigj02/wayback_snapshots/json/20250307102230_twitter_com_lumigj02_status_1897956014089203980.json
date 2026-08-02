@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897956014089203980",
+    "created_at": "2025-03-07T10:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T11:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897956014089203980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akanei6no_Sora…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/akanei6no_Sora/status/1897919879099064714",
+          "start": 5,
+          "url": "https://t.co/ZxzdMrmrv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897956014089203980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897919879099064714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪位推友 https://t.co/ZxzdMrmrv9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897919876851023874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlbEEofbwAIK_JU.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897956014089203980",
+        "created_at": "2025-03-07T10:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T11:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897956014089203980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akanei6no_Sora…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/akanei6no_Sora/status/1897919879099064714",
+              "start": 5,
+              "url": "https://t.co/ZxzdMrmrv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897956014089203980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897919879099064714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪位推友 https://t.co/ZxzdMrmrv9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897919876851023874"
+          ]
+        },
+        "author_id": "1598872816560246784",
+        "conversation_id": "1897919879099064714",
+        "created_at": "2025-03-07T07:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T08:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897919879099064714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AuKxo8Erl",
+              "end": 27,
+              "expanded_url": "https://x.com/akanei6no_Sora/status/1897919879099064714/photo/1",
+              "media_key": "3_1897919876851023874",
+              "start": 4,
+              "url": "https://t.co/7AuKxo8Erl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897919879099064714",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 15904,
+          "like_count": 1603,
+          "quote_count": 16,
+          "reply_count": 3,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "Toy https://t.co/7AuKxo8Erl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200 / NSFW不打码恕不回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 843,
+          "like_count": 25462,
+          "listed_count": 11,
+          "media_count": 928,
+          "tweet_count": 10351
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:53:13.000Z",
+        "description": "血とSMが好きです。あれな絵を描きます。\nSkeb‣‣https://t.co/52Qf2eE4dM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@akanei6no_Sora",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@akanei6no_Sora",
+                "start": 27,
+                "url": "https://t.co/52Qf2eE4dM"
+              }
+            ]
+          }
+        },
+        "id": "1598872816560246784",
+        "name": "夜坂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893971544025489408/Z_hy7F9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51565,
+          "following_count": 39,
+          "like_count": 3998,
+          "listed_count": 99,
+          "media_count": 60,
+          "tweet_count": 4377
+        },
+        "username": "akanei6no_Sora",
+        "verified": true
+      }
+    ]
+  }
+}

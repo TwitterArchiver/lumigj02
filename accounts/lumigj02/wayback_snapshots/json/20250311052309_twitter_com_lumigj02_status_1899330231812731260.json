@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899330220374814720"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1899329144967909641",
+    "created_at": "2025-03-11T05:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T06:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899330231812731260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nEgn3lZmQP",
+          "end": 48,
+          "expanded_url": "https://x.com/lumigj02/status/1899330231812731260/photo/1",
+          "media_key": "3_1899330220374814720",
+          "start": 25,
+          "url": "https://t.co/nEgn3lZmQP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899330231812731260",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899329144967909641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是rank 2.0刚开始那会吧…令人感慨的拖分 https://t.co/nEgn3lZmQP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1899330220374814720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvGxbia8AAqygp.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1241,
+        "media_key": "3_1899329035613753344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvFsd9X0AA8a7o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899330220374814720"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1899329144967909641",
+        "created_at": "2025-03-11T05:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T06:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899330231812731260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEgn3lZmQP",
+              "end": 48,
+              "expanded_url": "https://x.com/lumigj02/status/1899330231812731260/photo/1",
+              "media_key": "3_1899330220374814720",
+              "start": 25,
+              "url": "https://t.co/nEgn3lZmQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899330231812731260",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899329144967909641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是rank 2.0刚开始那会吧…令人感慨的拖分 https://t.co/nEgn3lZmQP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899329035613753344"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1899329144967909641",
+        "created_at": "2025-03-11T05:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T06:18:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899329043922931736",
+          "1899329144967909641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MMBpX2JA1O",
+              "end": 92,
+              "expanded_url": "https://x.com/lumigj02/status/1899329144967909641/photo/1",
+              "media_key": "3_1899329035613753344",
+              "start": 69,
+              "url": "https://t.co/MMBpX2JA1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899329144967909641",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Never been boosted... just always getting drunk\n\nEdit: two years ago https://t.co/MMBpX2JA1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / Enquiry:",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 874,
+          "like_count": 25620,
+          "listed_count": 11,
+          "media_count": 948,
+          "tweet_count": 10585
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

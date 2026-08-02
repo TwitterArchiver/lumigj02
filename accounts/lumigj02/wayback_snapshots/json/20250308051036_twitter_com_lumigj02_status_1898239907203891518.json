@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898239017738813467",
+    "created_at": "2025-03-08T05:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T06:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898239907203891518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821324432165609472",
+          "start": 0,
+          "username": "MentalistC_"
+        },
+        {
+          "end": 23,
+          "id": "4229096565",
+          "start": 13,
+          "username": "meepeY_R6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898239907203891518",
+    "in_reply_to_user_id": "821324432165609472",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898239017738813467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MentalistC_ @meepeY_R6 All the best"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898239017738813467",
+        "created_at": "2025-03-08T05:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T06:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898239907203891518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821324432165609472",
+              "start": 0,
+              "username": "MentalistC_"
+            },
+            {
+              "end": 23,
+              "id": "4229096565",
+              "start": 13,
+              "username": "meepeY_R6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898239907203891518",
+        "in_reply_to_user_id": "821324432165609472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898239017738813467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MentalistC_ @meepeY_R6 All the best"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "821324432165609472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1898239017738813467",
+        "created_at": "2025-03-08T05:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T06:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898239017738813467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 215,
+              "id": "4229096565",
+              "start": 205,
+              "username": "meepeY_R6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Weibogamingwin…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/Weibogamingwin/status/1898231935442600148",
+              "start": 280,
+              "url": "https://t.co/CZouZiOPrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898239017738813467",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898231935442600148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The past 5 months has been one hell of a struggle, but I am glad we finally found a new home, along with some new talents\n\nFor me personally, its time to take a step back and let the young guns cook while @meepeY_R6 and I guide them the best we can from the background\n\nlets work https://t.co/CZouZiOPrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 853,
+          "like_count": 25509,
+          "listed_count": 11,
+          "media_count": 936,
+          "tweet_count": 10438
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-17T11:52:58.000Z",
+        "description": "24 |  🇨🇳 Captain and IGL for TEAM JOEL R6S | FF14 nerd | SMG11 slave | Opinions are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mentalistc",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mentalistc",
+                "start": 0,
+                "url": "https://t.co/f33Hrc7ipS"
+              }
+            ]
+          }
+        },
+        "id": "821324432165609472",
+        "location": "新加坡",
+        "name": "MentalistC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350895504423436288/3cFQRds7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11215,
+          "following_count": 1066,
+          "like_count": 15079,
+          "listed_count": 48,
+          "media_count": 1721,
+          "tweet_count": 8524
+        },
+        "url": "https://t.co/f33Hrc7ipS",
+        "username": "MentalistC_",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-19T20:45:26.000Z",
+        "description": "Head Coach for  | 3x Champion @R6Esports Player/Coach | Fmr @TeamSecret, @eUnited, @Rogue, @KOI, @Wildcard_GG | Contact 📧 meepeysiege@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "R6Esports"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "TeamSecret"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "eUnited"
+              },
+              {
+                "end": 89,
+                "start": 83,
+                "username": "Rogue"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "username": "KOI"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "Wildcard_GG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/meepeyinsta/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/meepeyinsta/",
+                "start": 0,
+                "url": "https://t.co/q1AC41mSh1"
+              }
+            ]
+          }
+        },
+        "id": "4229096565",
+        "location": "England, United Kingdom",
+        "name": "meepeY",
+        "pinned_tweet_id": "1896634849102086538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768036881227210752/_J0Vlsv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14765,
+          "following_count": 551,
+          "like_count": 12989,
+          "listed_count": 52,
+          "media_count": 986,
+          "tweet_count": 7559
+        },
+        "url": "https://t.co/q1AC41mSh1",
+        "username": "meepeY_R6",
+        "verified": false
+      }
+    ]
+  }
+}

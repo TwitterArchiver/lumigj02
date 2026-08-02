@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1947304206085308821",
+    "created_at": "2025-07-21T14:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T15:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947306151059853422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1615704614766260225",
+          "start": 0,
+          "username": "RanXi_MtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947306151059853422",
+    "in_reply_to_user_id": "1615704614766260225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 41,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947304627356987400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RanXi_MtF 我不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1947304206085308821",
+        "created_at": "2025-07-21T14:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947306151059853422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1615704614766260225",
+              "start": 0,
+              "username": "RanXi_MtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947306151059853422",
+        "in_reply_to_user_id": "1615704614766260225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947304627356987400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RanXi_MtF 我不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615704614766260225",
+        "conversation_id": "1947304206085308821",
+        "created_at": "2025-07-21T14:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947304627356987400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947304627356987400",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947304206085308821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 陪我联机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2767,
+          "following_count": 924,
+          "like_count": 27650,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 13059
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T13:36:22.000Z",
+        "description": "摄影📷｜NIKON｜24.8.18｜日常｜@kikoxts｜@ycl_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "kikoxts"
+              },
+              {
+                "end": 38,
+                "start": 30,
+                "username": "ycl_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikon.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.nikon.com.cn",
+                "start": 0,
+                "url": "https://t.co/0YOLczz4oq"
+              }
+            ]
+          }
+        },
+        "id": "1615704614766260225",
+        "location": "日本国东京都港区港南2-15-3 品川城际",
+        "name": "RanXi｜OS",
+        "pinned_tweet_id": "1865343341266890803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945652829969850368/8xFraQ8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 749,
+          "like_count": 18599,
+          "listed_count": 8,
+          "media_count": 782,
+          "tweet_count": 5362
+        },
+        "url": "https://t.co/0YOLczz4oq",
+        "username": "RanXi_MtF",
+        "verified": false
+      }
+    ]
+  }
+}

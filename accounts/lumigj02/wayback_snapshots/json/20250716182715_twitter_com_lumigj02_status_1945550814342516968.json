@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945550814342516968",
+    "created_at": "2025-07-16T18:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T19:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945550814342516968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuroakaix/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kuroakaix/status/1945409721436934430",
+          "start": 4,
+          "url": "https://t.co/ooZvxVrt0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945550814342516968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945409721436934430",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帅死了 https://t.co/ooZvxVrt0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945409692601139200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv97zuYXwAAXYw_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945550814342516968",
+        "created_at": "2025-07-16T18:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T19:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945550814342516968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuroakaix/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kuroakaix/status/1945409721436934430",
+              "start": 4,
+              "url": "https://t.co/ooZvxVrt0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945550814342516968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945409721436934430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帅死了 https://t.co/ooZvxVrt0G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945409692601139200"
+          ]
+        },
+        "author_id": "1523722973085061120",
+        "conversation_id": "1945409721436934430",
+        "created_at": "2025-07-16T09:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T10:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945409721436934430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWxqyiqX7v",
+              "end": 23,
+              "expanded_url": "https://x.com/kuroakaix/status/1945409721436934430/photo/1",
+              "media_key": "3_1945409692601139200",
+              "start": 0,
+              "url": "https://t.co/VWxqyiqX7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945409721436934430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 47239,
+          "like_count": 1969,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VWxqyiqX7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. | 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore | 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 920,
+          "like_count": 27568,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12931
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T17:55:09.000Z",
+        "description": "⚡︎⚡︎howa,angura,punk,underworld,subculture\n/\n/\n/\n/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/kuroakaix",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/kuroakaix",
+                "start": 0,
+                "url": "https://t.co/RyVhdsp9AN"
+              }
+            ]
+          }
+        },
+        "id": "1523722973085061120",
+        "name": "処女ブレーカ",
+        "pinned_tweet_id": "1929855232751657212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918246645763854336/HOoSERG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23386,
+          "following_count": 1106,
+          "like_count": 38157,
+          "listed_count": 107,
+          "media_count": 7470,
+          "tweet_count": 13578
+        },
+        "url": "https://t.co/RyVhdsp9AN",
+        "username": "kuroakaix",
+        "verified": true
+      }
+    ]
+  }
+}

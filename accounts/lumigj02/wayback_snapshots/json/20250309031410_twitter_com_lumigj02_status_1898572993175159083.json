@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898572993175159083",
+    "created_at": "2025-03-09T03:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T04:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898572993175159083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/elecmaglen/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/elecmaglen/status/1898571815817273524",
+          "start": 3,
+          "url": "https://t.co/XAnHjvmmPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898572993175159083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898571815817273524",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喵！ https://t.co/XAnHjvmmPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1898571809416736768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkVAGja8AAl0_C.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898572993175159083",
+        "created_at": "2025-03-09T03:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898572993175159083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elecmaglen/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/elecmaglen/status/1898571815817273524",
+              "start": 3,
+              "url": "https://t.co/XAnHjvmmPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898572993175159083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898571815817273524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵！ https://t.co/XAnHjvmmPz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898571809416736768"
+          ]
+        },
+        "author_id": "891118002804072448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1898571815817273524",
+        "created_at": "2025-03-09T03:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898571815817273524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1176535991454064640",
+              "start": 28,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACWQcb4elA",
+              "end": 61,
+              "expanded_url": "https://x.com/elecmaglen/status/1898571815817273524/photo/1",
+              "media_key": "3_1898571809416736768",
+              "start": 38,
+              "url": "https://t.co/ACWQcb4elA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898571815817273524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了严严实实包裹的新日雌~~~喵喵最好了！谢谢喵喵！ @lumigj02 https://t.co/ACWQcb4elA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 858,
+          "like_count": 25512,
+          "listed_count": 11,
+          "media_count": 940,
+          "tweet_count": 10481
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-29T02:07:42.000Z",
+        "description": "一只大龄萌新药娘QAQ",
+        "id": "891118002804072448",
+        "name": "NA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1228299103085318144/Btkrsz8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 269,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1686
+        },
+        "username": "elecmaglen",
+        "verified": false
+      }
+    ]
+  }
+}

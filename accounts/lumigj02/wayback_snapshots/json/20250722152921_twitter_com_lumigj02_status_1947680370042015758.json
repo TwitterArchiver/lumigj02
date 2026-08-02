@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1947658161575629273",
+    "created_at": "2025-07-22T15:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T16:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947680370042015758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "763414369564700672",
+          "start": 0,
+          "username": "ps_urine"
+        },
+        {
+          "end": 23,
+          "id": "164224930",
+          "start": 10,
+          "username": "MinakoOikawa"
+        },
+        {
+          "end": 37,
+          "id": "1218028959109210113",
+          "start": 24,
+          "username": "OikawaRizumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947680370042015758",
+    "in_reply_to_user_id": "763414369564700672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 36,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947679542925197433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ps_urine @MinakoOikawa @OikawaRizumu 对面先挂的人啊，还爆出个人信息了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1947658161575629273",
+        "created_at": "2025-07-22T15:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947680370042015758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "763414369564700672",
+              "start": 0,
+              "username": "ps_urine"
+            },
+            {
+              "end": 23,
+              "id": "164224930",
+              "start": 10,
+              "username": "MinakoOikawa"
+            },
+            {
+              "end": 37,
+              "id": "1218028959109210113",
+              "start": 24,
+              "username": "OikawaRizumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947680370042015758",
+        "in_reply_to_user_id": "763414369564700672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947679542925197433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ps_urine @MinakoOikawa @OikawaRizumu 对面先挂的人啊，还爆出个人信息了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "763414369564700672",
+        "conversation_id": "1947658161575629273",
+        "created_at": "2025-07-22T15:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947679542925197433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "164224930",
+              "start": 0,
+              "username": "MinakoOikawa"
+            },
+            {
+              "end": 27,
+              "id": "1218028959109210113",
+              "start": 14,
+              "username": "OikawaRizumu"
+            },
+            {
+              "end": 37,
+              "id": "1176535991454064640",
+              "start": 28,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947679542925197433",
+        "in_reply_to_user_id": "164224930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947663149231935560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinakoOikawa @OikawaRizumu @lumigj02 有异议应该当面对峙，上来就反手挂人感觉不太好..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 926,
+          "like_count": 27661,
+          "listed_count": 12,
+          "media_count": 1104,
+          "tweet_count": 13098
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-10T16:39:04.000Z",
+        "description": "ISFP-T|二次元|LLer|学生|Ingress Enlightened Agent L14(・ω・)ノ不会主动搭话，喜欢我请fo然后。。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peashooter.cc",
+                "end": 23,
+                "expanded_url": "http://peashooter.cc",
+                "start": 0,
+                "url": "https://t.co/KZ26wzyebC"
+              }
+            ]
+          }
+        },
+        "id": "763414369564700672",
+        "name": "PeaShooter",
+        "pinned_tweet_id": "1736397980125814882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751206491112263680/g3srjHwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 2370,
+          "like_count": 1640,
+          "listed_count": 5,
+          "media_count": 2981,
+          "tweet_count": 15704
+        },
+        "url": "https://t.co/KZ26wzyebC",
+        "username": "ps_urine",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-08T10:19:29.000Z",
+        "description": "P3EQR3NC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuizilong.com",
+                "end": 23,
+                "expanded_url": "http://www.shuizilong.com/",
+                "start": 0,
+                "url": "https://t.co/jcBGh2T5SX"
+              }
+            ]
+          }
+        },
+        "id": "164224930",
+        "location": "Shanghai, China",
+        "name": "小島みなこ 🏳️‍⚧️",
+        "pinned_tweet_id": "1228093781280354304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596711607845130240/1y4atMYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8451,
+          "following_count": 5961,
+          "like_count": 76087,
+          "listed_count": 114,
+          "media_count": 2660,
+          "tweet_count": 51303
+        },
+        "url": "https://t.co/jcBGh2T5SX",
+        "username": "MinakoOikawa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 ( LittleSound )｜Member of Vue Vapor｜自费开源中，向往全职做自己热爱的事｜总是悲观，但尽力积极 ｜ 🐙: LittleSound｜🐘: @rizumu@mas.to",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/rizumu",
+                "end": 23,
+                "expanded_url": "https://bento.me/rizumu",
+                "start": 0,
+                "url": "https://t.co/fQCQsSpiz1"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "location": "she/her",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10258,
+          "following_count": 1379,
+          "like_count": 42077,
+          "listed_count": 50,
+          "media_count": 1705,
+          "tweet_count": 12232
+        },
+        "url": "https://t.co/fQCQsSpiz1",
+        "username": "OikawaRizumu",
+        "verified": true
+      }
+    ]
+  }
+}

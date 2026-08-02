@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898624590831841786",
+    "created_at": "2025-03-09T06:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T07:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898624590831841786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reversedfrontt…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/reversedfronttw/status/1897535090680619493",
+          "start": 27,
+          "url": "https://t.co/c6sSLfGCjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898624590831841786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897535090680619493",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这他妈是啥 佩服作者的脑洞 我一辈子也想不出这种玩意 https://t.co/c6sSLfGCjY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898624590831841786",
+        "created_at": "2025-03-09T06:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898624590831841786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reversedfrontt…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/reversedfronttw/status/1897535090680619493",
+              "start": 27,
+              "url": "https://t.co/c6sSLfGCjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898624590831841786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897535090680619493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这他妈是啥 佩服作者的脑洞 我一辈子也想不出这种玩意 https://t.co/c6sSLfGCjY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292518508215992322",
+        "conversation_id": "1897535090680619493",
+        "created_at": "2025-03-06T06:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T07:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897535090680619493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897535090680619493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1199,
+          "impression_count": 5711872,
+          "like_count": 4328,
+          "quote_count": 270,
+          "reply_count": 469,
+          "retweet_count": 530
+        },
+        "reply_settings": "everyone",
+        "text": "《逆统战：烽火》4月5日魔怔开服\n中推圈大东亚超联赛，启动！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897934948197445982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 859,
+          "like_count": 25539,
+          "listed_count": 11,
+          "media_count": 942,
+          "tweet_count": 10511
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-09T17:50:11.000Z",
+        "description": "现代东亚国战手游《逆统战：烽火》4月5日开服：https://t.co/8csVtAnzbW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reversedfront.tw",
+                "end": 46,
+                "expanded_url": "https://www.reversedfront.tw/",
+                "start": 23,
+                "url": "https://t.co/8csVtAnzbW"
+              }
+            ]
+          }
+        },
+        "id": "1292518508215992322",
+        "name": "逆統戰：烽火 Reversed Front: Bonfire",
+        "pinned_tweet_id": "1892565261535912402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679048240510160897/YXcxgshb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 306,
+          "like_count": 2090,
+          "listed_count": 26,
+          "media_count": 318,
+          "tweet_count": 2188
+        },
+        "username": "ReversedFrontTW",
+        "verified": true
+      }
+    ]
+  }
+}

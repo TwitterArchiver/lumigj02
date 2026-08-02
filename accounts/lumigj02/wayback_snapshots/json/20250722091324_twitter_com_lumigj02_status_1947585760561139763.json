@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1947229123132502224",
+    "created_at": "2025-07-22T09:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T10:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947585760561139763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "HyotoChandesuyo"
+        },
+        {
+          "end": 29,
+          "id": "1755188079277801472",
+          "start": 17,
+          "username": "Chzonggemin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947585760561139763",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947549849899147605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyotoChandesuyo @Chzonggemin 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1947229123132502224",
+        "created_at": "2025-07-22T09:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T10:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947585760561139763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "HyotoChandesuyo"
+            },
+            {
+              "end": 29,
+              "id": "1755188079277801472",
+              "start": 17,
+              "username": "Chzonggemin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947585760561139763",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947549849899147605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyotoChandesuyo @Chzonggemin 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "conversation_id": "1947229123132502224",
+        "created_at": "2025-07-22T06:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T07:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947549849899147605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1755188079277801472",
+              "start": 0,
+              "username": "Chzonggemin"
+            },
+            {
+              "end": 22,
+              "id": "1176535991454064640",
+              "start": 13,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947549849899147605",
+        "in_reply_to_user_id": "1755188079277801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947229123132502224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chzonggemin @lumigj02 牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2774,
+          "following_count": 924,
+          "like_count": 27649,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 13061
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "MtXtM🍥｜Asexual｜小さな両手はまだ遠くを見てた",
+        "id": "1680834021377593344",
+        "location": "终点",
+        "name": "温原ひょと🍥",
+        "pinned_tweet_id": "1947148263775158543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946528122964168704/wzvtAWTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 994,
+          "like_count": 116070,
+          "listed_count": 13,
+          "media_count": 4429,
+          "tweet_count": 30494
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:13:50.000Z",
+        "description": "布尔什维克-列宁主义从过去到现在始终是一条通往未来的道路",
+        "id": "1755188079277801472",
+        "location": "托派，汉学爱好者",
+        "name": "宗革",
+        "pinned_tweet_id": "1943312184940863669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940803093429620736/CoSFdhpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 653,
+          "like_count": 9348,
+          "listed_count": 9,
+          "media_count": 232,
+          "tweet_count": 4231
+        },
+        "username": "Chzonggemin",
+        "verified": false
+      }
+    ]
+  }
+}

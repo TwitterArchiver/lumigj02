@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962473487710490750",
+    "created_at": "2025-09-01T17:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T18:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962574111349276888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1535319398814076928",
+          "start": 0,
+          "username": "Yamasa1Tomomasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962574111349276888",
+    "in_reply_to_user_id": "1535319398814076928",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962555517802631244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamasa1Tomomasa Yes. Compulsory double room. Back then I really hate staying there. I used to stay in male accommodation and the restrooms are always so dirty I only use the handicap one 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962473487710490750",
+        "created_at": "2025-09-01T17:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T18:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962574111349276888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1535319398814076928",
+              "start": 0,
+              "username": "Yamasa1Tomomasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962574111349276888",
+        "in_reply_to_user_id": "1535319398814076928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962555517802631244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamasa1Tomomasa Yes. Compulsory double room. Back then I really hate staying there. I used to stay in male accommodation and the restrooms are always so dirty I only use the handicap one 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535319398814076928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "1962473487710490750",
+        "created_at": "2025-09-01T16:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962555517802631244"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "SUTD",
+              "probability": 0.5858,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962555517802631244",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962530066094801103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 I know! My room was single as I joined in SUTD as a PhD student. I heard undergrads share one room with two beds and tables."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇲🇾 // FinTech, SWE, Retail Mgmt, Researcher @NTUsg @sutdsg peer @_FurryFur_ bf @HobartR6 // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 44,
+                "username": "NTUsg"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "sutdsg"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "Lumi、Lumi、時々猫巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 932,
+          "like_count": 27972,
+          "listed_count": 13,
+          "media_count": 1165,
+          "tweet_count": 13956
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T17:54:19.000Z",
+        "description": "PhD Candidate. Edge AI Acceleration Lab @sutdsg | ex: Research @ASTARsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "sutdsg"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "username": "ASTARsg"
+              }
+            ]
+          }
+        },
+        "id": "1535319398814076928",
+        "location": "Singapore",
+        "name": "Tomomasa 🐦‍🔥",
+        "pinned_tweet_id": "1904633574332260557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939256671446106112/_lkwW3o1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 260,
+          "like_count": 15534,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 1098
+        },
+        "username": "Yamasa1Tomomasa",
+        "verified": false
+      }
+    ]
+  }
+}

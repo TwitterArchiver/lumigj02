@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1912398635989667991",
+    "created_at": "2025-04-17T07:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T08:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912764421467959614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686472989129441281",
+          "start": 0,
+          "username": "_Furryfur_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912764421467959614",
+    "in_reply_to_user_id": "1686472989129441281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912684210999140687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Furryfur_ 什么时候来找我玩啊啊啊，我20号飞北京了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1912684205693366273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gos4JrfacAE4iKF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1912398635989667991",
+        "created_at": "2025-04-17T07:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912764421467959614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686472989129441281",
+              "start": 0,
+              "username": "_Furryfur_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912764421467959614",
+        "in_reply_to_user_id": "1686472989129441281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912684210999140687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Furryfur_ 什么时候来找我玩啊啊啊，我20号飞北京了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912684205693366273"
+          ]
+        },
+        "author_id": "1686472989129441281",
+        "conversation_id": "1912398635989667991",
+        "created_at": "2025-04-17T01:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T02:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912684210999140687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRqX87Zowq",
+              "end": 36,
+              "expanded_url": "https://x.com/_Furryfur_/status/1912684210999140687/photo/1",
+              "media_key": "3_1912684205693366273",
+              "start": 13,
+              "url": "https://t.co/pRqX87Zowq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912684210999140687",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912398635989667991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 喵👀 https://t.co/pRqX87Zowq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🏳️‍⚧️ | R6 Player for ? | @you_miaowu | 日雌380 泰补210 progynon-depot / progynova | 礼貌谦逊文明友善团结尊重从不骂人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 870,
+          "like_count": 26372,
+          "listed_count": 10,
+          "media_count": 1011,
+          "tweet_count": 11428
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-01T20:25:04.000Z",
+        "description": "Just a regular VRChat player \nPrefer language: English / Chinese",
+        "id": "1686472989129441281",
+        "location": "Singapura",
+        "name": "Furryfur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853698940295860224/mBcXxPcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 314,
+          "like_count": 32885,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 1294
+        },
+        "username": "_Furryfur_",
+        "verified": false
+      }
+    ]
+  }
+}

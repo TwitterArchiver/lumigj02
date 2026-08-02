@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1908788773808435357",
+    "created_at": "2025-04-07T07:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T08:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909144963306455517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1194604790463860736",
+          "start": 0,
+          "username": "LovManufacturer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909144963306455517",
+    "in_reply_to_user_id": "1194604790463860736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909144077670723699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovManufacturer 哎偶像包袱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1908788773808435357",
+        "created_at": "2025-04-07T07:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T08:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909144963306455517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1194604790463860736",
+              "start": 0,
+              "username": "LovManufacturer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909144963306455517",
+        "in_reply_to_user_id": "1194604790463860736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909144077670723699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovManufacturer 哎偶像包袱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194604790463860736",
+        "conversation_id": "1908788773808435357",
+        "created_at": "2025-04-07T07:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T08:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909144077670723699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909144077670723699",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909141417781555431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 卧槽别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | ❤️ 阿星 @Yan_Xing_Xing | @you_miaowu | 日雌380包邮 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "猫归云卷 (日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908656993738645506/-6v0h0RO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 864,
+          "like_count": 26278,
+          "listed_count": 11,
+          "media_count": 997,
+          "tweet_count": 11298
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-13T13:16:03.000Z",
+        "description": "一个很容易破防的脆弱小女孩/爱女宝/友跨（前提是别跟国男似的）/女拳/（点赞机器）",
+        "id": "1194604790463860736",
+        "location": "甘露寺",
+        "name": "甘露寺莫言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596470076982501376/3W-V22Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 362,
+          "like_count": 13858,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 864
+        },
+        "username": "LovManufacturer",
+        "verified": false
+      }
+    ]
+  }
+}

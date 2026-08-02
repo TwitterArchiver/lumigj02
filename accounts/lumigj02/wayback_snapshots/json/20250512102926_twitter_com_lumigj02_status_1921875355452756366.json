@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1921872671475655085",
+    "created_at": "2025-05-12T10:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T11:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921875355452756366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1855842590748540928",
+          "start": 0,
+          "username": "O_J_DK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921875355452756366",
+    "in_reply_to_user_id": "1855842590748540928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921875253157855424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O_J_DK 新币新币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1921872671475655085",
+        "created_at": "2025-05-12T10:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921875355452756366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1855842590748540928",
+              "start": 0,
+              "username": "O_J_DK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921875355452756366",
+        "in_reply_to_user_id": "1855842590748540928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921875253157855424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O_J_DK 新币新币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855842590748540928",
+        "conversation_id": "1921872671475655085",
+        "created_at": "2025-05-12T10:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921875253157855424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921875253157855424",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921872671475655085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 SRS那么便宜了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 老婆 @RanXi_MtF | 主人 @_temryava | 家猫 @_FurryFur_ | 姐姐 @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "_temryava"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷要吃哦润吉 日雌370包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 880,
+          "like_count": 26733,
+          "listed_count": 12,
+          "media_count": 1057,
+          "tweet_count": 11846
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T05:18:56.000Z",
+        "description": "Stupid!",
+        "id": "1855842590748540928",
+        "location": "Pluto",
+        "name": "DK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858902203219771392/KbSc_bnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 164,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 592
+        },
+        "username": "O_J_DK",
+        "verified": false
+      }
+    ]
+  }
+}

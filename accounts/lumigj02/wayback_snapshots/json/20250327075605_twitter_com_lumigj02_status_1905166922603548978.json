@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905166914416263168"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1905166922603548978",
+    "created_at": "2025-03-27T07:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T08:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905166922603548978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pKW34Z5MpZ",
+          "end": 48,
+          "expanded_url": "https://x.com/lumigj02/status/1905166922603548978/photo/1",
+          "media_key": "3_1905166914416263168",
+          "start": 25,
+          "url": "https://t.co/pKW34Z5MpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905166922603548978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢赞赏.\n这两天身体欠佳, 晚发了两天. 抱歉 https://t.co/pKW34Z5MpZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_1905166914416263168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCDNvObwAAPQyd.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905166914416263168"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1905166922603548978",
+        "created_at": "2025-03-27T07:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T08:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905166922603548978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKW34Z5MpZ",
+              "end": 48,
+              "expanded_url": "https://x.com/lumigj02/status/1905166922603548978/photo/1",
+              "media_key": "3_1905166914416263168",
+              "start": 25,
+              "url": "https://t.co/pKW34Z5MpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905166922603548978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢赞赏.\n这两天身体欠佳, 晚发了两天. 抱歉 https://t.co/pKW34Z5MpZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu | 二十多岁的 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无 | 我是海豹手套色布偶, 不是暹罗!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 88,
+                "start": 81,
+                "username": "sutdsg"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 860,
+          "like_count": 25981,
+          "listed_count": 11,
+          "media_count": 970,
+          "tweet_count": 11057
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

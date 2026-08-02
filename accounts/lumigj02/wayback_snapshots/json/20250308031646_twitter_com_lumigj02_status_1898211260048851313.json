@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026653538",
+          "name": "Ubisoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10026653538",
+          "name": "Ubisoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026653538",
+          "name": "Ubisoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "1894725626604691507",
+    "created_at": "2025-03-08T03:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T04:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898211260048851313"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 77,
+          "normalized_text": "Ubisoft",
+          "probability": 0.9839,
+          "start": 71,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1386822551410728962",
+          "start": 0,
+          "username": "Zzerlo"
+        },
+        {
+          "end": 19,
+          "id": "1050335955595485184",
+          "start": 8,
+          "username": "xredskatex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898211260048851313",
+    "in_reply_to_user_id": "1386822551410728962",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898205355617771888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzerlo @xredskatex No it's a smurf acc so idc. You can try writing to Ubisoft support but I don't think it'll help"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1894725626604691507",
+        "created_at": "2025-03-08T03:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T04:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898211260048851313"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 77,
+              "normalized_text": "Ubisoft",
+              "probability": 0.9839,
+              "start": 71,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1386822551410728962",
+              "start": 0,
+              "username": "Zzerlo"
+            },
+            {
+              "end": 19,
+              "id": "1050335955595485184",
+              "start": 8,
+              "username": "xredskatex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898211260048851313",
+        "in_reply_to_user_id": "1386822551410728962",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898205355617771888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzerlo @xredskatex No it's a smurf acc so idc. You can try writing to Ubisoft support but I don't think it'll help"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386822551410728962",
+        "conversation_id": "1894725626604691507",
+        "created_at": "2025-03-08T02:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T03:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898205355617771888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1050335955595485184",
+              "start": 0,
+              "username": "xredskatex"
+            },
+            {
+              "end": 21,
+              "id": "1176535991454064640",
+              "start": 12,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898205355617771888",
+        "in_reply_to_user_id": "1050335955595485184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895957390618698224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xredskatex @lumigj02 have u guys fixed this problem?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 853,
+          "like_count": 25501,
+          "listed_count": 11,
+          "media_count": 936,
+          "tweet_count": 10432
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T23:20:55.000Z",
+        "description": "✠𝟡𝟡𝟡✠\nVASCO!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "esqueçatudo.com.br",
+                "end": 23,
+                "expanded_url": "http://xn--esqueatudo-s6a.com.br",
+                "start": 0,
+                "url": "https://t.co/a6aVUcTfjd"
+              }
+            ]
+          }
+        },
+        "id": "1386822551410728962",
+        "location": "Aonde Atrasalado não Cola",
+        "name": "zerlin✠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853613060243537920/zzZ74zKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 284,
+          "like_count": 12275,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/a6aVUcTfjd",
+        "username": "Zzerlo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-11T10:43:00.000Z",
+        "description": "",
+        "id": "1050335955595485184",
+        "name": "RedSkatex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1294668227482722305/MPvm1Cv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 90,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 238
+        },
+        "username": "xredskatex",
+        "verified": false
+      }
+    ]
+  }
+}

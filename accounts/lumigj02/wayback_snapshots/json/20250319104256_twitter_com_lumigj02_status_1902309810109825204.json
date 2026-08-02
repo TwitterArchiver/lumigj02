@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1902306736285048891",
+    "created_at": "2025-03-19T10:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T11:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902309810109825204"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902309810109825204",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902306736285048891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "md忘了开私信也没留联系方式艹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1902306736285048891",
+        "created_at": "2025-03-19T10:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T11:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902309810109825204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902309810109825204",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902306736285048891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "md忘了开私信也没留联系方式艹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1902306736285048891",
+        "created_at": "2025-03-19T10:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T11:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902306736285048891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/lumigj02/status/1902217761482592650",
+              "start": 84,
+              "url": "https://t.co/FI7aveag12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902306736285048891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902217761482592650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然有人找我来买了还是恢复吧\n日雌380包邮，第二盒以上370（不重复收邮费）。我先卖完这一批库存，有精力就接着卖\n经济特困xyn可以私信我问低价喵～猫卷姐姐很温柔的 https://t.co/FI7aveag12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 / Visiting Scholar @QUT 🇦🇺 / @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 48,
+                "username": "QUT"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 - 日雌380包邮",
+        "pinned_tweet_id": "1892809550308180095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 853,
+          "like_count": 25779,
+          "listed_count": 11,
+          "media_count": 952,
+          "tweet_count": 10798
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

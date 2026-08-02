@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898948261710266627",
+    "created_at": "2025-03-10T04:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T05:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898948261710266627"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1898948261710266627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果挂科，就退学回成都跟对象住一起，然后找个蜜雪冰城摇奶茶去算了\n我真的好累啊我精神上要支撑不住了\n学习也是工作也是，我以前是怎么做到的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898948261710266627",
+        "created_at": "2025-03-10T04:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T05:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898948261710266627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898948261710266627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果挂科，就退学回成都跟对象住一起，然后找个蜜雪冰城摇奶茶去算了\n我真的好累啊我精神上要支撑不住了\n学习也是工作也是，我以前是怎么做到的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / @QUT @NUSingapore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 18,
+                "start": 14,
+                "username": "QUT"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897934948197445982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 874,
+          "like_count": 25584,
+          "listed_count": 11,
+          "media_count": 945,
+          "tweet_count": 10560
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

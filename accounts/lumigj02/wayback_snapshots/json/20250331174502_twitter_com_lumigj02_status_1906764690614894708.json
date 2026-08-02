@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1906763377365725301",
+    "created_at": "2025-03-31T17:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T18:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906764690614894708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600277431256256512",
+          "start": 0,
+          "username": "Oriyukiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906764690614894708",
+    "in_reply_to_user_id": "1600277431256256512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906763377365725301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oriyukiiiii 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906763377365725301",
+        "created_at": "2025-03-31T17:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906764690614894708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600277431256256512",
+              "start": 0,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906764690614894708",
+        "in_reply_to_user_id": "1600277431256256512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906763377365725301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyukiiiii 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600277431256256512",
+        "conversation_id": "1906763377365725301",
+        "created_at": "2025-03-31T17:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906763377365725301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xueqiuxka/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/xueqiuxka/status/1906738264033390803",
+              "start": 15,
+              "url": "https://t.co/jY33Xnb5e4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906763377365725301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906738264033390803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传说道具骨灰骰子原来是复活币 https://t.co/jY33Xnb5e4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 4ever | @you_miaowu | @NUSingapore 廠牌第⑥Rapper | 📧 lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "K3nt R1dg3",
+        "name": "雲貓歸卷",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 864,
+          "like_count": 26189,
+          "listed_count": 11,
+          "media_count": 977,
+          "tweet_count": 11186
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。 “心怀梦想的人身上那种闪闪发光的温柔，对如今的我来说太痛了。”  https://t.co/Qm0OpuzJ0u提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oriyukiiiiii",
+                "end": 67,
+                "expanded_url": "https://ngl.link/oriyukiiiiii",
+                "start": 44,
+                "url": "https://t.co/Qm0OpuzJ0u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12300,
+          "following_count": 595,
+          "like_count": 4652,
+          "listed_count": 19,
+          "media_count": 1680,
+          "tweet_count": 6236
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

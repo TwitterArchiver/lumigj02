@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1955630106468368549",
+    "created_at": "2025-08-13T15:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T16:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955649092769685713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "Xinyi_ADHD"
+        },
+        {
+          "end": 22,
+          "id": "1844926832967286785",
+          "start": 12,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955649092769685713",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955649001757540603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinyi_ADHD @orisam123 我艹，你以前挺帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1955648987245199360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyPcZHYaQAAaG6k.jpg",
+        "width": 1518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1955630106468368549",
+        "created_at": "2025-08-13T15:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T16:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955649092769685713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "Xinyi_ADHD"
+            },
+            {
+              "end": 22,
+              "id": "1844926832967286785",
+              "start": 12,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955649092769685713",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955649001757540603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinyi_ADHD @orisam123 我艹，你以前挺帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955648987245199360"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "1955630106468368549",
+        "created_at": "2025-08-13T15:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T16:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955649001757540603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 20,
+              "id": "1844926832967286785",
+              "start": 10,
+              "username": "orisam123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTPmVgRKr1",
+              "end": 76,
+              "expanded_url": "https://x.com/Xinyi_ADHD/status/1955649001757540603/photo/1",
+              "media_key": "3_1955648987245199360",
+              "start": 53,
+              "url": "https://t.co/rTPmVgRKr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955649001757540603",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955645488914694470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @orisam123 我被挂过啊\n当时还是顺男\n发了个自拍就被挂了\n感觉有点莫名其妙 https://t.co/rTPmVgRKr1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我沒有精神病//退學@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 19,
+                "username": "NTUsg"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "username": "HobartR6"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2827,
+          "following_count": 912,
+          "like_count": 27782,
+          "listed_count": 12,
+          "media_count": 1137,
+          "tweet_count": 13562
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "勇敢的人先享受世界\nafab跨男同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpKvQ"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "立栀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947324222071861248/7tZGQQ4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3570,
+          "following_count": 1724,
+          "like_count": 14387,
+          "listed_count": 6,
+          "media_count": 1084,
+          "tweet_count": 11714
+        },
+        "url": "https://t.co/O8fBywpKvQ",
+        "username": "Xinyi_ADHD",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中)\n   |      失恋ing \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/yTt9lE770i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+keUB4EQpayswN…",
+                "end": 97,
+                "expanded_url": "https://t.me/+keUB4EQpayswNThl",
+                "start": 74,
+                "url": "https://t.co/yTt9lE770i"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "新京",
+        "name": "折筱orisam🏳️‍⚧️🍛🍚🍲🍙🍱🍣",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926184509931749376/bHjkjFoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 1143,
+          "like_count": 46870,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 11582
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

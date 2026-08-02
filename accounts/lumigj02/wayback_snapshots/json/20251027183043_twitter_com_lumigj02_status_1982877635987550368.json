@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982877627527340032"
+      ]
+    },
+    "author_id": "1978184650548994048",
+    "conversation_id": "1982877635987550368",
+    "created_at": "2025-10-27T18:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T19:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982877635987550368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qPFdV9mBMS",
+          "end": 76,
+          "expanded_url": "https://x.com/lumigj02/status/1982877635987550368/photo/1",
+          "media_key": "3_1982877627527340032",
+          "start": 53,
+          "url": "https://t.co/qPFdV9mBMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982877635987550368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "首先，我想要告诉你，我是来斗争的，不是来杀人的。即便是现在，你看看我，我是一个野蛮人吗？我的良心很清白。 https://t.co/qPFdV9mBMS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1269,
+        "media_key": "3_1982877627527340032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4SYsk3WIAAQ80c.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982877627527340032"
+          ]
+        },
+        "author_id": "1978184650548994048",
+        "conversation_id": "1982877635987550368",
+        "created_at": "2025-10-27T18:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982877635987550368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPFdV9mBMS",
+              "end": 76,
+              "expanded_url": "https://x.com/lumigj02/status/1982877635987550368/photo/1",
+              "media_key": "3_1982877627527340032",
+              "start": 53,
+              "url": "https://t.co/qPFdV9mBMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982877635987550368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首先，我想要告诉你，我是来斗争的，不是来杀人的。即便是现在，你看看我，我是一个野蛮人吗？我的良心很清白。 https://t.co/qPFdV9mBMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-14T19:43:07.000Z",
+        "description": "tu5jp4",
+        "id": "1978184650548994048",
+        "name": "吴相泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982877100991266816/h-KSkxNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 36,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

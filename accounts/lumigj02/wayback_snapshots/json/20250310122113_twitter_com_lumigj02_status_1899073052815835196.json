@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898951957961949186",
+    "created_at": "2025-03-10T12:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T13:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899073052815835196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893746014882062336",
+          "start": 0,
+          "username": "ChaosShea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899073052815835196",
+    "in_reply_to_user_id": "1893746014882062336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898963042563727521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaosShea 会的～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898951957961949186",
+        "created_at": "2025-03-10T12:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T13:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899073052815835196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893746014882062336",
+              "start": 0,
+              "username": "ChaosShea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899073052815835196",
+        "in_reply_to_user_id": "1893746014882062336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898963042563727521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaosShea 会的～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893746014882062336",
+        "conversation_id": "1898951957961949186",
+        "created_at": "2025-03-10T05:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T06:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898963042563727521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898963042563727521",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898951957961949186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 好好休息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / Enquiry:",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 874,
+          "like_count": 25604,
+          "listed_count": 11,
+          "media_count": 945,
+          "tweet_count": 10577
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-23T19:33:36.000Z",
+        "description": "A silly girl | 18 | 🏳️‍⚧️ | Don't touch me",
+        "id": "1893746014882062336",
+        "name": "Chaos",
+        "pinned_tweet_id": "1897463624089919749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899013390686998528/9gT-gkqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 179
+        },
+        "username": "ChaosShea",
+        "verified": false
+      }
+    ]
+  }
+}

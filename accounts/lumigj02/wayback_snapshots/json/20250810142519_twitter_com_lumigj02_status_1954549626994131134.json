@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954528262513893435",
+    "created_at": "2025-08-10T14:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T15:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954549626994131134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "Xinyi_ADHD"
+        },
+        {
+          "end": 21,
+          "id": "1559906722588000256",
+          "start": 12,
+          "username": "Luo_yiyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954549626994131134",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954549550154465752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinyi_ADHD @Luo_yiyu 你怎么不圈你前任了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1954528262513893435",
+        "created_at": "2025-08-10T14:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954549626994131134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "Xinyi_ADHD"
+            },
+            {
+              "end": 21,
+              "id": "1559906722588000256",
+              "start": 12,
+              "username": "Luo_yiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954549626994131134",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954549550154465752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinyi_ADHD @Luo_yiyu 你怎么不圈你前任了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "1954528262513893435",
+        "created_at": "2025-08-10T14:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954549550154465752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 31,
+              "id": "1559906722588000256",
+              "start": 22,
+              "username": "Luo_yiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954549550154465752",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954545818981314573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 帮忙治一下这位的bpd\n@luo_yiyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390 私信 or Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 910,
+          "like_count": 27737,
+          "listed_count": 12,
+          "media_count": 1129,
+          "tweet_count": 13431
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "勇敢的人先享受世界\nafab跨男同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpKvQ"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "立栀",
+        "pinned_tweet_id": "1952045734255370543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947324222071861248/7tZGQQ4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 1724,
+          "like_count": 14400,
+          "listed_count": 6,
+          "media_count": 1079,
+          "tweet_count": 11684
+        },
+        "url": "https://t.co/O8fBywpKvQ",
+        "username": "Xinyi_ADHD",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "果然还是喜欢被叫小洛呢w   里@Mitaner_hidden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "Mitaner_hidden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo6xwn"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "name": "Project_Luo",
+        "pinned_tweet_id": "1947702904422600970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953731163639685120/yVUVsVEl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 449,
+          "like_count": 5647,
+          "listed_count": 5,
+          "media_count": 646,
+          "tweet_count": 7064
+        },
+        "url": "https://t.co/A4NOlo6xwn",
+        "username": "Luo_yiyu",
+        "verified": false
+      }
+    ]
+  }
+}

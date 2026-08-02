@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1952437911938638218",
+    "created_at": "2025-08-04T19:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T20:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952449971661476325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "613074635",
+          "start": 0,
+          "username": "iTZQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952449971661476325",
+    "in_reply_to_user_id": "613074635",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952441559980663048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iTZQing 明年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1952437911938638218",
+        "created_at": "2025-08-04T19:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T20:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952449971661476325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "613074635",
+              "start": 0,
+              "username": "iTZQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952449971661476325",
+        "in_reply_to_user_id": "613074635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952441559980663048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iTZQing 明年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "613074635",
+        "conversation_id": "1952437911938638218",
+        "created_at": "2025-08-04T18:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T19:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952441559980663048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952441559980663048",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952437911938638218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 猫卷老师什么时候开车带我）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷uwu🐱✨🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 930,
+          "like_count": 27727,
+          "listed_count": 12,
+          "media_count": 1121,
+          "tweet_count": 13264
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T02:58:20.000Z",
+        "description": "Amamiya Mafuyu, aka {\"Alexei\"}. 5′31″/114lb, 🚪67CNY. 是個笨蛋請多包容。🎈INFP-T. 🎀Mahō Shōjo. 💙💛Slava. 🍛Curry. 比我还笨@LeQing123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "LeQing123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gravatar.com/itzqing",
+                "end": 23,
+                "expanded_url": "https://gravatar.com/itzqing",
+                "start": 0,
+                "url": "https://t.co/VFMpbDVC8y"
+              }
+            ]
+          }
+        },
+        "id": "613074635",
+        "location": "ﾄｺﾖﾉｸﾆ",
+        "name": "雨宮 真冬",
+        "pinned_tweet_id": "1864699964825456644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850535613432528896/Vt79Kpzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 1039,
+          "like_count": 25605,
+          "listed_count": 11,
+          "media_count": 1740,
+          "tweet_count": 27945
+        },
+        "url": "https://t.co/VFMpbDVC8y",
+        "username": "iTZQing",
+        "verified": false
+      }
+    ]
+  }
+}

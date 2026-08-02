@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897932291013484565",
+    "created_at": "2025-03-07T08:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T09:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897932291013484565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wanjunxie/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/wanjunxie/status/1897684819925955032",
+          "start": 12,
+          "url": "https://t.co/GPakJ7MX1D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897932291013484565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897684819925955032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢，看完双相转躁期了 https://t.co/GPakJ7MX1D"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25449,
+        "height": 584,
+        "media_key": "7_1897684672777187334",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1897684672777187334/pu/img/wSnibkVqdHkvgSjl.jpg",
+        "public_metrics": {
+          "view_count": 40141
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897684672777187334/pu/vid/avc1/382x270/_HJ41TMaHfC-qRTO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897684672777187334/pu/vid/avc1/510x360/OBHipWS9qcQyR3OB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897684672777187334/pu/vid/avc1/828x584/D-JXp_RHHWQy7JDX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1897684672777187334/pu/pl/L8r9yoatyFxBdLJf.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897932291013484565",
+        "created_at": "2025-03-07T08:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T09:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897932291013484565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanjunxie/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wanjunxie/status/1897684819925955032",
+              "start": 12,
+              "url": "https://t.co/GPakJ7MX1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897932291013484565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897684819925955032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢，看完双相转躁期了 https://t.co/GPakJ7MX1D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1897684672777187334"
+          ]
+        },
+        "author_id": "257050388",
+        "conversation_id": "1897684819925955032",
+        "created_at": "2025-03-06T16:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897684819925955032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FA27EH82qu",
+              "end": 104,
+              "expanded_url": "https://x.com/wanjunxie/status/1897684819925955032/video/1",
+              "media_key": "7_1897684672777187334",
+              "start": 81,
+              "url": "https://t.co/FA27EH82qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897684819925955032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 95416,
+          "like_count": 286,
+          "quote_count": 10,
+          "reply_count": 140,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "美国航天局的空间站拍到中共国区域有大量中微粒子逃离地球。中微粒子被视为是人类的鬼魂粒子。看来，鬼魂都不想在中共国轮回投胎了，因为中共国比地狱还恐怖，连鬼魂都怕！ https://t.co/FA27EH82qu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200 / NSFW不打码恕不回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 843,
+          "like_count": 25456,
+          "listed_count": 11,
+          "media_count": 927,
+          "tweet_count": 10334
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-24T16:31:06.000Z",
+        "description": "中国民主党主席   Chairman of China Democracy Party\n中国民主党的理念：公平、公正、天下为公！\nIdea of CDP: Fairness, Justice, Country belong to Public !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hqcdp.org",
+                "end": 23,
+                "expanded_url": "http://www.hqcdp.org",
+                "start": 0,
+                "url": "https://t.co/6NrkK1Zblv"
+              }
+            ]
+          }
+        },
+        "id": "257050388",
+        "location": "New York",
+        "name": "谢万军 Wanjun Xie",
+        "pinned_tweet_id": "1777780487869669623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278196323980922880/R_KQ72x6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125889,
+          "following_count": 3031,
+          "like_count": 41620,
+          "listed_count": 531,
+          "media_count": 17249,
+          "tweet_count": 48713
+        },
+        "url": "https://t.co/6NrkK1Zblv",
+        "username": "wanjunxie",
+        "verified": true
+      }
+    ]
+  }
+}

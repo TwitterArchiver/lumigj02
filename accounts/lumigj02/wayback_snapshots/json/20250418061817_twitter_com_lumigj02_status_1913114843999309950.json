@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1913114843999309950",
+    "created_at": "2025-04-18T06:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T07:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913114843999309950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huajuanshiwo/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/huajuanshiwo/status/1913035520252551301",
+          "start": 20,
+          "url": "https://t.co/sPtgLfznJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913114843999309950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913035520252551301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能不能把那个b玩意__MACOSX删了 https://t.co/sPtgLfznJ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_1913035513436762112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gox3qe0a8AAb91O.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1913114843999309950",
+        "created_at": "2025-04-18T06:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T07:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913114843999309950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huajuanshiwo/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/huajuanshiwo/status/1913035520252551301",
+              "start": 20,
+              "url": "https://t.co/sPtgLfznJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913114843999309950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913035520252551301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能把那个b玩意__MACOSX删了 https://t.co/sPtgLfznJ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913035513436762112"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1913035520252551301",
+        "created_at": "2025-04-18T01:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T02:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913035520252551301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFXsHnU5w8",
+              "end": 39,
+              "expanded_url": "https://x.com/huajuanshiwo/status/1913035520252551301/photo/1",
+              "media_key": "3_1913035513436762112",
+              "start": 16,
+              "url": "https://t.co/YFXsHnU5w8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913035520252551301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "macos在国内份额突破10% https://t.co/YFXsHnU5w8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "单杀任何人的 R6 Champ | 猫推 | 日雌370 泰补190 progynon-depot / progynova avail pls DM | 礼貌谦逊文明友善团结尊重从不骂人 | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 868,
+          "like_count": 26388,
+          "listed_count": 10,
+          "media_count": 1015,
+          "tweet_count": 11456
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "简介过几天再写",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huajuanshiwo2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huajuanshiwo2",
+                "start": 0,
+                "url": "https://t.co/kZiBWvLiSX"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1876566723912229149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876289236909092864/caccjc2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1753,
+          "like_count": 35070,
+          "listed_count": 6,
+          "media_count": 1168,
+          "tweet_count": 7444
+        },
+        "url": "https://t.co/kZiBWvLiSX",
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

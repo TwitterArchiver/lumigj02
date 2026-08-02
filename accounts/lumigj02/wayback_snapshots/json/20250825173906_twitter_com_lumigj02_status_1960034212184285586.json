@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1959968526787084781",
+    "created_at": "2025-08-25T17:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T18:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960034212184285586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612855155128504335",
+          "start": 0,
+          "username": "plantie_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960034212184285586",
+    "in_reply_to_user_id": "1612855155128504335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959968526787084781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plantie_awa 你是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1959968526787084781",
+        "created_at": "2025-08-25T17:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960034212184285586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612855155128504335",
+              "start": 0,
+              "username": "plantie_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960034212184285586",
+        "in_reply_to_user_id": "1612855155128504335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959968526787084781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plantie_awa 你是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612855155128504335",
+        "conversation_id": "1959968526787084781",
+        "created_at": "2025-08-25T13:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959968526787084781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959968526787084781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能让我变萌妹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌380私//💌@HobartR6🐈@_FurryFur_//@JR_YamanoteE235//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 929,
+          "like_count": 27921,
+          "listed_count": 13,
+          "media_count": 1160,
+          "tweet_count": 13842
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:53:52.000Z",
+        "description": "🏳️‍🌈 曾经账号：@plantie_uwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "plantie_uwu"
+              }
+            ]
+          }
+        },
+        "id": "1612855155128504335",
+        "name": "plantie💛🤍💜🖤",
+        "pinned_tweet_id": "1954694873027854592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954696700020588545/rBeItYx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 190,
+          "like_count": 668,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 777
+        },
+        "username": "plantie_awa",
+        "verified": false
+      }
+    ]
+  }
+}

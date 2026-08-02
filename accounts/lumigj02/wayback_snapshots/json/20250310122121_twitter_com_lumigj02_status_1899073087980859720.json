@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898951957961949186",
+    "created_at": "2025-03-10T12:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T13:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899073087980859720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1641805115911970816",
+          "start": 0,
+          "username": "fec222985075262"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899073087980859720",
+    "in_reply_to_user_id": "1641805115911970816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898979319680233868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fec222985075262 谢谢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898951957961949186",
+        "created_at": "2025-03-10T12:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T13:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899073087980859720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1641805115911970816",
+              "start": 0,
+              "username": "fec222985075262"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899073087980859720",
+        "in_reply_to_user_id": "1641805115911970816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898979319680233868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fec222985075262 谢谢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641805115911970816",
+        "conversation_id": "1898951957961949186",
+        "created_at": "2025-03-10T06:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898979319680233868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898979319680233868",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898951957961949186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 好好休息捏～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / Enquiry:",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 874,
+          "like_count": 25604,
+          "listed_count": 11,
+          "media_count": 945,
+          "tweet_count": 10578
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T14:10:29.000Z",
+        "description": "姐姐：@ZhuoZheng1990/匿名消息: https://t.co/ZwEZ6QvaKa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "ZhuoZheng1990"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huajiao",
+                "end": 47,
+                "expanded_url": "https://ngl.link/huajiao",
+                "start": 24,
+                "url": "https://t.co/ZwEZ6QvaKa"
+              }
+            ]
+          }
+        },
+        "id": "1641805115911970816",
+        "location": "武汉",
+        "name": "爱吃花甲不吃花椒🏳️‍⚧️",
+        "pinned_tweet_id": "1895771227886846385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875033518495170560/2V_oxNxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 73,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 466
+        },
+        "username": "fec222985075262",
+        "verified": false
+      }
+    ]
+  }
+}

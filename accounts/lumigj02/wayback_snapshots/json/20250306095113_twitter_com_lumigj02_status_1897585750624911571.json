@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897585512203870417",
+    "created_at": "2025-03-06T09:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T10:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897585750624911571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897585750624911571",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897585512203870417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra 艾玛老铁，咱就好黄循财这一口"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1897585512203870417].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1897585512203870417",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1897585512203870417"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897585512203870417",
+        "created_at": "2025-03-06T09:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T10:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897585750624911571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897585750624911571",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897585512203870417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra 艾玛老铁，咱就好黄循财这一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 || Progynon-Depot 10mg/mL * 10 = ¥390 || Progynova 2mg *84 = ¥200 || DM or contact Telegram below",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 841,
+          "like_count": 25419,
+          "listed_count": 11,
+          "media_count": 922,
+          "tweet_count": 10281
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "「奇跡を待つより捨て身の努力よ」\n「奇跡を待つより地道な努力よ」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ProjectA1saku",
+                "end": 23,
+                "expanded_url": "https://t.me/ProjectA1saku",
+                "start": 0,
+                "url": "https://t.co/MYzhwjB35L"
+              }
+            ]
+          }
+        },
+        "id": "1746169774147776512",
+        "location": "Selangor ",
+        "name": "🩵EE Girl Overfitting🌘",
+        "pinned_tweet_id": "1896825967953510605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866046325076430848/emfgMK-H_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 823,
+          "like_count": 47917,
+          "listed_count": 2,
+          "media_count": 1511,
+          "tweet_count": 35836
+        },
+        "url": "https://t.co/MYzhwjB35L",
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      }
+    ]
+  }
+}

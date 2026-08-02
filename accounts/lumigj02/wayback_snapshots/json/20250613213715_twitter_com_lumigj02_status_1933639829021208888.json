@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1933627053078950057",
+    "created_at": "2025-06-13T21:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T22:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933639829021208888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1146774049986494470",
+          "start": 0,
+          "username": "SyAILz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933639829021208888",
+    "in_reply_to_user_id": "1146774049986494470",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933627053078950057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyAILz ❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2677,
+        "media_key": "3_1933626875252994048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtWfZfOacAArs2_.jpg",
+        "width": 1979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1933627053078950057",
+        "created_at": "2025-06-13T21:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T22:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933639829021208888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1146774049986494470",
+              "start": 0,
+              "username": "SyAILz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933639829021208888",
+        "in_reply_to_user_id": "1146774049986494470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933627053078950057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyAILz ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933626875252994048"
+          ]
+        },
+        "author_id": "1146774049986494470",
+        "conversation_id": "1933627053078950057",
+        "created_at": "2025-06-13T20:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T21:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933627053078950057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OosTqEYQx",
+              "end": 26,
+              "expanded_url": "https://x.com/SyAILz/status/1933627053078950057/photo/1",
+              "media_key": "3_1933626875252994048",
+              "start": 3,
+              "url": "https://t.co/1OosTqEYQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933627053078950057",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 655,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🕷️ https://t.co/1OosTqEYQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬 p4r4n01d 5ch120phr1n14 pr0f35510n4l 7r1p 51773r 3n7ry fr4993r @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "HobartR6"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi (日雌泰补",
+        "pinned_tweet_id": "1932909290324726179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 893,
+          "like_count": 27115,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 12395
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-04T13:33:34.000Z",
+        "description": "ex) @CLOUD9 / @FearXBusan R6S Pro Player | Military & Cosplay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "CLOUD9"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "FearXBusan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SyAILz",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/SyAILz",
+                "start": 0,
+                "url": "https://t.co/fhTg93trCb"
+              }
+            ]
+          }
+        },
+        "id": "1146774049986494470",
+        "location": "Tisy military base",
+        "name": "SyAIL❄️",
+        "pinned_tweet_id": "1912619812783812686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802870183230590977/zg6nriSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8977,
+          "following_count": 666,
+          "like_count": 16212,
+          "listed_count": 32,
+          "media_count": 266,
+          "tweet_count": 2456
+        },
+        "url": "https://t.co/fhTg93trCb",
+        "username": "SyAILz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1925180575792689616",
+    "created_at": "2025-05-22T02:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T03:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925379092775633208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1305844679284457473",
+          "start": 0,
+          "username": "Unnamed_RF"
+        },
+        {
+          "end": 23,
+          "id": "1905362528143822848",
+          "start": 12,
+          "username": "sola_nubes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925379092775633208",
+    "in_reply_to_user_id": "1305844679284457473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925374577942868003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unnamed_RF @sola_nubes 你是Aljunied人？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1925180575792689616",
+        "created_at": "2025-05-22T02:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T03:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925379092775633208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1305844679284457473",
+              "start": 0,
+              "username": "Unnamed_RF"
+            },
+            {
+              "end": 23,
+              "id": "1905362528143822848",
+              "start": 12,
+              "username": "sola_nubes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925379092775633208",
+        "in_reply_to_user_id": "1305844679284457473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925374577942868003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unnamed_RF @sola_nubes 你是Aljunied人？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305844679284457473",
+        "conversation_id": "1925180575792689616",
+        "created_at": "2025-05-22T02:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T03:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925374577942868003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905362528143822848",
+              "start": 0,
+              "username": "sola_nubes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925374577942868003",
+        "in_reply_to_user_id": "1905362528143822848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925180575792689616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sola_nubes 不愧是我家Aljunied…\n新加坡反贼聚集地w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @_Sanxon | @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系 | 解block请私信 @_Sanxon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "CatRoll.OHP🏳️‍⚧️日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 892,
+          "like_count": 26956,
+          "listed_count": 12,
+          "media_count": 1077,
+          "tweet_count": 12092
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "ダメ人間｜ENFP-T｜彼女がいる｜20歳｜歴史・語学興味｜日英中トリリンガル（広東語使用可）｜韓国語独学中｜帰国子女かも｜歌うことが好き｜裏→ @DukeLitsenbourg｜親友→ @Ryo_Suzumiya @Tsuyurinagisa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "DukeLitsenbourg"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "Ryo_Suzumiya"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Tsuyurinagisa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "info.cern.ch",
+                "end": 23,
+                "expanded_url": "http://info.cern.ch",
+                "start": 0,
+                "url": "https://t.co/dHc6uv06om"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "東海道武蔵国",
+        "name": "楓糖律子 Fūtō Ritsuko",
+        "pinned_tweet_id": "1924398249886331121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925085832966504448/12CkuUFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 846,
+          "like_count": 11400,
+          "listed_count": 15,
+          "media_count": 4356,
+          "tweet_count": 37317
+        },
+        "url": "https://t.co/dHc6uv06om",
+        "username": "Unnamed_RF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T20:53:49.000Z",
+        "description": "所有的明天",
+        "id": "1905362528143822848",
+        "location": "Greenland",
+        "name": "青色的云",
+        "pinned_tweet_id": "1924401204484092298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905362648751112194/Hn_SLKjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 107,
+          "like_count": 566,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 2563
+        },
+        "username": "sola_nubes",
+        "verified": false
+      }
+    ]
+  }
+}

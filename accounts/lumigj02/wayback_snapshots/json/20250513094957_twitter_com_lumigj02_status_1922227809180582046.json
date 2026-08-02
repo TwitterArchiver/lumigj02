@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922214726668358076",
+    "created_at": "2025-05-13T09:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T10:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922227809180582046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796022805844410368",
+          "start": 0,
+          "username": "TUSHANSUSU_YA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922227809180582046",
+    "in_reply_to_user_id": "1796022805844410368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922214726668358076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TUSHANSUSU_YA 涂山我罩的懂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_1922214719701843969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0UGm3bAAE2nSz.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922214726668358076",
+        "created_at": "2025-05-13T09:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T10:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922227809180582046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796022805844410368",
+              "start": 0,
+              "username": "TUSHANSUSU_YA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922227809180582046",
+        "in_reply_to_user_id": "1796022805844410368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922214726668358076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TUSHANSUSU_YA 涂山我罩的懂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922214719701843969"
+          ]
+        },
+        "author_id": "1796022805844410368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "1922214726668358076",
+        "created_at": "2025-05-13T08:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T09:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922214726668358076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3i2xL0zwab",
+              "end": 37,
+              "expanded_url": "https://x.com/TUSHANSUSU_YA/status/1922214726668358076/photo/1",
+              "media_key": "3_1922214719701843969",
+              "start": 14,
+              "url": "https://t.co/3i2xL0zwab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922214726668358076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求狐妖小红娘电视剧别播了 https://t.co/3i2xL0zwab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ??我叫陈俊杰 ID: Jason.OGS 喜欢在港服打彩虹六号 | 老婆 @RanXi_MtF | 主人 @_temryava | 家猫 @_FurryFur_ | 姐姐 @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "_temryava"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷 日雌370包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2623,
+          "following_count": 880,
+          "like_count": 26743,
+          "listed_count": 12,
+          "media_count": 1058,
+          "tweet_count": 11861
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T03:36:33.000Z",
+        "description": "xyn～持证含糖mtf哦～2024.2.20/\n是一只大白狐狸～/\n古希腊掌管头发的神？（别人说的w羡慕发量）/\n04  176  肉肉腿/\n自学六爻～喜欢玄学/\n超级温柔，共情能力max/\n喜欢贴贴蹭蹭被摸摸，会趴在怀里呜呜/\n属性0/\n二次元coser\n超级可爱哦！\n最好的老婆～@SherylC75128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "SherylC75128"
+              }
+            ]
+          }
+        },
+        "id": "1796022805844410368",
+        "location": "涂山",
+        "name": "咕咕的苏苏（大白狐狸）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823030749605527552/JsRuTWgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 370,
+          "like_count": 1960,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 1902
+        },
+        "username": "TUSHANSUSU_YA",
+        "verified": false
+      }
+    ]
+  }
+}

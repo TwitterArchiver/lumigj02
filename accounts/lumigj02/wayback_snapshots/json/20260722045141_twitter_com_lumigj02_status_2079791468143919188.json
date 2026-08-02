@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2079791468143919188",
+    "created_at": "2026-07-22T04:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079791468143919188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/issacofsz/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/issacofsz/status/2079439333250240833",
+          "start": 27,
+          "url": "https://t.co/WsM20D9Vaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079791468143919188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079439333250240833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "昨天顺女同事本来想买一个给我结果找遍成都各大药房均无 https://t.co/WsM20D9Vaw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2079791468143919188",
+        "created_at": "2026-07-22T04:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079791468143919188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/issacofsz/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/issacofsz/status/2079439333250240833",
+              "start": 27,
+              "url": "https://t.co/WsM20D9Vaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079791468143919188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079439333250240833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "昨天顺女同事本来想买一个给我结果找遍成都各大药房均无 https://t.co/WsM20D9Vaw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1084840616020721669",
+        "conversation_id": "2079439333250240833",
+        "created_at": "2026-07-21T05:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079439333250240833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079439333250240833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2524,
+          "like_count": 11,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇各位跨女目前在自己的城市线下药店还能买到补佳乐嘛？有小证or其他文件的情况下。\n\n个人所在城市的情况是，唯一接诊性别焦虑的、拥有最大最专业的精神科和心理科的医院周围的所有的药店都说没有补佳乐卖…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4230,
+          "following_count": 841,
+          "like_count": 4383,
+          "listed_count": 9,
+          "media_count": 133,
+          "tweet_count": 1028
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-14T15:52:13.000Z",
+        "description": "🏳️‍⚧️🇵🇸🏳️‍🌈✌️🙄✌️",
+        "id": "1084840616020721669",
+        "location": "Rapture City",
+        "name": "Agathḗ tôn Sodómōn",
+        "pinned_tweet_id": "1695850292309590189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833356230863052800/gJBZzcNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 496,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "ISSACOFSZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1903670698406482344",
+    "created_at": "2025-03-23T15:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T16:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903826096602411183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        },
+        {
+          "end": 21,
+          "id": "1615704614766260225",
+          "start": 11,
+          "username": "RanXi_MtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903826096602411183",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903798704752021914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaiFu8964 @RanXi_MtF 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1903670698406482344",
+        "created_at": "2025-03-23T15:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T16:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903826096602411183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            },
+            {
+              "end": 21,
+              "id": "1615704614766260225",
+              "start": 11,
+              "username": "RanXi_MtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903826096602411183",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903798704752021914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaiFu8964 @RanXi_MtF 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "1903670698406482344",
+        "created_at": "2025-03-23T13:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T14:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903798704752021914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 20,
+              "id": "1615704614766260225",
+              "start": 10,
+              "username": "RanXi_MtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903798704752021914",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903670698406482344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @RanXi_MtF 梦到我家是不是地下室有个超大的地牢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 / @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "Lumi 猫卷 - 日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 860,
+          "like_count": 25879,
+          "listed_count": 11,
+          "media_count": 961,
+          "tweet_count": 10951
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLh0Rj\n |aff成交金额10%返现|网站 https://t.co/GpjdUCMYn8\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "Mionostand"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 81,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 58,
+                "url": "https://t.co/G1WLyLh0Rj"
+              },
+              {
+                "display_url": "chakaifang.org",
+                "end": 123,
+                "expanded_url": "http://chakaifang.org",
+                "start": 100,
+                "url": "https://t.co/GpjdUCMYn8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 23,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 0,
+                "url": "https://t.co/G1WLyLh0Rj"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu 🏳️‍⚧️卖数据的小女孩",
+        "pinned_tweet_id": "1889677863458095549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6792,
+          "following_count": 2023,
+          "like_count": 4955,
+          "listed_count": 17,
+          "media_count": 651,
+          "tweet_count": 5249
+        },
+        "url": "https://t.co/G1WLyLh0Rj",
+        "username": "WaiFu8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-18T13:36:22.000Z",
+        "description": "摄影📷｜NIKON｜24.8.18｜日常｜@Fly0001985｜@kikoxts｜@lonebef88012｜@RanXi_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Fly0001985"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "kikoxts"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "lonebef88012"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "RanXi_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikon.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.nikon.com.cn",
+                "start": 0,
+                "url": "https://t.co/0YOLczz4oq"
+              }
+            ]
+          }
+        },
+        "id": "1615704614766260225",
+        "location": "日本国东京都港区港南2-15-3 品川城际",
+        "name": "RanXi｜OS",
+        "pinned_tweet_id": "1865343341266890803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876199238557933568/oyF7OKX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 774,
+          "like_count": 18163,
+          "listed_count": 8,
+          "media_count": 750,
+          "tweet_count": 4927
+        },
+        "url": "https://t.co/0YOLczz4oq",
+        "username": "RanXi_MtF",
+        "verified": false
+      }
+    ]
+  }
+}

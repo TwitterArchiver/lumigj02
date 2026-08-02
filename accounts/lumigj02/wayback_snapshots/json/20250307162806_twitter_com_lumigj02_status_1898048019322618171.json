@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898016922157171131",
+    "created_at": "2025-03-07T16:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T17:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898048019322618171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708469133585850368",
+          "start": 0,
+          "username": "LiuYuTong1102"
+        },
+        {
+          "end": 23,
+          "id": "1385148410441834498",
+          "start": 15,
+          "username": "Terdsta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898048019322618171",
+    "in_reply_to_user_id": "1708469133585850368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898046369849655586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuYuTong1102 @Terdsta 2025"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898016922157171131",
+        "created_at": "2025-03-07T16:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T17:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898048019322618171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708469133585850368",
+              "start": 0,
+              "username": "LiuYuTong1102"
+            },
+            {
+              "end": 23,
+              "id": "1385148410441834498",
+              "start": 15,
+              "username": "Terdsta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898048019322618171",
+        "in_reply_to_user_id": "1708469133585850368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898046369849655586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuYuTong1102 @Terdsta 2025"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708469133585850368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352676864007958528",
+              "name": "Nobel Prize"
+            }
+          }
+        ],
+        "conversation_id": "1898016922157171131",
+        "created_at": "2025-03-07T16:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T17:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898046369849655586"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Nobel Peace Prize",
+              "probability": 0.9701,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1385148410441834498",
+              "start": 0,
+              "username": "Terdsta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898046369849655586",
+        "in_reply_to_user_id": "1385148410441834498",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898016922157171131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Terdsta 2026 Nobel Peace Prize Winner👍🏿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 849,
+          "like_count": 25485,
+          "listed_count": 11,
+          "media_count": 934,
+          "tweet_count": 10397
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T13:09:30.000Z",
+        "description": "17yo",
+        "id": "1708469133585850368",
+        "name": "NaR Harry",
+        "pinned_tweet_id": "1812583507824447503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708469393456529408/_JEdTdZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 38,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 84
+        },
+        "username": "LiuYuTong1102",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T08:28:15.000Z",
+        "description": "Pro Player for @McDonalds | @guiguimeow ♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "McDonalds"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "guiguimeow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/terd",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/terd",
+                "start": 0,
+                "url": "https://t.co/NCFHGFOBDz"
+              }
+            ]
+          }
+        },
+        "id": "1385148410441834498",
+        "location": "💫 ",
+        "name": "Terd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874199785177251840/HSFB2_Br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4750,
+          "following_count": 537,
+          "like_count": 6722,
+          "listed_count": 15,
+          "media_count": 284,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/NCFHGFOBDz",
+        "username": "Terdsta",
+        "verified": true
+      }
+    ]
+  }
+}

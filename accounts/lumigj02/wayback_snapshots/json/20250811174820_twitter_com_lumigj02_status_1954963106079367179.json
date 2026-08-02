@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954911369096311114",
+    "created_at": "2025-08-11T17:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T18:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954963106079367179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1167792264795394048",
+          "start": 0,
+          "username": "leetfs1"
+        },
+        {
+          "end": 19,
+          "id": "1401916221214236674",
+          "start": 9,
+          "username": "XiJiangFo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954963106079367179",
+    "in_reply_to_user_id": "1167792264795394048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954958212815523928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leetfs1 @XiJiangFo ruarua你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1954911369096311114",
+        "created_at": "2025-08-11T17:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T18:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954963106079367179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            },
+            {
+              "end": 19,
+              "id": "1401916221214236674",
+              "start": 9,
+              "username": "XiJiangFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954963106079367179",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954958212815523928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 @XiJiangFo ruarua你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167792264795394048",
+        "conversation_id": "1954911369096311114",
+        "created_at": "2025-08-11T17:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T18:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954958212815523928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1401916221214236674",
+              "start": 0,
+              "username": "XiJiangFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954958212815523928",
+        "in_reply_to_user_id": "1401916221214236674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954911369096311114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiJiangFo 男娘好，变成香香软软的小男娘自己rua自己（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我没有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 911,
+          "like_count": 27751,
+          "listed_count": 12,
+          "media_count": 1132,
+          "tweet_count": 13497
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "@MtFwiki & @RLEwiki 成员 | 喜欢前端和 RISC-V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "RLEwiki"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941887536378658816/_xW0LrK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4134,
+          "following_count": 2543,
+          "like_count": 1601,
+          "listed_count": 18,
+          "media_count": 853,
+          "tweet_count": 5803
+        },
+        "username": "leetfs1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T14:57:47.000Z",
+        "description": "♂｜INFJ-T｜🚫不键政｜🏴‍☠️ACG原教旨主义｜CS2休闲养老玩家｜反恐精英之神：@ropZyw0o ｜碎念本：@XiJiangKurisu｜欢迎互fo｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "ropZyw0o"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "XiJiangKurisu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+TRJVjF6gdXVjM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+TRJVjF6gdXVjMjI1",
+                "start": 0,
+                "url": "https://t.co/dprzM8uoK5"
+              }
+            ]
+          }
+        },
+        "id": "1401916221214236674",
+        "location": "↓超自然研究部（telegram群组）",
+        "name": "夕酱🏴‍☠️",
+        "pinned_tweet_id": "1954929266589884914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937125779906662400/hqZW079o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 4035,
+          "like_count": 32487,
+          "listed_count": 8,
+          "media_count": 1999,
+          "tweet_count": 14618
+        },
+        "url": "https://t.co/dprzM8uoK5",
+        "username": "XiJiangFo",
+        "verified": false
+      }
+    ]
+  }
+}

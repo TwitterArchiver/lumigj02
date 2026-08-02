@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2070453867133943910",
+    "created_at": "2026-06-26T10:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070453867133943910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ljsabc/status/…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/ljsabc/status/2070145352574156940",
+          "start": 74,
+          "url": "https://t.co/AyjrGhZsPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070453867133943910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070145352574156940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "哈哈哈其实语言很有趣的啊你问开车插队怎么说一听是说加塞还是qia车还是割lane就知道是中国还是四川还是马来西亚人\n\n但这种词汇非母语者往往不会说 https://t.co/AyjrGhZsPy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2070453867133943910",
+        "created_at": "2026-06-26T10:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070453867133943910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ljsabc/status/…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/ljsabc/status/2070145352574156940",
+              "start": 74,
+              "url": "https://t.co/AyjrGhZsPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070453867133943910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070145352574156940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "哈哈哈其实语言很有趣的啊你问开车插队怎么说一听是说加塞还是qia车还是割lane就知道是中国还是四川还是马来西亚人\n\n但这种词汇非母语者往往不会说 https://t.co/AyjrGhZsPy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "473880655",
+        "conversation_id": "2070145352574156940",
+        "created_at": "2026-06-25T14:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070145352574156940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070145352574156940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 103907,
+          "like_count": 352,
+          "quote_count": 4,
+          "reply_count": 65,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "非母语者词汇量太小了，比如“同一窝狗”有个专门的词叫litter，这tm鬼知道去啊\n\n我师姐家大儿子小学一年级就知道“窗户缝”这词咋说了，我和我师姐毫无概念…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo 兼职糖商 或许是xyn喵（\n\n永远喜欢的妹妹 @JR_YamanoteE235\n可爱猫娘女仆(?) @leetfs1\n笨蛋肥鸟姐姐 @hoshi_asuka0089\n校友大猫猫 @_furryfur_\n? @hobartr6\n\n永久锁推账号 @itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "leetfs1"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "hobartr6"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫打滚时会自己卷起来的",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070446858384949249/QuzCTJO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 826,
+          "like_count": 4233,
+          "listed_count": 9,
+          "media_count": 80,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-25T12:33:42.000Z",
+        "description": "I do graphics research. \n\n请支持天之少女。\nhttps://t.co/AbeueaygfZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gungnir.co.jp/innocentgrey/p…",
+                "end": 58,
+                "expanded_url": "http://www.gungnir.co.jp/innocentgrey/products/pro_shell3/index.html",
+                "start": 35,
+                "url": "https://t.co/AbeueaygfZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miaomiao.li",
+                "end": 23,
+                "expanded_url": "http://miaomiao.li",
+                "start": 0,
+                "url": "https://t.co/c5mDVBExaU"
+              }
+            ]
+          }
+        },
+        "id": "473880655",
+        "location": "Hong Kong",
+        "name": "李萌萌",
+        "pinned_tweet_id": "2038907277017776441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060672947841552384/RYPu6lBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7803,
+          "following_count": 440,
+          "like_count": 12483,
+          "listed_count": 52,
+          "media_count": 9830,
+          "tweet_count": 69021
+        },
+        "url": "https://t.co/c5mDVBExaU",
+        "username": "ljsabc",
+        "verified": false
+      }
+    ]
+  }
+}

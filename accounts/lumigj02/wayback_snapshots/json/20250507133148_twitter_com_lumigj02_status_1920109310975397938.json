@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920109301001330688"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1920109310975397938",
+    "created_at": "2025-05-07T13:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T14:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920109310975397938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dD2EUgq0V0",
+          "end": 27,
+          "expanded_url": "https://x.com/lumigj02/status/1920109310975397938/photo/1",
+          "media_key": "3_1920109301001330688",
+          "start": 4,
+          "url": "https://t.co/dD2EUgq0V0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920109310975397938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "标准猫 https://t.co/dD2EUgq0V0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920109301001330688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWZPHAboAA-vAW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920109301001330688"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1920109310975397938",
+        "created_at": "2025-05-07T13:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T14:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920109310975397938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dD2EUgq0V0",
+              "end": 27,
+              "expanded_url": "https://x.com/lumigj02/status/1920109310975397938/photo/1",
+              "media_key": "3_1920109301001330688",
+              "start": 4,
+              "url": "https://t.co/dD2EUgq0V0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920109310975397938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "标准猫 https://t.co/dD2EUgq0V0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 丰矿黑产牢药娘 | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920109170419978240/bIbfpJLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 881,
+          "like_count": 26643,
+          "listed_count": 12,
+          "media_count": 1046,
+          "tweet_count": 11747
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

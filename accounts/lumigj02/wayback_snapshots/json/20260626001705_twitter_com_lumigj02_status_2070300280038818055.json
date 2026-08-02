@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070300272430370816"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070300280038818055",
+    "created_at": "2026-06-26T00:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070300280038818055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2g2R8nOY1x",
+          "end": 54,
+          "expanded_url": "https://x.com/lumigj02/status/2070300280038818055/photo/1",
+          "media_key": "3_2070300272430370816",
+          "start": 31,
+          "url": "https://t.co/2g2R8nOY1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070300280038818055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "昨天又在人南立交被卡在最后一个才进去，遂定制了一个神秘车贴（ https://t.co/2g2R8nOY1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1527,
+        "media_key": "3_2070300272430370816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsvIPybUAAcIvv.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070300272430370816"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070300280038818055",
+        "created_at": "2026-06-26T00:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070300280038818055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2g2R8nOY1x",
+              "end": 54,
+              "expanded_url": "https://x.com/lumigj02/status/2070300280038818055/photo/1",
+              "media_key": "3_2070300272430370816",
+              "start": 31,
+              "url": "https://t.co/2g2R8nOY1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070300280038818055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "昨天又在人南立交被卡在最后一个才进去，遂定制了一个神秘车贴（ https://t.co/2g2R8nOY1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "互联网 跨境出海 技术产品经理\n兼职糖商 或许是xyn喵（\n\n永远喜欢的妹妹 @JR_YamanoteE235\n可爱猫娘女仆(?) @leetfs1\n笨蛋肥鸟姐姐 @hoshi_asuka0089\n校友大猫猫 @_furryfur_\n? @hobartr6\n\n永久锁推账号 @itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "leetfs1"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "hobartr6"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫打滚时会自己卷起来的",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070282608190390272/m2drwpd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4119,
+          "following_count": 826,
+          "like_count": 4227,
+          "listed_count": 9,
+          "media_count": 110,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

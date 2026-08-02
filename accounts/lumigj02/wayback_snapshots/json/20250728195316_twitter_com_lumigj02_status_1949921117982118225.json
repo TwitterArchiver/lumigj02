@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1949715484070621202",
+    "created_at": "2025-07-28T19:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T20:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949921117982118225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709913185351024640",
+          "start": 0,
+          "username": "DukeLitsenbourg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949921117982118225",
+    "in_reply_to_user_id": "1709913185351024640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949715484070621202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DukeLitsenbourg 日本确实是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1949715484070621202].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1949715484070621202",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1949715484070621202"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1949715484070621202",
+        "created_at": "2025-07-28T19:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T20:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949921117982118225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709913185351024640",
+              "start": 0,
+              "username": "DukeLitsenbourg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949921117982118225",
+        "in_reply_to_user_id": "1709913185351024640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949715484070621202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DukeLitsenbourg 日本确实是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949744633480912897/-ekbjwHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 926,
+          "like_count": 27677,
+          "listed_count": 12,
+          "media_count": 1110,
+          "tweet_count": 13181
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T12:47:38.000Z",
+        "description": "本体→ @Unnamed_RF｜内通厳禁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Unnamed_RF"
+              }
+            ]
+          }
+        },
+        "id": "1709913185351024640",
+        "location": "堺市",
+        "name": "ﾈｺ魚😻",
+        "pinned_tweet_id": "1927396458933678578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944610842638790657/acHqE5MD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 95,
+          "like_count": 305,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1183
+        },
+        "username": "DukeLitsenbourg",
+        "verified": false
+      }
+    ]
+  }
+}

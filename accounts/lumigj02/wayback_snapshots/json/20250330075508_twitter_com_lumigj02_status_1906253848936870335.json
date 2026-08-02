@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1906253782666895360"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1906253848936870335",
+    "created_at": "2025-03-30T07:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T08:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906253848936870335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m8PZjpFf27",
+          "end": 36,
+          "expanded_url": "https://x.com/lumigj02/status/1906253848936870335/video/1",
+          "media_key": "13_1906253782666895360",
+          "start": 13,
+          "url": "https://t.co/m8PZjpFf27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906253848936870335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道自己在干什么的呆猫 https://t.co/m8PZjpFf27"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6986,
+        "height": 1920,
+        "media_key": "13_1906253782666895360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1906253782666895360/img/gcjFSUVkn3OBUx2B.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906253782666895360/vid/avc1/480x852/ioVTwCnPvtDc2lJP.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906253782666895360/pl/jHrKfdjHPXCTjYsT.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906253782666895360/vid/avc1/320x568/U1rQ75J2si-RH0v9.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906253782666895360/vid/avc1/1080x1920/_Q0X_77Eh5rSmETO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906253782666895360/vid/avc1/720x1280/zSF5rDtHDiFuNV11.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906253782666895360"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906253848936870335",
+        "created_at": "2025-03-30T07:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T08:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906253848936870335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8PZjpFf27",
+              "end": 36,
+              "expanded_url": "https://x.com/lumigj02/status/1906253848936870335/video/1",
+              "media_key": "13_1906253782666895360",
+              "start": 13,
+              "url": "https://t.co/m8PZjpFf27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906253848936870335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道自己在干什么的呆猫 https://t.co/m8PZjpFf27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 4ever | @you_miaowu | 叫我猫卷/Lumi | contact: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "云猫归卷",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 863,
+          "like_count": 26144,
+          "listed_count": 11,
+          "media_count": 975,
+          "tweet_count": 11161
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

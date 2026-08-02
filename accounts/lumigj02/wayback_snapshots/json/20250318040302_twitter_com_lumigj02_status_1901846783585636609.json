@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1901596243673113079",
+    "created_at": "2025-03-18T04:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T05:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901846783585636609"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "大草",
+          "probability": 0.4358,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1401470532218888194",
+          "start": 0,
+          "username": "AkinoKaedeChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901846783585636609",
+    "in_reply_to_user_id": "1401470532218888194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901596243673113079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkinoKaedeChan 大草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1901596243673113079",
+        "created_at": "2025-03-18T04:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T05:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901846783585636609"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "大草",
+              "probability": 0.4358,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1401470532218888194",
+              "start": 0,
+              "username": "AkinoKaedeChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901846783585636609",
+        "in_reply_to_user_id": "1401470532218888194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901596243673113079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkinoKaedeChan 大草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401470532218888194",
+        "conversation_id": "1901596243673113079",
+        "created_at": "2025-03-17T11:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T12:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901596243673113079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901596243673113079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3498,
+          "like_count": 44,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚀 还在用嘴巴沟通？ 2025年独立开发者早就淘汰这种原始方式了！ 🚀\n\n还在开会扯皮？还在无效沟通浪费生命？ 醒醒吧！ 2025年了，效率就是金钱，时间就是生命！ 你还在用 嘴巴 这种低效、落后的方式沟通？ 难怪你的项目进度慢如蜗牛，难怪你还在苦苦挣扎！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 🇦🇺 @QUT 🇸🇬 @sutdsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 38,
+                "start": 34,
+                "username": "QUT"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "sutdsg"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 852,
+          "like_count": 25735,
+          "listed_count": 11,
+          "media_count": 947,
+          "tweet_count": 10752
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-06T09:26:34.000Z",
+        "description": "@akinokaede@mastodon.social | akinokaede.eth | Undergraduate Student | zh-CN/zh-TW/en | 0xF8A59385C0FC9E4E",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akinokae.de",
+                "end": 23,
+                "expanded_url": "https://akinokae.de",
+                "start": 0,
+                "url": "https://t.co/jhnfW5PURG"
+              }
+            ]
+          }
+        },
+        "id": "1401470532218888194",
+        "name": "秋野かえで",
+        "pinned_tweet_id": "1735604674030662038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710228800070709248/YreXMPGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 211,
+          "like_count": 700,
+          "listed_count": 19,
+          "media_count": 289,
+          "tweet_count": 5547
+        },
+        "url": "https://t.co/jhnfW5PURG",
+        "username": "AkinoKaedeChan",
+        "verified": false
+      }
+    ]
+  }
+}

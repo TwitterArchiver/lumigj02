@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1927444955724730483",
+    "created_at": "2025-05-29T17:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T18:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928146600553042008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427572752358141956",
+          "start": 0,
+          "username": "Hongcha_Orchids"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928146600553042008",
+    "in_reply_to_user_id": "1427572752358141956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927500026512912433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hongcha_Orchids 你更可爱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1927444955724730483",
+        "created_at": "2025-05-29T17:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T18:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928146600553042008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427572752358141956",
+              "start": 0,
+              "username": "Hongcha_Orchids"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928146600553042008",
+        "in_reply_to_user_id": "1427572752358141956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927500026512912433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hongcha_Orchids 你更可爱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427572752358141956",
+        "conversation_id": "1927444955724730483",
+        "created_at": "2025-05-27T22:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T23:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927500026512912433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927500026512912433",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927444955724730483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 你又哪里丑了😭\n猫卷姐姐可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "❤️ @HobartR6 | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系 | DM for fo back",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1927788822642749514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 897,
+          "like_count": 27030,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12223
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T10:07:31.000Z",
+        "description": "Sunlight @Meowneko_Mio & 最好的恋人@datadelete_4444 | 不配做EE/CS | 明日十時にホームで待ち合わせとかしよう@JR_YamanoteE235 | 姐姐@Shenyuebanran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "Meowneko_Mio"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "datadelete_4444"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "Shenyuebanran"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HongCha_Cattle…",
+                "end": 23,
+                "expanded_url": "http://t.me/HongCha_Cattleya",
+                "start": 0,
+                "url": "https://t.co/UGVRra9vk5"
+              }
+            ]
+          }
+        },
+        "id": "1427572752358141956",
+        "location": "44怀里~",
+        "name": "紅茶",
+        "pinned_tweet_id": "1911557087337062870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927391369699500033/ILgxgUah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 1635,
+          "like_count": 33719,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 5231
+        },
+        "url": "https://t.co/UGVRra9vk5",
+        "username": "Hongcha_Orchids",
+        "verified": false
+      }
+    ]
+  }
+}

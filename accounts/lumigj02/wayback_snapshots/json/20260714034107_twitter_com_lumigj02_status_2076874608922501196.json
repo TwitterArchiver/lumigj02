@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076874600940744704",
+        "3_2076874600957550592"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2076874608922501196",
+    "created_at": "2026-07-14T03:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076874608922501196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2t90Vjv9aX",
+          "end": 126,
+          "expanded_url": "https://x.com/lumigj02/status/2076874608922501196/photo/1",
+          "media_key": "3_2076874600940744704",
+          "start": 103,
+          "url": "https://t.co/2t90Vjv9aX"
+        },
+        {
+          "display_url": "pic.x.com/2t90Vjv9aX",
+          "end": 126,
+          "expanded_url": "https://x.com/lumigj02/status/2076874608922501196/photo/1",
+          "media_key": "3_2076874600957550592",
+          "start": 103,
+          "url": "https://t.co/2t90Vjv9aX"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/lumigj02/status/2076861312009974180",
+          "start": 127,
+          "url": "https://t.co/KCNPOFgtnB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076874608922501196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076861312009974180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "下一批泰补可能会便宜一点，这批厂家给的还是03/27到期，所以我怕有点临期，但是其实是还有快一年可以吃完的。\n\n如果9月份以后还有03/27(到那时就剩半年有效期)的我会降价处理，总之我会尽力让大伙满意的 https://t.co/2t90Vjv9aX https://t.co/KCNPOFgtnB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1109,
+        "media_key": "3_2076874600940744704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKKciAasAA0sU7.jpg",
+        "width": 1478
+      },
+      {
+        "height": 1490,
+        "media_key": "3_2076874600957550592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKKciEbIAAglrs.jpg",
+        "width": 1154
+      },
+      {
+        "height": 1703,
+        "media_key": "3_2076861304032358400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJ-WjKacAAMaa4.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076874600940744704",
+            "3_2076874600957550592"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2076874608922501196",
+        "created_at": "2026-07-14T03:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076874608922501196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2t90Vjv9aX",
+              "end": 126,
+              "expanded_url": "https://x.com/lumigj02/status/2076874608922501196/photo/1",
+              "media_key": "3_2076874600940744704",
+              "start": 103,
+              "url": "https://t.co/2t90Vjv9aX"
+            },
+            {
+              "display_url": "pic.x.com/2t90Vjv9aX",
+              "end": 126,
+              "expanded_url": "https://x.com/lumigj02/status/2076874608922501196/photo/1",
+              "media_key": "3_2076874600957550592",
+              "start": 103,
+              "url": "https://t.co/2t90Vjv9aX"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/lumigj02/status/2076861312009974180",
+              "start": 127,
+              "url": "https://t.co/KCNPOFgtnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076874608922501196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076861312009974180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "下一批泰补可能会便宜一点，这批厂家给的还是03/27到期，所以我怕有点临期，但是其实是还有快一年可以吃完的。\n\n如果9月份以后还有03/27(到那时就剩半年有效期)的我会降价处理，总之我会尽力让大伙满意的 https://t.co/2t90Vjv9aX https://t.co/KCNPOFgtnB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076861304032358400"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2076861312009974180",
+        "created_at": "2026-07-14T02:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076861312009974180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIUz5Bh3nj",
+              "end": 42,
+              "expanded_url": "https://x.com/lumigj02/status/2076861312009974180/photo/1",
+              "media_key": "3_2076861304032358400",
+              "start": 19,
+              "url": "https://t.co/pIUz5Bh3nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076861312009974180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "忙着上班导致库存都快没了 (╥﹏╥) https://t.co/pIUz5Bh3nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6\n猫娘女仆@leetfs1\n笨蛋姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 22,
+                "start": 14,
+                "username": "leetfs1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/vNaapx0WBI"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4186,
+          "following_count": 835,
+          "like_count": 4348,
+          "listed_count": 9,
+          "media_count": 115,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/vNaapx0WBI",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

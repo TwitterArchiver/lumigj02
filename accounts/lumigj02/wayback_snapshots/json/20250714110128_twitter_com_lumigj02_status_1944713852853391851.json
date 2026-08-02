@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1944713081478938946",
+    "created_at": "2025-07-14T11:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T12:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944713852853391851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944713852853391851",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944713081478938946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq 去啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1944713081478938946].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1944713081478938946",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1944713081478938946"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1944713081478938946",
+        "created_at": "2025-07-14T11:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T12:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944713852853391851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944713852853391851",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944713081478938946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq 去啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "家猫: @_FurryFur_ 泰补170 opinions are my own 私信关 DM closed 请联系 please contact https://t.co/xnU7yfJnaD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "_FurryFur_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 98,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 75,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944429548168527872/Kxx8zP9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 914,
+          "like_count": 27482,
+          "listed_count": 12,
+          "media_count": 1088,
+          "tweet_count": 12819
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "",
+        "id": "1690388233778331649",
+        "name": "MizukiQAQAQAQ",
+        "pinned_tweet_id": "1933084183855022210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924619943074766848/LnejqEeG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 827,
+          "like_count": 10562,
+          "listed_count": 0,
+          "media_count": 954,
+          "tweet_count": 3538
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      }
+    ]
+  }
+}

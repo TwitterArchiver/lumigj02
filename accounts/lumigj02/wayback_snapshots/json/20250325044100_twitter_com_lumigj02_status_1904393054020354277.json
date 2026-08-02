@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1904323058657046798",
+    "created_at": "2025-03-25T04:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T05:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904393054020354277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663036768415887362",
+          "start": 0,
+          "username": "AmericanoR6"
+        },
+        {
+          "end": 22,
+          "id": "759222695108149248",
+          "start": 13,
+          "username": "MacieJay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904393054020354277",
+    "in_reply_to_user_id": "1663036768415887362",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904323058657046798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmericanoR6 @MacieJay"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29200,
+        "height": 1080,
+        "media_key": "7_1904322680079179776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1904322680079179776/pu/img/oZLjbQpnRnS7QV2s.jpg",
+        "public_metrics": {
+          "view_count": 4291
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904322680079179776/pu/vid/avc1/480x270/XcZSCdehyKOTt2km.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904322680079179776/pu/vid/avc1/640x360/XVcjW8XLsVedX4DV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904322680079179776/pu/vid/avc1/1280x720/cwu1yHpixqw9IZLi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1904322680079179776/pu/pl/LTPSMxOLmPOsbBw5.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1904323058657046798",
+        "created_at": "2025-03-25T04:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T05:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904393054020354277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663036768415887362",
+              "start": 0,
+              "username": "AmericanoR6"
+            },
+            {
+              "end": 22,
+              "id": "759222695108149248",
+              "start": 13,
+              "username": "MacieJay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904393054020354277",
+        "in_reply_to_user_id": "1663036768415887362",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904323058657046798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmericanoR6 @MacieJay"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904322680079179776"
+          ]
+        },
+        "author_id": "1663036768415887362",
+        "conversation_id": "1904323058657046798",
+        "created_at": "2025-03-25T00:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T01:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904323058657046798"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "MacieJay",
+              "probability": 0.5364,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8kdgpXcqh",
+              "end": 46,
+              "expanded_url": "https://x.com/AmericanoR6/status/1904323058657046798/video/1",
+              "media_key": "7_1904322680079179776",
+              "start": 23,
+              "url": "https://t.co/q8kdgpXcqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904323058657046798",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 10752,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "This MIGHT be MacieJay https://t.co/q8kdgpXcqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu ### 19 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 87,
+                "start": 80,
+                "username": "sutdsg"
+              },
+              {
+                "end": 112,
+                "start": 108,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 859,
+          "like_count": 25920,
+          "listed_count": 11,
+          "media_count": 966,
+          "tweet_count": 10999
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T04:17:31.000Z",
+        "description": "👁️R6",
+        "id": "1663036768415887362",
+        "name": "///Moses",
+        "pinned_tweet_id": "1828982979512643759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891262470485839872/L_GFCA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 96,
+          "like_count": 2824,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 1411
+        },
+        "username": "AmericanoR6",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-30T03:02:51.000Z",
+        "description": "YouTuber, Twitch Streamer (/MacieJay)\n\nBusiness Inquiries: MacieJay@ViralNationTalent.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/MacieJay",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/MacieJay",
+                "start": 0,
+                "url": "https://t.co/1JgjwhyQob"
+              }
+            ]
+          }
+        },
+        "id": "759222695108149248",
+        "name": "Macie Jay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476627931191558151/Np63MAkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228261,
+          "following_count": 242,
+          "like_count": 7384,
+          "listed_count": 166,
+          "media_count": 1398,
+          "tweet_count": 6171
+        },
+        "url": "https://t.co/1JgjwhyQob",
+        "username": "MacieJay",
+        "verified": true
+      }
+    ]
+  }
+}

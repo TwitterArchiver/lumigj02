@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1944713081478938946",
+    "created_at": "2025-07-14T12:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T13:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944729135957651497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944729135957651497",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944714937450000719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq 你挺漂亮的啊，至少我是这么觉得的，就是性格有点抽象"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1944714937450000719].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1944714937450000719",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1944714937450000719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1944713081478938946",
+        "created_at": "2025-07-14T12:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T13:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944729135957651497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944729135957651497",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944714937450000719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq 你挺漂亮的啊，至少我是这么觉得的，就是性格有点抽象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "家猫: @_FurryFur_ 泰补170 opinions are my own 私信关 DM closed 请联系 please contact https://t.co/xnU7yfJnaD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "_FurryFur_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 98,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 75,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944429548168527872/Kxx8zP9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 915,
+          "like_count": 27482,
+          "listed_count": 12,
+          "media_count": 1088,
+          "tweet_count": 12820
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "",
+        "id": "1690388233778331649",
+        "name": "MizukiQAQAQAQ",
+        "pinned_tweet_id": "1933084183855022210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924619943074766848/LnejqEeG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 828,
+          "like_count": 10563,
+          "listed_count": 0,
+          "media_count": 954,
+          "tweet_count": 3538
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      }
+    ]
+  }
+}

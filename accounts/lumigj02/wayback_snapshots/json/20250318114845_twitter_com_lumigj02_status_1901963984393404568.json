@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1901961548941427068",
+    "created_at": "2025-03-18T11:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T12:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901963984393404568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1502860007867502598",
+          "start": 0,
+          "username": "HobartR6"
+        },
+        {
+          "end": 23,
+          "id": "1556241884829425664",
+          "start": 10,
+          "username": "zhuohua12345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901963984393404568",
+    "in_reply_to_user_id": "1502860007867502598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901963591496183963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HobartR6 @zhuohua12345 骑猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1901961548941427068",
+        "created_at": "2025-03-18T11:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T12:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901963984393404568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1502860007867502598",
+              "start": 0,
+              "username": "HobartR6"
+            },
+            {
+              "end": 23,
+              "id": "1556241884829425664",
+              "start": 10,
+              "username": "zhuohua12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901963984393404568",
+        "in_reply_to_user_id": "1502860007867502598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901963591496183963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HobartR6 @zhuohua12345 骑猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502860007867502598",
+        "conversation_id": "1901961548941427068",
+        "created_at": "2025-03-18T11:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T12:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901963591496183963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 23,
+              "id": "1556241884829425664",
+              "start": 10,
+              "username": "zhuohua12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901963591496183963",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901963122803675298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @zhuohua12345 第二种也不是不行（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | @you_miaowu | 🇦🇺 @QUT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 52,
+                "start": 48,
+                "username": "QUT"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷",
+        "pinned_tweet_id": "1843231992315555922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 852,
+          "like_count": 25748,
+          "listed_count": 11,
+          "media_count": 949,
+          "tweet_count": 10769
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "💖 Comprometido con @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "HobartR6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896483474799808512/O-u_oJ1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 81,
+          "like_count": 1045,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 895
+        },
+        "username": "HobartR6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T11:32:45.000Z",
+        "description": "是mtf哦，一个人独居工作，希望能多交朋友，多涨fo",
+        "id": "1556241884829425664",
+        "name": "灼华🍥",
+        "pinned_tweet_id": "1887742178014925045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890330249445163008/Tj8j8pD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 394,
+          "like_count": 2713,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1533
+        },
+        "username": "zhuohua12345",
+        "verified": false
+      }
+    ]
+  }
+}

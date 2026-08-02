@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897130540211524054",
+    "created_at": "2025-03-06T03:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T04:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897494688485277942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777773509332393984",
+          "start": 0,
+          "username": "luo_bei96733"
+        },
+        {
+          "end": 21,
+          "id": "1855842590748540928",
+          "start": 14,
+          "username": "O_J_DK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897494688485277942",
+    "in_reply_to_user_id": "1777773509332393984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897428758950470138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_bei96733 @O_J_DK 讲道理可以，就是药适配不适配我不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897130540211524054",
+        "created_at": "2025-03-06T03:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T04:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897494688485277942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777773509332393984",
+              "start": 0,
+              "username": "luo_bei96733"
+            },
+            {
+              "end": 21,
+              "id": "1855842590748540928",
+              "start": 14,
+              "username": "O_J_DK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897494688485277942",
+        "in_reply_to_user_id": "1777773509332393984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897428758950470138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_bei96733 @O_J_DK 讲道理可以，就是药适配不适配我不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777773509332393984",
+        "conversation_id": "1897130540211524054",
+        "created_at": "2025-03-05T23:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T00:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897428758950470138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 17,
+              "id": "1855842590748540928",
+              "start": 10,
+              "username": "O_J_DK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897428758950470138",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897324614864568595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @O_J_DK 雌激素可以用软针吗？就是类似于胰岛素的那种弄一个小盒子放上面定时打，软针好像不太容易留痕迹，不过一周打一次的话药好像容易过期？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 日雌390泰补200 DM or contact Telegram below",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi G. Jiang Cheng Xue 日雌390泰补200",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 836,
+          "like_count": 25401,
+          "listed_count": 11,
+          "media_count": 920,
+          "tweet_count": 10250
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T19:00:18.000Z",
+        "description": "上推是为了看黄的，但是啥都爱凑热闹，所以可能各种地方都会评论，如果是因为我的评论觉得我挺有意思，建议只收藏评论，因为我过来就是看黄的，关注我可能会刷到一堆黄推",
+        "id": "1777773509332393984",
+        "name": "洛北川",
+        "pinned_tweet_id": "1873608514519924906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846613288219824129/v9I--AA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 269,
+          "like_count": 17807,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1842
+        },
+        "username": "luo_bei96733",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T05:18:56.000Z",
+        "description": "Stupid!",
+        "id": "1855842590748540928",
+        "location": "Pluto",
+        "name": "DK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858902203219771392/KbSc_bnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 143,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 71
+        },
+        "username": "O_J_DK",
+        "verified": false
+      }
+    ]
+  }
+}

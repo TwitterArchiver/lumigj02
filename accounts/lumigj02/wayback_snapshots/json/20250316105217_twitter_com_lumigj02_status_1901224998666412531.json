@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1901183220206703095",
+    "created_at": "2025-03-16T10:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T11:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901224998666412531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1615704614766260225",
+          "start": 0,
+          "username": "RanXi_MtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901224998666412531",
+    "in_reply_to_user_id": "1615704614766260225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901212143221186714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RanXi_MtF 我要说你就直接私聊说你了😇"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1901212143221186714].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1901212143221186714",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1901212143221186714"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1901183220206703095",
+        "created_at": "2025-03-16T10:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T11:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901224998666412531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1615704614766260225",
+              "start": 0,
+              "username": "RanXi_MtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901224998666412531",
+        "in_reply_to_user_id": "1615704614766260225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901212143221186714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RanXi_MtF 我要说你就直接私聊说你了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 19 🇸🇬 @NUSingapore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "成都/Singapore",
+        "name": "猫卷",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 871,
+          "like_count": 25710,
+          "listed_count": 11,
+          "media_count": 955,
+          "tweet_count": 10737
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-18T13:36:22.000Z",
+        "description": "摄影📷｜NIKON｜24.8.18｜日常｜@Fly0001985｜@kikoxts｜@lonebef88012｜@RanXi_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Fly0001985"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "kikoxts"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "lonebef88012"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "RanXi_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikon.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.nikon.com.cn",
+                "start": 0,
+                "url": "https://t.co/0YOLczz4oq"
+              }
+            ]
+          }
+        },
+        "id": "1615704614766260225",
+        "location": "日本国东京都港区港南2-15-3 品川城际",
+        "name": "RanXi｜OS",
+        "pinned_tweet_id": "1865343341266890803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876199238557933568/oyF7OKX1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 773,
+          "like_count": 18057,
+          "listed_count": 8,
+          "media_count": 747,
+          "tweet_count": 4890
+        },
+        "url": "https://t.co/0YOLczz4oq",
+        "username": "RanXi_MtF",
+        "verified": false
+      }
+    ]
+  }
+}

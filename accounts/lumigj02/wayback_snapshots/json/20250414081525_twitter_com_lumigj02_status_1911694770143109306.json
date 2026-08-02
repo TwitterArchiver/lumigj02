@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1911640405688652234",
+    "created_at": "2025-04-14T08:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T09:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911694770143109306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1305844679284457473",
+          "start": 0,
+          "username": "Unnamed_RF"
+        },
+        {
+          "end": 28,
+          "id": "1573663582994444289",
+          "start": 12,
+          "username": "guojiazongshuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911694770143109306",
+    "in_reply_to_user_id": "1305844679284457473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911642596465840398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unnamed_RF @guojiazongshuji 自有一物降一物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1911640405688652234",
+        "created_at": "2025-04-14T08:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T09:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911694770143109306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1305844679284457473",
+              "start": 0,
+              "username": "Unnamed_RF"
+            },
+            {
+              "end": 28,
+              "id": "1573663582994444289",
+              "start": 12,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911694770143109306",
+        "in_reply_to_user_id": "1305844679284457473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911642596465840398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unnamed_RF @guojiazongshuji 自有一物降一物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305844679284457473",
+        "conversation_id": "1911640405688652234",
+        "created_at": "2025-04-14T04:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T05:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911642596465840398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911642596465840398",
+        "in_reply_to_user_id": "1573663582994444289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911640405688652234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji 這下社會主義好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "CompSci @NUSingapore @sutdsg | ❤️ @_Sanxon | @you_miaowu | 日雌380 泰补210 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "sutdsg"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 870,
+          "like_count": 26355,
+          "listed_count": 11,
+          "media_count": 1010,
+          "tweet_count": 11403
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "ダメ人間 ｜日本語不自由｜POOR English｜中文忘了｜裏→ @sirimeturetu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "sirimeturetu_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "info.cern.ch",
+                "end": 23,
+                "expanded_url": "http://info.cern.ch",
+                "start": 0,
+                "url": "https://t.co/dHc6uv06om"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "東朝鮮",
+        "name": "律 🌏",
+        "pinned_tweet_id": "1911400484008517975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904999314247897088/hAq7FJmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2458,
+          "following_count": 843,
+          "like_count": 9751,
+          "listed_count": 15,
+          "media_count": 4217,
+          "tweet_count": 35939
+        },
+        "url": "https://t.co/dHc6uv06om",
+        "username": "Unnamed_RF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "满洲国出身 /  满洲国国歌《南蛮大布》/满洲第一厨师老八 /  满洲国外交部发言人黑手哥 /  满洲国国防部长陈泽 /满洲国一级上将宇将军 / 满洲国传统运动项目海兰泡冬泳大赛 / 满洲国信仰李洪志《转法轮》/ 满洲国传统美食桌饺🥟大酱、西安猪臊子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html",
+                "start": 0,
+                "url": "https://t.co/X75VIaIJ9Z"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "符拉迪沃斯托克—满俄奥运会现场",
+        "name": "狐仙苏苏",
+        "pinned_tweet_id": "1790949934688268776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419378591399936/AA5Epfm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10213,
+          "following_count": 583,
+          "like_count": 56926,
+          "listed_count": 24,
+          "media_count": 327,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/X75VIaIJ9Z",
+        "username": "guojiazongshuji",
+        "verified": true
+      }
+    ]
+  }
+}

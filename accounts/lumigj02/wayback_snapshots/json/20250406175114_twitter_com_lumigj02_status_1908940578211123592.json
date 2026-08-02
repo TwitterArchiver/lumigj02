@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1908788773808435357",
+    "created_at": "2025-04-06T17:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T18:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908940578211123592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1549875407922401281",
+          "start": 0,
+          "username": "Yunochan_5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908940578211123592",
+    "in_reply_to_user_id": "1549875407922401281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908939834456183212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunochan_5 是沒什麼壓力 我從16歲開始就沒在讀最累的中學了 然後一直玩一直玩到現在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1908788773808435357",
+        "created_at": "2025-04-06T17:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T18:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908940578211123592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1549875407922401281",
+              "start": 0,
+              "username": "Yunochan_5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908940578211123592",
+        "in_reply_to_user_id": "1549875407922401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908939834456183212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunochan_5 是沒什麼壓力 我從16歲開始就沒在讀最累的中學了 然後一直玩一直玩到現在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549875407922401281",
+        "conversation_id": "1908788773808435357",
+        "created_at": "2025-04-06T17:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T18:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908939834456183212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908939834456183212",
+        "in_reply_to_user_id": "1549875407922401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908939361921667527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 留子压力小 看着皮肤和气质什么的都比国内同龄人好一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | ❤️ 阿星 @Yan_Xing_Xing | @you_miaowu | 日雌380包邮 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "猫归云卷 (日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908656993738645506/-6v0h0RO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 862,
+          "like_count": 26274,
+          "listed_count": 11,
+          "media_count": 996,
+          "tweet_count": 11283
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T21:56:11.000Z",
+        "description": "爱好：盆栽/绘画/手工/做饭/---/mtf/de-hrt2025.1.26/正在学习化妆/备考JLPT",
+        "id": "1549875407922401281",
+        "location": "non-universe",
+        "name": "悠乃ちゃん",
+        "pinned_tweet_id": "1874702533475865018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905577769297481728/zkguYLJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 169,
+          "like_count": 12360,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 718
+        },
+        "username": "Yunochan_5",
+        "verified": false
+      }
+    ]
+  }
+}

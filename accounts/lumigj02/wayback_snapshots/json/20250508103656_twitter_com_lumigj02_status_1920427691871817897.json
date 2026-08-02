@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1920426490346303932",
+    "created_at": "2025-05-08T10:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T11:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920427691871817897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1502860007867502598",
+          "start": 0,
+          "username": "Kirito3rdSword"
+        },
+        {
+          "end": 31,
+          "id": "1865419581206208512",
+          "start": 16,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920427691871817897",
+    "in_reply_to_user_id": "1502860007867502598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920427620535034053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirito3rdSword @DDzhanshou5150 宝宝你是一个小面包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1920426490346303932",
+        "created_at": "2025-05-08T10:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T11:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920427691871817897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1502860007867502598",
+              "start": 0,
+              "username": "Kirito3rdSword"
+            },
+            {
+              "end": 31,
+              "id": "1865419581206208512",
+              "start": 16,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920427691871817897",
+        "in_reply_to_user_id": "1502860007867502598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920427620535034053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirito3rdSword @DDzhanshou5150 宝宝你是一个小面包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502860007867502598",
+        "conversation_id": "1920426490346303932",
+        "created_at": "2025-05-08T10:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T11:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920427620535034053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 25,
+              "id": "1865419581206208512",
+              "start": 10,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920427620535034053",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920427425374126300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @DDzhanshou5150 宝宝你很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 丰矿黑产牢药娘 | 主人 @?? | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌370包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920376373429821440/3TPdVHUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 884,
+          "like_count": 26687,
+          "listed_count": 0,
+          "media_count": 1048,
+          "tweet_count": 11779
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "死亡是凉爽的夜晚 而活着则是闷热的白天",
+        "id": "1502860007867502598",
+        "name": ".",
+        "pinned_tweet_id": "1912785799986442479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919444964989399040/Z6OLkJuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 150,
+          "like_count": 2445,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1305
+        },
+        "username": "Kirito3rdSword",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908057654267990016/0WM0C63a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3338,
+          "following_count": 3352,
+          "like_count": 8109,
+          "listed_count": 3,
+          "media_count": 1357,
+          "tweet_count": 11422
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

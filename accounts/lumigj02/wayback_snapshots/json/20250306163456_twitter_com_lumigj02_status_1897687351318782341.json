@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897687351318782341",
+    "created_at": "2025-03-06T16:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T17:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897687351318782341"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "LeeTV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Aliyahjang/sta…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/Aliyahjang/status/1897684230185840656",
+          "start": 113,
+          "url": "https://t.co/7jZwGyEJbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897687351318782341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897684230185840656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#LeeTV\n我来自我开盒一下吧。我上一份工作是在Ingenico SG做mobile payment solution的，EMV的BIN List基本被我全文背诵了。虽说中国的我确实不太熟悉，不过——我确定有以9开头的哦。 https://t.co/7jZwGyEJbF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897687351318782341",
+        "created_at": "2025-03-06T16:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897687351318782341"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "LeeTV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Aliyahjang/sta…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/Aliyahjang/status/1897684230185840656",
+              "start": 113,
+              "url": "https://t.co/7jZwGyEJbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897687351318782341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897684230185840656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#LeeTV\n我来自我开盒一下吧。我上一份工作是在Ingenico SG做mobile payment solution的，EMV的BIN List基本被我全文背诵了。虽说中国的我确实不太熟悉，不过——我确定有以9开头的哦。 https://t.co/7jZwGyEJbF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557982495710257152",
+        "conversation_id": "1897665198745686492",
+        "created_at": "2025-03-06T16:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897684230185840656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 18,
+              "id": "1167792264795394048",
+              "start": 10,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897684230185840656",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897665198745686492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @leetfs1 卡号看起来怪怪的（？）哪些INN用9开头（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 || Progynon-Depot 10mg/mL * 10 = ¥390 || Progynova 2mg *84 = ¥200 || DM or contact Telegram below",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 842,
+          "like_count": 25422,
+          "listed_count": 11,
+          "media_count": 928,
+          "tweet_count": 10300
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T06:49:20.000Z",
+        "description": "|♥|死了| 这会考完了学完了休息版|特别好的小青铜器！：@li8964you||这个是竹蜻蜓！：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "li8964you"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1557982495710257152",
+        "location": "Pok Fu Lam Road, Hong Kong ",
+        "name": "Aliya",
+        "pinned_tweet_id": "1803384742072443017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863250418895065089/mYCRJqxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 2291,
+          "like_count": 46423,
+          "listed_count": 4,
+          "media_count": 252,
+          "tweet_count": 4096
+        },
+        "username": "Aliyahjang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1919555576792580318",
+    "created_at": "2025-05-06T12:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T13:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919725076666015810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "837903296291569664",
+          "start": 0,
+          "username": "WantedGoons"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919725076666015810",
+    "in_reply_to_user_id": "837903296291569664",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919555576792580318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WantedGoons Damn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919555509964734464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqOhkOoXgAAltpb.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1919555576792580318",
+        "created_at": "2025-05-06T12:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T13:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919725076666015810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "837903296291569664",
+              "start": 0,
+              "username": "WantedGoons"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919725076666015810",
+        "in_reply_to_user_id": "837903296291569664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919555576792580318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WantedGoons Damn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919555509964734464"
+          ]
+        },
+        "author_id": "837903296291569664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1919555576792580318",
+        "created_at": "2025-05-06T00:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T01:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919555576792580318"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Rainbow 6 Roster",
+              "probability": 0.8931,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qy9HZYtkI0",
+              "end": 65,
+              "expanded_url": "https://x.com/WantedGoons/status/1919555576792580318/photo/1",
+              "media_key": "3_1919555509964734464",
+              "start": 42,
+              "url": "https://t.co/Qy9HZYtkI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919555576792580318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 59515,
+          "like_count": 265,
+          "quote_count": 30,
+          "reply_count": 42,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "An update regarding our Rainbow 6 Roster: https://t.co/Qy9HZYtkI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 881,
+          "like_count": 26628,
+          "listed_count": 12,
+          "media_count": 1043,
+          "tweet_count": 11726
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-04T05:51:28.000Z",
+        "description": "#MostWanted | Official home of the Wanted Goons | Currently competing in Apex Legends, CS2, Halo & iRacing | @WGiRacing @WGCSAcademy @WGOutlaws",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "MostWanted"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 109,
+                "username": "WGiRacing"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "WGCSAcademy"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "WGOutlaws"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/wantedgoons",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/wantedgoons",
+                "start": 0,
+                "url": "https://t.co/qKeiKtFujO"
+              }
+            ]
+          }
+        },
+        "id": "837903296291569664",
+        "location": "Texas, USA",
+        "name": "Wanted Goons",
+        "pinned_tweet_id": "1852093355926106198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773130583633178624/ojVjaP_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4026,
+          "following_count": 61,
+          "like_count": 3594,
+          "listed_count": 6,
+          "media_count": 1114,
+          "tweet_count": 2430
+        },
+        "url": "https://t.co/qKeiKtFujO",
+        "username": "WantedGoons",
+        "verified": true
+      }
+    ]
+  }
+}

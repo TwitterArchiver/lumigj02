@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1903825539552665841",
+    "created_at": "2025-03-23T17:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T18:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903867523726254489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874082291800301570",
+          "start": 0,
+          "username": "ainonaka8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903867523726254489",
+    "in_reply_to_user_id": "1874082291800301570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903867166144987409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ainonaka8964 是的kixstar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1903825539552665841",
+        "created_at": "2025-03-23T17:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T18:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903867523726254489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874082291800301570",
+              "start": 0,
+              "username": "ainonaka8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903867523726254489",
+        "in_reply_to_user_id": "1874082291800301570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903867166144987409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ainonaka8964 是的kixstar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874082291800301570",
+        "conversation_id": "1903825539552665841",
+        "created_at": "2025-03-23T17:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T18:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903867166144987409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903867166144987409",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903825539552665841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 是那个kix嘛 好可惜的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 / @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "Lumi 猫卷 - 日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 861,
+          "like_count": 25880,
+          "listed_count": 11,
+          "media_count": 961,
+          "tweet_count": 10955
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-31T13:17:04.000Z",
+        "description": "🍥，对象是@rabbitank1994。想当一个阳光的tradwife。pjsk/邦多利/恐解。libfem。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "rabbitank1994"
+              }
+            ]
+          }
+        },
+        "id": "1874082291800301570",
+        "name": "はるみ",
+        "pinned_tweet_id": "1902991586780385639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903852470696353792/oxMLVhxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 277,
+          "like_count": 18775,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 444
+        },
+        "username": "ainonaka8964",
+        "verified": false
+      }
+    ]
+  }
+}

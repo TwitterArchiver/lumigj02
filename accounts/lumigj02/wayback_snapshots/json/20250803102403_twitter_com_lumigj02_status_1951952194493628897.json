@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1951547263924179428",
+    "created_at": "2025-08-03T10:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T11:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951952194493628897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "855565460464652288",
+          "start": 0,
+          "username": "CarlosZeLuis"
+        },
+        {
+          "end": 27,
+          "id": "3213596780",
+          "start": 14,
+          "username": "neomechanica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951952194493628897",
+    "in_reply_to_user_id": "855565460464652288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951648914484105344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlosZeLuis @neomechanica 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1951547263924179428",
+        "created_at": "2025-08-03T10:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T11:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951952194493628897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "855565460464652288",
+              "start": 0,
+              "username": "CarlosZeLuis"
+            },
+            {
+              "end": 27,
+              "id": "3213596780",
+              "start": 14,
+              "username": "neomechanica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951952194493628897",
+        "in_reply_to_user_id": "855565460464652288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951648914484105344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlosZeLuis @neomechanica 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "855565460464652288",
+        "conversation_id": "1951547263924179428",
+        "created_at": "2025-08-02T14:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T15:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951648914484105344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3213596780",
+              "start": 0,
+              "username": "neomechanica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951648914484105344",
+        "in_reply_to_user_id": "3213596780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19980,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951547263924179428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neomechanica 我那时候送二百份外卖，十里拥堵我不超时的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "我想香香软软",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 928,
+          "like_count": 27718,
+          "listed_count": 12,
+          "media_count": 1120,
+          "tweet_count": 13248
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-21T23:34:36.000Z",
+        "description": "不忠于任何政治倾向和宗教信仰，也试图不沉溺于任何信息茧房。喜欢琢磨世间一切的本质，努力扒掉所有皇帝的新装。There’s no such a thing as absolute certainty.",
+        "id": "855565460464652288",
+        "name": "小蓝鸟归来",
+        "pinned_tweet_id": "1947704864546627842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685198733540278273/fJOYa1ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 1057,
+          "like_count": 191762,
+          "listed_count": 5,
+          "media_count": 271,
+          "tweet_count": 12716
+        },
+        "username": "CarlosZeLuis",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-17T16:21:59.000Z",
+        "description": "THIΣ STORY IS ΔEDICATED TO ALL THOΣE CYBERPUNKS WH𐍈 FIGHT AGAINΣT INJUSTICE AND CORRUPTION EVERY ΔAY OF THEIR LIVES",
+        "id": "3213596780",
+        "location": "cyberspace",
+        "name": "NEOMECHANICA",
+        "pinned_tweet_id": "1846131118170345497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/678896623368335360/hvNn0f5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230771,
+          "following_count": 1,
+          "like_count": 47,
+          "listed_count": 1191,
+          "media_count": 10379,
+          "tweet_count": 10523
+        },
+        "username": "neomechanica",
+        "verified": true
+      }
+    ]
+  }
+}

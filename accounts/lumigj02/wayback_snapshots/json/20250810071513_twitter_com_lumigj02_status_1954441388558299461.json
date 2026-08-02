@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1954441388558299461",
+    "created_at": "2025-08-10T07:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T08:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954441388558299461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/lumigj02/status/1953874391592300596",
+          "start": 36,
+          "url": "https://t.co/vZymU64Tjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954441388558299461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953874391592300596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好无聊啊 有点后悔没把pr80带过来 这什么都没得吃 吃什么都一年起步 https://t.co/vZymU64Tjz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1954441388558299461",
+        "created_at": "2025-08-10T07:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T08:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954441388558299461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/lumigj02/status/1953874391592300596",
+              "start": 36,
+              "url": "https://t.co/vZymU64Tjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954441388558299461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953874391592300596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好无聊啊 有点后悔没把pr80带过来 这什么都没得吃 吃什么都一年起步 https://t.co/vZymU64Tjz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953874391592300596",
+        "created_at": "2025-08-08T17:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T18:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953874391592300596"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Singapore",
+              "probability": 0.9765,
+              "start": 22,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953874391592300596",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Bro I hate staying in Singapore but now there's no going back..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 934,
+          "like_count": 27712,
+          "listed_count": 12,
+          "media_count": 1124,
+          "tweet_count": 13388
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

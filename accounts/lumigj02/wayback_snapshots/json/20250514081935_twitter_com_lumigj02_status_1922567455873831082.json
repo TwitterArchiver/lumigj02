@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922567455873831082",
+    "created_at": "2025-05-14T08:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T09:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922567455873831082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guagua_me/stat…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/guagua_me/status/1922204652902154354",
+          "start": 79,
+          "url": "https://t.co/N9xPEjhVSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922567455873831082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922204652902154354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱之前也想划来着，可惜技术太差了，控制不好力度和方向，因为皮肤是软的，一划就错位了（这个应该不算血图吧，我也没法加viewer discretion，致歉） https://t.co/N9xPEjhVSh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922204638842953729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0K70vXoAEKAXW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1922204638821949440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0K70qXIAAceE1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922567455873831082",
+        "created_at": "2025-05-14T08:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922567455873831082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guagua_me/stat…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/guagua_me/status/1922204652902154354",
+              "start": 79,
+              "url": "https://t.co/N9xPEjhVSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922567455873831082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922204652902154354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱之前也想划来着，可惜技术太差了，控制不好力度和方向，因为皮肤是软的，一划就错位了（这个应该不算血图吧，我也没法加viewer discretion，致歉） https://t.co/N9xPEjhVSh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922204638842953729",
+            "3_1922204638821949440"
+          ]
+        },
+        "author_id": "1893209290921672704",
+        "conversation_id": "1922204652902154354",
+        "created_at": "2025-05-13T08:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T09:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922204652902154354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTuZshnxoG",
+              "end": 38,
+              "expanded_url": "https://x.com/guagua_me/status/1922204652902154354/photo/1",
+              "media_key": "3_1922204638842953729",
+              "start": 15,
+              "url": "https://t.co/NTuZshnxoG"
+            },
+            {
+              "display_url": "pic.x.com/NTuZshnxoG",
+              "end": 38,
+              "expanded_url": "https://x.com/guagua_me/status/1922204652902154354/photo/1",
+              "media_key": "3_1922204638821949440",
+              "start": 15,
+              "url": "https://t.co/NTuZshnxoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922204652902154354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 19878,
+          "like_count": 1463,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "唉誰還記得都是我一刀一刀畫的 https://t.co/NTuZshnxoG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 主人 @_temryava | 家猫 @_FurryFur_ | 日雌380泰补200（私信可能被吞建议Telegram联系）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "_temryava"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷🍥日雌380泰补200",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 883,
+          "like_count": 26762,
+          "listed_count": 12,
+          "media_count": 1064,
+          "tweet_count": 11906
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "不接推廣 不接線下",
+        "id": "1893209290921672704",
+        "location": "288/520/1888🚪口令",
+        "name": "瓜",
+        "pinned_tweet_id": "1906696464090460290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893486504237727744/kriRA7YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8450,
+          "following_count": 15,
+          "like_count": 262,
+          "listed_count": 30,
+          "media_count": 20,
+          "tweet_count": 46
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

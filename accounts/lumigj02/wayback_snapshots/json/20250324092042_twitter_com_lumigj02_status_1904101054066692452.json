@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1903832495243628682",
+    "created_at": "2025-03-24T09:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T10:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904101054066692452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1343330717477052418",
+          "start": 0,
+          "username": "Reedsink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904101054066692452",
+    "in_reply_to_user_id": "1343330717477052418",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903832495243628682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reedsink He needs some counselling honestly."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1903832495243628682",
+        "created_at": "2025-03-24T09:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T10:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904101054066692452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1343330717477052418",
+              "start": 0,
+              "username": "Reedsink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904101054066692452",
+        "in_reply_to_user_id": "1343330717477052418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903832495243628682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reedsink He needs some counselling honestly."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343330717477052418",
+        "conversation_id": "1903832495243628682",
+        "created_at": "2025-03-23T15:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T16:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903832495243628682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ooziieG/status…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/ooziieG/status/1903663079688229209",
+              "start": 95,
+              "url": "https://t.co/7idwgKQMgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903832495243628682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 13021,
+          "like_count": 229,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903663079688229209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Hope he is ok mentally, genuinely feels like every single new clip I see gets worse and worse. https://t.co/7idwgKQMgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | @you_miaowu | 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 858,
+          "like_count": 25898,
+          "listed_count": 11,
+          "media_count": 964,
+          "tweet_count": 10979
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T23:00:22.000Z",
+        "description": "Duo: @bryr6s | #KTBFFH",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "KTBFFH"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "bryr6s"
+              }
+            ]
+          }
+        },
+        "id": "1343330717477052418",
+        "name": "Reed",
+        "pinned_tweet_id": "1470263994149748743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795613456768315393/BiGdVRQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 525,
+          "like_count": 56140,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 9834
+        },
+        "username": "Reedsink",
+        "verified": false
+      }
+    ]
+  }
+}

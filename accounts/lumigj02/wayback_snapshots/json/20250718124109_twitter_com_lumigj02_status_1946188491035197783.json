@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1946185878105174413",
+    "created_at": "2025-07-18T12:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946188491035197783"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "Blackray",
+          "probability": 0.7121,
+          "start": 11,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1427095264117002240",
+          "start": 0,
+          "username": "sprCloudi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946188491035197783",
+    "in_reply_to_user_id": "1427095264117002240",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946185878105174413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sprCloudi Blackray cag?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1946185878105174413",
+        "created_at": "2025-07-18T12:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946188491035197783"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Blackray",
+              "probability": 0.7121,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1427095264117002240",
+              "start": 0,
+              "username": "sprCloudi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946188491035197783",
+        "in_reply_to_user_id": "1427095264117002240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946185878105174413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sprCloudi Blackray cag?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427095264117002240",
+        "conversation_id": "1946185878105174413",
+        "created_at": "2025-07-18T12:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946185878105174413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sprcloudi/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/sprcloudi/status/1944801088185479272",
+              "start": 111,
+              "url": "https://t.co/RIXDMlaenS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946185878105174413",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944801088185479272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nevermind a player on the best team in my favorite region fucking kidnapped and tortured someone what the hell https://t.co/RIXDMlaenS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "愿意被我杀掉么? I 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore I 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Tanglin Rd",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 922,
+          "like_count": 27608,
+          "listed_count": 12,
+          "media_count": 1098,
+          "tweet_count": 12995
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T02:30:22.000Z",
+        "description": "🍉🇵🇸 // 19 // i sometimes play video games // Eu Duo: @MVRIfae // Detroit sports fan // priv @sleepymela // sports acc @motownmels // #stayfruity",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 133,
+                "tag": "stayfruity"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "MVRIfae"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "sleepymela"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "motownmels"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/sprCloudi",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/sprCloudi",
+                "start": 0,
+                "url": "https://t.co/StS94Ce05U"
+              }
+            ]
+          }
+        },
+        "id": "1427095264117002240",
+        "location": "She/Her, Michigan ",
+        "name": "Mels",
+        "pinned_tweet_id": "1887883814858354913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842836264795385857/ZcDVlqiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 968,
+          "like_count": 24703,
+          "listed_count": 1,
+          "media_count": 3520,
+          "tweet_count": 21479
+        },
+        "url": "https://t.co/StS94Ce05U",
+        "username": "sprCloudi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1911830550735995201",
+    "created_at": "2025-04-14T22:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T23:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911911363192172602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911911363192172602",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911830550735995201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko 你稀有😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1911830550735995201",
+        "created_at": "2025-04-14T22:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T23:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911911363192172602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911911363192172602",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911830550735995201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko 你稀有😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356940397956620288",
+        "conversation_id": "1911830550735995201",
+        "created_at": "2025-04-14T17:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T18:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911830550735995201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/muoujiang_/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/muoujiang_/status/1911298717740642466",
+              "start": 5,
+              "url": "https://t.co/4S4PTbJjF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911830550735995201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911298717740642466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我稀有吗 https://t.co/4S4PTbJjF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🏳️‍⚧️ | R6 Player for ? | @you_miaowu | 日雌380 泰补210 progynon-depot / progynova 📧 inquiry@nekomakipharma.com | CS @NUSingapore 📧 lumi@u.nus.edu ###########",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "NUSingapore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 872,
+          "like_count": 26361,
+          "listed_count": 11,
+          "media_count": 1010,
+          "tweet_count": 11409
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜ 你饼干自己在用的梯子：https://t.co/i7QKqbPO6T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 64,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=jTnvUau0",
+                "start": 41,
+                "url": "https://t.co/i7QKqbPO6T"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "location": "Shijiazhuang/Beijing/Guangzhou",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "1799962414605349148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726632124412022784/TnqkN0Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8336,
+          "following_count": 2836,
+          "like_count": 14323,
+          "listed_count": 10,
+          "media_count": 748,
+          "tweet_count": 8325
+        },
+        "username": "NyaCookieNeko",
+        "verified": false
+      }
+    ]
+  }
+}

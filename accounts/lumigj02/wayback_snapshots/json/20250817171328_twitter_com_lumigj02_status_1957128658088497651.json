@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1956677355671314542",
+    "created_at": "2025-08-17T17:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T18:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957128658088497651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1229392853635190785",
+          "start": 0,
+          "username": "aespa_kiwinter"
+        },
+        {
+          "end": 31,
+          "id": "1865419581206208512",
+          "start": 16,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957128658088497651",
+    "in_reply_to_user_id": "1229392853635190785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 68,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956974279389511704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aespa_kiwinter @DDzhanshou5150 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1956677355671314542",
+        "created_at": "2025-08-17T17:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957128658088497651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1229392853635190785",
+              "start": 0,
+              "username": "aespa_kiwinter"
+            },
+            {
+              "end": 31,
+              "id": "1865419581206208512",
+              "start": 16,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957128658088497651",
+        "in_reply_to_user_id": "1229392853635190785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956974279389511704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aespa_kiwinter @DDzhanshou5150 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229392853635190785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1956677355671314542",
+        "created_at": "2025-08-17T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956974279389511704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956974279389511704",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4201,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956677355671314542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 这属于那种英语书上看到somebody缩写都要笑两天，看到him要致敬，数学书上看到24要肘一下，证明出来CP=BE要哭半天，眼保健操听到78要重复--遍，做广播操听到8要应一声，化学课听到烧杯要笑两天的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "布偶猫咪卷//日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "LUMI猫卷 出日雌喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956730628952805377/JO8kn5GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 921,
+          "like_count": 27838,
+          "listed_count": 12,
+          "media_count": 1145,
+          "tweet_count": 13677
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-17T13:11:18.000Z",
+        "description": "This man is very lazy, leaving nothing behind.",
+        "id": "1229392853635190785",
+        "name": "Limyoona20",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898420412268355584/wEnCsjTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 90,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "aespa_kiwinter",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5948,
+          "following_count": 5724,
+          "like_count": 19865,
+          "listed_count": 12,
+          "media_count": 3740,
+          "tweet_count": 28208
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

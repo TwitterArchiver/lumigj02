@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041557871",
+          "name": "Glassdoor"
+        }
+      }
+    ],
+    "conversation_id": "1920383514823864750",
+    "created_at": "2025-05-08T07:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T08:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920384566499442803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562153864",
+          "start": 0,
+          "username": "BigMiIkBottIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920384566499442803",
+    "in_reply_to_user_id": "1562153864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920383514823864750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigMiIkBottIe 报丧的都在glassdoor"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041557871",
+              "name": "Glassdoor"
+            }
+          }
+        ],
+        "conversation_id": "1920383514823864750",
+        "created_at": "2025-05-08T07:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920384566499442803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562153864",
+              "start": 0,
+              "username": "BigMiIkBottIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920384566499442803",
+        "in_reply_to_user_id": "1562153864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920383514823864750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigMiIkBottIe 报丧的都在glassdoor"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562153864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          }
+        ],
+        "conversation_id": "1920383514823864750",
+        "created_at": "2025-05-08T07:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920383514823864750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snake4y5h/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/snake4y5h/status/1920312908887503358",
+              "start": 23,
+              "url": "https://t.co/3EAwSYwpBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920383514823864750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920312908887503358",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒人會在 LinkedIn 上面天天報喪吧？ https://t.co/3EAwSYwpBq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 丰矿黑产牢药娘 | 主人 @? | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌370包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920376373429821440/3TPdVHUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 884,
+          "like_count": 26671,
+          "listed_count": 12,
+          "media_count": 1047,
+          "tweet_count": 11770
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-02T03:54:31.000Z",
+        "description": "400 mL 的大容量奶瓶｜奶牛貓貓娘｜貓咪中心主義｜貓咪至大",
+        "id": "1562153864",
+        "location": "117 公館，廚房的櫃子裏",
+        "name": "餵貓用奶瓶 🍼😺 ᠰᡠᠨ ᠰᡠᠴᡝ ᡴᡝᠰᡳᡴᡝ",
+        "pinned_tweet_id": "1678596763320729600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570667703274450944/uIwnUF6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 728,
+          "like_count": 113189,
+          "listed_count": 7,
+          "media_count": 699,
+          "tweet_count": 19475
+        },
+        "username": "BigMiIkBottIe",
+        "verified": false
+      }
+    ]
+  }
+}

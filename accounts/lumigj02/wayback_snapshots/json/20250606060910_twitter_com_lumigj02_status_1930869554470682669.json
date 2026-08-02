@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1930662161531166911",
+    "created_at": "2025-06-06T06:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T07:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930869554470682669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4229371640",
+          "start": 0,
+          "username": "ringochichidim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930869554470682669",
+    "in_reply_to_user_id": "4229371640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930662161531166911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringochichidim 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1930662161531166911",
+        "created_at": "2025-06-06T06:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T07:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930869554470682669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4229371640",
+              "start": 0,
+              "username": "ringochichidim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930869554470682669",
+        "in_reply_to_user_id": "4229371640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930662161531166911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringochichidim 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4229371640",
+        "conversation_id": "1930662161531166911",
+        "created_at": "2025-06-05T16:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930662161531166911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930662161531166911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2270,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "試探路過的推友\n𐃆 ˒˒ ͏\n                         ͏ ╱|、\n                       (˚ˎ 。7\n                        |、˜ 〵\n                       じしˍ,)ノ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 F | R6 Analyst | Retired Software Engineer | @NUSingapore Alumni | ❤️ @HobartR6 | @_FurryFur_ | 日雌390泰补210 私信/下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "HobartR6"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Malaysia",
+        "name": "lumifps",
+        "pinned_tweet_id": "1930316290662768737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930683991180587008/HXiTh4eq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2699,
+          "following_count": 897,
+          "like_count": 27072,
+          "listed_count": 12,
+          "media_count": 1096,
+          "tweet_count": 12301
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "奇奇，是個無情的抱抱機器。\n唯一綁定：@Littlecat111007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "Littlecat111007"
+              }
+            ]
+          }
+        },
+        "id": "4229371640",
+        "location": "Latium",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 1415,
+          "like_count": 34052,
+          "listed_count": 6,
+          "media_count": 2977,
+          "tweet_count": 9367
+        },
+        "username": "ringochichidim",
+        "verified": false
+      }
+    ]
+  }
+}

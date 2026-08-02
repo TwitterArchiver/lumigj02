@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1496573215975436288",
+          "name": "Melanie Joly"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1496573215975436288",
+          "name": "Melanie Joly"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1900499144852029535",
+    "created_at": "2025-03-14T10:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T11:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900499617009004871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "89421672",
+          "start": 0,
+          "username": "USA_China_Talk"
+        },
+        {
+          "end": 25,
+          "id": "1858947201709305856",
+          "start": 16,
+          "username": "SecRubio"
+        },
+        {
+          "end": 38,
+          "id": "25227444",
+          "start": 26,
+          "username": "melaniejoly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900499617009004871",
+    "in_reply_to_user_id": "89421672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900499144852029535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@USA_China_Talk @SecRubio @melaniejoly 卢比奥玩原神吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1496573215975436288",
+              "name": "Melanie Joly"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1496573215975436288",
+              "name": "Melanie Joly"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1900499144852029535",
+        "created_at": "2025-03-14T10:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900499617009004871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "89421672",
+              "start": 0,
+              "username": "USA_China_Talk"
+            },
+            {
+              "end": 25,
+              "id": "1858947201709305856",
+              "start": 16,
+              "username": "SecRubio"
+            },
+            {
+              "end": 38,
+              "id": "25227444",
+              "start": 26,
+              "username": "melaniejoly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900499617009004871",
+        "in_reply_to_user_id": "89421672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900499144852029535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USA_China_Talk @SecRubio @melaniejoly 卢比奥玩原神吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89421672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1496573215975436288",
+              "name": "Melanie Joly"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1496573215975436288",
+              "name": "Melanie Joly"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          }
+        ],
+        "conversation_id": "1900499144852029535",
+        "created_at": "2025-03-14T10:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900499144852029535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1858947201709305856",
+              "start": 10,
+              "username": "SecRubio"
+            },
+            {
+              "end": 65,
+              "id": "25227444",
+              "start": 53,
+              "username": "melaniejoly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SecRubio/statu…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/SecRubio/status/1900371918835892648",
+              "start": 69,
+              "url": "https://t.co/T1TrgYbGs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900499144852029535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900371918835892648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马尔科·卢比奥国务卿@SecRubio：很高兴今天在夏洛瓦举行的七国集团会议上与加拿大外交部长梅拉尼·乔利@melaniejoly会面。 https://t.co/T1TrgYbGs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 💫 @Yan_Xing_Xing | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 874,
+          "like_count": 25684,
+          "listed_count": 11,
+          "media_count": 952,
+          "tweet_count": 10664
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 US MissionCN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664049,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4089,
+          "media_count": 3480,
+          "tweet_count": 19001
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-19T18:56:28.000Z",
+        "description": "72nd Secretary of State serving under the leadership of @POTUS Trump.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 56,
+                "username": "POTUS"
+              }
+            ]
+          }
+        },
+        "id": "1858947201709305856",
+        "location": "Washington, DC",
+        "name": "Secretary Marco Rubio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884698736950988800/YqKlDWfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834493,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 2129,
+          "media_count": 64,
+          "tweet_count": 149
+        },
+        "username": "SecRubio",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-19T03:20:02.000Z",
+        "description": "Députée l M.P. Ahuntsic-Cartierville | Ministre des Affaires étrangères | Minister of Foreign Affairs - Canada",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/melanie.joly.9…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/melanie.joly.965",
+                "start": 0,
+                "url": "https://t.co/LWBqRPtChx"
+              }
+            ]
+          }
+        },
+        "id": "25227444",
+        "location": "Montréal, Québec",
+        "name": "Mélanie Joly",
+        "pinned_tweet_id": "1885885921582551123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1452811987688333313/5YVeY5JY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197554,
+          "following_count": 2644,
+          "like_count": 28204,
+          "listed_count": 1484,
+          "media_count": 9669,
+          "tweet_count": 33384
+        },
+        "url": "https://t.co/LWBqRPtChx",
+        "username": "melaniejoly",
+        "verified": true
+      }
+    ]
+  }
+}

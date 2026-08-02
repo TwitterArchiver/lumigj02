@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898787323149689088",
+    "created_at": "2025-03-10T11:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T12:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899062961861501239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1163463011274653697",
+          "start": 0,
+          "username": "Laurence0819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899062961861501239",
+    "in_reply_to_user_id": "1163463011274653697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898931399547068710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laurence0819 本来挺喜欢azuki的，结果弄这么一出反而搞得我有点失望了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898787323149689088",
+        "created_at": "2025-03-10T11:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T12:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899062961861501239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1163463011274653697",
+              "start": 0,
+              "username": "Laurence0819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899062961861501239",
+        "in_reply_to_user_id": "1163463011274653697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898931399547068710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laurence0819 本来挺喜欢azuki的，结果弄这么一出反而搞得我有点失望了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163463011274653697",
+        "conversation_id": "1898787323149689088",
+        "created_at": "2025-03-10T02:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T03:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898931399547068710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898931399547068710",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898927615001690450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 cnr6的大明星们那么喜欢查成分为什么不和Jiang Ching埋一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / Enquiry: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 874,
+          "like_count": 25584,
+          "listed_count": 11,
+          "media_count": 945,
+          "tweet_count": 10565
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-19T14:49:39.000Z",
+        "description": "",
+        "id": "1163463011274653697",
+        "location": "Ottawa, Ontario",
+        "name": "Laurence_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615966804970557445/aqHBwu2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 526,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 569
+        },
+        "username": "Laurence0819",
+        "verified": false
+      }
+    ]
+  }
+}

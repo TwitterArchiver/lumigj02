@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1955249445005893853",
+    "created_at": "2025-08-12T12:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T13:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955250754979340574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795137310935408640",
+          "start": 0,
+          "username": "saksamalah2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955250754979340574",
+    "in_reply_to_user_id": "1795137310935408640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955250382311219305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saksamalah2nd 真想偷一辆开啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1955249445005893853",
+        "created_at": "2025-08-12T12:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T13:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955250754979340574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795137310935408640",
+              "start": 0,
+              "username": "saksamalah2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955250754979340574",
+        "in_reply_to_user_id": "1795137310935408640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955250382311219305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saksamalah2nd 真想偷一辆开啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795137310935408640",
+        "conversation_id": "1955249445005893853",
+        "created_at": "2025-08-12T12:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T13:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955250382311219305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955250382311219305",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955249445005893853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 相似"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我沒有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 912,
+          "like_count": 27761,
+          "listed_count": 12,
+          "media_count": 1133,
+          "tweet_count": 13521
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T16:57:58.000Z",
+        "description": "马来西亚是马来西亚人的马来西亚😞   不要遵宪要修宪📕  不要主人要平等📜 人民至上👨🛠 Ketuanan Rakyat  一國三制🇲🇾❤|雪兰莪州|惠州人|@lmao_quien",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "lmao_quien"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/g0moet-jLw8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/g0moet-jLw8?si=IxPxG6Xe51xCb20d",
+                "start": 0,
+                "url": "https://t.co/GwUECa5QTg"
+              }
+            ]
+          }
+        },
+        "id": "1795137310935408640",
+        "location": "重庆 马来西亚/（广东省）闽粤交界",
+        "name": "太阳万寿无疆，向日葵🌻永远健康",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931578182454644737/I1JnCtn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 1481,
+          "like_count": 80281,
+          "listed_count": 9,
+          "media_count": 1889,
+          "tweet_count": 27661
+        },
+        "url": "https://t.co/GwUECa5QTg",
+        "username": "saksamalah2nd",
+        "verified": false
+      }
+    ]
+  }
+}

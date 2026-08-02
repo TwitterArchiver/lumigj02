@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936032417833459712"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "1936032433427956030",
+    "created_at": "2025-06-20T12:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T13:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936032433427956030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s7zjbPQF3W",
+          "end": 40,
+          "expanded_url": "https://x.com/lumigj02/status/1936032433427956030/photo/1",
+          "media_key": "3_1936032417833459712",
+          "start": 17,
+          "url": "https://t.co/s7zjbPQF3W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936032433427956030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "幽默编程人写个代码把脑子写魔怔了 https://t.co/s7zjbPQF3W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936032417833459712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4rOfqaoAAAWMa.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936032417833459712"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1936032433427956030",
+        "created_at": "2025-06-20T12:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936032433427956030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7zjbPQF3W",
+              "end": 40,
+              "expanded_url": "https://x.com/lumigj02/status/1936032433427956030/photo/1",
+              "media_key": "3_1936032417833459712",
+              "start": 17,
+              "url": "https://t.co/s7zjbPQF3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936032433427956030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幽默编程人写个代码把脑子写魔怔了 https://t.co/s7zjbPQF3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "日雌390泰补210请私信",
+        "id": "1552918719440924672",
+        "name": "Lumi02 (日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934969439663128576/1jalG6DG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 140,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 175
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1961690513494426096",
+    "created_at": "2025-08-30T12:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T13:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961762597923062076"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "绪山美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美",
+          "probability": 0.0005,
+          "start": 12,
+          "type": "Person"
+        },
+        {
+          "end": 53,
+          "normalized_text": "里美波里美",
+          "probability": 0.3569,
+          "start": 49,
+          "type": "Person"
+        },
+        {
+          "end": 59,
+          "normalized_text": "里美波里美",
+          "probability": 0.3655,
+          "start": 55,
+          "type": "Person"
+        },
+        {
+          "end": 65,
+          "normalized_text": "里美波里美",
+          "probability": 0.3701,
+          "start": 61,
+          "type": "Person"
+        },
+        {
+          "end": 71,
+          "normalized_text": "里美波里美",
+          "probability": 0.3717,
+          "start": 67,
+          "type": "Person"
+        },
+        {
+          "end": 77,
+          "normalized_text": "里美波里美",
+          "probability": 0.3713,
+          "start": 73,
+          "type": "Person"
+        },
+        {
+          "end": 83,
+          "normalized_text": "里美波里美",
+          "probability": 0.37,
+          "start": 79,
+          "type": "Person"
+        },
+        {
+          "end": 89,
+          "normalized_text": "里美波里美",
+          "probability": 0.3682,
+          "start": 85,
+          "type": "Person"
+        },
+        {
+          "end": 95,
+          "normalized_text": "里美波里美",
+          "probability": 0.3665,
+          "start": 91,
+          "type": "Person"
+        },
+        {
+          "end": 101,
+          "normalized_text": "里美波里美",
+          "probability": 0.3652,
+          "start": 97,
+          "type": "Person"
+        },
+        {
+          "end": 107,
+          "normalized_text": "里美波里美",
+          "probability": 0.3645,
+          "start": 103,
+          "type": "Person"
+        },
+        {
+          "end": 113,
+          "normalized_text": "里美波里美",
+          "probability": 0.3649,
+          "start": 109,
+          "type": "Person"
+        },
+        {
+          "end": 119,
+          "normalized_text": "里美波里美",
+          "probability": 0.367,
+          "start": 115,
+          "type": "Person"
+        },
+        {
+          "end": 125,
+          "normalized_text": "里美波里美",
+          "probability": 0.3719,
+          "start": 121,
+          "type": "Person"
+        },
+        {
+          "end": 131,
+          "normalized_text": "里美波里美",
+          "probability": 0.3799,
+          "start": 127,
+          "type": "Person"
+        },
+        {
+          "end": 137,
+          "normalized_text": "里美波里美",
+          "probability": 0.3879,
+          "start": 133,
+          "type": "Person"
+        },
+        {
+          "end": 143,
+          "normalized_text": "里美波里美",
+          "probability": 0.3748,
+          "start": 139,
+          "type": "Person"
+        },
+        {
+          "end": 149,
+          "normalized_text": "里美波里美",
+          "probability": 0.3478,
+          "start": 145,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934297878115102720",
+          "start": 0,
+          "username": "MihariSuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961762597923062076",
+    "in_reply_to_user_id": "1934297878115102720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961690513494426096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MihariSuki 绪山美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1961690513494426096].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1961690513494426096",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1961690513494426096"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1961690513494426096",
+        "created_at": "2025-08-30T12:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T13:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961762597923062076"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "绪山美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美",
+              "probability": 0.0005,
+              "start": 12,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "里美波里美",
+              "probability": 0.3569,
+              "start": 49,
+              "type": "Person"
+            },
+            {
+              "end": 59,
+              "normalized_text": "里美波里美",
+              "probability": 0.3655,
+              "start": 55,
+              "type": "Person"
+            },
+            {
+              "end": 65,
+              "normalized_text": "里美波里美",
+              "probability": 0.3701,
+              "start": 61,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "里美波里美",
+              "probability": 0.3717,
+              "start": 67,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "里美波里美",
+              "probability": 0.3713,
+              "start": 73,
+              "type": "Person"
+            },
+            {
+              "end": 83,
+              "normalized_text": "里美波里美",
+              "probability": 0.37,
+              "start": 79,
+              "type": "Person"
+            },
+            {
+              "end": 89,
+              "normalized_text": "里美波里美",
+              "probability": 0.3682,
+              "start": 85,
+              "type": "Person"
+            },
+            {
+              "end": 95,
+              "normalized_text": "里美波里美",
+              "probability": 0.3665,
+              "start": 91,
+              "type": "Person"
+            },
+            {
+              "end": 101,
+              "normalized_text": "里美波里美",
+              "probability": 0.3652,
+              "start": 97,
+              "type": "Person"
+            },
+            {
+              "end": 107,
+              "normalized_text": "里美波里美",
+              "probability": 0.3645,
+              "start": 103,
+              "type": "Person"
+            },
+            {
+              "end": 113,
+              "normalized_text": "里美波里美",
+              "probability": 0.3649,
+              "start": 109,
+              "type": "Person"
+            },
+            {
+              "end": 119,
+              "normalized_text": "里美波里美",
+              "probability": 0.367,
+              "start": 115,
+              "type": "Person"
+            },
+            {
+              "end": 125,
+              "normalized_text": "里美波里美",
+              "probability": 0.3719,
+              "start": 121,
+              "type": "Person"
+            },
+            {
+              "end": 131,
+              "normalized_text": "里美波里美",
+              "probability": 0.3799,
+              "start": 127,
+              "type": "Person"
+            },
+            {
+              "end": 137,
+              "normalized_text": "里美波里美",
+              "probability": 0.3879,
+              "start": 133,
+              "type": "Person"
+            },
+            {
+              "end": 143,
+              "normalized_text": "里美波里美",
+              "probability": 0.3748,
+              "start": 139,
+              "type": "Person"
+            },
+            {
+              "end": 149,
+              "normalized_text": "里美波里美",
+              "probability": 0.3478,
+              "start": 145,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934297878115102720",
+              "start": 0,
+              "username": "MihariSuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961762597923062076",
+        "in_reply_to_user_id": "1934297878115102720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961690513494426096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MihariSuki 绪山美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里美波里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//还有你想要的各种日本泰国药物可以点名告诉我帮你尝试找//💌@HobartR6🐈@_FurryFur_//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "HobartR6"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "猫卷！日雌380私信",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 927,
+          "like_count": 27943,
+          "listed_count": 13,
+          "media_count": 1162,
+          "tweet_count": 13903
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:12:22.000Z",
+        "description": "中中之中就是老中里推的意思 老中下海了",
+        "id": "1934297878115102720",
+        "name": "中中之中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934299026947735552/-Aml34fH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 75,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 149
+        },
+        "username": "MihariSuki",
+        "verified": false
+      }
+    ]
+  }
+}

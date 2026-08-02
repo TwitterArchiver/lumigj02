@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1927633892997255592",
+    "created_at": "2025-05-28T10:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T11:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927667683505623518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810962908987396096",
+          "start": 0,
+          "username": "SakurazakiAiko"
+        },
+        {
+          "end": 29,
+          "id": "1910137141570740225",
+          "start": 16,
+          "username": "AsabaLazy233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927667683505623518",
+    "in_reply_to_user_id": "1810962908987396096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927667622948250017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurazakiAiko @AsabaLazy233 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1927633892997255592",
+        "created_at": "2025-05-28T10:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T11:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927667683505623518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810962908987396096",
+              "start": 0,
+              "username": "SakurazakiAiko"
+            },
+            {
+              "end": 29,
+              "id": "1910137141570740225",
+              "start": 16,
+              "username": "AsabaLazy233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927667683505623518",
+        "in_reply_to_user_id": "1810962908987396096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927667622948250017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurazakiAiko @AsabaLazy233 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810962908987396096",
+        "conversation_id": "1927633892997255592",
+        "created_at": "2025-05-28T10:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T11:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927667622948250017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910137141570740225",
+              "start": 0,
+              "username": "AsabaLazy233"
+            },
+            {
+              "end": 23,
+              "id": "1176535991454064640",
+              "start": 14,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927667622948250017",
+        "in_reply_to_user_id": "1910137141570740225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927663837802623048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsabaLazy233 @lumigj02 珍惜单纯的新手期驾驶吧，我们这些老油条…（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@HobartR6 ❤️ | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系 ############################################################################ Till death do us part_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1924879441324605676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 898,
+          "like_count": 27021,
+          "listed_count": 12,
+          "media_count": 1089,
+          "tweet_count": 12203
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T09:03:21.000Z",
+        "description": "主人：@Poetry_Luna 妹妹： @HuliCaijia\n持證HRT🏳️‍⚧️重鬱中焦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "HuliCaijia"
+              }
+            ]
+          }
+        },
+        "id": "1810962908987396096",
+        "location": "Silverymoon",
+        "name": "SakurazakiAiko🌸詩月🍥",
+        "pinned_tweet_id": "1880247872270283012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884631668998430720/mMIX9fqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 79,
+          "like_count": 7648,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2265
+        },
+        "username": "SakurazakiAiko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T01:06:09.000Z",
+        "description": "这里是洛洛｜平和度过人生的秘诀就是“我都行”｜💕：@Shiluoshiro｜里推：@MoonLikeQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Shiluoshiro"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "MoonLikeQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1910137141570740225",
+        "location": "地球",
+        "name": "AsabaLazy⭐",
+        "pinned_tweet_id": "1912820772445557046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919945844201291777/69c2vVaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 162,
+          "like_count": 5724,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 913
+        },
+        "username": "AsabaLazy233",
+        "verified": false
+      }
+    ]
+  }
+}

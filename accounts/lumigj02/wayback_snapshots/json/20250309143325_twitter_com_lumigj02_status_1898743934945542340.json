@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898742682307960986",
+    "created_at": "2025-03-09T14:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T15:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898743934945542340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417207209520472073",
+          "start": 0,
+          "username": "lunarrdestiny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898743934945542340",
+    "in_reply_to_user_id": "1417207209520472073",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898742682307960986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lunarrdestiny it back please)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898742682307960986",
+        "created_at": "2025-03-09T14:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T15:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898743934945542340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417207209520472073",
+              "start": 0,
+              "username": "lunarrdestiny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898743934945542340",
+        "in_reply_to_user_id": "1417207209520472073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898742682307960986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lunarrdestiny it back please)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417207209520472073",
+        "conversation_id": "1898742682307960986",
+        "created_at": "2025-03-09T14:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T15:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898742682307960986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898742682307960986",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning everyone(say it back please)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897934948197445982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 871,
+          "like_count": 25569,
+          "listed_count": 11,
+          "media_count": 944,
+          "tweet_count": 10549
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T19:38:29.000Z",
+        "description": "woman 🏳️‍⚧️ (she/her) lesbian atheist nsfw, zoos, pedo and maps dni 18 y/o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/thecutiecafe",
+                "end": 23,
+                "expanded_url": "http://discord.gg/thecutiecafe",
+                "start": 0,
+                "url": "https://t.co/5pwkJ49Kua"
+              }
+            ]
+          }
+        },
+        "id": "1417207209520472073",
+        "location": "pretty woman island",
+        "name": "M&M🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893874315222806528/Pk2U_1MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10908,
+          "following_count": 2470,
+          "like_count": 19418,
+          "listed_count": 52,
+          "media_count": 1650,
+          "tweet_count": 10579
+        },
+        "url": "https://t.co/5pwkJ49Kua",
+        "username": "lunarrdestiny",
+        "verified": false
+      }
+    ]
+  }
+}

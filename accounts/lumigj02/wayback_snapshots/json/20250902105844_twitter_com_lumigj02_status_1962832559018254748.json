@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962832552735186947"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962832559018254748",
+    "created_at": "2025-09-02T10:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T11:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962832559018254748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1mfcXoJRF",
+          "end": 54,
+          "expanded_url": "https://x.com/lumigj02/status/1962832559018254748/photo/1",
+          "media_key": "3_1962832552735186947",
+          "start": 31,
+          "url": "https://t.co/h1mfcXoJRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962832559018254748",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Why it's showing two languages https://t.co/h1mfcXoJRF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1962832552735186947",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1hzqNaoAMPiVa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962832552735186947"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962832559018254748",
+        "created_at": "2025-09-02T10:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962832559018254748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1mfcXoJRF",
+              "end": 54,
+              "expanded_url": "https://x.com/lumigj02/status/1962832559018254748/photo/1",
+              "media_key": "3_1962832552735186947",
+              "start": 31,
+              "url": "https://t.co/h1mfcXoJRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962832559018254748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Why it's showing two languages https://t.co/h1mfcXoJRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@HobartR6 🇲🇾 @sutdsg  @_FurryFur_ // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 20,
+                "start": 13,
+                "username": "sutdsg"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi、Lumi、時々猫巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 932,
+          "like_count": 27976,
+          "listed_count": 13,
+          "media_count": 1163,
+          "tweet_count": 13973
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

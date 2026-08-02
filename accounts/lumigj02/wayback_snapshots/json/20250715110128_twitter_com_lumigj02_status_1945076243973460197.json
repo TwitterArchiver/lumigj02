@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945064992258015678",
+    "created_at": "2025-07-15T11:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T12:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945076243973460197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1771383681636290562",
+          "start": 0,
+          "username": "WATNG0"
+        },
+        {
+          "end": 20,
+          "id": "1676132765098741762",
+          "start": 8,
+          "username": "luoling8192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945076243973460197",
+    "in_reply_to_user_id": "1771383681636290562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945075728468299971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WATNG0 @luoling8192 还诅咒上了？那祝你出人命好了，傻狗东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945064992258015678",
+        "created_at": "2025-07-15T11:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T12:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945076243973460197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1771383681636290562",
+              "start": 0,
+              "username": "WATNG0"
+            },
+            {
+              "end": 20,
+              "id": "1676132765098741762",
+              "start": 8,
+              "username": "luoling8192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945076243973460197",
+        "in_reply_to_user_id": "1771383681636290562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945075728468299971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WATNG0 @luoling8192 还诅咒上了？那祝你出人命好了，傻狗东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771383681636290562",
+        "conversation_id": "1945064992258015678",
+        "created_at": "2025-07-15T10:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945075728468299971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676132765098741762",
+              "start": 0,
+              "username": "luoling8192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945075728468299971",
+        "in_reply_to_user_id": "1676132765098741762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945064992258015678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoling8192 不想来可以不来哦～没人逼着你们来，祝你们的无秩序黑客松不会出人命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore 家猫: @_FurryFur_ 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944806697316257792/p4s37iQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 918,
+          "like_count": 27522,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12880
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T03:49:24.000Z",
+        "description": "",
+        "id": "1771383681636290562",
+        "name": "WATNG-zhangli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771383874079379456/0kg12k0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "WATNG0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T07:36:21.000Z",
+        "description": "数字游民，全栈开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luolingow",
+                "end": 23,
+                "expanded_url": "http://t.me/luolingow",
+                "start": 0,
+                "url": "https://t.co/lI6TXRdWX1"
+              }
+            ]
+          }
+        },
+        "id": "1676132765098741762",
+        "location": "Shanghai, China",
+        "name": "RainbowBird | 洛灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3638,
+          "following_count": 797,
+          "like_count": 6016,
+          "listed_count": 26,
+          "media_count": 278,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/lI6TXRdWX1",
+        "username": "luoling8192",
+        "verified": true
+      }
+    ]
+  }
+}

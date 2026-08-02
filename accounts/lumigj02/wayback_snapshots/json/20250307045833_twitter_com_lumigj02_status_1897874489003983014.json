@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897874489003983014",
+    "created_at": "2025-03-07T04:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T05:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897874489003983014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ohyishi/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/ohyishi/status/1897514590503903744",
+          "start": 30,
+          "url": "https://t.co/Fli9Ew29iA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897874489003983014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897514590503903744",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼，碰到一个用InterviewCoder的你就老实了。 https://t.co/Fli9Ew29iA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897874489003983014",
+        "created_at": "2025-03-07T04:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T05:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897874489003983014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ohyishi/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ohyishi/status/1897514590503903744",
+              "start": 30,
+              "url": "https://t.co/Fli9Ew29iA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897874489003983014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897514590503903744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼，碰到一个用InterviewCoder的你就老实了。 https://t.co/Fli9Ew29iA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "258156475",
+        "conversation_id": "1897514590503903744",
+        "created_at": "2025-03-06T05:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T06:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897514590503903744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897514590503903744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 872,
+          "impression_count": 452961,
+          "like_count": 1393,
+          "quote_count": 51,
+          "reply_count": 218,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在2025年招募的工程师，迄今为止都没有切换到 cursor + mcp (或其他 ai ide 开发套件)，那大概率没必要发 offer 了，因为他早已经停止学习，不再成长了。这跟他是否资深，工作多少年无关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 || 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 842,
+          "like_count": 25439,
+          "listed_count": 11,
+          "media_count": 925,
+          "tweet_count": 10319
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-27T02:46:56.000Z",
+        "description": "cooking @oneKeyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "oneKeyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yishi.io",
+                "end": 23,
+                "expanded_url": "https://yishi.io",
+                "start": 0,
+                "url": "https://t.co/euZtSeJaBZ"
+              }
+            ]
+          }
+        },
+        "id": "258156475",
+        "location": "NYC",
+        "name": "Yishi",
+        "pinned_tweet_id": "1870124709607813390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893925252222341120/HV0pejki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79019,
+          "following_count": 5164,
+          "like_count": 7273,
+          "listed_count": 1162,
+          "media_count": 374,
+          "tweet_count": 4437
+        },
+        "url": "https://t.co/euZtSeJaBZ",
+        "username": "ohyishi",
+        "verified": true
+      }
+    ]
+  }
+}

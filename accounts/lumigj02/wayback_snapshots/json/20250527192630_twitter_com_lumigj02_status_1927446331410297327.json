@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1927446331410297327",
+    "created_at": "2025-05-27T19:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T20:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927446331410297327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/interesting_ai…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/interesting_ail/status/1927048098540401015",
+          "start": 63,
+          "url": "https://t.co/Hnha4IKeSD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927446331410297327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927048098540401015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好羡慕，为什么我没有这样的家庭，我只想爸爸妈妈陪我一起玩，活到23岁了，除了我的伴侣和亲密朋友，没人关心过我想要什么，好失败 https://t.co/Hnha4IKeSD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88884,
+        "height": 1280,
+        "media_key": "7_1927048003124076544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1927048003124076544/pu/img/Isy6-wdGrdhx_f9x.jpg",
+        "public_metrics": {
+          "view_count": 3858081
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927048003124076544/pu/vid/avc1/320x568/hvXXhAiLHp0iOw_p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927048003124076544/pu/vid/avc1/480x852/u0OZ6vyZlhWcYY7y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927048003124076544/pu/vid/avc1/720x1280/MeY-Y2c8eN8hC9Dk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1927048003124076544/pu/pl/9BPZJFP0ef6yLajK.m3u8?tag=12&v=d41"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1927446331410297327",
+        "created_at": "2025-05-27T19:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T20:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927446331410297327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/interesting_ai…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/interesting_ail/status/1927048098540401015",
+              "start": 63,
+              "url": "https://t.co/Hnha4IKeSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927446331410297327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927048098540401015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好羡慕，为什么我没有这样的家庭，我只想爸爸妈妈陪我一起玩，活到23岁了，除了我的伴侣和亲密朋友，没人关心过我想要什么，好失败 https://t.co/Hnha4IKeSD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1927048003124076544"
+          ]
+        },
+        "author_id": "1485068728412913666",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1927048098540401015",
+        "created_at": "2025-05-26T17:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T18:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927048098540401015"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Halloween",
+              "probability": 0.8541,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFGNQ9rIgy",
+              "end": 48,
+              "expanded_url": "https://x.com/interesting_aIl/status/1927048098540401015/video/1",
+              "media_key": "7_1927048003124076544",
+              "start": 25,
+              "url": "https://t.co/uFGNQ9rIgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927048098540401015",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9679,
+          "impression_count": 5671176,
+          "like_count": 67716,
+          "quote_count": 184,
+          "reply_count": 277,
+          "retweet_count": 4661
+        },
+        "reply_settings": "everyone",
+        "text": "This dad wins Halloween! https://t.co/uFGNQ9rIgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@HobartR6 ❤️ | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系 ############################################################################ Till death do us part_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1924879441324605676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 898,
+          "like_count": 27017,
+          "listed_count": 12,
+          "media_count": 1089,
+          "tweet_count": 12191
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T01:56:50.000Z",
+        "description": "Posting interesting history, tech, art, and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ail_interestin…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ail_interesting/",
+                "start": 0,
+                "url": "https://t.co/LpphpR04gR"
+              }
+            ]
+          }
+        },
+        "id": "1485068728412913666",
+        "name": "Interesting As Fuck",
+        "pinned_tweet_id": "1927176011814162942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739919942223347712/nC3oBLdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060719,
+          "following_count": 117,
+          "like_count": 3355,
+          "listed_count": 3687,
+          "media_count": 13676,
+          "tweet_count": 14367
+        },
+        "url": "https://t.co/LpphpR04gR",
+        "username": "interesting_aIl",
+        "verified": true
+      }
+    ]
+  }
+}

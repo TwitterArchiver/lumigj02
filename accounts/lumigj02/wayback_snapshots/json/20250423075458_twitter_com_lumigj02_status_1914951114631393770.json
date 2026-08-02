@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1914941473071550607",
+    "created_at": "2025-04-23T07:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T08:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914951114631393770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624451741382221824",
+          "start": 0,
+          "username": "nya_QianZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914951114631393770",
+    "in_reply_to_user_id": "1624451741382221824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914950255705251925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_QianZi 揉揉你～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1914941473071550607",
+        "created_at": "2025-04-23T07:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914951114631393770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624451741382221824",
+              "start": 0,
+              "username": "nya_QianZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914951114631393770",
+        "in_reply_to_user_id": "1624451741382221824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914950255705251925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_QianZi 揉揉你～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624451741382221824",
+        "conversation_id": "1914941473071550607",
+        "created_at": "2025-04-23T07:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914950255705251925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914950255705251925",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914941473071550607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 喵卷姐姐🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | Cat named Neko | @you_miaowu @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 869,
+          "like_count": 26473,
+          "listed_count": 11,
+          "media_count": 1025,
+          "tweet_count": 11537
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-11T16:54:29.000Z",
+        "description": "舞萌吃/INFP-T/会回fo没回可能是忘了戳戳我/167cm60kg减肥中/大概聊天会回不然搞不好又被送扭了/2023.2.6/2023.10.16/2024.5.6",
+        "id": "1624451741382221824",
+        "location": "雨城区",
+        "name": "见雨neko",
+        "pinned_tweet_id": "1808884613965922718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704492155966754816/2wAtZ-xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 431,
+          "like_count": 656,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1000
+        },
+        "username": "nya_QianZi",
+        "verified": false
+      }
+    ]
+  }
+}

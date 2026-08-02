@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1906391160748495042",
+    "created_at": "2025-03-30T17:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T18:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906391160748495042"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906391160748495042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多人中国人问我HRT相关的问题我打字打半天回一长串对面一个谢谢都不说的，中国人素质确实低\n又不熟，又不在我这买日雌，又没礼貌。私信关了，以后别问我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906391160748495042",
+        "created_at": "2025-03-30T17:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T18:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906391160748495042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906391160748495042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人中国人问我HRT相关的问题我打字打半天回一长串对面一个谢谢都不说的，中国人素质确实低\n又不熟，又不在我这买日雌，又没礼貌。私信关了，以后别问我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 | 💖 @HobartR6 4ever | @you_miaowu | Retired SWE, ex-Banking/FinTech | contact: lumi@u.nus.edu | 贏個大滿貫 不然滿足不了胃口",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "云猫归卷",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 864,
+          "like_count": 26156,
+          "listed_count": 11,
+          "media_count": 976,
+          "tweet_count": 11170
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

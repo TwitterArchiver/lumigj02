@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950616403884883968"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1950616416920670677",
+    "created_at": "2025-07-30T17:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T18:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950616416920670677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xPDroPGQiJ",
+          "end": 26,
+          "expanded_url": "https://x.com/lumigj02/status/1950616416920670677/photo/1",
+          "media_key": "3_1950616403884883968",
+          "start": 3,
+          "url": "https://t.co/xPDroPGQiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950616416920670677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想买 https://t.co/xPDroPGQiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950616403884883968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxH7SNabwAA0Ryj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950616403884883968"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950616416920670677",
+        "created_at": "2025-07-30T17:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T18:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950616416920670677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPDroPGQiJ",
+              "end": 26,
+              "expanded_url": "https://x.com/lumigj02/status/1950616416920670677/photo/1",
+              "media_key": "3_1950616403884883968",
+              "start": 3,
+              "url": "https://t.co/xPDroPGQiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950616416920670677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想买 https://t.co/xPDroPGQiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 926,
+          "like_count": 27689,
+          "listed_count": 12,
+          "media_count": 1113,
+          "tweet_count": 13203
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

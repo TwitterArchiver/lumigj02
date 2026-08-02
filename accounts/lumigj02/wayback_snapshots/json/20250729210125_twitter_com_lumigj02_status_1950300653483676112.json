@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950300653483676112",
+    "created_at": "2025-07-29T21:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T22:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950300653483676112"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "OCD",
+          "probability": 0.7431,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 99,
+          "normalized_text": "dash",
+          "probability": 0.5038,
+          "start": 96,
+          "type": "Other"
+        },
+        {
+          "end": 110,
+          "normalized_text": "hyphen",
+          "probability": 0.5443,
+          "start": 105,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/immasiddx/stat…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/immasiddx/status/1949351198944817447",
+          "start": 112,
+          "url": "https://t.co/7g36f3da7V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950300653483676112",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949351198944817447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "If u happen to write code and to be OCD enough you will always be able to tell the diff between dash and hyphen https://t.co/7g36f3da7V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 173,
+        "media_key": "3_1949351191801974784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw18lLHXUAA-hGE.jpg",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950300653483676112",
+        "created_at": "2025-07-29T21:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T22:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950300653483676112"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "OCD",
+              "probability": 0.7431,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "dash",
+              "probability": 0.5038,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 110,
+              "normalized_text": "hyphen",
+              "probability": 0.5443,
+              "start": 105,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/immasiddx/stat…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/immasiddx/status/1949351198944817447",
+              "start": 112,
+              "url": "https://t.co/7g36f3da7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950300653483676112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949351198944817447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "If u happen to write code and to be OCD enough you will always be able to tell the diff between dash and hyphen https://t.co/7g36f3da7V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949351191801974784"
+          ]
+        },
+        "author_id": "1656173677862596608",
+        "conversation_id": "1949351198944817447",
+        "created_at": "2025-07-27T06:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T07:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949351198944817447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNrdbwy5nA",
+              "end": 78,
+              "expanded_url": "https://x.com/immasiddx/status/1949351198944817447/photo/1",
+              "media_key": "3_1949351191801974784",
+              "start": 55,
+              "url": "https://t.co/NNrdbwy5nA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949351198944817447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2367,
+          "impression_count": 14895104,
+          "like_count": 66804,
+          "quote_count": 2398,
+          "reply_count": 1044,
+          "retweet_count": 1352
+        },
+        "reply_settings": "everyone",
+        "text": "When she sends you a breakup text and you see this mf: https://t.co/NNrdbwy5nA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949744633480912897/-ekbjwHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 925,
+          "like_count": 27679,
+          "listed_count": 12,
+          "media_count": 1112,
+          "tweet_count": 13194
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T05:46:10.000Z",
+        "description": "Building @skinvincible_ai. Sharing the latest in tech, AI, and politics with a sprinkle of memes. Opinions are personal.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "skinvincible_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "immasidd.com",
+                "end": 23,
+                "expanded_url": "http://immasidd.com",
+                "start": 0,
+                "url": "https://t.co/RH5pt8jYfM"
+              }
+            ]
+          }
+        },
+        "id": "1656173677862596608",
+        "location": "Pune, India",
+        "name": "sid",
+        "pinned_tweet_id": "1669721470006857729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809700473655414785/3CquWTgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11233,
+          "following_count": 672,
+          "like_count": 104710,
+          "listed_count": 76,
+          "media_count": 5141,
+          "tweet_count": 26054
+        },
+        "url": "https://t.co/RH5pt8jYfM",
+        "username": "immasiddx",
+        "verified": true
+      }
+    ]
+  }
+}

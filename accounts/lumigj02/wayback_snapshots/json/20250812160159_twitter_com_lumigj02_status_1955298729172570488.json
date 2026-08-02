@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1955274337986003056",
+    "created_at": "2025-08-12T16:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T17:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955298729172570488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1289925617446617088",
+          "start": 0,
+          "username": "LazySpider3"
+        },
+        {
+          "end": 23,
+          "id": "91001699",
+          "start": 13,
+          "username": "halfamonk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955298729172570488",
+    "in_reply_to_user_id": "1289925617446617088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我想买国产EV比如肯定比特斯拉更便宜，比如我喜欢我的理想型，小米型，众泰型，仰望型，极越型，小鹏型，比亚迪型，威马型，蔚来型，问界型，华为型，特斯拉型，红旗型，领克型，高合型，哪吒型，零跑型，智己型，岚图型，腾势型，路特斯型，广汽埃安型，创维型，极氪型，阿维塔型，深蓝型，飞凡型，昊铂型，宝骏型，奇瑞型，五菱型，北汽型，长安型，吉利型，长城型，东风型，江淮型，赛力斯型，大通型，欧拉型，几何型，启辰型，荣威型，名爵型，凯翼型，野马型，猎豹型，陆风型，奔腾型，汉腾型，华晨型，比速型，君马型，观致型，宝沃型，云度型，前途型，知豆型，雷丁型，爱驰型，天际型，合创型，恒驰型，FF型，Rivian型，Lucid型，Bollinger型，Fisker型，Polestar型，Smart型，MINI型，保时捷型，法拉利型，兰博基尼型，宾利型，劳斯莱斯型，迈凯伦型，阿斯顿·马丁型，布加迪型，柯尼塞格型，帕加尼型，玛莎拉蒂型，阿尔法·罗密欧型，路虎型，捷豹型，沃尔沃型，凯迪拉克型，林肯型，别克型，雪佛兰型，福特型，道奇型，Jeep型，克莱斯勒型，GMC型，悍马型，RAM型，特斯拉Cybertruck型，Rivian R1T型，福特F-150 Lightning型"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955297296016375909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazySpider3 @halfamonk 我想买国产EV比如肯定比特斯拉更便宜，比如我喜欢我的理想型，小米型，众泰型，仰望型，极越型，小鹏型，比亚迪型，威马型，蔚来型，问界型，华为型，特斯拉型，红旗型，领克型，高合型，哪吒型，零跑型，智己型，岚图型，腾势型，路特斯型，广汽埃安型，创维型，极氪型，阿维塔型，深蓝型，飞凡型，昊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1955274337986003056",
+        "created_at": "2025-08-12T16:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955298729172570488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1289925617446617088",
+              "start": 0,
+              "username": "LazySpider3"
+            },
+            {
+              "end": 23,
+              "id": "91001699",
+              "start": 13,
+              "username": "halfamonk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955298729172570488",
+        "in_reply_to_user_id": "1289925617446617088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我想买国产EV比如肯定比特斯拉更便宜，比如我喜欢我的理想型，小米型，众泰型，仰望型，极越型，小鹏型，比亚迪型，威马型，蔚来型，问界型，华为型，特斯拉型，红旗型，领克型，高合型，哪吒型，零跑型，智己型，岚图型，腾势型，路特斯型，广汽埃安型，创维型，极氪型，阿维塔型，深蓝型，飞凡型，昊铂型，宝骏型，奇瑞型，五菱型，北汽型，长安型，吉利型，长城型，东风型，江淮型，赛力斯型，大通型，欧拉型，几何型，启辰型，荣威型，名爵型，凯翼型，野马型，猎豹型，陆风型，奔腾型，汉腾型，华晨型，比速型，君马型，观致型，宝沃型，云度型，前途型，知豆型，雷丁型，爱驰型，天际型，合创型，恒驰型，FF型，Rivian型，Lucid型，Bollinger型，Fisker型，Polestar型，Smart型，MINI型，保时捷型，法拉利型，兰博基尼型，宾利型，劳斯莱斯型，迈凯伦型，阿斯顿·马丁型，布加迪型，柯尼塞格型，帕加尼型，玛莎拉蒂型，阿尔法·罗密欧型，路虎型，捷豹型，沃尔沃型，凯迪拉克型，林肯型，别克型，雪佛兰型，福特型，道奇型，Jeep型，克莱斯勒型，GMC型，悍马型，RAM型，特斯拉Cybertruck型，Rivian R1T型，福特F-150 Lightning型"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955297296016375909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazySpider3 @halfamonk 我想买国产EV比如肯定比特斯拉更便宜，比如我喜欢我的理想型，小米型，众泰型，仰望型，极越型，小鹏型，比亚迪型，威马型，蔚来型，问界型，华为型，特斯拉型，红旗型，领克型，高合型，哪吒型，零跑型，智己型，岚图型，腾势型，路特斯型，广汽埃安型，创维型，极氪型，阿维塔型，深蓝型，飞凡型，昊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289925617446617088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044387802",
+              "name": "Tesla - Model 3"
+            }
+          }
+        ],
+        "conversation_id": "1955274337986003056",
+        "created_at": "2025-08-12T15:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955297296016375909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 20,
+              "id": "91001699",
+              "start": 10,
+              "username": "halfamonk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955297296016375909",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955296014338031655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @halfamonk 其实EV已经有补贴了，只是COE太疯狂\n比如Model 3的Cat A版本， 含COE也就和Altis（丰田卡罗拉）一个价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我沒有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 911,
+          "like_count": 27764,
+          "listed_count": 12,
+          "media_count": 1135,
+          "tweet_count": 13538
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T14:06:54.000Z",
+        "description": "一个还能蹦跶的老B",
+        "id": "1289925617446617088",
+        "location": "Singapore",
+        "name": "Lazy_Spider",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289936266000101377/LPhTSU8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 293,
+          "like_count": 305,
+          "listed_count": 9,
+          "media_count": 1273,
+          "tweet_count": 10323
+        },
+        "username": "LazySpider3",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T00:56:50.000Z",
+        "description": "- 程序猿 Python / Golang \n- 伪宅=faked otaku=ゴミ箱 \n- 冒名顶替症候群 | 自信缺乏症候群 | 拖延症晚期 \n- 4杯咖啡/天 \n- 有着自认为远大的想法和向其努力的决心\n- Aiming Guru\n- Stoicism | Optimistic Nihilism",
+        "id": "91001699",
+        "name": "HalfAMonk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1129263300754075649/nl9XvhHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 475,
+          "like_count": 13445,
+          "listed_count": 14,
+          "media_count": 1926,
+          "tweet_count": 21939
+        },
+        "username": "halfamonk",
+        "verified": false
+      }
+    ]
+  }
+}

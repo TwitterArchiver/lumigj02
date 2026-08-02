@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1908218616203665677",
+    "created_at": "2025-04-04T18:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T19:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908218616203665677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jessgoat/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/jessgoat/status/1908202069347229993",
+          "start": 20,
+          "url": "https://t.co/Tw6rbyniri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908218616203665677",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908202069347229993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Yes fuck that bitch https://t.co/Tw6rbyniri"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908202064364068864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GntLqt4WYAARNHE.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1908218616203665677",
+        "created_at": "2025-04-04T18:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T19:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908218616203665677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jessgoat/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/jessgoat/status/1908202069347229993",
+              "start": 20,
+              "url": "https://t.co/Tw6rbyniri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908218616203665677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908202069347229993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Yes fuck that bitch https://t.co/Tw6rbyniri"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908202064364068864"
+          ]
+        },
+        "author_id": "963033340747046912",
+        "conversation_id": "1908202069347229993",
+        "created_at": "2025-04-04T16:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T17:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908202069347229993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468010815861059587",
+              "start": 5,
+              "username": "madiR6s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaSNMIE6SK",
+              "end": 112,
+              "expanded_url": "https://x.com/JessGOAT/status/1908202069347229993/photo/1",
+              "media_key": "3_1908202064364068864",
+              "start": 89,
+              "url": "https://t.co/CaSNMIE6SK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908202069347229993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2450,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Yes, @madiR6s, when I said “fuck that bitch” I meant it.\n\nTake those bans and walk away. https://t.co/CaSNMIE6SK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | Rapper @NUSingapore | 🏳️‍⚧️ GAHT 20230418 | ❤️ @Yan_Xing_Xing | @you_miaowu | 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "貓歸雲卷",
+        "pinned_tweet_id": "1907728523420381509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2224,
+          "following_count": 863,
+          "like_count": 26234,
+          "listed_count": 11,
+          "media_count": 987,
+          "tweet_count": 11243
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-12T12:53:35.000Z",
+        "description": "🐦@TALON_Esports @PSGTalonR6 @Elgato Twitch Partner // 🎙️Multi-Award Winning Presenter // 👩‍🏫Criminologist // 👩‍💼Ex-World Champ Coach // 📧JessGOAT@csa.gg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 1,
+                "username": "TALON_Esports"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "PSGTalonR6"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "username": "Elgato"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/jessgoat",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/jessgoat",
+                "start": 0,
+                "url": "https://t.co/vgZYD5sdgC"
+              }
+            ]
+          }
+        },
+        "id": "963033340747046912",
+        "location": "Aussie living in Europe",
+        "name": "Jess🐐 is 🔴LIVE with DIA ranked",
+        "pinned_tweet_id": "1602536421948006401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822331404442636288/PFwkeWVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46213,
+          "following_count": 1111,
+          "like_count": 134817,
+          "listed_count": 116,
+          "media_count": 4929,
+          "tweet_count": 52701
+        },
+        "url": "https://t.co/vgZYD5sdgC",
+        "username": "JessGOAT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911334836054228992"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1911334848805163170",
+    "created_at": "2025-04-13T08:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T09:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911334848805163170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5C2EAn37Y",
+          "end": 46,
+          "expanded_url": "https://x.com/lumigj02/status/1911334848805163170/photo/1",
+          "media_key": "3_1911334836054228992",
+          "start": 23,
+          "url": "https://t.co/o5C2EAn37Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911334848805163170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泰补到了喵，找到你了，美味的补子😋210包邮 https://t.co/o5C2EAn37Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911334836054228992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoZs6B3XgAAfByI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911334836054228992"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1911334848805163170",
+        "created_at": "2025-04-13T08:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T09:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911334848805163170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5C2EAn37Y",
+              "end": 46,
+              "expanded_url": "https://x.com/lumigj02/status/1911334848805163170/photo/1",
+              "media_key": "3_1911334836054228992",
+              "start": 23,
+              "url": "https://t.co/o5C2EAn37Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911334848805163170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泰补到了喵，找到你了，美味的补子😋210包邮 https://t.co/o5C2EAn37Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "CompSci @NUSingapore @sutdsg | ❤️ @_Sanxon | 日雌380 泰补210 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "sutdsg"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 868,
+          "like_count": 26316,
+          "listed_count": 11,
+          "media_count": 1005,
+          "tweet_count": 11350
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

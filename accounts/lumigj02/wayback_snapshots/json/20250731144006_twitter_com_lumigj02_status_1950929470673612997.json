@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950882727101653414",
+    "created_at": "2025-07-31T14:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T15:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950929470673612997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1841494812475932672",
+          "start": 0,
+          "username": "Yan_Xing_Xing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950929470673612997",
+    "in_reply_to_user_id": "1841494812475932672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950929306269462990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan_Xing_Xing 元宝和白露你选一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950882727101653414",
+        "created_at": "2025-07-31T14:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T15:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950929470673612997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1841494812475932672",
+              "start": 0,
+              "username": "Yan_Xing_Xing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950929470673612997",
+        "in_reply_to_user_id": "1841494812475932672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950929306269462990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan_Xing_Xing 元宝和白露你选一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841494812475932672",
+        "conversation_id": "1950882727101653414",
+        "created_at": "2025-07-31T14:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T15:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950929306269462990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950929306269462990",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950882727101653414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 送我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 926,
+          "like_count": 27697,
+          "listed_count": 12,
+          "media_count": 1117,
+          "tweet_count": 13225
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T15:06:06.000Z",
+        "description": "",
+        "id": "1841494812475932672",
+        "location": "雪豹芝市",
+        "name": "-洐-⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917467559852662784/R8cI4Vvf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 333,
+          "like_count": 32715,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 399
+        },
+        "username": "Yan_Xing_Xing",
+        "verified": false
+      }
+    ]
+  }
+}

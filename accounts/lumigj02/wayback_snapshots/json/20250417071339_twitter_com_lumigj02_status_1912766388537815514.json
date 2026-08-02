@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1912211387478339709",
+    "created_at": "2025-04-17T07:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T08:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912766388537815514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1656340688286433281",
+          "start": 0,
+          "username": "BlueFish1358523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912766388537815514",
+    "in_reply_to_user_id": "1656340688286433281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912370625018048684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueFish1358523 我们不是越听越不对劲，而是那个组换到下一张slides展示prediction results的时候整个课室都震惊了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1912211387478339709",
+        "created_at": "2025-04-17T07:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912766388537815514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1656340688286433281",
+              "start": 0,
+              "username": "BlueFish1358523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912766388537815514",
+        "in_reply_to_user_id": "1656340688286433281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912370625018048684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueFish1358523 我们不是越听越不对劲，而是那个组换到下一张slides展示prediction results的时候整个课室都震惊了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656340688286433281",
+        "conversation_id": "1912211387478339709",
+        "created_at": "2025-04-16T05:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T06:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912370625018048684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912370625018048684",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912211387478339709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 我上一个Graph Theory课的时候遇到过一组印度人，期末做结课项目把网上一个数据可视化的给抄了，教授越听越不对劲，说这个不是我想要的Graph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🏳️‍⚧️ | R6 Player for ? | @you_miaowu | 日雌380 泰补210 progynon-depot / progynova | 礼貌谦逊文明友善团结尊重从不骂人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 870,
+          "like_count": 26375,
+          "listed_count": 10,
+          "media_count": 1012,
+          "tweet_count": 11431
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-10T16:49:40.000Z",
+        "description": "",
+        "id": "1656340688286433281",
+        "name": "Blue Fish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868666792643592192/01na1ZWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 105,
+          "like_count": 12695,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 612
+        },
+        "username": "BlueFish1358523",
+        "verified": false
+      }
+    ]
+  }
+}

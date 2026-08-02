@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901175799111405568"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1901175808825364878",
+    "created_at": "2025-03-16T07:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T08:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901175808825364878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DUNJc58WVC",
+          "end": 98,
+          "expanded_url": "https://x.com/lumigj02/status/1901175808825364878/photo/1",
+          "media_key": "3_1901175799111405568",
+          "start": 75,
+          "url": "https://t.co/DUNJc58WVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901175808825364878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到这个α2A-adrenergic receptor agonist想起来Xylazine和Clonidine的structural analog https://t.co/DUNJc58WVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901175799111405568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmJVUQGa0AAyUjm.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901175799111405568"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1901175808825364878",
+        "created_at": "2025-03-16T07:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T08:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901175808825364878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUNJc58WVC",
+              "end": 98,
+              "expanded_url": "https://x.com/lumigj02/status/1901175808825364878/photo/1",
+              "media_key": "3_1901175799111405568",
+              "start": 75,
+              "url": "https://t.co/DUNJc58WVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901175808825364878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个α2A-adrenergic receptor agonist想起来Xylazine和Clonidine的structural analog https://t.co/DUNJc58WVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 19 🇸🇬 @NUSingapore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "成都/Singapore",
+        "name": "猫卷",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 875,
+          "like_count": 25701,
+          "listed_count": 11,
+          "media_count": 955,
+          "tweet_count": 10725
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

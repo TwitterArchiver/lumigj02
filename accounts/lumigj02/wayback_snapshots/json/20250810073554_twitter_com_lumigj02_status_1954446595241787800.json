@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953999072802877729",
+    "created_at": "2025-08-10T07:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T08:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954446595241787800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1195887838975295488",
+          "start": 0,
+          "username": "yjh29640319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954446595241787800",
+    "in_reply_to_user_id": "1195887838975295488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953999072802877729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yjh29640319 我弄死你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46277,
+        "height": 1280,
+        "media_key": "7_1953998456114360322",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1953998456114360322/pu/img/r2Ka9zusRVBhKzsy.jpg",
+        "public_metrics": {
+          "view_count": 31190
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953998456114360322/pu/vid/avc1/320x568/hbvgEQyu_nj2e6D3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953998456114360322/pu/vid/avc1/480x852/oasfXwg-ytpyqqc1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953998456114360322/pu/vid/avc1/720x1280/EZJmPLG8y2V73Vhy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1953998456114360322/pu/pl/ExKfIdh2ZRHHg3cx.m3u8?tag=12&v=11a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953999072802877729",
+        "created_at": "2025-08-10T07:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T08:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954446595241787800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1195887838975295488",
+              "start": 0,
+              "username": "yjh29640319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954446595241787800",
+        "in_reply_to_user_id": "1195887838975295488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953999072802877729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yjh29640319 我弄死你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953998456114360322"
+          ]
+        },
+        "author_id": "1195887838975295488",
+        "conversation_id": "1953999072802877729",
+        "created_at": "2025-08-09T01:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T02:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953999072802877729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfxjoJNbd6",
+              "end": 31,
+              "expanded_url": "https://x.com/yjh29640319/status/1953999072802877729/video/1",
+              "media_key": "7_1953998456114360322",
+              "start": 8,
+              "url": "https://t.co/SfxjoJNbd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953999072802877729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 51800,
+          "like_count": 213,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "大家一起涨知识 https://t.co/SfxjoJNbd6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390 私信 or Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 934,
+          "like_count": 27714,
+          "listed_count": 12,
+          "media_count": 1124,
+          "tweet_count": 13392
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-17T02:14:30.000Z",
+        "description": "travel world",
+        "id": "1195887838975295488",
+        "name": "峨眉峰（之北方分峰）",
+        "pinned_tweet_id": "1954410244672819515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519301924209659908/R4kUE51E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12419,
+          "following_count": 67,
+          "like_count": 28968,
+          "listed_count": 96,
+          "media_count": 15497,
+          "tweet_count": 35710
+        },
+        "username": "yjh29640319",
+        "verified": false
+      }
+    ]
+  }
+}

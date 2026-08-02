@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1925353248694943988",
+    "created_at": "2025-05-22T01:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T02:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925367038945763368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1167792264795394048",
+          "start": 0,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925367038945763368",
+    "in_reply_to_user_id": "1167792264795394048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925353248694943988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leetfs1 恭喜\n我也正在学"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925353233209511936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grg6kIyaUAAo3YK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1925353248694943988",
+        "created_at": "2025-05-22T01:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T02:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925367038945763368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925367038945763368",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925353248694943988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 恭喜\n我也正在学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925353233209511936"
+          ]
+        },
+        "author_id": "1167792264795394048",
+        "conversation_id": "1925353248694943988",
+        "created_at": "2025-05-22T00:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T01:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925353248694943988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQVvn0CElz",
+              "end": 23,
+              "expanded_url": "https://x.com/leetfs1/status/1925353248694943988/photo/1",
+              "media_key": "3_1925353233209511936",
+              "start": 0,
+              "url": "https://t.co/mQVvn0CElz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925353248694943988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mQVvn0CElz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @_Sanxon | @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系 | 解block请私信 @_Sanxon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "CatRoll.OHP🏳️‍⚧️日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 892,
+          "like_count": 26952,
+          "listed_count": 12,
+          "media_count": 1077,
+          "tweet_count": 12079
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "@MtFwiki & @RLEwiki 成员 | 喜欢前端和 LLVM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "RLEwiki"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901813483391574016/URlQ6yLb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4061,
+          "following_count": 2591,
+          "like_count": 1333,
+          "listed_count": 19,
+          "media_count": 795,
+          "tweet_count": 5616
+        },
+        "username": "leetfs1",
+        "verified": false
+      }
+    ]
+  }
+}

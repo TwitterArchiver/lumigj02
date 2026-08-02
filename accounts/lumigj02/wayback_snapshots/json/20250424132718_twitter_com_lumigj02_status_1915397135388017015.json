@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915397126752002051"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1915397135388017015",
+    "created_at": "2025-04-24T13:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T14:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915397135388017015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mgti6uA3de",
+          "end": 38,
+          "expanded_url": "https://x.com/lumigj02/status/1915397135388017015/photo/1",
+          "media_key": "3_1915397126752002051",
+          "start": 15,
+          "url": "https://t.co/Mgti6uA3de"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915397135388017015",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢赞赏 猫卷祝心想事成哦！ https://t.co/Mgti6uA3de"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_1915397126752002051",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpTbid_bYAMR0Be.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915397126752002051"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1915397135388017015",
+        "created_at": "2025-04-24T13:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T14:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915397135388017015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mgti6uA3de",
+              "end": 38,
+              "expanded_url": "https://x.com/lumigj02/status/1915397135388017015/photo/1",
+              "media_key": "3_1915397126752002051",
+              "start": 15,
+              "url": "https://t.co/Mgti6uA3de"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915397135388017015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢赞赏 猫卷祝心想事成哦！ https://t.co/Mgti6uA3de"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | HRT药商 | Cat named Neko | 主人&老婆 @RanXi_MtF | @you_miaowu @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 872,
+          "like_count": 26495,
+          "listed_count": 11,
+          "media_count": 1029,
+          "tweet_count": 11582
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

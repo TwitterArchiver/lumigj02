@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1924847400830828821",
+    "created_at": "2025-05-20T15:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T16:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924847400830828821"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Lucas",
+          "probability": 0.4862,
+          "start": 27,
+          "type": "Person"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924847400830828821",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "People are overreacting to Lucas's incident"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1924847400830828821",
+        "created_at": "2025-05-20T15:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T16:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924847400830828821"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Lucas",
+              "probability": 0.4862,
+              "start": 27,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924847400830828821",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "People are overreacting to Lucas's incident"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 🇸🇬 @NUSComputing | R6 analyst, duo @_Sanxon | ex-banking, ex-fintech | @ndmhwxck @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "NUSComputing"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🍥日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 892,
+          "like_count": 26940,
+          "listed_count": 12,
+          "media_count": 1073,
+          "tweet_count": 12061
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

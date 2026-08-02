@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1961183847099556065",
+    "created_at": "2025-08-28T21:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T22:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961183847099556065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n_n_det/status…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/n_n_det/status/1960871294200897632",
+          "start": 63,
+          "url": "https://t.co/IpPfkIArQQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961183847099556065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960871294200897632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃过苯丙胺，害得我加油的时候不小心按错把特么引擎盖摁开了，硬是没注意到，就这么开到机场接朋友然后朋友跟我说我的引擎盖怎么在抖 https://t.co/IpPfkIArQQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1961183847099556065",
+        "created_at": "2025-08-28T21:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T22:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961183847099556065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n_n_det/status…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/n_n_det/status/1960871294200897632",
+              "start": 63,
+              "url": "https://t.co/IpPfkIArQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961183847099556065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960871294200897632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃过苯丙胺，害得我加油的时候不小心按错把特么引擎盖摁开了，硬是没注意到，就这么开到机场接朋友然后朋友跟我说我的引擎盖怎么在抖 https://t.co/IpPfkIArQQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "522147771",
+        "conversation_id": "1960806493571493908",
+        "created_at": "2025-08-28T01:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960871294200897632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1608760545704038400",
+              "start": 0,
+              "username": "yooosko_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960871294200897632",
+        "in_reply_to_user_id": "1608760545704038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960866208884121706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yooosko_01 苯丙胺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//💌@HobartR6🐈@_FurryFur_//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "猫",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 925,
+          "like_count": 27936,
+          "listed_count": 13,
+          "media_count": 1161,
+          "tweet_count": 13870
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "主号: @overdose_dxm\n交流群:https://t.co/FJhZhgg6cY\n化学极乐百科:https://t.co/pYOLeaidWM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/nVUqUkwW",
+                "end": 45,
+                "expanded_url": "https://discord.gg/nVUqUkwW",
+                "start": 22,
+                "url": "https://t.co/FJhZhgg6cY"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 76,
+                "expanded_url": "https://www.overdose.day",
+                "start": 53,
+                "url": "https://t.co/pYOLeaidWM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二乙基色胺🔯",
+        "pinned_tweet_id": "1960302763902120173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 928,
+          "like_count": 383,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DET",
+        "verified": false
+      }
+    ]
+  }
+}

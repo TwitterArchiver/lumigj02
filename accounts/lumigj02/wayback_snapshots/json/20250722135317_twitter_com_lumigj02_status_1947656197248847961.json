@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1947656197248847961",
+    "created_at": "2025-07-22T13:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T14:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947656197248847961"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Singapore",
+          "probability": 0.8703,
+          "start": 23,
+          "type": "Place"
+        },
+        {
+          "end": 97,
+          "normalized_text": "Baka",
+          "probability": 0.3986,
+          "start": 94,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/unnamed_rf/sta…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/unnamed_rf/status/1947655876577530029",
+          "start": 99,
+          "url": "https://t.co/s8AuuRqIDl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947656197248847961",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947655876577530029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "This guy renounced his Singapore citizenship only to DODGE NATIONAL SERVICE\nHe's Japanese now\nBaka https://t.co/s8AuuRqIDl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_1947655869606334464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwd2sbyXEAAZgPL.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1947656197248847961",
+        "created_at": "2025-07-22T13:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947656197248847961"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Singapore",
+              "probability": 0.8703,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 97,
+              "normalized_text": "Baka",
+              "probability": 0.3986,
+              "start": 94,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/unnamed_rf/sta…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/unnamed_rf/status/1947655876577530029",
+              "start": 99,
+              "url": "https://t.co/s8AuuRqIDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947656197248847961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947655876577530029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This guy renounced his Singapore citizenship only to DODGE NATIONAL SERVICE\nHe's Japanese now\nBaka https://t.co/s8AuuRqIDl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947655869606334464"
+          ]
+        },
+        "author_id": "1305844679284457473",
+        "conversation_id": "1947655876577530029",
+        "created_at": "2025-07-22T13:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947655876577530029"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "TMR",
+              "probability": 0.5811,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1z6OpjPsxX",
+              "end": 43,
+              "expanded_url": "https://x.com/Unnamed_RF/status/1947655876577530029/photo/1",
+              "media_key": "3_1947655869606334464",
+              "start": 20,
+              "url": "https://t.co/1z6OpjPsxX"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/lumigj02/status/1947653529486704640",
+              "start": 44,
+              "url": "https://t.co/2JZ2vF1jfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947655876577530029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947653529486704640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Actually I'm TMR\nfr https://t.co/1z6OpjPsxX https://t.co/2JZ2vF1jfu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 924,
+          "like_count": 27649,
+          "listed_count": 12,
+          "media_count": 1103,
+          "tweet_count": 13072
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "絶賛😎中です｜主に日本語と繁體中文でツイートする",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/dukelitsenbourg",
+                "end": 23,
+                "expanded_url": "http://x.com/dukelitsenbourg",
+                "start": 0,
+                "url": "https://t.co/fh1O6C0dus"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "サブ垢こちら→",
+        "name": "律 😎",
+        "pinned_tweet_id": "1947593107274617256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947592567664893952/ZOJDKTWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 858,
+          "like_count": 13655,
+          "listed_count": 16,
+          "media_count": 4637,
+          "tweet_count": 39824
+        },
+        "url": "https://t.co/fh1O6C0dus",
+        "username": "Unnamed_RF",
+        "verified": false
+      }
+    ]
+  }
+}

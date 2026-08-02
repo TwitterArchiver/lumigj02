@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1955132136484147363",
+    "created_at": "2025-08-12T14:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T15:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955281910021660749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955281910021660749",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955132136484147363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 双枪会给出答案"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39288,
+        "height": 1024,
+        "media_key": "13_1955001184462188544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955001184462188544/img/Xk7A6PSB3QW56FMZ.jpg",
+        "public_metrics": {
+          "view_count": 79993
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955001184462188544/vid/avc1/320x568/r_CtrcUHuVLvvkh-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955001184462188544/vid/avc1/480x852/awhrbPeE5Ri78Lm0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955001184462188544/vid/avc1/576x1024/3HfQJ5CX6VUUNKnG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955001184462188544/pl/xxc8_07GVMgwYp2x.m3u8?v=caa"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 18993,
+        "height": 1024,
+        "media_key": "13_1955001193236746241",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955001193236746241/img/j8PTSyWFWx1smCc7.jpg",
+        "public_metrics": {
+          "view_count": 7184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955001193236746241/vid/avc1/320x568/5pUcC3D39bij_b-N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955001193236746241/vid/avc1/480x852/b5LBP93Vd4yNedxB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955001193236746241/vid/avc1/576x1024/FYwA6TQ1aEyl9kU1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955001193236746241/pl/MtZwDQ4bdyEsQM2e.m3u8?v=01c"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1955132136484147363",
+        "created_at": "2025-08-12T14:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955281910021660749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955281910021660749",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955132136484147363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 双枪会给出答案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955001184462188544",
+            "13_1955001193236746241"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1955132136484147363",
+        "created_at": "2025-08-12T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955132136484147363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXLJPAm71L",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1955132136484147363/video/1",
+              "media_key": "13_1955001184462188544",
+              "start": 104,
+              "url": "https://t.co/pXLJPAm71L"
+            },
+            {
+              "display_url": "pic.x.com/pXLJPAm71L",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1955132136484147363/video/1",
+              "media_key": "13_1955001193236746241",
+              "start": 104,
+              "url": "https://t.co/pXLJPAm71L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955132136484147363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 174160,
+          "like_count": 833,
+          "quote_count": 6,
+          "reply_count": 122,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "8月11日，一名网红在武汉大学校园内拍摄视频，要求校方就“武汉大学图书馆”事件给出答案。\n视频中，男子手拿两柄水枪，高喊雨再大大不过人民的声音，正义是杀不完的。后被赶来的保安制止。\n目前这两则视频均被删除。 https://t.co/pXLJPAm71L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我沒有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 912,
+          "like_count": 27761,
+          "listed_count": 12,
+          "media_count": 1134,
+          "tweet_count": 13530
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075957,
+          "following_count": 983,
+          "like_count": 7900,
+          "listed_count": 8263,
+          "media_count": 33301,
+          "tweet_count": 40042
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

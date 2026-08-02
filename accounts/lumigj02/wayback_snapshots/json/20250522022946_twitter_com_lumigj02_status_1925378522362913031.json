@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1923703955634389230",
+    "created_at": "2025-05-22T02:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T03:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925378522362913031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902700598321135616",
+          "start": 0,
+          "username": "wenO959886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925378522362913031",
+    "in_reply_to_user_id": "1902700598321135616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925377568452280383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenO959886 到了就吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1923703955634389230",
+        "created_at": "2025-05-22T02:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T03:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925378522362913031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902700598321135616",
+              "start": 0,
+              "username": "wenO959886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925378522362913031",
+        "in_reply_to_user_id": "1902700598321135616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925377568452280383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenO959886 到了就吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902700598321135616",
+        "conversation_id": "1923703955634389230",
+        "created_at": "2025-05-22T02:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T03:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925377568452280383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925377568452280383",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925368522324209935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 支持，但请快点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @_Sanxon | @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系 | 解block请私信 @_Sanxon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "CatRoll.OHP🏳️‍⚧️日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 892,
+          "like_count": 26955,
+          "listed_count": 12,
+          "media_count": 1077,
+          "tweet_count": 12091
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T12:36:05.000Z",
+        "description": "ENTP/人称SHEEP/常住墨尔本有实力请线下我/M不TF/双向情感无障碍/焦虑症（量化表t66.4）抑郁症（量化t72.4）躯体化（量化P11）/不PTSD/不吃素食主义者/DOOM/GAM/S(打游戏时哈)/经常游走在各种R18的评论区/请逻辑清晰的反驳我\n小号@Yuwen_Tang1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 134,
+                "username": "Yuwen_Tang1019"
+              }
+            ]
+          }
+        },
+        "id": "1902700598321135616",
+        "location": "在迪肯大学看迪肯吃迪肯的迪克",
+        "name": "唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924357520723759104/rJ5wr9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 347
+        },
+        "username": "wenO959886",
+        "verified": true
+      }
+    ]
+  }
+}

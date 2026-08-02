@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1906112043175801136",
+    "created_at": "2025-03-30T05:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T06:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906222188895863167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906222188895863167",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906112043175801136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq Crackc cocaine?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906111961726640128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnPeuuzW4AAhg5r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906112043175801136",
+        "created_at": "2025-03-30T05:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T06:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906222188895863167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906222188895863167",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906112043175801136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq Crackc cocaine?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906111961726640128"
+          ]
+        },
+        "author_id": "1690388233778331649",
+        "conversation_id": "1906112043175801136",
+        "created_at": "2025-03-29T22:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T23:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906112043175801136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VyER29KJE",
+              "end": 25,
+              "expanded_url": "https://x.com/m1zukiqaqaqaq/status/1906112043175801136/photo/1",
+              "media_key": "3_1906111961726640128",
+              "start": 2,
+              "url": "https://t.co/0VyER29KJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906112043175801136",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/0VyER29KJE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 4ever | @you_miaowu | 叫我猫卷/Lumi | ??? | contact: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "云猫归卷",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 863,
+          "like_count": 26143,
+          "listed_count": 11,
+          "media_count": 974,
+          "tweet_count": 11160
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "Ugrad @UCSBPhysics & @ucsbcs | 🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "UCSBPhysics"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "ucsbcs"
+              }
+            ]
+          }
+        },
+        "id": "1690388233778331649",
+        "location": "Santa Barbara, CA",
+        "name": "MizukiQAQAQAQ",
+        "pinned_tweet_id": "1906024929385935213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732029592968572928/J51WOOh4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 780,
+          "like_count": 9821,
+          "listed_count": 1,
+          "media_count": 878,
+          "tweet_count": 3278
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      }
+    ]
+  }
+}

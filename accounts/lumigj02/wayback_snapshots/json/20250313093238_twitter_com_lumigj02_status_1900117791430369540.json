@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10024019927",
+          "name": "Band-Aid"
+        }
+      }
+    ],
+    "conversation_id": "1899967348993314983",
+    "created_at": "2025-03-13T09:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T10:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900117791430369540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4768803912",
+          "start": 0,
+          "username": "Al1saAl1ce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900117791430369540",
+    "in_reply_to_user_id": "4768803912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899967348993314983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Al1saAl1ce 还有Jacuzzi bandaid 我在非北美英语国家从来听过这两个词QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10024019927",
+              "name": "Band-Aid"
+            }
+          }
+        ],
+        "conversation_id": "1899967348993314983",
+        "created_at": "2025-03-13T09:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T10:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900117791430369540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4768803912",
+              "start": 0,
+              "username": "Al1saAl1ce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900117791430369540",
+        "in_reply_to_user_id": "4768803912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899967348993314983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Al1saAl1ce 还有Jacuzzi bandaid 我在非北美英语国家从来听过这两个词QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4768803912",
+        "conversation_id": "1899967348993314983",
+        "created_at": "2025-03-12T23:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T00:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899967348993314983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Nikisade/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/_Nikisade/status/1899916795714191868",
+              "start": 57,
+              "url": "https://t.co/o8FJNgucC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899967348993314983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 395,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899916795714191868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个问题英语国家的人更严重吧，把商品名当成通用名用，比如说保温杯叫thermos，耐热玻璃叫pyrex etc. https://t.co/o8FJNgucC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 876,
+          "like_count": 25657,
+          "listed_count": 11,
+          "media_count": 947,
+          "tweet_count": 10616
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-16T14:53:30.000Z",
+        "description": "她/She，中文/English，啥都不懂/\n是个粥批，也是安东星人，因为不知道在推特上说什么好x所以就转转色图啦",
+        "id": "4768803912",
+        "location": "40°23'56\"N,99°46'52\"E",
+        "name": "艾莉♥️💙#",
+        "pinned_tweet_id": "1660335273958420488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374945196480331776/MKlZhZgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 1565,
+          "like_count": 65284,
+          "listed_count": 11,
+          "media_count": 2088,
+          "tweet_count": 46478
+        },
+        "username": "Al1saAl1ce",
+        "verified": false
+      }
+    ]
+  }
+}

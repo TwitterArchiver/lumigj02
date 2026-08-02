@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1920913459824210274",
+    "created_at": "2025-05-09T18:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T19:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920913459824210274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amecandy_x/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/amecandy_x/status/1920752091561099560",
+          "start": 25,
+          "url": "https://t.co/imyY3woJqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920913459824210274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920752091561099560",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次我o了两瓶白兔三天没睡着觉一直手抖心悸\n妈的 https://t.co/imyY3woJqu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1595,
+        "media_key": "3_1920752082598125568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqfh17DaYAAFIW9.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1920913459824210274",
+        "created_at": "2025-05-09T18:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T19:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920913459824210274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/amecandy_x/status/1920752091561099560",
+              "start": 25,
+              "url": "https://t.co/imyY3woJqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920913459824210274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920752091561099560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次我o了两瓶白兔三天没睡着觉一直手抖心悸\n妈的 https://t.co/imyY3woJqu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920752082598125568"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1920752091561099560",
+        "created_at": "2025-05-09T08:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T09:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920752091561099560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHK7w5Mnsy",
+              "end": 26,
+              "expanded_url": "https://x.com/amecandy_x/status/1920752091561099560/photo/1",
+              "media_key": "3_1920752082598125568",
+              "start": 3,
+              "url": "https://t.co/WHK7w5Mnsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920752091561099560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1261,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦不 https://t.co/WHK7w5Mnsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 老婆 @RanXi_MtF | 主人 @_temryava | 家猫 @_FurryFur_ | 姐姐 @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "_temryava"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "咱要吃哦润吉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 884,
+          "like_count": 26709,
+          "listed_count": 12,
+          "media_count": 1054,
+          "tweet_count": 11814
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「过于真实的幻像露出了天使般的笑容」这里是Rain 处于焦虑抑郁和恐惧的小女孩→    ////    \n需要互 fo 请私信 需要我陪你请私信！我想陪着大家所以没有门槛🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/CwKoKqRk8n"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "这是我的网站 oc小说连载处👉",
+        "name": "超絕最可愛 Rain 💙🧬",
+        "pinned_tweet_id": "1861034108069318895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 1055,
+          "like_count": 15284,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 4817
+        },
+        "url": "https://t.co/CwKoKqRk8n",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

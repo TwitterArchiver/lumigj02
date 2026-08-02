@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950924387932045810",
+    "created_at": "2025-08-06T05:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T06:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952965730325905594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "769840257995071488",
+          "start": 0,
+          "username": "xiaoxiaoMaoHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952965730325905594",
+    "in_reply_to_user_id": "769840257995071488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952963445680423010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiaoMaoHu 宝宝你在意了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950924387932045810",
+        "created_at": "2025-08-06T05:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952965730325905594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "769840257995071488",
+              "start": 0,
+              "username": "xiaoxiaoMaoHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952965730325905594",
+        "in_reply_to_user_id": "769840257995071488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952963445680423010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiaoMaoHu 宝宝你在意了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "769840257995071488",
+        "conversation_id": "1950924387932045810",
+        "created_at": "2025-08-06T05:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952963445680423010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952963445680423010",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950924387932045810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 其实无人在意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390 | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "HobartR6"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷uwu🐱✨🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 931,
+          "like_count": 27730,
+          "listed_count": 12,
+          "media_count": 1123,
+          "tweet_count": 13289
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-28T10:13:15.000Z",
+        "description": "女装大佬全网同名                     喜欢请点关注\n                                    只擦边，不漏🐔，不露点，不线下",
+        "id": "769840257995071488",
+        "location": "shan dong",
+        "name": "猫了个虎儿",
+        "pinned_tweet_id": "1925004163693584669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925219747723116544/zJxcMcKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6994,
+          "following_count": 284,
+          "like_count": 410,
+          "listed_count": 41,
+          "media_count": 138,
+          "tweet_count": 521
+        },
+        "username": "xiaoxiaoMaoHu",
+        "verified": false
+      }
+    ]
+  }
+}

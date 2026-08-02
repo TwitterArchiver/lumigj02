@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1934264189247459351",
+    "created_at": "2025-06-16T13:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T14:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934608031683420571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911351259749294080",
+          "start": 0,
+          "username": "Quitewaterqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934608031683420571",
+    "in_reply_to_user_id": "1911351259749294080",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934264189247459351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quitewaterqwq Hore"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1764,
+        "media_key": "3_1934264185913008128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfjB2ca4AAw1Za.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1934264189247459351",
+        "created_at": "2025-06-16T13:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T14:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934608031683420571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911351259749294080",
+              "start": 0,
+              "username": "Quitewaterqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934608031683420571",
+        "in_reply_to_user_id": "1911351259749294080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934264189247459351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quitewaterqwq Hore"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934264185913008128"
+          ]
+        },
+        "author_id": "1911351259749294080",
+        "conversation_id": "1934264189247459351",
+        "created_at": "2025-06-15T14:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T15:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934264189247459351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5UxvT4Z0a",
+              "end": 23,
+              "expanded_url": "https://x.com/Quitewaterqwq/status/1934264189247459351/photo/1",
+              "media_key": "3_1934264185913008128",
+              "start": 0,
+              "url": "https://t.co/V5UxvT4Z0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934264189247459351",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 36566,
+          "like_count": 247,
+          "quote_count": 21,
+          "reply_count": 231,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V5UxvT4Z0a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "彩虹六号冠军 APEX猎杀 Valorant神话 王者2万2国服镜 The only thing that kill me is old age 猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2717,
+          "following_count": 894,
+          "like_count": 27144,
+          "listed_count": 12,
+          "media_count": 1106,
+          "tweet_count": 12454
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "09山东初三毕业生|不b任何人|坚持对任何人友好原则|是岁静人|友跨🏳️‍⚧️\n好宝宝😘@1ka16103257 @tongtiaowhenXI @D1o2ng\n露一个Q群:1031630927",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "1ka16103257"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "tongtiaowhenXI"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "D1o2ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PJRSYa",
+                "end": 23,
+                "expanded_url": "https://t.me/PJRSYa",
+                "start": 0,
+                "url": "https://t.co/9QvFwvU0yb"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "location": "IP属地:中国",
+        "name": "平静如水🇨🇳|第二转世|推友巡回",
+        "pinned_tweet_id": "1915791319613808730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 550,
+          "like_count": 1587,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1628
+        },
+        "url": "https://t.co/9QvFwvU0yb",
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

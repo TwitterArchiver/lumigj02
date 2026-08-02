@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1918631512200651111",
+    "created_at": "2025-05-03T12:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T13:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918642380573376644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        },
+        {
+          "end": 31,
+          "id": "1004362078956613632",
+          "start": 15,
+          "username": "OliviaWantsHugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918642380573376644",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918642298293715159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra @OliviaWantsHugs ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1918642298293715159].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1918642298293715159",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1918642298293715159"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1918631512200651111",
+        "created_at": "2025-05-03T12:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T13:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918642380573376644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            },
+            {
+              "end": 31,
+              "id": "1004362078956613632",
+              "start": 15,
+              "username": "OliviaWantsHugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918642380573376644",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918642298293715159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra @OliviaWantsHugs ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 主人&大老婆 @RanXi_MtF | 小老婆 @_FurryFur_ | @you_miaowu | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 880,
+          "like_count": 26594,
+          "listed_count": 12,
+          "media_count": 1036,
+          "tweet_count": 11671
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "Fake it till make it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ProjectA1saku",
+                "end": 23,
+                "expanded_url": "https://t.me/ProjectA1saku",
+                "start": 0,
+                "url": "https://t.co/MYzhwjB35L"
+              }
+            ]
+          }
+        },
+        "id": "1746169774147776512",
+        "location": "Selangor ",
+        "name": "🩵出女大自用99新9800x3d SGD 650 RMB 3599 MYR 2130可小小刀🌘",
+        "pinned_tweet_id": "1917986436743303595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917261661628686336/jfIkQJxb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 854,
+          "like_count": 54194,
+          "listed_count": 2,
+          "media_count": 1623,
+          "tweet_count": 38567
+        },
+        "url": "https://t.co/MYzhwjB35L",
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "女的 \\ 不约p \\ Liberty & Life & Love \\ 新加坡第一枕头公主 \\ 中文不好 \\ 温顺可爱的幼年萨摩耶 \\ 里号: @OliviaNeedsHugs 不熟别fo没色图 \\ 最喜欢两位A什么的小布偶和小豆泥 \\ M&sub&喜欢绳子不跟香草谈恋爱 \\ 腿长100cm很好摸 \\ 舞萌吃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "OliviaNeedsHugs"
+              }
+            ]
+          }
+        },
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "Olivia O泡耶奶 🇸🇬 重生之Re: End of Sem",
+        "pinned_tweet_id": "1807816448360042949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847978083649040385/K7ZdNTap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 544,
+          "like_count": 23346,
+          "listed_count": 18,
+          "media_count": 1270,
+          "tweet_count": 22654
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950924527912849408"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950924543754727637",
+    "created_at": "2025-07-31T14:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T15:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950924543754727637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5hmu01TTgM",
+          "end": 32,
+          "expanded_url": "https://x.com/lumigj02/status/1950924543754727637/photo/1",
+          "media_key": "3_1950924527912849408",
+          "start": 9,
+          "url": "https://t.co/5hmu01TTgM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950924543754727637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一脸安详.jpg https://t.co/5hmu01TTgM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950924527912849408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMThY3XkAAoPv0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950924527912849408"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950924543754727637",
+        "created_at": "2025-07-31T14:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T15:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950924543754727637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hmu01TTgM",
+              "end": 32,
+              "expanded_url": "https://x.com/lumigj02/status/1950924543754727637/photo/1",
+              "media_key": "3_1950924527912849408",
+              "start": 9,
+              "url": "https://t.co/5hmu01TTgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950924543754727637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一脸安详.jpg https://t.co/5hmu01TTgM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 926,
+          "like_count": 27694,
+          "listed_count": 12,
+          "media_count": 1117,
+          "tweet_count": 13220
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

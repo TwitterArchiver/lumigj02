@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962846643943817359",
+    "created_at": "2025-09-02T12:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T13:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962851084663509171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646905533386100738",
+          "start": 0,
+          "username": "du_allen45136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962851084663509171",
+    "in_reply_to_user_id": "1646905533386100738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962846643943817359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@du_allen45136 不叫你（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962846643943817359",
+        "created_at": "2025-09-02T12:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962851084663509171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646905533386100738",
+              "start": 0,
+              "username": "du_allen45136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962851084663509171",
+        "in_reply_to_user_id": "1646905533386100738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962846643943817359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@du_allen45136 不叫你（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646905533386100738",
+        "conversation_id": "1962846643943817359",
+        "created_at": "2025-09-02T11:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962846643943817359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/v50toseethis/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/v50toseethis/status/1962124535978676365",
+              "start": 42,
+              "url": "https://t.co/Ozq7RNzyTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962846643943817359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962124535978676365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？我每年过生日都叫朋友去跑团，玩COC和DND，我怎么没见着他们里面有一个滚床单的 https://t.co/Ozq7RNzyTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@HobartR6 🇲🇾 @sutdsg @_FurryFur_ // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 20,
+                "start": 13,
+                "username": "sutdsg"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi、Lumi、時々猫巻（日雌380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2958,
+          "following_count": 932,
+          "like_count": 27976,
+          "listed_count": 13,
+          "media_count": 1164,
+          "tweet_count": 13984
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T15:58:06.000Z",
+        "description": "波士顿大学丨哲学专业大一 丨生活推和一些随想 丨喜欢单机主机游戏丨如果你经常点赞或者给出了有价值的回复，我就会回fo",
+        "id": "1646905533386100738",
+        "location": "Massachusetts, USA",
+        "name": "Duber",
+        "pinned_tweet_id": "1672938437538885637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950224135340064770/UQm44Rlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 74,
+          "like_count": 2458,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1101
+        },
+        "username": "du_allen45136",
+        "verified": true
+      }
+    ]
+  }
+}

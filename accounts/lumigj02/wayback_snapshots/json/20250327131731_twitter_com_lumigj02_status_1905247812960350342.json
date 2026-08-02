@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1905170032264716554",
+    "created_at": "2025-03-27T13:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T14:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905247812960350342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1662540652029304832",
+          "start": 0,
+          "username": "Sky29406"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905247812960350342",
+    "in_reply_to_user_id": "1662540652029304832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905200380893626800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sky29406 姐姐！～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1905170032264716554",
+        "created_at": "2025-03-27T13:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905247812960350342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662540652029304832",
+              "start": 0,
+              "username": "Sky29406"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905247812960350342",
+        "in_reply_to_user_id": "1662540652029304832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905200380893626800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sky29406 姐姐！～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662540652029304832",
+        "conversation_id": "1905170032264716554",
+        "created_at": "2025-03-27T10:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905200380893626800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905200380893626800",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905170032264716554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 猫卷妹妹❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu | 二十多岁的 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无 | 我是海豹手套色布偶, 不是暹罗!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 88,
+                "start": 81,
+                "username": "sutdsg"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 860,
+          "like_count": 25996,
+          "listed_count": 11,
+          "media_count": 970,
+          "tweet_count": 11074
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T19:26:11.000Z",
+        "description": "生活中的小透明 ，希望可以交到很多朋友… ｜HRT23.10.17｜SRS25.2.10｜",
+        "id": "1662540652029304832",
+        "location": "0.2KM",
+        "name": " Sky（破茧版）",
+        "pinned_tweet_id": "1880614863397097587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904502864401321984/F37HxPZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 1426,
+          "like_count": 43266,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 9307
+        },
+        "username": "Sky29406",
+        "verified": false
+      }
+    ]
+  }
+}

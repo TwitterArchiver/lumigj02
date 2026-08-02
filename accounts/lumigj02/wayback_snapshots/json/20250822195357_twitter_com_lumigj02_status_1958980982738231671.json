@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1958959498212909262",
+    "created_at": "2025-08-22T19:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T20:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958980982738231671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853728008580050944",
+          "start": 0,
+          "username": "transman_meme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958980982738231671",
+    "in_reply_to_user_id": "1853728008580050944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958959498212909262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@transman_meme 会的吧，有些跨是因为第一性征，有些跨是因为social positioning，至少前者不会消失"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1958959498212909262",
+        "created_at": "2025-08-22T19:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T20:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958980982738231671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853728008580050944",
+              "start": 0,
+              "username": "transman_meme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958980982738231671",
+        "in_reply_to_user_id": "1853728008580050944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958959498212909262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@transman_meme 会的吧，有些跨是因为第一性征，有些跨是因为social positioning，至少前者不会消失"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1958959497114001410"
+          ]
+        },
+        "author_id": "1853728008580050944",
+        "conversation_id": "1958959498212909262",
+        "created_at": "2025-08-22T18:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T19:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958959498212909262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958959498212909262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【問題/調查】\n如果男女之間再沒有任何差異的話（例如：沒有性別框架、衣服分男女裝、沒人歧視穿裙裝的生理男等） 你認為跨性別還需要存在嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "笨猫卷8964",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958902621303185409/FZrkKv70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836,
+          "following_count": 926,
+          "like_count": 27884,
+          "listed_count": 12,
+          "media_count": 1157,
+          "tweet_count": 13787
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T09:16:18.000Z",
+        "description": "只求共嗚 主帳：@plfk87（不用fol）\n棉花糖：https://t.co/BxL63AFAPE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "plfk87"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v985ssw9pk6p7m…",
+                "end": 50,
+                "expanded_url": "https://marshmallow-qa.com/v985ssw9pk6p7my?t=ajwEqv&utm_medium=url_text&utm_source=promotion",
+                "start": 27,
+                "url": "https://t.co/BxL63AFAPE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/transm…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/transmanmeme.bsky.social",
+                "start": 0,
+                "url": "https://t.co/mRidPau6T7"
+              }
+            ]
+          }
+        },
+        "id": "1853728008580050944",
+        "name": "跨男迷因",
+        "pinned_tweet_id": "1945538139894026576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939723306653097984/CGtjuE-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 103,
+          "like_count": 609,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/mRidPau6T7",
+        "username": "transman_meme",
+        "verified": false
+      }
+    ]
+  }
+}

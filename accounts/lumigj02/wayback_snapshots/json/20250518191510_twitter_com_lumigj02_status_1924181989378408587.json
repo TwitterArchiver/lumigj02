@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1924052120216719616",
+    "created_at": "2025-05-18T19:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T20:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924181989378408587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889354518581878784",
+          "start": 0,
+          "username": "huanye2027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924181989378408587",
+    "in_reply_to_user_id": "1889354518581878784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924181892712255956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanye2027 好看😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1924052120216719616",
+        "created_at": "2025-05-18T19:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T20:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924181989378408587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889354518581878784",
+              "start": 0,
+              "username": "huanye2027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924181989378408587",
+        "in_reply_to_user_id": "1889354518581878784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924181892712255956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanye2027 好看😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889354518581878784",
+        "conversation_id": "1924052120216719616",
+        "created_at": "2025-05-18T19:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T20:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924181892712255956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924181892712255956",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924181628743786939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 ？很惊讶吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "一只猫卷 | 竹鼠 @ndmhwxck | 家猫 @_FurryFur_ | 日雌380泰补200 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🍥日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 889,
+          "like_count": 26859,
+          "listed_count": 12,
+          "media_count": 1070,
+          "tweet_count": 12011
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T16:43:54.000Z",
+        "description": "爱党👨👨爱国👩👩翻墙🪜🪜看黄✋✋",
+        "id": "1889354518581878784",
+        "location": "Ир",
+        "name": "枫糖小水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918842242711928832/DQHC5YQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 345,
+          "like_count": 51817,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 330
+        },
+        "username": "huanye2027",
+        "verified": false
+      }
+    ]
+  }
+}

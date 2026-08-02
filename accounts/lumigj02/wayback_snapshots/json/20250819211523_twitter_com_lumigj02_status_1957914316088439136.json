@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1957914316088439136",
+    "created_at": "2025-08-19T21:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T22:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957914316088439136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1690388233778331649",
+          "start": 2,
+          "username": "m1zukiqaqaqaq"
+        },
+        {
+          "end": 32,
+          "id": "1845454917236031495",
+          "start": 17,
+          "username": "Dontbesadforit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/uranus_chaos/s…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/uranus_chaos/status/1957886151181889977",
+          "start": 40,
+          "url": "https://t.co/XWWMjS2ArY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957914316088439136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957886151181889977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": ". @m1zukiqaqaqaq @Dontbesadforit 我要看你俩玩 https://t.co/XWWMjS2ArY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1957886148740849664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyvPFDZbIAACyJe.jpg",
+        "width": 531
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1957914316088439136",
+        "created_at": "2025-08-19T21:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T22:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957914316088439136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1690388233778331649",
+              "start": 2,
+              "username": "m1zukiqaqaqaq"
+            },
+            {
+              "end": 32,
+              "id": "1845454917236031495",
+              "start": 17,
+              "username": "Dontbesadforit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/uranus_chaos/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/uranus_chaos/status/1957886151181889977",
+              "start": 40,
+              "url": "https://t.co/XWWMjS2ArY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957914316088439136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957886151181889977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": ". @m1zukiqaqaqaq @Dontbesadforit 我要看你俩玩 https://t.co/XWWMjS2ArY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957886148740849664"
+          ]
+        },
+        "author_id": "1502654786453204994",
+        "conversation_id": "1957886151181889977",
+        "created_at": "2025-08-19T19:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T20:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957886151181889977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qs8CDd9Zb4",
+              "end": 23,
+              "expanded_url": "https://x.com/uranus_chaos/status/1957886151181889977/photo/1",
+              "media_key": "3_1957886148740849664",
+              "start": 0,
+              "url": "https://t.co/Qs8CDd9Zb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957886151181889977",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qs8CDd9Zb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "笨猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957897457658175488/cqcc_2gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 919,
+          "like_count": 27851,
+          "listed_count": 12,
+          "media_count": 1149,
+          "tweet_count": 13709
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "Ugrad @UCSBPhysics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "UCSBPhysics"
+              }
+            ]
+          }
+        },
+        "id": "1690388233778331649",
+        "name": "Mizuki打不过二结局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946592417198522368/LdHsJ1dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 838,
+          "like_count": 11508,
+          "listed_count": 0,
+          "media_count": 988,
+          "tweet_count": 3724
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 没有！翻车！💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人 ｜里：@MihariSuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "MihariSuki"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "笨中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 737,
+          "like_count": 40469,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 5775
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@shiyulin_‖药学毕业/医学生/护理学毕业/心理学二专‖里推：@不告诉你！ 自己猜！‖客服瑶光猫：@yaoguangmao（在线时间am11:30-pm10:30❗）点击进入无限循环：@uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "shiyulin_"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "uranus_chaos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYIIS"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "猫诺诺关注了你🍥🏴🏳️‍🌈【学术推】【南河三】",
+        "pinned_tweet_id": "1957172066962260441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941603638373384193/zKJvqtdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 277,
+          "like_count": 23741,
+          "listed_count": 0,
+          "media_count": 842,
+          "tweet_count": 6774
+        },
+        "url": "https://t.co/ResOORYIIS",
+        "username": "uranus_chaos",
+        "verified": false
+      }
+    ]
+  }
+}

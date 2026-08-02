@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1896882710003819004",
+    "created_at": "2025-03-05T03:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T04:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897119953511420007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695452816658325504",
+          "start": 0,
+          "username": "minchen3943"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897119953511420007",
+    "in_reply_to_user_id": "1695452816658325504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896890576882311543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minchen3943 有点像Jett？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1896882710003819004",
+        "created_at": "2025-03-05T03:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T04:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897119953511420007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695452816658325504",
+              "start": 0,
+              "username": "minchen3943"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897119953511420007",
+        "in_reply_to_user_id": "1695452816658325504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896890576882311543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minchen3943 有点像Jett？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695452816658325504",
+        "conversation_id": "1896882710003819004",
+        "created_at": "2025-03-04T11:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T12:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896890576882311543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896890576882311543",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896882710003819004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 坏了这头发还真有点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 日雌390泰补200 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "𝗟𝗨𝗠𝗜 𝗚. 𝗝𝗜𝗔𝗡𝗚 𝗖𝗛𝗘𝗡𝗚 𝗫𝗨𝗘",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 830,
+          "like_count": 25345,
+          "listed_count": 11,
+          "media_count": 912,
+          "tweet_count": 10159
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T15:07:16.000Z",
+        "description": "07年天才少女！无证含糖mtf丨17岁丨INTP丨喜欢玩音游，包括：舞立方、Phigros丨是粥批！ | tg：https://t.co/KKC329JhfY @Moyang0709",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "Moyang0709"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minchen3943",
+                "end": 79,
+                "expanded_url": "http://t.me/minchen3943",
+                "start": 56,
+                "url": "https://t.co/KKC329JhfY"
+              }
+            ]
+          }
+        },
+        "id": "1695452816658325504",
+        "name": "瞑尘🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697598311883304960/jDWBHRM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 521,
+          "like_count": 1778,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 626
+        },
+        "username": "minchen3943",
+        "verified": false
+      }
+    ]
+  }
+}

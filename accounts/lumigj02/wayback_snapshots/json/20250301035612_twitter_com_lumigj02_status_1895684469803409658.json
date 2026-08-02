@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895684193780424970",
+    "created_at": "2025-03-01T03:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T04:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895684469803409658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1258676077922156544",
+          "start": 0,
+          "username": "Arihara_Nanamix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895684469803409658",
+    "in_reply_to_user_id": "1258676077922156544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895684193780424970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arihara_Nanamix 好看喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895684184376819714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk7SuNAbQAIOiBx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895684193780424970",
+        "created_at": "2025-03-01T03:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T04:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895684469803409658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1258676077922156544",
+              "start": 0,
+              "username": "Arihara_Nanamix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895684469803409658",
+        "in_reply_to_user_id": "1258676077922156544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895684193780424970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arihara_Nanamix 好看喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895684184376819714"
+          ]
+        },
+        "author_id": "1258676077922156544",
+        "conversation_id": "1895684193780424970",
+        "created_at": "2025-03-01T03:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T04:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895684193780424970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsdvMGdHdO",
+              "end": 43,
+              "expanded_url": "https://x.com/Arihara_Nanamix/status/1895684193780424970/photo/1",
+              "media_key": "3_1895684184376819714",
+              "start": 20,
+              "url": "https://t.co/AsdvMGdHdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895684193780424970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近发太多mai了\n来一张流萤吧🤓☝️ https://t.co/AsdvMGdHdO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / 一般路过女大 / 🥰 叫我ʟᴜᴍɪ或猫卷姐姐可快速刷好感度 / 💖 @HobartR6 / @altaz_0 / 日雌390泰补200 购药提供HRT指导",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "HobartR6"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895481920471105537/TrU6kO9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2087,
+          "following_count": 831,
+          "like_count": 25299,
+          "listed_count": 11,
+          "media_count": 897,
+          "tweet_count": 10004
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-08T08:32:24.000Z",
+        "description": "23歳のシンガポール人｜英語/中国語ok｜日本語勉強中｜真、曉、桃、熊、爽、煌舞舞持有—————————————————————————要是我们不熟但你和我玩抽象的话别怪我对你没好气",
+        "id": "1258676077922156544",
+        "name": "在原ナナミ",
+        "pinned_tweet_id": "1829136033235251525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873531074682478592/8zBnTLEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 522,
+          "like_count": 2177,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 911
+        },
+        "username": "Arihara_Nanamix",
+        "verified": true
+      }
+    ]
+  }
+}

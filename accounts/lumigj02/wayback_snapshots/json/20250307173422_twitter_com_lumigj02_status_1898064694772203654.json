@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1898064694772203654",
+    "created_at": "2025-03-07T17:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T18:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898064694772203654"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "AI",
+          "probability": 0.5327,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/R6TRANSFERNEWS…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/R6TRANSFERNEWS1/status/1897684021716349097",
+          "start": 55,
+          "url": "https://t.co/Df3fGCisxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898064694772203654",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897684021716349097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "AI generated trash roster my grandma plays even better https://t.co/Df3fGCisxe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1898064694772203654",
+        "created_at": "2025-03-07T17:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T18:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898064694772203654"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "AI",
+              "probability": 0.5327,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/R6TRANSFERNEWS…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/R6TRANSFERNEWS1/status/1897684021716349097",
+              "start": 55,
+              "url": "https://t.co/Df3fGCisxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898064694772203654",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897684021716349097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AI generated trash roster my grandma plays even better https://t.co/Df3fGCisxe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890160578246897665",
+        "conversation_id": "1897684021716349097",
+        "created_at": "2025-03-06T16:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897684021716349097"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "BDS",
+              "probability": 0.7058,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "P4",
+              "probability": 0.5084,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Lasmo",
+              "probability": 0.4473,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Virtue",
+              "probability": 0.6128,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Robby",
+              "probability": 0.4757,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 59,
+              "normalized_text": "Freq",
+              "probability": 0.5515,
+              "start": 56,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897684021716349097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 31065,
+          "like_count": 349,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "BDS Line Up is Most likely P4, Lasmo, Virtue, Robby and Freq."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 849,
+          "like_count": 25492,
+          "listed_count": 11,
+          "media_count": 934,
+          "tweet_count": 10404
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T22:06:24.000Z",
+        "description": "Hey Guys this is a new Account, we're i start from 0 and try to give you Updates to R6 Transfers",
+        "id": "1890160578246897665",
+        "name": "R6TRANSFERNEWS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890161441707106304/mXaRYYVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3458,
+          "following_count": 151,
+          "like_count": 62,
+          "listed_count": 7,
+          "media_count": 8,
+          "tweet_count": 94
+        },
+        "username": "R6TRANSFERNEWS1",
+        "verified": false
+      }
+    ]
+  }
+}

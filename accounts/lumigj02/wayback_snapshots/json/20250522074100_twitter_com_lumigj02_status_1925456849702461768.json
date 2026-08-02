@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925456320163172352"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      }
+    ],
+    "conversation_id": "1925456849702461768",
+    "created_at": "2025-05-22T07:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T08:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925456849702461768"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "Ash",
+          "probability": 0.5333,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "Sterile soil",
+          "probability": 0.5983,
+          "start": 55,
+          "type": "Other"
+        },
+        {
+          "end": 181,
+          "normalized_text": "Kafe",
+          "probability": 0.4811,
+          "start": 178,
+          "type": "Other"
+        },
+        {
+          "end": 191,
+          "normalized_text": "Villa",
+          "probability": 0.463,
+          "start": 187,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6dlEIR6NxQ",
+          "end": 234,
+          "expanded_url": "https://x.com/lumigj02/status/1925456849702461768/photo/1",
+          "media_key": "3_1925456320163172352",
+          "start": 211,
+          "url": "https://t.co/6dlEIR6NxQ"
+        },
+        {
+          "display_url": "x.com/Pengu/status/1…",
+          "end": 258,
+          "expanded_url": "https://twitter.com/Pengu/status/1925325031589998697",
+          "start": 235,
+          "url": "https://t.co/82UHqDjLvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925456849702461768",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925325031589998697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "LMAOOO im still running this one on my Ash, its called Sterile soil and looks similar to ember rise season skin (i got both though). Can still recall the old days when we played Kafe and Villa on these uniforms https://t.co/6dlEIR6NxQ https://t.co/82UHqDjLvi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1925456320163172352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GriYUlnbUAANlkE.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925456320163172352"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "1925456849702461768",
+        "created_at": "2025-05-22T07:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T08:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925456849702461768"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Ash",
+              "probability": 0.5333,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Sterile soil",
+              "probability": 0.5983,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 181,
+              "normalized_text": "Kafe",
+              "probability": 0.4811,
+              "start": 178,
+              "type": "Other"
+            },
+            {
+              "end": 191,
+              "normalized_text": "Villa",
+              "probability": 0.463,
+              "start": 187,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dlEIR6NxQ",
+              "end": 234,
+              "expanded_url": "https://x.com/lumigj02/status/1925456849702461768/photo/1",
+              "media_key": "3_1925456320163172352",
+              "start": 211,
+              "url": "https://t.co/6dlEIR6NxQ"
+            },
+            {
+              "display_url": "x.com/Pengu/status/1…",
+              "end": 258,
+              "expanded_url": "https://twitter.com/Pengu/status/1925325031589998697",
+              "start": 235,
+              "url": "https://t.co/82UHqDjLvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925456849702461768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925325031589998697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "LMAOOO im still running this one on my Ash, its called Sterile soil and looks similar to ember rise season skin (i got both though). Can still recall the old days when we played Kafe and Villa on these uniforms https://t.co/6dlEIR6NxQ https://t.co/82UHqDjLvi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428617245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "1925325031589998697",
+        "created_at": "2025-05-21T22:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T23:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925325031589998697"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "Siege",
+              "probability": 0.5843,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 207,
+              "normalized_text": "Siege",
+              "probability": 0.6525,
+              "start": 203,
+              "type": "Other"
+            },
+            {
+              "end": 211,
+              "normalized_text": "F2P",
+              "probability": 0.5222,
+              "start": 209,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925325031589998697",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15888,
+          "like_count": 291,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "For all the people complaining about skins in Siege  Now of all times:\nYOU'RE TOO LATE, you should have woken up back in the ember rise / Outbreak days of skins in ranked but you didn't care back then.\n\nSiege F2P needs monetization such as skins, suck it up buttercup"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @_Sanxon | Computing @NUSingapore | @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系 | 解block请私信 @_Sanxon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "CatRoll.OHP🏳️‍⚧️日雌泰补",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 893,
+          "like_count": 26966,
+          "listed_count": 12,
+          "media_count": 1079,
+          "tweet_count": 12105
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-14T18:58:03.000Z",
+        "description": "Content Creator for  @psgtalonR6 \n2x World champion 🐧 also I cast sometimes 🎙\nContact: pengu@goodday.gg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "psgtalonR6"
+              }
+            ]
+          }
+        },
+        "id": "1428617245",
+        "name": "Pengu",
+        "pinned_tweet_id": "1366403814677504003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768184840355037184/eQUua9DL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257358,
+          "following_count": 2041,
+          "like_count": 19658,
+          "listed_count": 295,
+          "media_count": 2760,
+          "tweet_count": 43785
+        },
+        "username": "Pengu",
+        "verified": false
+      }
+    ]
+  }
+}

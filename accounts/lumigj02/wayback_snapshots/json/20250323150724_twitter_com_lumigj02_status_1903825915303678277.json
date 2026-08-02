@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1903701951134798215",
+    "created_at": "2025-03-23T15:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T16:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903825915303678277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903825915303678277",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903799848094040494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaiFu8964 OK下次照搬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1903701951134798215",
+        "created_at": "2025-03-23T15:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T16:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903825915303678277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903825915303678277",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903799848094040494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaiFu8964 OK下次照搬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "1903701951134798215",
+        "created_at": "2025-03-23T13:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T14:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903799848094040494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903799848094040494",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903701951134798215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 我之前收rmb的时候会提醒 不要备注任何东西，备注写了任何东西的直接明吃不认"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 / @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "Lumi 猫卷 - 日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 860,
+          "like_count": 25878,
+          "listed_count": 11,
+          "media_count": 961,
+          "tweet_count": 10950
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLh0Rj\n |aff成交金额10%返现|网站 https://t.co/GpjdUCMYn8\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "Mionostand"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 81,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 58,
+                "url": "https://t.co/G1WLyLh0Rj"
+              },
+              {
+                "display_url": "chakaifang.org",
+                "end": 123,
+                "expanded_url": "http://chakaifang.org",
+                "start": 100,
+                "url": "https://t.co/GpjdUCMYn8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 23,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 0,
+                "url": "https://t.co/G1WLyLh0Rj"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu 🏳️‍⚧️卖数据的小女孩",
+        "pinned_tweet_id": "1889677863458095549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6792,
+          "following_count": 2023,
+          "like_count": 4955,
+          "listed_count": 17,
+          "media_count": 651,
+          "tweet_count": 5249
+        },
+        "url": "https://t.co/G1WLyLh0Rj",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

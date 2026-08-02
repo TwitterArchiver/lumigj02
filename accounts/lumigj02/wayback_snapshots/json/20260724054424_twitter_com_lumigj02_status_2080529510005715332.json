@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2080528497098018934",
+    "created_at": "2026-07-24T05:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080529510005715332"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080529510005715332",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080528497098018934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我感觉我还是比较胆大的啊，直接敢毫无准备裸辞找下一份工作\n当然也可能是因为我没有房贷车贷导致的，每月花销就是玩玩我那两个宝贝雪铁龙而已"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 221,
+        "media_key": "3_2080528488579362817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-FoyLacAEibOJ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2080528497098018934",
+        "created_at": "2026-07-24T05:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080529510005715332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080529510005715332",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080528497098018934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我感觉我还是比较胆大的啊，直接敢毫无准备裸辞找下一份工作\n当然也可能是因为我没有房贷车贷导致的，每月花销就是玩玩我那两个宝贝雪铁龙而已"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080528488579362817"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2080528497098018934",
+        "created_at": "2026-07-24T05:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080528497098018934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dni0wHPlIr",
+              "end": 69,
+              "expanded_url": "https://x.com/lumigj02/status/2080528497098018934/photo/1",
+              "media_key": "3_2080528488579362817",
+              "start": 46,
+              "url": "https://t.co/dni0wHPlIr"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/lumigj02/status/2076156428793114685",
+              "start": 70,
+              "url": "https://t.co/zhvusLs0Xc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080528497098018934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076156428793114685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "光速再次入职从 Product Manager 变成 Solution Architect https://t.co/dni0wHPlIr https://t.co/zhvusLs0Xc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 840,
+          "like_count": 4380,
+          "listed_count": 9,
+          "media_count": 134,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

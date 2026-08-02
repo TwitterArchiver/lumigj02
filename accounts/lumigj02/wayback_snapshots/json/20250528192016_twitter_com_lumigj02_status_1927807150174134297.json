@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1927491897209024960",
+    "created_at": "2025-05-28T19:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T20:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927807150174134297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1731900703919230976",
+          "start": 0,
+          "username": "shinoaAwA"
+        },
+        {
+          "end": 20,
+          "id": "1523294065063735298",
+          "start": 11,
+          "username": "Daryl336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927807150174134297",
+    "in_reply_to_user_id": "1731900703919230976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927613222984859854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinoaAwA @Daryl336 这位家里请什么都没用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1927491897209024960",
+        "created_at": "2025-05-28T19:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T20:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927807150174134297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1731900703919230976",
+              "start": 0,
+              "username": "shinoaAwA"
+            },
+            {
+              "end": 20,
+              "id": "1523294065063735298",
+              "start": 11,
+              "username": "Daryl336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927807150174134297",
+        "in_reply_to_user_id": "1731900703919230976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927613222984859854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinoaAwA @Daryl336 这位家里请什么都没用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731900703919230976",
+        "conversation_id": "1927491897209024960",
+        "created_at": "2025-05-28T06:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T07:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927613222984859854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1523294065063735298",
+              "start": 0,
+              "username": "Daryl336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927613222984859854",
+        "in_reply_to_user_id": "1523294065063735298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1525,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927491897209024960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daryl336 都是我爹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@HobartR6 ❤️ | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系 ############################################################################ Till death do us part_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1927788822642749514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 897,
+          "like_count": 27022,
+          "listed_count": 0,
+          "media_count": 1091,
+          "tweet_count": 12211
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T04:58:33.000Z",
+        "description": "@所有人 请fo我₍˄·͈༝·͈˄*₎◞ ̑̑|\n@所有人 請fo我|\n@everyone plz follow me|\n@みんなフォロミ|\n碎碎念清水|双流一学校本科在读|性向保密|我喜欢你|友跨|jpop/ボカロはいいのに|计算机科学与技术",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "everyone"
+              }
+            ]
+          }
+        },
+        "id": "1731900703919230976",
+        "location": "地球🌏",
+        "name": "shinoaAwA",
+        "pinned_tweet_id": "1843339927888769299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824989288523841536/X2YE8f6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 2935,
+          "like_count": 9515,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 1664
+        },
+        "username": "shinoaAwA",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T13:29:58.000Z",
+        "description": "假如再也见不到你，便祝你早安、午安、晚安。现实中是个阴暗私宅，二次元重度爱好者，少女乐队动漫迷。欢迎来互fo（会查成分，非无条件回fo)｜最喜欢😘：@AzumaSeren_Suki ｜莲宝：@AzumaSeren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "AzumaSeren_Suki"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "AzumaSeren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/2VU2VE8VPN"
+              }
+            ]
+          }
+        },
+        "id": "1523294065063735298",
+        "location": "二次元世界",
+        "name": "東京の雪蓮い⛩️",
+        "pinned_tweet_id": "1795925402092785966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894129673002524673/hTd3xMOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3904,
+          "following_count": 2882,
+          "like_count": 48679,
+          "listed_count": 14,
+          "media_count": 561,
+          "tweet_count": 3456
+        },
+        "url": "https://t.co/2VU2VE8VPN",
+        "username": "Daryl336",
+        "verified": false
+      }
+    ]
+  }
+}

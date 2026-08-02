@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1957484650814910624",
+    "created_at": "2025-08-18T16:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T17:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957487186363957385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957487186363957385",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957484650814910624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko 你到底有多闲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957484642069860352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyph6SfbUAAHZ5u.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957484642103357440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyph6SnacAApnKY.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957484642107613184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyph6SobYAAaoym.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1957484650814910624",
+        "created_at": "2025-08-18T16:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957487186363957385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957487186363957385",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957484650814910624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko 你到底有多闲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957484642069860352",
+            "3_1957484642103357440",
+            "3_1957484642107613184"
+          ]
+        },
+        "author_id": "1356940397956620288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1957484650814910624",
+        "created_at": "2025-08-18T16:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957484650814910624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9dGxUtEK5",
+              "end": 68,
+              "expanded_url": "https://x.com/NyaCookieNeko/status/1957484650814910624/photo/1",
+              "media_key": "3_1957484642069860352",
+              "start": 45,
+              "url": "https://t.co/N9dGxUtEK5"
+            },
+            {
+              "display_url": "pic.x.com/N9dGxUtEK5",
+              "end": 68,
+              "expanded_url": "https://x.com/NyaCookieNeko/status/1957484650814910624/photo/1",
+              "media_key": "3_1957484642103357440",
+              "start": 45,
+              "url": "https://t.co/N9dGxUtEK5"
+            },
+            {
+              "display_url": "pic.x.com/N9dGxUtEK5",
+              "end": 68,
+              "expanded_url": "https://x.com/NyaCookieNeko/status/1957484650814910624/photo/1",
+              "media_key": "3_1957484642107613184",
+              "start": 45,
+              "url": "https://t.co/N9dGxUtEK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957484650814910624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以防还有推油不知道iOS闹钟界面的滚轮不是循环的，而是一个很长的，可以滑到底的列表... https://t.co/N9dGxUtEK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "布偶猫咪卷//日雌380私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "LUMI猫卷 出日雌喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956730628952805377/JO8kn5GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 919,
+          "like_count": 27843,
+          "listed_count": 12,
+          "media_count": 1146,
+          "tweet_count": 13684
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜ 你饼干自己在用的梯子：https://t.co/i7QKqbPO6T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 64,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=jTnvUau0",
+                "start": 41,
+                "url": "https://t.co/i7QKqbPO6T"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "location": "Shijiazhuang/Beijing/Guangzhou",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "1912579886939824486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726632124412022784/TnqkN0Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8792,
+          "following_count": 2856,
+          "like_count": 15518,
+          "listed_count": 11,
+          "media_count": 818,
+          "tweet_count": 8790
+        },
+        "username": "NyaCookieNeko",
+        "verified": true
+      }
+    ]
+  }
+}

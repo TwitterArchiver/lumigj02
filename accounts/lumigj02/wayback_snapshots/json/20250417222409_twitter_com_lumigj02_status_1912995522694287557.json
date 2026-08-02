@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912995511902363648",
+        "3_1912995511877165056"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1912995522694287557",
+    "created_at": "2025-04-17T22:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T23:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912995522694287557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f6Ej3QyDci",
+          "end": 31,
+          "expanded_url": "https://x.com/lumigj02/status/1912995522694287557/photo/1",
+          "media_key": "3_1912995511902363648",
+          "start": 8,
+          "url": "https://t.co/f6Ej3QyDci"
+        },
+        {
+          "display_url": "pic.x.com/f6Ej3QyDci",
+          "end": 31,
+          "expanded_url": "https://x.com/lumigj02/status/1912995522694287557/photo/1",
+          "media_key": "3_1912995511877165056",
+          "start": 8,
+          "url": "https://t.co/f6Ej3QyDci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912995522694287557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Neko在蹲人 https://t.co/f6Ej3QyDci"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912995511902363648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoxTSFfbYAAGpQ1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1912995511877165056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoxTSFZa4AAV2it.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912995511902363648",
+            "3_1912995511877165056"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1912995522694287557",
+        "created_at": "2025-04-17T22:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T23:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912995522694287557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6Ej3QyDci",
+              "end": 31,
+              "expanded_url": "https://x.com/lumigj02/status/1912995522694287557/photo/1",
+              "media_key": "3_1912995511902363648",
+              "start": 8,
+              "url": "https://t.co/f6Ej3QyDci"
+            },
+            {
+              "display_url": "pic.x.com/f6Ej3QyDci",
+              "end": 31,
+              "expanded_url": "https://x.com/lumigj02/status/1912995522694287557/photo/1",
+              "media_key": "3_1912995511877165056",
+              "start": 8,
+              "url": "https://t.co/f6Ej3QyDci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912995522694287557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Neko在蹲人 https://t.co/f6Ej3QyDci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🏳️‍⚧️ | R6 Player for ? | @you_miaowu | 日雌370 泰补190 progynon-depot / progynova avail pls DM | 礼貌谦逊文明友善团结尊重从不骂人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 868,
+          "like_count": 26377,
+          "listed_count": 10,
+          "media_count": 1014,
+          "tweet_count": 11449
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

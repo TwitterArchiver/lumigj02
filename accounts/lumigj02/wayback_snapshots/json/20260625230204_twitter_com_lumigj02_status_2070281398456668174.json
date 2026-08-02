@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2070116408235839909",
+    "created_at": "2026-06-25T23:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070281398456668174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686472989129441281",
+          "start": 0,
+          "username": "_Furryfur_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070281398456668174",
+    "in_reply_to_user_id": "1686472989129441281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070228939822502365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@_Furryfur_ 泥是咱喜欢的大猫猫，咱不要和喜欢的人吵架😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2070116408235839909",
+        "created_at": "2026-06-25T23:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070281398456668174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686472989129441281",
+              "start": 0,
+              "username": "_Furryfur_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070281398456668174",
+        "in_reply_to_user_id": "1686472989129441281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070228939822502365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@_Furryfur_ 泥是咱喜欢的大猫猫，咱不要和喜欢的人吵架😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686472989129441281",
+        "conversation_id": "2070116408235839909",
+        "created_at": "2026-06-25T19:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070228939822502365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070228939822502365",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070116408235839909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 如果是为了记录或者抗议，ta完全可以用更隐蔽的拍摄方式，而不是举着个相机在所有人面前晃悠。结合言行，我更倾向于认为ta的目的就是搞事\n至于搞事是为了什么，为了出名还是出国，谁知道呢？至少搞事本身看起来挺成功的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "⁵² ᴀᴄᴇs",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070142271614603264/XtwwQzUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 826,
+          "like_count": 4228,
+          "listed_count": 9,
+          "media_count": 109,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T20:25:04.000Z",
+        "description": "Just a regular VRChat player | 是猫猫 | 涩涩! | \nPrefer language: English / 中文 | 🇸🇬→🇨🇳",
+        "id": "1686472989129441281",
+        "location": "Singapura",
+        "name": "𝑭𝒖𝒓𝒓𝒚𝒇𝒖𝒓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045882903901667328/k6ngHX4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 516,
+          "like_count": 119614,
+          "listed_count": 5,
+          "media_count": 379,
+          "tweet_count": 3663
+        },
+        "url": "",
+        "username": "_Furryfur_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1921641021298938030",
+    "created_at": "2025-05-14T07:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T08:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922556382345064899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1194604790463860736",
+          "start": 0,
+          "username": "LovManufacturer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922556382345064899",
+    "in_reply_to_user_id": "1194604790463860736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921641021298938030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovManufacturer 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1921641021298938030",
+        "created_at": "2025-05-14T07:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T08:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922556382345064899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1194604790463860736",
+              "start": 0,
+              "username": "LovManufacturer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922556382345064899",
+        "in_reply_to_user_id": "1194604790463860736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921641021298938030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovManufacturer 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194604790463860736",
+        "conversation_id": "1921641021298938030",
+        "created_at": "2025-05-11T18:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T19:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921641021298938030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921641021298938030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现任哥实在是太帅了，有一种良家人夫感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 主人 @_temryava | 家猫 @_FurryFur_ | 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "_temryava"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷 日雌380",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 883,
+          "like_count": 26758,
+          "listed_count": 12,
+          "media_count": 1064,
+          "tweet_count": 11900
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-13T13:16:03.000Z",
+        "description": "天天在互联网上拉屎/一个很容易破防的脆弱小女孩/爱女宝/友跨（前提是别跟国男似的）/女拳/（点赞机器）",
+        "id": "1194604790463860736",
+        "location": "甘露寺",
+        "name": "甘露寺莫言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596470076982501376/3W-V22Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 368,
+          "like_count": 14108,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 919
+        },
+        "username": "LovManufacturer",
+        "verified": false
+      }
+    ]
+  }
+}

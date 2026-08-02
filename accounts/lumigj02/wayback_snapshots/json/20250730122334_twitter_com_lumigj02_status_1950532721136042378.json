@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950442119023464748",
+    "created_at": "2025-07-30T12:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T13:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950532721136042378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1841494812475932672",
+          "start": 0,
+          "username": "Yan_Xing_Xing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950532721136042378",
+    "in_reply_to_user_id": "1841494812475932672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950442119023464748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan_Xing_Xing 密码"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950442115865161728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFcxT8asAAeVpB.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950442119023464748",
+        "created_at": "2025-07-30T12:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950532721136042378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1841494812475932672",
+              "start": 0,
+              "username": "Yan_Xing_Xing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950532721136042378",
+        "in_reply_to_user_id": "1841494812475932672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950442119023464748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan_Xing_Xing 密码"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950442115865161728"
+          ]
+        },
+        "author_id": "1841494812475932672",
+        "conversation_id": "1950442119023464748",
+        "created_at": "2025-07-30T06:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950442119023464748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryJPcPIVjx",
+              "end": 38,
+              "expanded_url": "https://x.com/Yan_Xing_Xing/status/1950442119023464748/photo/1",
+              "media_key": "3_1950442115865161728",
+              "start": 15,
+              "url": "https://t.co/ryJPcPIVjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950442119023464748",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@lumigj02 猫娘养的 https://t.co/ryJPcPIVjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 926,
+          "like_count": 27682,
+          "listed_count": 0,
+          "media_count": 1112,
+          "tweet_count": 13196
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T15:06:06.000Z",
+        "description": "",
+        "id": "1841494812475932672",
+        "location": "雪豹芝市",
+        "name": "-洐-⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917467559852662784/R8cI4Vvf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 333,
+          "like_count": 32626,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 397
+        },
+        "username": "Yan_Xing_Xing",
+        "verified": false
+      }
+    ]
+  }
+}

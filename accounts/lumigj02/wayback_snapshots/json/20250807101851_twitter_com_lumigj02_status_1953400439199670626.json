@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1876912196371820688",
+    "created_at": "2025-08-07T10:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T11:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953400439199670626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "718654922749652992",
+          "start": 0,
+          "username": "jimmy_JJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953400439199670626",
+    "in_reply_to_user_id": "718654922749652992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876912196371820688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimmy_JJN 确实挺穷的，中国人就吃这个？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876912188772020226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsP5bcAIvzLw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876912188583251969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsPMbEAEkUV_.jpg",
+        "width": 804
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876912188583243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsPMa8AAQ5aV.jpg",
+        "width": 942
+      },
+      {
+        "height": 1382,
+        "media_key": "3_1876912188771926016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsP5aAAAHD7j.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1876912196371820688",
+        "created_at": "2025-08-07T10:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953400439199670626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "718654922749652992",
+              "start": 0,
+              "username": "jimmy_JJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953400439199670626",
+        "in_reply_to_user_id": "718654922749652992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876912196371820688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimmy_JJN 确实挺穷的，中国人就吃这个？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876912188772020226",
+            "3_1876912188583251969",
+            "3_1876912188583243776",
+            "3_1876912188771926016"
+          ]
+        },
+        "author_id": "718654922749652992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1876912196371820688",
+        "created_at": "2025-01-08T08:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T09:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876912196371820688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188772020226",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            },
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188583251969",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            },
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188583243776",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            },
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188771926016",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876912196371820688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1444,
+          "like_count": 0,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天请朋友吃饭花了7000多，没点酒，贵的菜品点不起，都是些基本菜。\n作为中国的普通小透明，感谢祖国给我的美好生活。\nx上反贼和🐸最爱看国内普通人过上好日子了。\n我朋友圈不发个人生活，太low，但可以发到x上给这些狗东西看，共襄盛举啊。 https://t.co/PP1jRl34a5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷uwu🐱✨🐈",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 932,
+          "like_count": 27731,
+          "listed_count": 12,
+          "media_count": 1121,
+          "tweet_count": 13323
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-09T04:21:00.000Z",
+        "description": "🇨🇳",
+        "id": "718654922749652992",
+        "name": "Vec_Lo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930571995911225344/OzD76Hbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 291,
+          "like_count": 5681,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 5642
+        },
+        "username": "jimmy_JJN",
+        "verified": true
+      }
+    ]
+  }
+}

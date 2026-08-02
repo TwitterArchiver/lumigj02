@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898597290983702826",
+    "created_at": "2025-03-10T02:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T03:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898927023273427317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896652786563239936",
+          "start": 0,
+          "username": "RgnNUCK1p898393"
+        },
+        {
+          "end": 26,
+          "id": "1725636502648958977",
+          "start": 17,
+          "username": "AGXiaoLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898927023273427317",
+    "in_reply_to_user_id": "1896652786563239936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898924551255539733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RgnNUCK1p898393 @AGXiaoLi 天才 下次我试一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898597290983702826",
+        "created_at": "2025-03-10T02:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T03:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898927023273427317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896652786563239936",
+              "start": 0,
+              "username": "RgnNUCK1p898393"
+            },
+            {
+              "end": 26,
+              "id": "1725636502648958977",
+              "start": 17,
+              "username": "AGXiaoLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898927023273427317",
+        "in_reply_to_user_id": "1896652786563239936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898924551255539733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RgnNUCK1p898393 @AGXiaoLi 天才 下次我试一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896652786563239936",
+        "conversation_id": "1898597290983702826",
+        "created_at": "2025-03-10T02:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T03:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898924551255539733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725636502648958977",
+              "start": 0,
+              "username": "AGXiaoLi"
+            },
+            {
+              "end": 19,
+              "id": "1176535991454064640",
+              "start": 10,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898924551255539733",
+        "in_reply_to_user_id": "1725636502648958977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898609660636389858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGXiaoLi @lumigj02 我都是直接倒进细针管里面的。怕浪费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897934948197445982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 873,
+          "like_count": 25580,
+          "listed_count": 11,
+          "media_count": 945,
+          "tweet_count": 10554
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-03T20:04:14.000Z",
+        "description": "无聊~",
+        "id": "1896652786563239936",
+        "location": "Hong Kong",
+        "name": "木木不哭泣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896653505575751680/k0bWMwmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "RgnNUCK1p898393",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T22:06:38.000Z",
+        "description": "03年/mtf/INFJ-T/法师养成中/非家长党/单亲/轻微sm/减肥ing/持证含糖🍥/hrt2024.10.01/百合/同类互fo/八辈子都爱不够的老婆@nabyuuta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "nabyuuta"
+              }
+            ]
+          }
+        },
+        "id": "1725636502648958977",
+        "name": "晓漓🍥",
+        "pinned_tweet_id": "1857787042698006597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872546884050653184/vRlUxIkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 404,
+          "like_count": 1262,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 318
+        },
+        "username": "AGXiaoLi",
+        "verified": false
+      }
+    ]
+  }
+}

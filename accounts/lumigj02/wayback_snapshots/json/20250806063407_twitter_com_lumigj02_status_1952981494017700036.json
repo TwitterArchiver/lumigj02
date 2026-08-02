@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1952981494017700036",
+    "created_at": "2025-08-06T06:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T07:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952981494017700036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "If you have Telegram, you can contact @lumigj right",
+          "display_url": "t.me/lumigj",
+          "end": 50,
+          "expanded_url": "https://t.me/lumigj",
+          "start": 27,
+          "status": 200,
+          "title": "Telegram: Contact @lumigj",
+          "unwound_url": "https://t.me/lumigj",
+          "url": "https://t.co/EBLce3tLus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952981494017700036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫卷回来了\n日雌390\n欢迎私信\ntelegram: https://t.co/EBLce3tLus"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1952981494017700036",
+        "created_at": "2025-08-06T06:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T07:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952981494017700036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "If you have Telegram, you can contact @lumigj right",
+              "display_url": "t.me/lumigj",
+              "end": 50,
+              "expanded_url": "https://t.me/lumigj",
+              "start": 27,
+              "status": 200,
+              "title": "Telegram: Contact @lumigj",
+              "unwound_url": "https://t.me/lumigj",
+              "url": "https://t.co/EBLce3tLus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952981494017700036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫卷回来了\n日雌390\n欢迎私信\ntelegram: https://t.co/EBLce3tLus"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390 | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "HobartR6"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷uwu🐱✨🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 931,
+          "like_count": 27730,
+          "listed_count": 12,
+          "media_count": 1123,
+          "tweet_count": 13291
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

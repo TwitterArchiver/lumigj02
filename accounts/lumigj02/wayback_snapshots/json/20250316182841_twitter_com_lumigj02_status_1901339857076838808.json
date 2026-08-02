@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1901318872718004418",
+    "created_at": "2025-03-16T18:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T19:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901339857076838808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1146774049986494470",
+          "start": 0,
+          "username": "SyAILz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901339857076838808",
+    "in_reply_to_user_id": "1146774049986494470",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901318872718004418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyAILz 🥺❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2144,
+        "media_key": "3_1901318479564976128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmLXFWNbMAAAgXB.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1901318872718004418",
+        "created_at": "2025-03-16T18:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T19:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901339857076838808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1146774049986494470",
+              "start": 0,
+              "username": "SyAILz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901339857076838808",
+        "in_reply_to_user_id": "1146774049986494470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901318872718004418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyAILz 🥺❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901318479564976128"
+          ]
+        },
+        "author_id": "1146774049986494470",
+        "conversation_id": "1901318872718004418",
+        "created_at": "2025-03-16T17:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T18:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901318872718004418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osur6qW5Vf",
+              "end": 25,
+              "expanded_url": "https://x.com/SyAILz/status/1901318872718004418/photo/1",
+              "media_key": "3_1901318479564976128",
+              "start": 2,
+              "url": "https://t.co/osur6qW5Vf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901318872718004418",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 454,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "😒 https://t.co/osur6qW5Vf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 19 🇸🇬 @NUSingapore | 黑脸小猫, 海豹手套色布偶 | 猫卷姐姐很温柔的喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "成都/Singapore",
+        "name": "猫卷",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 869,
+          "like_count": 25721,
+          "listed_count": 11,
+          "media_count": 947,
+          "tweet_count": 10737
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-04T13:33:34.000Z",
+        "description": "🇰🇷ex) @CLOUD9 / @FearXBusan R6S Pro Player | Military & Cosplay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "CLOUD9"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "FearXBusan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SyAILz",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/SyAILz",
+                "start": 0,
+                "url": "https://t.co/fhTg93trCb"
+              }
+            ]
+          }
+        },
+        "id": "1146774049986494470",
+        "location": "Chernarus",
+        "name": "SyAIL❄️",
+        "pinned_tweet_id": "1895323040562716781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802870183230590977/zg6nriSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6769,
+          "following_count": 637,
+          "like_count": 12559,
+          "listed_count": 23,
+          "media_count": 241,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/fhTg93trCb",
+        "username": "SyAILz",
+        "verified": true
+      }
+    ]
+  }
+}

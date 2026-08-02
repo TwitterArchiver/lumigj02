@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1935356287694540829",
+    "created_at": "2025-06-18T15:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T16:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935362815780601918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1374034349700444161",
+          "start": 0,
+          "username": "pizyj"
+        },
+        {
+          "end": 22,
+          "id": "1393065220323647494",
+          "start": 7,
+          "username": "dangshuang0608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935362815780601918",
+    "in_reply_to_user_id": "1374034349700444161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935362706330267765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizyj @dangshuang0608 官商勾结是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1935356287694540829",
+        "created_at": "2025-06-18T15:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T16:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935362815780601918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            },
+            {
+              "end": 22,
+              "id": "1393065220323647494",
+              "start": 7,
+              "username": "dangshuang0608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935362815780601918",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935362706330267765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj @dangshuang0608 官商勾结是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374034349700444161",
+        "conversation_id": "1935356287694540829",
+        "created_at": "2025-06-18T15:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T16:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935362706330267765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393065220323647494",
+              "start": 0,
+              "username": "dangshuang0608"
+            },
+            {
+              "end": 25,
+              "id": "1176535991454064640",
+              "start": 16,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935362706330267765",
+        "in_reply_to_user_id": "1393065220323647494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935359509352038606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangshuang0608 @lumigj02 我认为ta可以去做公务员🤓👆非常的合理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "友跨顺男 | 日雌泰补在售 私信或联系下方Telegram | 🇸🇬 Yishun人跟我们Orchard人讲话要用敬语 | 家猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "pinned_tweet_id": "1935009108744425845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2732,
+          "following_count": 904,
+          "like_count": 27189,
+          "listed_count": 12,
+          "media_count": 1110,
+          "tweet_count": 12512
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "⬅️⬆️不文明的物种，又丑又凶，打人，还抢东西，现在和@rollingcat0100住一起，是个sub，刷新了一个主子@HzShibari86 ，内有恶🐱@NekomiyaKoharu ,请勿靠近😈😈😈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "rollingcat0100"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "HzShibari86"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NekomiyaKoharu"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "喵小白叫灵白猫",
+        "pinned_tweet_id": "1887077652684824621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899500314749030403/grMD1iNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60384,
+          "following_count": 5375,
+          "like_count": 42829,
+          "listed_count": 76,
+          "media_count": 9453,
+          "tweet_count": 52634
+        },
+        "username": "pizyj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dangshuang",
+                "end": 23,
+                "expanded_url": "http://t.me/dangshuang",
+                "start": 0,
+                "url": "https://t.co/v2rIN31BR3"
+              }
+            ]
+          }
+        },
+        "id": "1393065220323647494",
+        "location": "Kuala Lumpur",
+        "name": "霜",
+        "pinned_tweet_id": "1928039030383620552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833119548117319680/63fWi4wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 560,
+          "like_count": 4985,
+          "listed_count": 3,
+          "media_count": 672,
+          "tweet_count": 5547
+        },
+        "url": "https://t.co/v2rIN31BR3",
+        "username": "dangshuang0608",
+        "verified": true
+      }
+    ]
+  }
+}

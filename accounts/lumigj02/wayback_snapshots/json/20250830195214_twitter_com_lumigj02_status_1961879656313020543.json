@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1961879656313020543",
+    "created_at": "2025-08-30T19:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T20:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961879656313020543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alphafox78/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/alphafox78/status/1961481474353360920",
+          "start": 12,
+          "url": "https://t.co/HlDIqvFjWF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961879656313020543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961481474353360920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "评论区里美国人是傻逼吗 https://t.co/HlDIqvFjWF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12839,
+        "height": 1280,
+        "media_key": "13_1961276735636258817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961276735636258817/img/5XSuvdGNvdQsEGOu.jpg",
+        "public_metrics": {
+          "view_count": 168470
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961276735636258817/vid/avc1/320x568/6JEoSAsbiIuPuP3g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961276735636258817/vid/avc1/480x852/HJUYMXcLyubiSdME.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961276735636258817/vid/avc1/720x1280/2GyT9XvehA1nrkxO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961276735636258817/pl/yimAWf1ZE1X8n9pK.m3u8?v=844"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1961879656313020543",
+        "created_at": "2025-08-30T19:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T20:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961879656313020543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alphafox78/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/alphafox78/status/1961481474353360920",
+              "start": 12,
+              "url": "https://t.co/HlDIqvFjWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961879656313020543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961481474353360920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区里美国人是傻逼吗 https://t.co/HlDIqvFjWF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961276735636258817"
+          ]
+        },
+        "author_id": "36749572",
+        "conversation_id": "1961481474353360920",
+        "created_at": "2025-08-29T17:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T18:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961481474353360920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HBrVWTOwYK",
+              "end": 46,
+              "expanded_url": "https://x.com/Alphafox78/status/1961481474353360920/video/1",
+              "media_key": "13_1961276735636258817",
+              "start": 23,
+              "url": "https://t.co/HBrVWTOwYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961481474353360920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 331424,
+          "like_count": 2231,
+          "quote_count": 63,
+          "reply_count": 2018,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "Who's at fault here? 🤔 https://t.co/HBrVWTOwYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//还有你想要的各种日本泰国药物可以点名告诉我帮你尝试找//💌@HobartR6🐈@_FurryFur_//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "HobartR6"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "即便挣扎也毫无办法呢～",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 928,
+          "like_count": 27950,
+          "listed_count": 13,
+          "media_count": 1163,
+          "tweet_count": 13915
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-30T19:34:43.000Z",
+        "description": "X FoX 🇺🇸🦊✝️\nWit / Insight / Sarcasm\nTurn on notis for the latest shenanigans!\nGenX represent!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "AlphaFox78.com",
+                "end": 23,
+                "expanded_url": "http://AlphaFox78.com",
+                "start": 0,
+                "url": "https://t.co/SYgTLvCiwx"
+              }
+            ]
+          }
+        },
+        "id": "36749572",
+        "location": "Earth",
+        "name": "AlphaFoX",
+        "pinned_tweet_id": "1961761066150469771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852419725302681600/9alzuNMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735558,
+          "following_count": 5580,
+          "like_count": 13,
+          "listed_count": 1752,
+          "media_count": 36553,
+          "tweet_count": 73080
+        },
+        "url": "https://t.co/SYgTLvCiwx",
+        "username": "Alphafox78",
+        "verified": true
+      }
+    ]
+  }
+}

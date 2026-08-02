@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1906669697623597367",
+    "created_at": "2025-03-31T17:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T18:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906763222591689173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573663582994444289",
+          "start": 0,
+          "username": "guojiazongshuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906763222591689173",
+    "in_reply_to_user_id": "1573663582994444289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906669697623597367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guojiazongshuji 关键是推特粉丝没有几把用，你随便发点梗图都能刷上去的，而且很多人也只礼貌性互关，真正有质量的content creator还是很少的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906669697623597367",
+        "created_at": "2025-03-31T17:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906763222591689173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906763222591689173",
+        "in_reply_to_user_id": "1573663582994444289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906669697623597367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji 关键是推特粉丝没有几把用，你随便发点梗图都能刷上去的，而且很多人也只礼貌性互关，真正有质量的content creator还是很少的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573663582994444289",
+        "conversation_id": "1906669697623597367",
+        "created_at": "2025-03-31T11:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T12:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906669697623597367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906669697623597367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特真是帮助很多人实现了网红梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 4ever | @you_miaowu | @NUSingapore 廠牌第⑥Rapper | 📧 lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "K3nt R1dg3",
+        "name": "雲貓歸卷",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 864,
+          "like_count": 26187,
+          "listed_count": 11,
+          "media_count": 977,
+          "tweet_count": 11184
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html",
+                "start": 0,
+                "url": "https://t.co/X75VIaIJ9Z"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "花果山共和国—广州府",
+        "name": "狐仙苏苏",
+        "pinned_tweet_id": "1790949934688268776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419378591399936/AA5Epfm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9948,
+          "following_count": 573,
+          "like_count": 56802,
+          "listed_count": 23,
+          "media_count": 383,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/X75VIaIJ9Z",
+        "username": "guojiazongshuji",
+        "verified": true
+      }
+    ]
+  }
+}

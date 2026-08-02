@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2072642039343128905",
+    "created_at": "2026-07-02T14:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072695413082353677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600261024338399241",
+          "start": 0,
+          "username": "RainEngine2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072695413082353677",
+    "in_reply_to_user_id": "1600261024338399241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072642039343128905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2077 你VPN要代理得到APN才行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2072642039343128905",
+        "created_at": "2026-07-02T14:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072695413082353677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600261024338399241",
+              "start": 0,
+              "username": "RainEngine2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072695413082353677",
+        "in_reply_to_user_id": "1600261024338399241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072642039343128905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2077 你VPN要代理得到APN才行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600261024338399241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "2072642039343128905",
+        "created_at": "2026-07-02T11:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072642039343128905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072642039343128905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苹果现在推送傻逼透了…Telegram和WhatsApp开VPN都没推送，必须要开国际漫游。查找依旧难用的一，耳机手表在家里不刷新定位，八百年的AirDrop速度慢+发不出去的bug在27才修复还没实装到public。\n等着去吧，再烂下去优点都完了我就该去卖了苹果全家桶买安卓了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo\n兼职糖商 价：350、170\n猫娘女仆@leetfs1\n笨蛋姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "leetfs1"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://t.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/s1BSKPdKto"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 826,
+          "like_count": 4283,
+          "listed_count": 9,
+          "media_count": 93,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/s1BSKPdKto",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T22:49:22.000Z",
+        "description": "“Life’s insane.” ｜UTC +8 time zone | English & Mandarin available",
+        "id": "1600261024338399241",
+        "location": "United Kingdom",
+        "name": "Rinne",
+        "pinned_tweet_id": "1748763230988804362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873953222273990656/xCYt1bp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 1031,
+          "like_count": 37970,
+          "listed_count": 2,
+          "media_count": 993,
+          "tweet_count": 4478
+        },
+        "url": "",
+        "username": "RainEngine2077",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1914976695360303320",
+    "created_at": "2025-04-23T11:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T12:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915002234527739992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "Anastasia195113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915002234527739992",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914976695360303320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anastasia195113 不会的这个就是扎到血了大概"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1914976695360303320",
+        "created_at": "2025-04-23T11:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T12:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915002234527739992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "Anastasia195113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915002234527739992",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914976695360303320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anastasia195113 不会的这个就是扎到血了大概"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "1914976695360303320",
+        "created_at": "2025-04-23T09:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T10:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914976695360303320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914976695360303320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日雌可能打血管里了怎么办呀\n扎进去之后回抽没有血出来，推药也不痛，结果拔出来的时候出了一滴绿豆那么大的血【之后没有再出】，这种情况会不会有很高的血栓风险什么的\n不清楚是把血管扎穿了还是打血管里了，怎么办怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | HRT药商 | Cat named Neko | @you_miaowu @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 871,
+          "like_count": 26485,
+          "listed_count": 11,
+          "media_count": 1026,
+          "tweet_count": 11551
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。恋人@Sorsacerba 见不得人的碎碎念小号@Teia20010914 反理性反进步反人类",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Teia20010914"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "川和博美Hacchi",
+        "pinned_tweet_id": "1899743108784644275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662061289781460993/EDwofmWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 1493,
+          "like_count": 45233,
+          "listed_count": 6,
+          "media_count": 661,
+          "tweet_count": 20935
+        },
+        "username": "Anastasia195113",
+        "verified": false
+      }
+    ]
+  }
+}

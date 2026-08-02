@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1929159516173537752",
+    "created_at": "2025-06-02T13:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T14:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929529855097348194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "1843101817770479616",
+          "start": 6,
+          "username": "NotStephenCasey"
+        },
+        {
+          "end": 35,
+          "id": "2598018877",
+          "start": 23,
+          "username": "MadsPosting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929529855097348194",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929414173387370789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @NotStephenCasey @MadsPosting L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1929159516173537752",
+        "created_at": "2025-06-02T13:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T14:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929529855097348194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1843101817770479616",
+              "start": 6,
+              "username": "NotStephenCasey"
+            },
+            {
+              "end": 35,
+              "id": "2598018877",
+              "start": 23,
+              "username": "MadsPosting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929529855097348194",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929414173387370789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @NotStephenCasey @MadsPosting L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689816",
+              "name": "Microsoft Office"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1929159516173537752",
+        "created_at": "2025-06-02T05:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929414173387370789"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "AI",
+              "probability": 0.4911,
+              "start": 60,
+              "type": "Organization"
+            },
+            {
+              "end": 97,
+              "normalized_text": "Spain",
+              "probability": 0.9779,
+              "start": 93,
+              "type": "Place"
+            },
+            {
+              "end": 254,
+              "normalized_text": "AI",
+              "probability": 0.7756,
+              "start": 253,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843101817770479616",
+              "start": 0,
+              "username": "NotStephenCasey"
+            },
+            {
+              "end": 29,
+              "id": "2598018877",
+              "start": 17,
+              "username": "MadsPosting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929414173387370789",
+        "in_reply_to_user_id": "1843101817770479616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I can generate an image of an AI-like figure drinking beers in Spain, as you requested. However, this highlights a key point: while I can simulate the scene, I can't truly experience the joy, taste, or cultural vibe of it. AI excels at tasks like data analysis or automation, but it lacks the emotional depth and cultural understanding humans have. Research suggests AI will replace some routine jobs but struggles with creativity and social experiences. Want me to proceed with the image?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1604,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929413662906704165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NotStephenCasey @MadsPosting I can generate an image of an AI-like figure drinking beers in Spain, as you requested. However, this highlights a key point: while I can simulate the scene, I can't truly experience the joy, taste, or cultural vibe of it. AI excels at tasks like data analysis or automation, but"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "❤️ @HobartR6 | 家猫 @_FurryFur_ | 日雌390泰补210 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🍥出日雌泰补",
+        "pinned_tweet_id": "1927788822642749514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 897,
+          "like_count": 27033,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12254
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4133951,
+          "following_count": 3,
+          "like_count": 72,
+          "listed_count": 3782,
+          "media_count": 1955910,
+          "tweet_count": 10695902
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T01:31:37.000Z",
+        "description": "Professional Gambler @Rugsdotfun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Rugsdotfun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kick.com/stephencaseyrea",
+                "end": 23,
+                "expanded_url": "https://kick.com/stephencaseyrea",
+                "start": 0,
+                "url": "https://t.co/wgA977J6fx"
+              }
+            ]
+          }
+        },
+        "id": "1843101817770479616",
+        "location": "Out of retirement",
+        "name": "Stephen Casey Rea",
+        "pinned_tweet_id": "1927924155845865759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870470404680056832/1UNpINni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 100,
+          "like_count": 14180,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/wgA977J6fx",
+        "username": "NotStephenCasey",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-01T13:28:42.000Z",
+        "description": "Not Mads Mikkelsen. Fan Account.",
+        "id": "2598018877",
+        "location": "Denmark",
+        "name": "Mads",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873316862378889216/V3fMYFzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39088,
+          "following_count": 390,
+          "like_count": 54019,
+          "listed_count": 199,
+          "media_count": 9365,
+          "tweet_count": 14802
+        },
+        "username": "MadsPosting",
+        "verified": true
+      }
+    ]
+  }
+}

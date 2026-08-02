@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904145515287326720"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1904144248087482455",
+    "created_at": "2025-03-24T12:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T13:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904145530793628053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1289925617446617088",
+          "start": 0,
+          "username": "LazySpider3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ASar25pSro",
+          "end": 71,
+          "expanded_url": "https://x.com/lumigj02/status/1904145530793628053/photo/1",
+          "media_key": "3_1904145515287326720",
+          "start": 48,
+          "url": "https://t.co/ASar25pSro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904145530793628053",
+    "in_reply_to_user_id": "1289925617446617088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904144892772970520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazySpider3 主要是看到搜索推荐里这个weird和dangerous就已经很好笑了 https://t.co/ASar25pSro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 194,
+        "media_key": "3_1904145515287326720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmziQe9asAAPErz.jpg",
+        "width": 290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904145515287326720"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1904144248087482455",
+        "created_at": "2025-03-24T12:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T13:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904145530793628053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1289925617446617088",
+              "start": 0,
+              "username": "LazySpider3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ASar25pSro",
+              "end": 71,
+              "expanded_url": "https://x.com/lumigj02/status/1904145530793628053/photo/1",
+              "media_key": "3_1904145515287326720",
+              "start": 48,
+              "url": "https://t.co/ASar25pSro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904145530793628053",
+        "in_reply_to_user_id": "1289925617446617088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904144892772970520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazySpider3 主要是看到搜索推荐里这个weird和dangerous就已经很好笑了 https://t.co/ASar25pSro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289925617446617088",
+        "conversation_id": "1904144248087482455",
+        "created_at": "2025-03-24T12:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T13:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904144892772970520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904144892772970520",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904144248087482455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 Yishun是North\n我这儿才是东北"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | @you_miaowu | 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 857,
+          "like_count": 25907,
+          "listed_count": 11,
+          "media_count": 965,
+          "tweet_count": 10987
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T14:06:54.000Z",
+        "description": "一个还能蹦跶的老B",
+        "id": "1289925617446617088",
+        "location": "Singapore",
+        "name": "Lazy_Spider",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289936266000101377/LPhTSU8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 295,
+          "like_count": 295,
+          "listed_count": 7,
+          "media_count": 1068,
+          "tweet_count": 9033
+        },
+        "username": "LazySpider3",
+        "verified": false
+      }
+    ]
+  }
+}

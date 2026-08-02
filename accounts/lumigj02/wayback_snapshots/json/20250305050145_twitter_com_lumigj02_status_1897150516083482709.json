@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897150516083482709",
+    "created_at": "2025-03-05T05:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T06:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897150516083482709"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "BTR szn 2",
+          "probability": 0.8138,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bocchithechurc…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/bocchithechurch/status/1896772834762133655",
+          "start": 74,
+          "url": "https://t.co/lYhze3ZBz1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897150516083482709",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896772834762133655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Still can anyhow kill myself after watch finish BTR szn 2. Not conflicted https://t.co/lYhze3ZBz1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_1896772826142789632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKw1fna0AAIFYl.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897150516083482709",
+        "created_at": "2025-03-05T05:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T06:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897150516083482709"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "BTR szn 2",
+              "probability": 0.8138,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bocchithechurc…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/bocchithechurch/status/1896772834762133655",
+              "start": 74,
+              "url": "https://t.co/lYhze3ZBz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897150516083482709",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896772834762133655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Still can anyhow kill myself after watch finish BTR szn 2. Not conflicted https://t.co/lYhze3ZBz1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896772826142789632"
+          ]
+        },
+        "author_id": "1492141471734337545",
+        "conversation_id": "1896772834762133655",
+        "created_at": "2025-03-04T04:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T05:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896772834762133655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZbQ5dhdhI",
+              "end": 23,
+              "expanded_url": "https://x.com/BocchiTheChurch/status/1896772834762133655/photo/1",
+              "media_key": "3_1896772826142789632",
+              "start": 0,
+              "url": "https://t.co/UZbQ5dhdhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896772834762133655",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 544,
+          "impression_count": 126309,
+          "like_count": 11465,
+          "quote_count": 14,
+          "reply_count": 30,
+          "retweet_count": 1085
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UZbQ5dhdhI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 日雌390泰补200 DM or contact Telegram below",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi G. Jiang Cheng Xue 日雌390泰补200",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 832,
+          "like_count": 25368,
+          "listed_count": 11,
+          "media_count": 913,
+          "tweet_count": 10179
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T14:20:38.000Z",
+        "description": "Totally official Church of Bocchi ✨ All Hail Bocchi! ✨ Profile by @zetsuyochimayo ✨ Banner by @tenoo12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "zetsuyochimayo"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "username": "tenoo12"
+              }
+            ]
+          }
+        },
+        "id": "1492141471734337545",
+        "location": "Bocchi Heaven",
+        "name": "The Church of Bocchi",
+        "pinned_tweet_id": "1890762338262749647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845064438589816835/0gTBBgRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10507,
+          "following_count": 58,
+          "like_count": 17683,
+          "listed_count": 16,
+          "media_count": 1157,
+          "tweet_count": 1687
+        },
+        "username": "BocchiTheChurch",
+        "verified": true
+      }
+    ]
+  }
+}

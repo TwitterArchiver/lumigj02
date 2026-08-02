@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958648769618001920"
+      ],
+      "media_source_tweet_id": [
+        "1958648792737063191"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1958776986392043780",
+    "created_at": "2025-08-22T06:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T07:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958776986392043780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1908465980776316928",
+          "start": 3,
+          "username": "LapplandPizza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmkC53SJXP",
+          "end": 58,
+          "expanded_url": "https://x.com/LapplandPizza/status/1958648792737063191/photo/1",
+          "media_key": "3_1958648769618001920",
+          "start": 35,
+          "url": "https://t.co/nmkC53SJXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958776986392043780",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958648792737063191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LapplandPizza: So far this one https://t.co/nmkC53SJXP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1565,
+        "media_key": "3_1958648769618001920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy6ErbjWQAAn_yY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958648769618001920"
+          ],
+          "media_source_tweet_id": [
+            "1958648792737063191"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1958776986392043780",
+        "created_at": "2025-08-22T06:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T07:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958776986392043780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1908465980776316928",
+              "start": 3,
+              "username": "LapplandPizza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmkC53SJXP",
+              "end": 58,
+              "expanded_url": "https://x.com/LapplandPizza/status/1958648792737063191/photo/1",
+              "media_key": "3_1958648769618001920",
+              "start": 35,
+              "url": "https://t.co/nmkC53SJXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958776986392043780",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958648792737063191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LapplandPizza: So far this one https://t.co/nmkC53SJXP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958648769618001920"
+          ]
+        },
+        "author_id": "1908465980776316928",
+        "conversation_id": "1958648792737063191",
+        "created_at": "2025-08-21T21:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T22:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958648792737063191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmkC53SJXP",
+              "end": 39,
+              "expanded_url": "https://x.com/LapplandPizza/status/1958648792737063191/photo/1",
+              "media_key": "3_1958648769618001920",
+              "start": 16,
+              "url": "https://t.co/nmkC53SJXP"
+            },
+            {
+              "display_url": "x.com/Cybrid101/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Cybrid101/status/1956455674365514202",
+              "start": 40,
+              "url": "https://t.co/eaFt1vi01T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958648792737063191",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 1320,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956455674365514202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "So far this one https://t.co/nmkC53SJXP https://t.co/eaFt1vi01T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "老猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958724587904204800/cbMp7Omf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 924,
+          "like_count": 27873,
+          "listed_count": 12,
+          "media_count": 1154,
+          "tweet_count": 13748
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T10:25:48.000Z",
+        "description": "Pizza time! Lappland from Arknights enjoyer and fan\nNew to drawing/art\nI also edit meme videos at times",
+        "id": "1908465980776316928",
+        "location": "Siracusa",
+        "name": "LapplandPizzaChef",
+        "pinned_tweet_id": "1943451148381212791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958303690411933696/IJ6VqFPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 181,
+          "like_count": 8262,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2148
+        },
+        "username": "LapplandPizza",
+        "verified": false
+      }
+    ]
+  }
+}

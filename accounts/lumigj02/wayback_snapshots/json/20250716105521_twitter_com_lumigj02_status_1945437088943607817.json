@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945418732429623401",
+    "created_at": "2025-07-16T10:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T11:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945437088943607817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1017648622668795904",
+          "start": 0,
+          "username": "yihong0618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945437088943607817",
+    "in_reply_to_user_id": "1017648622668795904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945418732429623401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yihong0618 为什么会有人能问出command not found这种问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_1945418720341573632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-EBNVawAAiIEX.jpg",
+        "width": 1117
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945418732429623401",
+        "created_at": "2025-07-16T10:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945437088943607817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1017648622668795904",
+              "start": 0,
+              "username": "yihong0618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945437088943607817",
+        "in_reply_to_user_id": "1017648622668795904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945418732429623401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yihong0618 为什么会有人能问出command not found这种问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945418720341573632"
+          ]
+        },
+        "author_id": "1017648622668795904",
+        "conversation_id": "1945418732429623401",
+        "created_at": "2025-07-16T09:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T10:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945418732429623401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZELRQjxwtA",
+              "end": 29,
+              "expanded_url": "https://x.com/yihong0618/status/1945418732429623401/photo/1",
+              "media_key": "3_1945418720341573632",
+              "start": 6,
+              "url": "https://t.co/ZELRQjxwtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945418732429623401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3312,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "授人以渔！ https://t.co/ZELRQjxwtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. | 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore | 家猫 @_FurryFur_ | 泰补170",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 921,
+          "like_count": 27548,
+          "listed_count": 12,
+          "media_count": 1091,
+          "tweet_count": 12911
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-13T05:55:13.000Z",
+        "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/yihong0618/2025",
+                "end": 49,
+                "expanded_url": "http://github.com/yihong0618/2025",
+                "start": 26,
+                "url": "https://t.co/pAkSJnpKXA"
+              },
+              {
+                "display_url": "github.com/yihong0618/2024",
+                "end": 82,
+                "expanded_url": "http://github.com/yihong0618/2024",
+                "start": 59,
+                "url": "https://t.co/HfDF6oduB7"
+              },
+              {
+                "display_url": "github.com/yihong0618/2023",
+                "end": 115,
+                "expanded_url": "http://github.com/yihong0618/2023",
+                "start": 92,
+                "url": "https://t.co/QyV8PiZmOY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yihong.run",
+                "end": 23,
+                "expanded_url": "https://yihong.run",
+                "start": 0,
+                "url": "https://t.co/jC9yT8us8S"
+              }
+            ]
+          }
+        },
+        "id": "1017648622668795904",
+        "name": "yihong0618",
+        "pinned_tweet_id": "1783309983884710176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74171,
+          "following_count": 3420,
+          "like_count": 64292,
+          "listed_count": 543,
+          "media_count": 2801,
+          "tweet_count": 26947
+        },
+        "url": "https://t.co/jC9yT8us8S",
+        "username": "yihong0618",
+        "verified": false
+      }
+    ]
+  }
+}

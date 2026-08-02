@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1929529733060161693",
+    "created_at": "2025-06-02T13:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T14:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929537414315348011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1228638724583374848",
+          "start": 0,
+          "username": "Plantie_uwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929537414315348011",
+    "in_reply_to_user_id": "1228638724583374848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929529733060161693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plantie_uwu 但是你问……你一定要非得要问我……对plantie支持不支持。我们不支持她？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1929529733060161693",
+        "created_at": "2025-06-02T13:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T14:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929537414315348011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1228638724583374848",
+              "start": 0,
+              "username": "Plantie_uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929537414315348011",
+        "in_reply_to_user_id": "1228638724583374848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929529733060161693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plantie_uwu 但是你问……你一定要非得要问我……对plantie支持不支持。我们不支持她？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1929529731340476417"
+          ]
+        },
+        "author_id": "1228638724583374848",
+        "conversation_id": "1929529733060161693",
+        "created_at": "2025-06-02T13:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T14:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929529733060161693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929529733060161693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 179,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想拍白丝泡魔爪\n你们支不支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "❤️ @HobartR6 | 家猫 @_FurryFur_ | 日雌390泰补210 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🍥出日雌泰补",
+        "pinned_tweet_id": "1927788822642749514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 897,
+          "like_count": 27036,
+          "listed_count": 12,
+          "media_count": 1092,
+          "tweet_count": 12256
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T11:14:49.000Z",
+        "description": "They/them🏳️‍🌈",
+        "id": "1228638724583374848",
+        "location": "bed",
+        "name": "plantie✨🏳️‍🌈",
+        "pinned_tweet_id": "1928829047020151081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10130,
+          "following_count": 1750,
+          "like_count": 18991,
+          "listed_count": 37,
+          "media_count": 974,
+          "tweet_count": 5698
+        },
+        "username": "Plantie_uwu",
+        "verified": false
+      }
+    ]
+  }
+}

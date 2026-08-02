@@ -1,0 +1,686 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041743455",
+          "name": "Tom Clancy's Rainbow Six"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041743455",
+          "name": "Tom Clancy's Rainbow Six"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1904201628208513071",
+    "created_at": "2025-03-25T07:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T08:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904429202067395029"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 186,
+          "normalized_text": "Azami",
+          "probability": 0.5877,
+          "start": 182,
+          "type": "Other"
+        },
+        {
+          "end": 236,
+          "normalized_text": "Azami",
+          "probability": 0.5668,
+          "start": 232,
+          "type": "Other"
+        },
+        {
+          "end": 259,
+          "normalized_text": "Azami",
+          "probability": 0.576,
+          "start": 255,
+          "type": "Other"
+        },
+        {
+          "end": 264,
+          "normalized_text": "Kaid",
+          "probability": 0.5238,
+          "start": 261,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "399404516",
+          "start": 0,
+          "username": "Rainbow6Game"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904429202067395029",
+    "in_reply_to_user_id": "399404516",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904201628208513071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainbow6Game Since you don't need to consider whether or not to play a banned operator on your rounds, you can ban whatever you don't want the other team to play.\nOld BP: My team's Azami is worse than the opponent's - ban.\nNew BP: Azami is OP - ban.\nBye Azami/Kaid, we'll rarely see you again."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57533,
+        "height": 1080,
+        "media_key": "13_1904201548227395584",
+        "preview_image_url": "https://pbs.twimg.com/media/Gm0VSNfWYAAsxzL.jpg",
+        "public_metrics": {
+          "view_count": 38501
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904201548227395584/vid/avc1/540x540/s6epAjtJZAYEg5Ut.mp4?tag=16"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904201548227395584/vid/avc1/720x720/dM4d0Kxt9--8Z49Q.mp4?tag=16"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904201548227395584/vid/avc1/320x320/jnlOZNUxO5vEA6kM.mp4?tag=16"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904201548227395584/vid/avc1/1080x1080/DKz9ILxFGO53SUlX.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1904201548227395584/pl/OBoLVgOGoP_CHiQR.m3u8?tag=16&v=1b0"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1904201628208513071",
+        "created_at": "2025-03-25T07:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T08:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904429202067395029"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 186,
+              "normalized_text": "Azami",
+              "probability": 0.5877,
+              "start": 182,
+              "type": "Other"
+            },
+            {
+              "end": 236,
+              "normalized_text": "Azami",
+              "probability": 0.5668,
+              "start": 232,
+              "type": "Other"
+            },
+            {
+              "end": 259,
+              "normalized_text": "Azami",
+              "probability": 0.576,
+              "start": 255,
+              "type": "Other"
+            },
+            {
+              "end": 264,
+              "normalized_text": "Kaid",
+              "probability": 0.5238,
+              "start": 261,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "399404516",
+              "start": 0,
+              "username": "Rainbow6Game"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904429202067395029",
+        "in_reply_to_user_id": "399404516",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904201628208513071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainbow6Game Since you don't need to consider whether or not to play a banned operator on your rounds, you can ban whatever you don't want the other team to play.\nOld BP: My team's Azami is worse than the opponent's - ban.\nNew BP: Azami is OP - ban.\nBye Azami/Kaid, we'll rarely see you again."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1904201548227395584"
+          ]
+        },
+        "author_id": "399404516",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1904201628208513071",
+        "created_at": "2025-03-24T16:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T17:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904201628208513071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIYOtKmZPo",
+              "end": 288,
+              "expanded_url": "https://x.com/Rainbow6Game/status/1904201628208513071/video/1",
+              "media_key": "13_1904201548227395584",
+              "start": 265,
+              "url": "https://t.co/tIYOtKmZPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904201628208513071",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 145085,
+          "like_count": 1207,
+          "quote_count": 22,
+          "reply_count": 159,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "🚫 The Pick &amp; Ban system is getting an update with Siege X.\n\n🧠 Teams will now ban between rounds, giving players opportunities to pick and counter pick based on sites and intel gained from previous rounds.\n\n🤔 What do you think of this new Pick &amp; Ban system? https://t.co/tIYOtKmZPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu # 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无 | 我是海豹手套色布偶, 不是暹罗!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "sutdsg"
+              },
+              {
+                "end": 107,
+                "start": 103,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 859,
+          "like_count": 25929,
+          "listed_count": 11,
+          "media_count": 967,
+          "tweet_count": 11010
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-27T13:05:31.000Z",
+        "description": "The official Rainbow Six Twitter account. They/Them. For Esports, follow @R6esports! For server status: 🔗 https://t.co/X2BthEZqhH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "R6esports"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ubi.li/iNbro",
+                "end": 129,
+                "expanded_url": "http://ubi.li/iNbro",
+                "start": 106,
+                "url": "https://t.co/X2BthEZqhH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rainbow6.com",
+                "end": 23,
+                "expanded_url": "http://www.rainbow6.com",
+                "start": 0,
+                "url": "https://t.co/78EgmnKlxL"
+              }
+            ]
+          }
+        },
+        "id": "399404516",
+        "location": "Hereford Base",
+        "name": "Rainbow Six Siege",
+        "pinned_tweet_id": "1900301457691173179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897010159571910656/Wg9p2hVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535301,
+          "following_count": 376,
+          "like_count": 6968,
+          "listed_count": 2057,
+          "media_count": 5656,
+          "tweet_count": 48787
+        },
+        "url": "https://t.co/78EgmnKlxL",
+        "username": "Rainbow6Game",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1925870341840097419",
+    "created_at": "2025-05-23T20:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T21:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926016510713111008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1515208665330237442",
+          "start": 0,
+          "username": "happyending8964"
+        },
+        {
+          "end": 32,
+          "id": "1630596839530708994",
+          "start": 17,
+          "username": "Shell_WO_Ghost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926016510713111008",
+    "in_reply_to_user_id": "1515208665330237442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925871890561737006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@happyending8964 @Shell_WO_Ghost 她一般是pass的就写女性化外表，不pass的就直接不写"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1925870341840097419",
+        "created_at": "2025-05-23T20:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T21:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926016510713111008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1515208665330237442",
+              "start": 0,
+              "username": "happyending8964"
+            },
+            {
+              "end": 32,
+              "id": "1630596839530708994",
+              "start": 17,
+              "username": "Shell_WO_Ghost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926016510713111008",
+        "in_reply_to_user_id": "1515208665330237442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925871890561737006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happyending8964 @Shell_WO_Ghost 她一般是pass的就写女性化外表，不pass的就直接不写"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515208665330237442",
+        "conversation_id": "1925870341840097419",
+        "created_at": "2025-05-23T11:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T12:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925871890561737006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1630596839530708994",
+              "start": 0,
+              "username": "Shell_WO_Ghost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925871890561737006",
+        "in_reply_to_user_id": "1630596839530708994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925870341840097419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shell_WO_Ghost 她不会是跟每个人都这么说吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @HobartR6 ❤️ | Computing @NUSingapore | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "HobartR6"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1924879441324605676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 896,
+          "like_count": 26999,
+          "listed_count": 12,
+          "media_count": 1084,
+          "tweet_count": 12156
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T06:01:35.000Z",
+        "description": "叫我欣就行\n能queer人一脸的mtf",
+        "id": "1515208665330237442",
+        "location": "广州",
+        "name": "香欣料（欣🧂🏳️‍⚧️",
+        "pinned_tweet_id": "1918256143388033360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822621028943904768/P0IBoL5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 666,
+          "like_count": 4100,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 3206
+        },
+        "username": "happyending8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T15:52:53.000Z",
+        "description": "🩷💜💙",
+        "id": "1630596839530708994",
+        "name": "Valery Kyrie 💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717584658559639554/eWtnF57K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 394,
+          "like_count": 820,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 1001
+        },
+        "username": "Shell_WO_Ghost",
+        "verified": false
+      }
+    ]
+  }
+}

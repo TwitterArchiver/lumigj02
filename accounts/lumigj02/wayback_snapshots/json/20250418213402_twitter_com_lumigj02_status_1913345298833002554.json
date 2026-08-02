@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1913345298833002554",
+    "created_at": "2025-04-18T21:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T22:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913345298833002554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1163463011274653697",
+          "start": 2,
+          "username": "Laurence0819"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/MacieJay/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/MacieJay/status/1913256134875455678",
+          "start": 39,
+          "url": "https://t.co/JRMWYmt09W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913345298833002554",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913256134875455678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": ". @Laurence0819 stream sniping stalker https://t.co/JRMWYmt09W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24533,
+        "height": 1080,
+        "media_key": "13_1913256022241681408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913256022241681408/img/09z-ENPqV71r_7Ki.jpg",
+        "public_metrics": {
+          "view_count": 9638
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913256022241681408/vid/avc1/1280x720/6kRWBaPykkLryQGO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913256022241681408/vid/avc1/480x270/N5TrBTGQZcw5QLqA.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913256022241681408/pl/ly6QqN50pTg6W5dz.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913256022241681408/vid/avc1/1920x1080/YPDmREiBKm4AP_Pr.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913256022241681408/vid/avc1/640x360/Ly555WmEOsvCOzvC.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1913345298833002554",
+        "created_at": "2025-04-18T21:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T22:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913345298833002554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1163463011274653697",
+              "start": 2,
+              "username": "Laurence0819"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/MacieJay/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/MacieJay/status/1913256134875455678",
+              "start": 39,
+              "url": "https://t.co/JRMWYmt09W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913345298833002554",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913256134875455678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": ". @Laurence0819 stream sniping stalker https://t.co/JRMWYmt09W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913256022241681408"
+          ]
+        },
+        "author_id": "759222695108149248",
+        "conversation_id": "1913256134875455678",
+        "created_at": "2025-04-18T15:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913256134875455678"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Stalkers",
+              "probability": 0.6336,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMbMnAtiR5",
+              "end": 65,
+              "expanded_url": "https://x.com/MacieJay/status/1913256134875455678/video/1",
+              "media_key": "13_1913256022241681408",
+              "start": 42,
+              "url": "https://t.co/XMbMnAtiR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913256134875455678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 24444,
+          "like_count": 442,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Stalkers nearly giving me a heart attack. https://t.co/XMbMnAtiR5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "单杀任何人的彩虹六号冠军 | 猫推 | 日雌370 泰补190 progynon-depot / progynova avail pls DM | 礼貌谦逊文明友善团结尊重从不骂人 | @you_miaowu | 小老婆 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 868,
+          "like_count": 26395,
+          "listed_count": 10,
+          "media_count": 1017,
+          "tweet_count": 11466
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-19T14:49:39.000Z",
+        "description": "",
+        "id": "1163463011274653697",
+        "location": "Ottawa, Ontario",
+        "name": "Laurence_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902464781531148288/nlnpWGzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 535,
+          "like_count": 153,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 354
+        },
+        "username": "Laurence0819",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-30T03:02:51.000Z",
+        "description": "YouTuber, Twitch Streamer (/MacieJay)\n\nBusiness Inquiries: MacieJay@ViralNationTalent.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/MacieJay",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/MacieJay",
+                "start": 0,
+                "url": "https://t.co/1JgjwhyQob"
+              }
+            ]
+          }
+        },
+        "id": "759222695108149248",
+        "name": "Macie Jay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476627931191558151/Np63MAkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228042,
+          "following_count": 242,
+          "like_count": 7448,
+          "listed_count": 165,
+          "media_count": 1408,
+          "tweet_count": 6202
+        },
+        "url": "https://t.co/1JgjwhyQob",
+        "username": "MacieJay",
+        "verified": true
+      }
+    ]
+  }
+}

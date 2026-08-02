@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898621849501913231",
+    "created_at": "2025-03-09T13:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T14:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898734101135610197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1204451526611128320",
+          "start": 0,
+          "username": "Jimoo314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898734101135610197",
+    "in_reply_to_user_id": "1204451526611128320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898723424035594301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jimoo314 绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898621849501913231",
+        "created_at": "2025-03-09T13:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898734101135610197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1204451526611128320",
+              "start": 0,
+              "username": "Jimoo314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898734101135610197",
+        "in_reply_to_user_id": "1204451526611128320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898723424035594301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jimoo314 绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1204451526611128320",
+        "conversation_id": "1898621849501913231",
+        "created_at": "2025-03-09T13:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898723424035594301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898723424035594301",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898621849501913231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 不是吴京？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897934948197445982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 871,
+          "like_count": 25562,
+          "listed_count": 11,
+          "media_count": 943,
+          "tweet_count": 10545
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-10T17:23:26.000Z",
+        "description": "含糖六年奶牛小药娘 生活所迫被迫下海 离不开老头大牛子了（越粗越喜欢 179/53kg 攒钱srs中 江浙沪 全国都🉑 #线下 128 私信口令红包加好友 过门槛再报价 不闲聊有偿咨询不接置顶推广谢绝骚扰一概拉黑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 60,
+                "tag": "线下"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/jimoo314",
+                "end": 23,
+                "expanded_url": "http://patreon.com/jimoo314",
+                "start": 0,
+                "url": "https://t.co/NZKp3xSeB9"
+              }
+            ]
+          }
+        },
+        "id": "1204451526611128320",
+        "location": "江浙沪 只线下门槛哥",
+        "name": "冷漠酱Jimoo🏳️‍⚧️",
+        "pinned_tweet_id": "1898367568483930185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884927131526057984/D751n0IJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73567,
+          "following_count": 280,
+          "like_count": 4758,
+          "listed_count": 317,
+          "media_count": 106,
+          "tweet_count": 3699
+        },
+        "url": "https://t.co/NZKp3xSeB9",
+        "username": "Jimoo314",
+        "verified": true
+      }
+    ]
+  }
+}

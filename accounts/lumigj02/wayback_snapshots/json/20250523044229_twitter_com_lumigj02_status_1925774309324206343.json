@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925774297835925504"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1925774309324206343",
+    "created_at": "2025-05-23T04:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T05:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925774309324206343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yl6WvT6RMM",
+          "end": 42,
+          "expanded_url": "https://x.com/lumigj02/status/1925774309324206343/photo/1",
+          "media_key": "3_1925774297835925504",
+          "start": 19,
+          "url": "https://t.co/Yl6WvT6RMM"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/lumigj02/status/1924808938148774073",
+          "start": 43,
+          "url": "https://t.co/Ba9DMZe1co"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925774309324206343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924808938148774073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又打回来了\n0-6都能赢…躺赢狗！ https://t.co/Yl6WvT6RMM https://t.co/Ba9DMZe1co"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925774297835925504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grm5hUwWcAA-lFc.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924808926765449216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZLhVRbAAAHNpc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925774297835925504"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1925774309324206343",
+        "created_at": "2025-05-23T04:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925774309324206343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl6WvT6RMM",
+              "end": 42,
+              "expanded_url": "https://x.com/lumigj02/status/1925774309324206343/photo/1",
+              "media_key": "3_1925774297835925504",
+              "start": 19,
+              "url": "https://t.co/Yl6WvT6RMM"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/lumigj02/status/1924808938148774073",
+              "start": 43,
+              "url": "https://t.co/Ba9DMZe1co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925774309324206343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924808938148774073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又打回来了\n0-6都能赢…躺赢狗！ https://t.co/Yl6WvT6RMM https://t.co/Ba9DMZe1co"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924808926765449216"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924808938148774073",
+        "created_at": "2025-05-20T12:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T13:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924808938148774073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7dxqaa6YB",
+              "end": 42,
+              "expanded_url": "https://x.com/lumigj02/status/1924808938148774073/photo/1",
+              "media_key": "3_1924808926765449216",
+              "start": 19,
+              "url": "https://t.co/d7dxqaa6YB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924808938148774073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们啊单排也是创下9连败历史纪录了 https://t.co/d7dxqaa6YB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "23 🇸🇬🇨🇳 | R6 analyst, duo @HobartR6 ❤️ | Computing @NUSingapore | @_FurryFur_ | 出售日雌380泰补200 私信/下方Telegram联系 | 解block请私信 @_Sanxon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "HobartR6"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "_Sanxon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1924879441324605676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 896,
+          "like_count": 26977,
+          "listed_count": 12,
+          "media_count": 1082,
+          "tweet_count": 12120
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

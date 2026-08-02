@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1958254504274792874",
+    "created_at": "2025-08-21T10:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T11:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958476187304353963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667792526445780992",
+          "start": 0,
+          "username": "Midnight_Pigeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958476187304353963",
+    "in_reply_to_user_id": "1667792526445780992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958364248238928336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Midnight_Pigeon 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1958254504274792874",
+        "created_at": "2025-08-21T10:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T11:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958476187304353963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667792526445780992",
+              "start": 0,
+              "username": "Midnight_Pigeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958476187304353963",
+        "in_reply_to_user_id": "1667792526445780992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958364248238928336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Midnight_Pigeon 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667792526445780992",
+        "conversation_id": "1958254504274792874",
+        "created_at": "2025-08-21T03:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T04:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958364248238928336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958364248238928336",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958254504274792874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 幻系列展机没啥问题（如果真的是展示机），我手头用的就是幻13展机天天带着跑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "老猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957897457658175488/cqcc_2gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 923,
+          "like_count": 27866,
+          "listed_count": 12,
+          "media_count": 1153,
+          "tweet_count": 13733
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T07:15:05.000Z",
+        "description": "小提琴手，开发者，作家，调查员 | 犹格索托斯的浅信徒 | 中文&EN, (РЯ&日本語) \n在新加坡上学。有很多猫。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/MidnightPigeon",
+                "end": 23,
+                "expanded_url": "https://github.com/MidnightPigeon",
+                "start": 0,
+                "url": "https://t.co/Yv8QIkQWgY"
+              }
+            ]
+          }
+        },
+        "id": "1667792526445780992",
+        "location": "天空の城ラピュタ",
+        "name": "深夜",
+        "pinned_tweet_id": "1720449265959350764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726467606180474880/5d-QHXIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 64,
+          "like_count": 2122,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/Yv8QIkQWgY",
+        "username": "Midnight_Pigeon",
+        "verified": false
+      }
+    ]
+  }
+}

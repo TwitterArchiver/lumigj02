@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2071504520140718355",
+    "created_at": "2026-06-29T08:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071504520140718355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/starrynocts/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/starrynocts/status/2071496270557155473",
+          "start": 21,
+          "url": "https://t.co/pfaUvB0sWM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071504520140718355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071496270557155473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "谢谢。上班刷被同事看到了，全公司都很喜欢 https://t.co/pfaUvB0sWM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2071496261359022080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9u39vasAAtSJW.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2071504520140718355",
+        "created_at": "2026-06-29T08:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071504520140718355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/starrynocts/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/starrynocts/status/2071496270557155473",
+              "start": 21,
+              "url": "https://t.co/pfaUvB0sWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071504520140718355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071496270557155473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "谢谢。上班刷被同事看到了，全公司都很喜欢 https://t.co/pfaUvB0sWM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071496261359022080"
+          ]
+        },
+        "author_id": "1343151486432399360",
+        "conversation_id": "2071496270557155473",
+        "created_at": "2026-06-29T07:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071496270557155473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tctK81QwIu",
+              "end": 27,
+              "expanded_url": "https://x.com/StarryNocts/status/2071496270557155473/photo/1",
+              "media_key": "3_2071496261359022080",
+              "start": 4,
+              "url": "https://t.co/tctK81QwIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071496270557155473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 255,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "腿环喵 https://t.co/tctK81QwIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo\n兼职糖商\n价：350、170\n可零售可批发喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://t.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/s1BSKPdKto"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4127,
+          "following_count": 828,
+          "like_count": 4254,
+          "listed_count": 9,
+          "media_count": 87,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/s1BSKPdKto",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 784,
+          "like_count": 4152,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 8192
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

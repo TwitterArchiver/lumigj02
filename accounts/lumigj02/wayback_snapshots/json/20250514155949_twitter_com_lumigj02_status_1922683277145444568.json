@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922683277145444568",
+    "created_at": "2025-05-14T15:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922683277145444568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fa1th_00y/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/fa1th_00y/status/1920522336840921414",
+          "start": 11,
+          "url": "https://t.co/PduXtNwyWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922683277145444568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920522336840921414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这位是玩瓦玩成这样的 https://t.co/PduXtNwyWo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1648,
+        "media_key": "3_1920522312782106624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqcQ3jyW0AA-CnN.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922683277145444568",
+        "created_at": "2025-05-14T15:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922683277145444568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fa1th_00y/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/fa1th_00y/status/1920522336840921414",
+              "start": 11,
+              "url": "https://t.co/PduXtNwyWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922683277145444568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920522336840921414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位是玩瓦玩成这样的 https://t.co/PduXtNwyWo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920522312782106624"
+          ]
+        },
+        "author_id": "1603838691159339008",
+        "conversation_id": "1920522336840921414",
+        "created_at": "2025-05-08T16:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T17:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920522336840921414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqtzb14Lgi",
+              "end": 23,
+              "expanded_url": "https://x.com/Fa1th_00y/status/1920522336840921414/photo/1",
+              "media_key": "3_1920522312782106624",
+              "start": 0,
+              "url": "https://t.co/zqtzb14Lgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920522336840921414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 968,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zqtzb14Lgi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 主人 @_temryava | @ndmhwxck | 家猫 @_FurryFur_ | 日雌380泰补200 私信/下方Telegram联系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "_temryava"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷🍥日雌380泰补200",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2637,
+          "following_count": 885,
+          "like_count": 26775,
+          "listed_count": 12,
+          "media_count": 1067,
+          "tweet_count": 11936
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-16T19:45:27.000Z",
+        "description": "15y | infp | 悲观主义者 | 喜欢发呆\n叫我T3e就好\n生理♂心理♂",
+        "id": "1603838691159339008",
+        "name": "sxcklife",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921402498998546432/MaQNLK7i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 103,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 90
+        },
+        "username": "Fa1th_00y",
+        "verified": false
+      }
+    ]
+  }
+}

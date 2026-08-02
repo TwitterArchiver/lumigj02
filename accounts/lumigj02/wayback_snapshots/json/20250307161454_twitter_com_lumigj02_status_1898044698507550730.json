@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898034231768756238",
+    "created_at": "2025-03-07T16:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T17:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898044698507550730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        },
+        {
+          "end": 21,
+          "id": "1863153995159687168",
+          "start": 11,
+          "username": "weita2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898044698507550730",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898034231768756238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay @weita2024 我还是传统派"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1898034219752042496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlcsEQ_bMAAVJb4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898034231768756238",
+        "created_at": "2025-03-07T16:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T17:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898044698507550730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 21,
+              "id": "1863153995159687168",
+              "start": 11,
+              "username": "weita2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898044698507550730",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898034231768756238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @weita2024 我还是传统派"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898034219752042496"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1898034231768756238",
+        "created_at": "2025-03-07T15:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T16:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898034231768756238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1863153995159687168",
+              "start": 18,
+              "username": "weita2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7U1LKUbU5",
+              "end": 54,
+              "expanded_url": "https://x.com/Minokakay/status/1898034231768756238/photo/1",
+              "media_key": "3_1898034219752042496",
+              "start": 31,
+              "url": "https://t.co/G7U1LKUbU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898034231768756238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到赞助的烟弹了，需要买烟的可以找 @weita2024 喵 https://t.co/G7U1LKUbU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 849,
+          "like_count": 25481,
+          "listed_count": 11,
+          "media_count": 934,
+          "tweet_count": 10391
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt 里推@Minokakaysex2nd 目标是中推第二大hrt药商",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5532,
+          "following_count": 827,
+          "like_count": 37527,
+          "listed_count": 27,
+          "media_count": 1045,
+          "tweet_count": 16642
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-01T09:31:53.000Z",
+        "description": "零售（正品） 电子烟/烟杆/烟弹/各品牌///薇v：RELX零壹JK//加QQ群：///305698910///是QQ群哦。可先体验后付款，童叟无欺，真实度100%，悦刻，冰熊，崧，鸭嘴兽，大板砖。",
+        "id": "1863153995159687168",
+        "location": "shanghai",
+        "name": "百川流不息/悦刻/冰熊/鸭嘴兽/电子烟/烟弹",
+        "pinned_tweet_id": "1891084004457168937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868962909750976512/JJyZLtyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3350,
+          "following_count": 87,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 678
+        },
+        "username": "weita2024",
+        "verified": true
+      }
+    ]
+  }
+}

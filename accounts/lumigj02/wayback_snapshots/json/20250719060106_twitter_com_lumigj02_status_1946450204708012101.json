@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Oregon",
+          "id": "1010254568087670785",
+          "name": "Oregon"
+        }
+      }
+    ],
+    "conversation_id": "1946450204708012101",
+    "created_at": "2025-07-19T06:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T07:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946450204708012101"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "Oregon",
+          "probability": 0.3419,
+          "start": 7,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/royalazyn/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/royalazyn/status/1946243322936172720",
+          "start": 21,
+          "url": "https://t.co/URTSQAaBmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946450204708012101",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946243322936172720",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Iconic Oregon b1 1v4 https://t.co/URTSQAaBmv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1186,
+        "media_key": "3_1946242963039723520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJxqcqWIAAdiPh.jpg",
+        "width": 2126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Oregon",
+              "id": "1010254568087670785",
+              "name": "Oregon"
+            }
+          }
+        ],
+        "conversation_id": "1946450204708012101",
+        "created_at": "2025-07-19T06:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946450204708012101"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Oregon",
+              "probability": 0.3419,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/royalazyn/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/royalazyn/status/1946243322936172720",
+              "start": 21,
+              "url": "https://t.co/URTSQAaBmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946450204708012101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946243322936172720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Iconic Oregon b1 1v4 https://t.co/URTSQAaBmv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946242963039723520"
+          ]
+        },
+        "author_id": "2737341503",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946243322936172720",
+        "created_at": "2025-07-18T16:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T17:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946243322936172720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zS3UlXfieK",
+              "end": 57,
+              "expanded_url": "https://x.com/RoyalAzyn/status/1946243322936172720/photo/1",
+              "media_key": "3_1946242963039723520",
+              "start": 34,
+              "url": "https://t.co/zS3UlXfieK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946243322936172720",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 30479,
+          "like_count": 1067,
+          "quote_count": 4,
+          "reply_count": 28,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "Siege pattern recognition test v2 https://t.co/zS3UlXfieK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "愿意被我杀掉么? I 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore I 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Tanglin Rd",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 923,
+          "like_count": 27621,
+          "listed_count": 12,
+          "media_count": 1098,
+          "tweet_count": 13014
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-08T16:07:16.000Z",
+        "description": "@FullSail // freelance socials + content\nco-owner / ops @TheCrucibleGG \nprev; @EWC_EN @R6esports @R6esportsNA @Wildcard_GG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "FullSail"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "TheCrucibleGG"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "EWC_EN"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "R6esports"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "R6esportsNA"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Wildcard_GG"
+              }
+            ]
+          }
+        },
+        "id": "2737341503",
+        "location": "22",
+        "name": "jon | royal",
+        "pinned_tweet_id": "1838024813538926784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648150192225411072/1x31Tm9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 885,
+          "like_count": 164292,
+          "listed_count": 2,
+          "media_count": 2875,
+          "tweet_count": 29772
+        },
+        "username": "RoyalAzyn",
+        "verified": false
+      }
+    ]
+  }
+}

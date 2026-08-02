@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898730430159040639",
+    "created_at": "2025-03-09T13:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T14:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898730430159040639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/you_miaowu/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/you_miaowu/status/1898723288865730834",
+          "start": 5,
+          "url": "https://t.co/biJq4hx1M9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898730430159040639",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898723288865730834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好耶！😋 https://t.co/biJq4hx1M9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1898723288865730834].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1898723288865730834",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898723288865730834"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898730430159040639",
+        "created_at": "2025-03-09T13:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898730430159040639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/you_miaowu/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/you_miaowu/status/1898723288865730834",
+              "start": 5,
+              "url": "https://t.co/biJq4hx1M9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898730430159040639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898723288865730834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶！😋 https://t.co/biJq4hx1M9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897934948197445982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 871,
+          "like_count": 25560,
+          "listed_count": 11,
+          "media_count": 943,
+          "tweet_count": 10542
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

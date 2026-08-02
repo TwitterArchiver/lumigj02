@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2080013613222543535",
+    "created_at": "2026-07-23T05:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080163791061532696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852686868846092288",
+          "start": 0,
+          "username": "TL_Xingyi"
+        },
+        {
+          "end": 25,
+          "id": "1748763011140169729",
+          "start": 11,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080163791061532696",
+    "in_reply_to_user_id": "1852686868846092288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080162828892459350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TL_Xingyi @lovelyshuimao 纯粹是你这个评价冰箱需要会制冷的逻辑水平低下，知道吗？我跟水猫观点不同为什么没吵起来？为什么就你那么蠢，为什么水猫就没让我去当冰箱？还有我发什么言用得着你指点？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2080013613222543535",
+        "created_at": "2026-07-23T05:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080163791061532696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852686868846092288",
+              "start": 0,
+              "username": "TL_Xingyi"
+            },
+            {
+              "end": 25,
+              "id": "1748763011140169729",
+              "start": 11,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080163791061532696",
+        "in_reply_to_user_id": "1852686868846092288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080162828892459350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TL_Xingyi @lovelyshuimao 纯粹是你这个评价冰箱需要会制冷的逻辑水平低下，知道吗？我跟水猫观点不同为什么没吵起来？为什么就你那么蠢，为什么水猫就没让我去当冰箱？还有我发什么言用得着你指点？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852686868846092288",
+        "conversation_id": "2080013613222543535",
+        "created_at": "2026-07-23T05:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080162828892459350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 24,
+              "id": "1748763011140169729",
+              "start": 10,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080162828892459350",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080162126875029544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @lovelyshuimao 你承认了就好，下次可以不用发这种言了😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 841,
+          "like_count": 4383,
+          "listed_count": 9,
+          "media_count": 133,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T12:25:58.000Z",
+        "description": "5:30the car missin'  HRT：2025.12.9\n马列毛主义/从马列角度支持LGBT无产化/偏新左？/现代毛派/反修正主义/反资反帝。广脑给我扣了个重抑中焦的帽子🤔🤔🤔。脱产学生（高中生）努力学习理论克服小资性。 友跨🏳️‍⚧️同类互fo喵。互fo都会回的喵😺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xqzxmarxismclub.com",
+                "end": 23,
+                "expanded_url": "http://xqzxmarxismclub.com",
+                "start": 0,
+                "url": "https://t.co/slB5soX612"
+              }
+            ]
+          }
+        },
+        "id": "1852686868846092288",
+        "location": "Roermond, Nederland",
+        "name": "Physic530🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2076410044397314185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 456,
+          "like_count": 5966,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/slB5soX612",
+        "username": "TL_Xingyi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5463,
+          "following_count": 999,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3422,
+          "tweet_count": 15420
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1919688495238676785",
+    "created_at": "2025-05-06T12:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T13:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919726595809460622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 30,
+          "id": "1845454917236031495",
+          "start": 15,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 45,
+          "id": "1818731995310309376",
+          "start": 31,
+          "username": "MOLeren198964"
+        },
+        {
+          "end": 62,
+          "id": "1807107145756008448",
+          "start": 46,
+          "username": "kagurazakaSiri_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919726595809460622",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919700335335235745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @Dontbesadforit @MOLeren198964 @kagurazakaSiri_ ?"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1919700335335235745].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919700335335235745",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1919700335335235745"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1919688495238676785",
+        "created_at": "2025-05-06T12:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T13:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919726595809460622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 30,
+              "id": "1845454917236031495",
+              "start": 15,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 45,
+              "id": "1818731995310309376",
+              "start": 31,
+              "username": "MOLeren198964"
+            },
+            {
+              "end": 62,
+              "id": "1807107145756008448",
+              "start": 46,
+              "username": "kagurazakaSiri_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919726595809460622",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919700335335235745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @Dontbesadforit @MOLeren198964 @kagurazakaSiri_ ?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 老婆 @RanXi_MtF | 家猫 @_FurryFur_ | 少女wgh @Yan_Xing_Xing | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 881,
+          "like_count": 26628,
+          "listed_count": 12,
+          "media_count": 1043,
+          "tweet_count": 11728
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "ima ingenting more alles\n\n願你們平安順遂幸福快樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heiwawomamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heiwawomamore",
+                "start": 0,
+                "url": "https://t.co/hEgd7mN8Dk"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "末裏せい/まつり清(前 平和を守れ)",
+        "pinned_tweet_id": "1908617248585244816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917086565467381761/C3Ud0dvT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 2125,
+          "like_count": 109452,
+          "listed_count": 12,
+          "media_count": 1285,
+          "tweet_count": 57323
+        },
+        "url": "https://t.co/hEgd7mN8Dk",
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 只有愚人节翻车💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 465,
+          "like_count": 20596,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 3231
+        },
+        "username": "Dontbesadforit",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "不熟：@isaactan8964 小号：@Moleren114514 主人🥺：@5mRtist 姐姐：@IAmTheSolipsism 想挂的朋友：@charming_xiaoyu @ShadowlessmoonR @my0790042212731 @SHEEPLOVESGRASS @VicoOci",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "isaactan8964"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "Moleren114514"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "5mRtist"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "IAmTheSolipsism"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "ShadowlessmoonR"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "my0790042212731"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "SHEEPLOVESGRASS"
+              },
+              {
+                "end": 150,
+                "start": 142,
+                "username": "VicoOci"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "ㄇㄌㄖ蘋果汁🍥",
+        "pinned_tweet_id": "1907810174527852850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895102259245260805/JLObg4-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 1965,
+          "like_count": 124348,
+          "listed_count": 10,
+          "media_count": 960,
+          "tweet_count": 21215
+        },
+        "username": "MOLeren198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "那很急麻笑典崩了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "🏳️‍🌈🏳️‍⚧️",
+        "name": "翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916471335238422528/As6XMr1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3019,
+          "following_count": 788,
+          "like_count": 19889,
+          "listed_count": 6,
+          "media_count": 1077,
+          "tweet_count": 8153
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaSiri_",
+        "verified": false
+      }
+    ]
+  }
+}

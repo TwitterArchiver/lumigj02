@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2083436598285447463",
+    "created_at": "2026-08-01T06:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083436598285447463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sophia75180803…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/sophia75180803/status/2083212243379101747",
+          "start": 85,
+          "url": "https://t.co/00GhUuI38D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083436598285447463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083212243379101747",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "认 找我要了发票和付款证明 但是认多少钱就不知道了\n\n现在是保险在询残 然后4S也没开始定损 反正就流程很慢\n\n我都不知道询残意义何在 我明确说了要修车但保险非要走流程 https://t.co/00GhUuI38D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2083436598285447463",
+        "created_at": "2026-08-01T06:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083436598285447463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sophia75180803…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/sophia75180803/status/2083212243379101747",
+              "start": 85,
+              "url": "https://t.co/00GhUuI38D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083436598285447463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083212243379101747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "认 找我要了发票和付款证明 但是认多少钱就不知道了\n\n现在是保险在询残 然后4S也没开始定损 反正就流程很慢\n\n我都不知道询残意义何在 我明确说了要修车但保险非要走流程 https://t.co/00GhUuI38D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541945359366324224",
+        "conversation_id": "2083139904775856461",
+        "created_at": "2026-07-31T15:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083212243379101747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083212243379101747",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083139904775856461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 改件的部分保险会认可吗？🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "leetfs1"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "TUTAIiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4247,
+          "following_count": 839,
+          "like_count": 4391,
+          "listed_count": 9,
+          "media_count": 146,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T00:43:23.000Z",
+        "description": "一个柿子，业余摄影，目前只拍女朋友",
+        "id": "1541945359366324224",
+        "location": "Japan",
+        "name": "嵐中樹",
+        "pinned_tweet_id": "2036124750859346107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066415234248753152/EcOlcKKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 83,
+          "like_count": 1140,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "Sophia75180803",
+        "verified": false
+      }
+    ]
+  }
+}

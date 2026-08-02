@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1364653904433045506",
+          "name": "Aposto!"
+        }
+      }
+    ],
+    "conversation_id": "1895386358765756586",
+    "created_at": "2025-02-28T08:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T09:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895395743307026499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        },
+        {
+          "end": 21,
+          "id": "412089956",
+          "start": 15,
+          "username": "XJTLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895395743307026499",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895386358765756586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina @XJTLU 所有学校不都这样吗\n把newsletter/seminar/webinar这种关键词直接拉黑会不会好点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_1895386351165677573",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3D2B1aoAU9P9B.jpg",
+        "width": 442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1364653904433045506",
+              "name": "Aposto!"
+            }
+          }
+        ],
+        "conversation_id": "1895386358765756586",
+        "created_at": "2025-02-28T08:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T09:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895395743307026499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            },
+            {
+              "end": 21,
+              "id": "412089956",
+              "start": 15,
+              "username": "XJTLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895395743307026499",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895386358765756586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina @XJTLU 所有学校不都这样吗\n把newsletter/seminar/webinar这种关键词直接拉黑会不会好点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895386351165677573"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "1895386358765756586",
+        "created_at": "2025-02-28T08:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T09:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895386358765756586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 143,
+              "id": "412089956",
+              "start": 137,
+              "username": "XJTLU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTk9V9f5uw",
+              "end": 167,
+              "expanded_url": "https://x.com/MeowCatherina/status/1895386358765756586/photo/1",
+              "media_key": "3_1895386351165677573",
+              "start": 144,
+              "url": "https://t.co/pTk9V9f5uw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895386358765756586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西交利物浦您能不能好好发邮件啊，每天7-8封邮件，你妈死了，每天打开邮箱就看到你丢了一堆垃圾过来。你让我看不看，我不看会错过重要信息，我要一个一个看就得被你们垃圾信息强奸脑子。不会发邮件就去找UIC学学，同是S9院校，你发邮件怎么这么傻逼。\n\n我的邮箱不是你们的乐色桶，滚\n@XJTLU https://t.co/pTk9V9f5uw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / Call me Lumi or 猫卷 / 💖 @HobartR6 / @altaz_0 / 日雌390",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1893577061723504657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895131563953696768/T0tzqE7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 830,
+          "like_count": 25286,
+          "listed_count": 11,
+          "media_count": 894,
+          "tweet_count": 9972
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INFP｜⚠️是一只学不会说话和社交的小阿斯｜🐈/🏹/🚴/💻｜CS&EE&AM｜某司高管(逃)｜🍝FSM｜BA4RIO｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🏫Monash｜🚪50,啥也没有｜持证嗓音训练师 160CNY｜❤️@Carafutaba @AsabaSeiban",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Carafutaba"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "AsabaSeiban"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cntt.uk",
+                "end": 23,
+                "expanded_url": "http://cntt.uk",
+                "start": 0,
+                "url": "https://t.co/l3eIEXmMQf"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈",
+        "pinned_tweet_id": "1828895115416613251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893683122824429568/1r72TXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5082,
+          "following_count": 1002,
+          "like_count": 44496,
+          "listed_count": 16,
+          "media_count": 1480,
+          "tweet_count": 16001
+        },
+        "url": "https://t.co/l3eIEXmMQf",
+        "username": "MeowCatherina",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-14T07:48:40.000Z",
+        "description": "The official account of Xi’an Jiaotong-Liverpool University\nCombining the best of East and West, we offer a unique study experience and develop future leaders.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xjtlu.edu.cn/en/",
+                "end": 23,
+                "expanded_url": "http://www.xjtlu.edu.cn/en/",
+                "start": 0,
+                "url": "https://t.co/Nqm0ZXJ7a8"
+              }
+            ]
+          }
+        },
+        "id": "412089956",
+        "location": "Suzhou, China",
+        "name": "Xi'an Jiaotong-Liverpool University",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852231566837116928/UQF8rBDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 202,
+          "like_count": 629,
+          "listed_count": 17,
+          "media_count": 903,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/Nqm0ZXJ7a8",
+        "username": "XJTLU",
+        "verified": true
+      }
+    ]
+  }
+}

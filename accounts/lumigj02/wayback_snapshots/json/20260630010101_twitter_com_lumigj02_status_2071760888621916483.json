@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2071760888621916483",
+    "created_at": "2026-06-30T01:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T02:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071760888621916483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoshino_2333/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/yoshino_2333/status/2071560954819805192",
+          "start": 46,
+          "url": "https://t.co/dJ9krm6D3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071760888621916483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071560954819805192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "最喜欢干的是yoshino 最喜欢收拾的也是yoshino 收拾完确实会弄脏但是也确实很爽 https://t.co/dJ9krm6D3N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2071760888621916483",
+        "created_at": "2026-06-30T01:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071760888621916483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2071560954819805192",
+              "start": 46,
+              "url": "https://t.co/dJ9krm6D3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071760888621916483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071560954819805192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "最喜欢干的是yoshino 最喜欢收拾的也是yoshino 收拾完确实会弄脏但是也确实很爽 https://t.co/dJ9krm6D3N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2071560954819805192",
+        "created_at": "2026-06-29T11:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071560954819805192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071560954819805192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最喜欢干的事情就是收拾屋子，虽然收拾完也没干净多少，但起码很爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo\n兼职糖商\n价：350、170\n可零售可批发喵\n\n猫娘女仆@leetfs1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 33,
+                "username": "leetfs1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://t.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/s1BSKPdKto"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 827,
+          "like_count": 4257,
+          "listed_count": 9,
+          "media_count": 88,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/s1BSKPdKto",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058124254395400192/V-ESBVRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 694,
+          "like_count": 20054,
+          "listed_count": 5,
+          "media_count": 866,
+          "tweet_count": 13604
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

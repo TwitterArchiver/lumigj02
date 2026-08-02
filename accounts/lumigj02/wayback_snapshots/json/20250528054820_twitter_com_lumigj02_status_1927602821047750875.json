@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1927602821047750875",
+    "created_at": "2025-05-28T05:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T06:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927602821047750875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kanaka_the/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/kanaka_the/status/1926905808522010898",
+          "start": 18,
+          "url": "https://t.co/7OWRYhyVhS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927602821047750875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 114,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926905808522010898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你家里除了空调找不出第二个能喘气的 https://t.co/7OWRYhyVhS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1927602821047750875",
+        "created_at": "2025-05-28T05:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927602821047750875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanaka_the/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/kanaka_the/status/1926905808522010898",
+              "start": 18,
+              "url": "https://t.co/7OWRYhyVhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927602821047750875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926905808522010898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你家里除了空调找不出第二个能喘气的 https://t.co/7OWRYhyVhS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492908723240837121",
+        "conversation_id": "1926873638180950144",
+        "created_at": "2025-05-26T07:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T08:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926905808522010898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "957544663275028481",
+              "start": 0,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926905808522010898",
+        "in_reply_to_user_id": "957544663275028481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 91596,
+          "like_count": 62,
+          "quote_count": 33,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926873638180950144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuBanXia1120 不是哥们，长这样非要去女厕所人家没报警已经很宽容了好吗？真不是我严格吧。你们这种吃点药就非要说自己是女人的人是在消费我们这些正经融入社会的ts好不好，顺便说一句我一直进男厕所男浴室"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "@HobartR6 ❤️ | 家猫 @_FurryFur_ | 出售日雌390泰补210 私信/下方Telegram联系 ############################################################################ Till death do us part_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "South East Asia",
+        "name": "Lumi猫卷🏳️‍⚧️出售日雌泰补",
+        "pinned_tweet_id": "1924879441324605676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 898,
+          "like_count": 27015,
+          "listed_count": 12,
+          "media_count": 1089,
+          "tweet_count": 12193
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T17:09:27.000Z",
+        "description": "TS一枚常驻广州，可约可空降，门槛88¥，v：ling1999042 QQ：386379774 不发门槛不要加谢谢",
+        "id": "1492908723240837121",
+        "location": "广州",
+        "name": "广州TS铃铛兔❤️",
+        "pinned_tweet_id": "1919969574327337260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748657188099510272/xPDkN97K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7789,
+          "following_count": 80,
+          "like_count": 251,
+          "listed_count": 40,
+          "media_count": 92,
+          "tweet_count": 190
+        },
+        "username": "kanaka_the",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901147535546474496"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1901119063923061037",
+    "created_at": "2025-03-16T05:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T06:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901147549798744172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889354518581878784",
+          "start": 0,
+          "username": "genya2027"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvTJX4Bz2q",
+          "end": 118,
+          "expanded_url": "https://x.com/lumigj02/status/1901147549798744172/photo/1",
+          "media_key": "3_1901147535546474496",
+          "start": 95,
+          "url": "https://t.co/bvTJX4Bz2q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901147549798744172",
+    "in_reply_to_user_id": "1889354518581878784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901146627899093009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya2027 因为有人告诉我我把你b了你还盯着我看，疑似是有点喜欢我了，所以我有点没绷住\n这么喜欢我，那要是我去上海宝山区世外学校找你呢，还是你要来NUS Computing找我呢 https://t.co/bvTJX4Bz2q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901147535546474496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmI7nGHbYAAKcJJ.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901147535546474496"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1901119063923061037",
+        "created_at": "2025-03-16T05:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T06:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901147549798744172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889354518581878784",
+              "start": 0,
+              "username": "genya2027"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvTJX4Bz2q",
+              "end": 118,
+              "expanded_url": "https://x.com/lumigj02/status/1901147549798744172/photo/1",
+              "media_key": "3_1901147535546474496",
+              "start": 95,
+              "url": "https://t.co/bvTJX4Bz2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901147549798744172",
+        "in_reply_to_user_id": "1889354518581878784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901146627899093009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya2027 因为有人告诉我我把你b了你还盯着我看，疑似是有点喜欢我了，所以我有点没绷住\n这么喜欢我，那要是我去上海宝山区世外学校找你呢，还是你要来NUS Computing找我呢 https://t.co/bvTJX4Bz2q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889354518581878784",
+        "conversation_id": "1901119063923061037",
+        "created_at": "2025-03-16T05:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T06:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901146627899093009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901146627899093009",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901145944973803959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 是哦是哦，最近闲得无聊想逗逗陈孝子😘\n以及为什么要解除屏蔽呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 19 🇸🇬 @NUSingapore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "成都/Singapore",
+        "name": "猫卷",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 874,
+          "like_count": 25698,
+          "listed_count": 11,
+          "media_count": 954,
+          "tweet_count": 10718
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-11T16:43:54.000Z",
+        "description": "无论去与往 皆是梦中人",
+        "id": "1889354518581878784",
+        "name": "陈艳琼🇷🇺丶",
+        "pinned_tweet_id": "1900409159746805920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894698060879699968/WZpZzZtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 218,
+          "like_count": 13457,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 946
+        },
+        "username": "genya2027",
+        "verified": false
+      }
+    ]
+  }
+}

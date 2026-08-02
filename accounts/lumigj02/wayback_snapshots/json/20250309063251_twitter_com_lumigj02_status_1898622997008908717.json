@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898622988628672512"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1898615260933915125",
+    "created_at": "2025-03-09T06:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T07:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898622997008908717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7Pf2aFjS1",
+          "end": 50,
+          "expanded_url": "https://x.com/lumigj02/status/1898622997008908717/photo/1",
+          "media_key": "3_1898622988628672512",
+          "start": 27,
+          "url": "https://t.co/p7Pf2aFjS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898622997008908717",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898615260933915125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 所以他被马斯克拿下了 https://t.co/p7Pf2aFjS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1898622988628672512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GllDjH-aQAAx-nb.jpg",
+        "width": 1290
+      },
+      {
+        "height": 640,
+        "media_key": "3_1898615222505783296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glk8fE6bQAA8eMt.png",
+        "width": 711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898622988628672512"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1898615260933915125",
+        "created_at": "2025-03-09T06:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898622997008908717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7Pf2aFjS1",
+              "end": 50,
+              "expanded_url": "https://x.com/lumigj02/status/1898622997008908717/photo/1",
+              "media_key": "3_1898622988628672512",
+              "start": 27,
+              "url": "https://t.co/p7Pf2aFjS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898622997008908717",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898615260933915125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 所以他被马斯克拿下了 https://t.co/p7Pf2aFjS1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898615222505783296"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1898615260933915125",
+        "created_at": "2025-03-09T06:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898615260933915125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3iRY9ypFP",
+              "end": 34,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1898615260933915125/photo/1",
+              "media_key": "3_1898615222505783296",
+              "start": 11,
+              "url": "https://t.co/f3iRY9ypFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898615260933915125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么事情都可以吵起来 https://t.co/f3iRY9ypFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897934948197445982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 859,
+          "like_count": 25535,
+          "listed_count": 11,
+          "media_count": 942,
+          "tweet_count": 10509
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894685893140881409/EAkfTOuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 1530,
+          "like_count": 1783,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2274
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

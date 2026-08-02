@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953779219000967329",
+    "created_at": "2025-08-08T11:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953779219000967329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukinyacat/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/yukinyacat/status/1953478165575172514",
+          "start": 14,
+          "url": "https://t.co/9D6ERBKV8z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953779219000967329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 75,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953478165575172514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你再发这些东西我找人弄死你 https://t.co/9D6ERBKV8z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953478104883818496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxwl_IYacAAZ3Wf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953779219000967329",
+        "created_at": "2025-08-08T11:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953779219000967329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukinyacat/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yukinyacat/status/1953478165575172514",
+              "start": 14,
+              "url": "https://t.co/9D6ERBKV8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953779219000967329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953478165575172514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你再发这些东西我找人弄死你 https://t.co/9D6ERBKV8z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953478104883818496"
+          ]
+        },
+        "author_id": "1789528204207915008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1953478165575172514",
+        "created_at": "2025-08-07T15:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T16:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953478165575172514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55W75OqoG0",
+              "end": 28,
+              "expanded_url": "https://x.com/yukinyacat/status/1953478165575172514/photo/1",
+              "media_key": "3_1953478104883818496",
+              "start": 5,
+              "url": "https://t.co/55W75OqoG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953478165575172514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 76480,
+          "like_count": 577,
+          "quote_count": 21,
+          "reply_count": 163,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "可樂腸粉 https://t.co/55W75OqoG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷uwu🐱✨🐈",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953433505246945280/jdZGBDtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 934,
+          "like_count": 27694,
+          "listed_count": 12,
+          "media_count": 1122,
+          "tweet_count": 13349
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T05:29:38.000Z",
+        "description": "猫",
+        "id": "1789528204207915008",
+        "name": "❄️",
+        "pinned_tweet_id": "1951850380859687354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945344760987705344/upWov8S0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 114,
+          "like_count": 34606,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 570
+        },
+        "username": "yukinyacat",
+        "verified": false
+      }
+    ]
+  }
+}

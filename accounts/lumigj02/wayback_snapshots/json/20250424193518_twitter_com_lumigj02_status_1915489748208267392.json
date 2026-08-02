@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1915361483481137236",
+    "created_at": "2025-04-24T19:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T20:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915489748208267392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1372558116366159878",
+          "start": 0,
+          "username": "toeibasu_scania"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915489748208267392",
+    "in_reply_to_user_id": "1372558116366159878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915450453657108932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toeibasu_scania （抱住蹭蹭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1915361483481137236",
+        "created_at": "2025-04-24T19:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T20:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915489748208267392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1372558116366159878",
+              "start": 0,
+              "username": "toeibasu_scania"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915489748208267392",
+        "in_reply_to_user_id": "1372558116366159878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915450453657108932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toeibasu_scania （抱住蹭蹭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372558116366159878",
+        "conversation_id": "1915361483481137236",
+        "created_at": "2025-04-24T16:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T17:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915450453657108932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915450453657108932",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915361483481137236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 （咬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | HRT药商 | Cat named Neko | 主人&老婆 @RanXi_MtF | @you_miaowu @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2373,
+          "following_count": 872,
+          "like_count": 26504,
+          "listed_count": 11,
+          "media_count": 1029,
+          "tweet_count": 11589
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-18T14:39:04.000Z",
+        "description": "Null",
+        "id": "1372558116366159878",
+        "location": "江城 孱陵路33号",
+        "name": "Scania_N280UB🍥",
+        "pinned_tweet_id": "1772879034566779277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668458148510703616/H9NIFPZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 883,
+          "like_count": 10329,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 1776
+        },
+        "username": "toeibasu_scania",
+        "verified": false
+      }
+    ]
+  }
+}

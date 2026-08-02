@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1933553287103684763",
+    "created_at": "2025-06-13T16:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T17:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933566302645596473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557502082290049024",
+          "start": 0,
+          "username": "peculiarmob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933566302645596473",
+    "in_reply_to_user_id": "1557502082290049024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933553287103684763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peculiarmob 上次我崩张作霖碗里他直接把东三省送我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1933553287103684763",
+        "created_at": "2025-06-13T16:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933566302645596473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557502082290049024",
+              "start": 0,
+              "username": "peculiarmob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933566302645596473",
+        "in_reply_to_user_id": "1557502082290049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933553287103684763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peculiarmob 上次我崩张作霖碗里他直接把东三省送我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557502082290049024",
+        "conversation_id": "1933553287103684763",
+        "created_at": "2025-06-13T15:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T16:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933553287103684763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1933470680114221564",
+              "start": 51,
+              "url": "https://t.co/9DZnfIWucK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933553287103684763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933470680114221564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王沪宁在中南海饭厅起啤酒时把瓶盖崩习总碗里了，王以为说声兄弟对不住啊就行了，但习总不是弗雷尔卓德人。 https://t.co/9DZnfIWucK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬 p4r4n01d 5ch120phr1n14 pr0f35510n4l 7r1p 51773r 3n7ry fr4993r @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "HobartR6"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi (日雌泰补",
+        "pinned_tweet_id": "1932909290324726179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 893,
+          "like_count": 27114,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 12393
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T23:00:14.000Z",
+        "description": "待业",
+        "id": "1557502082290049024",
+        "name": "甘蔗王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830680080961646592/_49fIJ1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 663,
+          "like_count": 3831,
+          "listed_count": 4,
+          "media_count": 708,
+          "tweet_count": 4879
+        },
+        "username": "peculiarmob",
+        "verified": false
+      }
+    ]
+  }
+}

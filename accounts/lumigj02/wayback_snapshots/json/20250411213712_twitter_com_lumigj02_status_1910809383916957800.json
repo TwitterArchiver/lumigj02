@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1910472122172137574",
+    "created_at": "2025-04-11T21:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T22:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910809383916957800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754953345112981505",
+          "start": 0,
+          "username": "ErmImpala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910809383916957800",
+    "in_reply_to_user_id": "1754953345112981505",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910472122172137574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErmImpala Retarded player"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37942,
+        "height": 1080,
+        "media_key": "13_1910471990005104640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1910471990005104640/img/AroGOKk4b48_BtQr.jpg",
+        "public_metrics": {
+          "view_count": 115280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910471990005104640/vid/avc1/480x270/8Ey6DbpgVmmE5hNl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910471990005104640/vid/avc1/640x360/u9ngjgQ4-iQmG9mp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910471990005104640/vid/avc1/1280x720/lpn5nWeheflWklfd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1910471990005104640/pl/Kkg39YdFc10jk7Id.m3u8?tag=14&v=c7a"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1910472122172137574",
+        "created_at": "2025-04-11T21:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T22:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910809383916957800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754953345112981505",
+              "start": 0,
+              "username": "ErmImpala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910809383916957800",
+        "in_reply_to_user_id": "1754953345112981505",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910472122172137574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErmImpala Retarded player"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1910471990005104640"
+          ]
+        },
+        "author_id": "1754953345112981505",
+        "conversation_id": "1910472122172137574",
+        "created_at": "2025-04-10T23:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T00:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910472122172137574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "maciejay",
+              "probability": 0.6456,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNewNYInqF",
+              "end": 73,
+              "expanded_url": "https://x.com/ErmImpala/status/1910472122172137574/video/1",
+              "media_key": "13_1910471990005104640",
+              "start": 50,
+              "url": "https://t.co/KNewNYInqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910472122172137574",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 424990,
+          "like_count": 2198,
+          "quote_count": 56,
+          "reply_count": 80,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "maciejay got swatted and blamed varsity for it 😭😭 https://t.co/KNewNYInqF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "老婆 @_Sanxon | 主人 @? | 买日雌 https://t.co/xnU7yfIPl5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "_Sanxon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 49,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 26,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Luminous СОНЦЕ 猫卷 日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 868,
+          "like_count": 26312,
+          "listed_count": 11,
+          "media_count": 1000,
+          "tweet_count": 11334
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-06T19:41:03.000Z",
+        "description": "20 | R6 for @Wildcard_GG | Duo: @CassWernle | @Jolynethegay 🫶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Wildcard_GG"
+              },
+              {
+                "end": 43,
+                "start": 32,
+                "username": "CassWernle"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Jolynethegay"
+              }
+            ]
+          }
+        },
+        "id": "1754953345112981505",
+        "location": "they/she",
+        "name": "Impala ⁉️",
+        "pinned_tweet_id": "1828562251822891204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873834454851985408/lRRs1O5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 304,
+          "like_count": 151406,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 679
+        },
+        "username": "ErmImpala",
+        "verified": false
+      }
+    ]
+  }
+}

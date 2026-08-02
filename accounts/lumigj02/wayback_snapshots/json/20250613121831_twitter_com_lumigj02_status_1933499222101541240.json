@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933464527724818437"
+      ],
+      "media_source_tweet_id": [
+        "1933464531076026812"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Texas",
+          "id": "855432197297192961",
+          "name": "Texas"
+        }
+      }
+    ],
+    "conversation_id": "1933499222101541240",
+    "created_at": "2025-06-13T12:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T13:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933499222101541240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1125761780628615168",
+          "start": 3,
+          "username": "VYRLW"
+        },
+        {
+          "end": 47,
+          "id": "1809535432679702528",
+          "start": 33,
+          "username": "Arknights_ccf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cbYnJyJXIJ",
+          "end": 140,
+          "expanded_url": "https://x.com/VYRLW/status/1933464531076026812/photo/1",
+          "media_key": "3_1933464527724818437",
+          "start": 117,
+          "url": "https://t.co/cbYnJyJXIJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933499222101541240",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933464531076026812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VYRLW: 명일방주 비공식 행사 \n코랄코스트 축제(@Arknights_ccf) 퀴즈 이벤트에 \n라플란드와 텍사스로 일러스트 협력했습니다 🐺 ✨️\n좋은 기회를 주셔서 즐겁게 작업했어요! 감사합니다 ☺️ https://t.co/cbYnJyJXIJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933464527724818437",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtULvnjbMAUfFdd.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933464527724818437"
+          ],
+          "media_source_tweet_id": [
+            "1933464531076026812"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1933499222101541240",
+        "created_at": "2025-06-13T12:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933499222101541240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1125761780628615168",
+              "start": 3,
+              "username": "VYRLW"
+            },
+            {
+              "end": 47,
+              "id": "1809535432679702528",
+              "start": 33,
+              "username": "Arknights_ccf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbYnJyJXIJ",
+              "end": 140,
+              "expanded_url": "https://x.com/VYRLW/status/1933464531076026812/photo/1",
+              "media_key": "3_1933464527724818437",
+              "start": 117,
+              "url": "https://t.co/cbYnJyJXIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933499222101541240",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933464531076026812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VYRLW: 명일방주 비공식 행사 \n코랄코스트 축제(@Arknights_ccf) 퀴즈 이벤트에 \n라플란드와 텍사스로 일러스트 협력했습니다 🐺 ✨️\n좋은 기회를 주셔서 즐겁게 작업했어요! 감사합니다 ☺️ https://t.co/cbYnJyJXIJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933464527724818437"
+          ]
+        },
+        "author_id": "1125761780628615168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1933464531076026812",
+        "created_at": "2025-06-13T10:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933464531076026812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1809535432679702528",
+              "start": 22,
+              "username": "Arknights_ccf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbYnJyJXIJ",
+              "end": 129,
+              "expanded_url": "https://x.com/VYRLW/status/1933464531076026812/photo/1",
+              "media_key": "3_1933464527724818437",
+              "start": 106,
+              "url": "https://t.co/cbYnJyJXIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933464531076026812",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 9206,
+          "like_count": 929,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "명일방주 비공식 행사 \n코랄코스트 축제(@Arknights_ccf) 퀴즈 이벤트에 \n라플란드와 텍사스로 일러스트 협력했습니다 🐺 ✨️\n좋은 기회를 주셔서 즐겁게 작업했어요! 감사합니다 ☺️ https://t.co/cbYnJyJXIJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬 professional trip sitter entry fragger @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "HobartR6"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi (日雌泰补",
+        "pinned_tweet_id": "1932909290324726179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 893,
+          "like_count": 27098,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 12381
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-07T13:58:18.000Z",
+        "description": "アークナイツ 🐺❤️🐺 / 無断転載・AI学習❌️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/SRCS",
+                "end": 23,
+                "expanded_url": "https://lit.link/SRCS",
+                "start": 0,
+                "url": "https://t.co/bycQfbOY48"
+              }
+            ]
+          }
+        },
+        "id": "1125761780628615168",
+        "name": "𝙎𝙀𝙍𝙄",
+        "pinned_tweet_id": "1933464531076026812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928390410151297024/NJTJt18S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82652,
+          "following_count": 28,
+          "like_count": 2238,
+          "listed_count": 477,
+          "media_count": 332,
+          "tweet_count": 2967
+        },
+        "url": "https://t.co/bycQfbOY48",
+        "username": "VYRLW",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T10:30:50.000Z",
+        "description": "2025 명일방주 코랄코스트 축제 비공식 계정입니다. | 2025년 8월 1, 2, 3일 개최 예정. | 문의 - arkccfestival@gmail.com",
+        "id": "1809535432679702528",
+        "location": "서울 마포구 갤러리카페 바이아스",
+        "name": "2025 Arknights Coral Coast festival",
+        "pinned_tweet_id": "1923706317413532047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923719217938833409/WXcOtlEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 24
+        },
+        "username": "Arknights_ccf",
+        "verified": false
+      }
+    ]
+  }
+}

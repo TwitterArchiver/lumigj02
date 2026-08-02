@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1946176076620718479",
+    "created_at": "2025-07-19T06:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T07:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946453202003779700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1591133780986646528",
+          "start": 0,
+          "username": "chenbin1212"
+        },
+        {
+          "end": 28,
+          "id": "1260553941714186241",
+          "start": 13,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946453202003779700",
+    "in_reply_to_user_id": "1591133780986646528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946403438641983675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenbin1212 @whyyoutouzhele 妈的，车会动啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1946176076620718479",
+        "created_at": "2025-07-19T06:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946453202003779700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591133780986646528",
+              "start": 0,
+              "username": "chenbin1212"
+            },
+            {
+              "end": 28,
+              "id": "1260553941714186241",
+              "start": 13,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946453202003779700",
+        "in_reply_to_user_id": "1591133780986646528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946403438641983675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenbin1212 @whyyoutouzhele 妈的，车会动啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591133780986646528",
+        "conversation_id": "1946176076620718479",
+        "created_at": "2025-07-19T02:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T03:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946403438641983675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946403438641983675",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8715,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946176076620718479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这山东的车牌，你说是天津？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "愿意被我杀掉么? I 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore I 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Tanglin Rd",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 923,
+          "like_count": 27623,
+          "listed_count": 12,
+          "media_count": 1098,
+          "tweet_count": 13016
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T18:20:46.000Z",
+        "description": "是大叔哎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "706257929.com/id/QS8YYF",
+                "end": 23,
+                "expanded_url": "https://www.706257929.com/id/QS8YYF",
+                "start": 0,
+                "url": "https://t.co/gaSw8zsizH"
+              }
+            ]
+          }
+        },
+        "id": "1591133780986646528",
+        "location": "下面是本人自用梯子",
+        "name": "DaDaChen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679862758115000320/DkqHPj22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 180,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/gaSw8zsizH",
+        "username": "chenbin1212",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036168,
+          "following_count": 975,
+          "like_count": 7640,
+          "listed_count": 8196,
+          "media_count": 31840,
+          "tweet_count": 38491
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

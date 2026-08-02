@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1916103810726171087",
+    "created_at": "2025-04-26T12:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T13:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916103810726171087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yingjiangovo/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yingjiangovo/status/1916013748474745257",
+          "start": 7,
+          "url": "https://t.co/5nz62AUsYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916103810726171087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916013748474745257",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱喵喜欢喵 https://t.co/5nz62AUsYW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916013736458129411",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpcMV4JbEAM0sXK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1916103810726171087",
+        "created_at": "2025-04-26T12:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T13:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916103810726171087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yingjiangovo/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yingjiangovo/status/1916013748474745257",
+              "start": 7,
+              "url": "https://t.co/5nz62AUsYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916103810726171087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916013748474745257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱喵喜欢喵 https://t.co/5nz62AUsYW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916013736458129411"
+          ]
+        },
+        "author_id": "1692874517150896128",
+        "conversation_id": "1916013748474745257",
+        "created_at": "2025-04-26T06:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916013748474745257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1qy2Q6Sw8",
+              "end": 76,
+              "expanded_url": "https://x.com/yingjiangovo/status/1916013748474745257/photo/1",
+              "media_key": "3_1916013736458129411",
+              "start": 53,
+              "url": "https://t.co/k1qy2Q6Sw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916013748474745257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 42725,
+          "like_count": 787,
+          "quote_count": 18,
+          "reply_count": 67,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "不是。男的脖子上面还有项圈的，那个女主人给男m拉出来溜了，我还带着我12岁的妹妹，我俩大眼瞪小眼，真吓人 https://t.co/k1qy2Q6Sw8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | HRT药商 | Cat named Neko | 主人&老婆 @RanXi_MtF | 小老婆 @_FurryFur_ | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 875,
+          "like_count": 26527,
+          "listed_count": 11,
+          "media_count": 1029,
+          "tweet_count": 11605
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-19T12:22:07.000Z",
+        "description": "因为女神是同所以只能变女孩子和女神搞4i",
+        "id": "1692874517150896128",
+        "name": "聆江醉别月",
+        "pinned_tweet_id": "1741701788934508613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915242917461098496/azeszw2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 86,
+          "like_count": 1863,
+          "listed_count": 8,
+          "media_count": 28,
+          "tweet_count": 482
+        },
+        "username": "yingjiangovo",
+        "verified": false
+      }
+    ]
+  }
+}

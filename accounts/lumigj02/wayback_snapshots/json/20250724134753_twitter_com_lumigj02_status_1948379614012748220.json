@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1948379614012748220",
+    "created_at": "2025-07-24T13:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T14:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948379614012748220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jorfolle/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jorfolle/status/1948251808486268931",
+          "start": 5,
+          "url": "https://t.co/YuALYzPxg5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948379614012748220",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948251808486268931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "What https://t.co/YuALYzPxg5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1948379614012748220",
+        "created_at": "2025-07-24T13:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T14:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948379614012748220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jorfolle/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jorfolle/status/1948251808486268931",
+              "start": 5,
+              "url": "https://t.co/YuALYzPxg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948379614012748220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948251808486268931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "What https://t.co/YuALYzPxg5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329887081531891723",
+        "conversation_id": "1948251808486268931",
+        "created_at": "2025-07-24T05:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T06:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948251808486268931"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "ASIA",
+              "probability": 0.7245,
+              "start": 10,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948251808486268931",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1429,
+          "impression_count": 1198065,
+          "like_count": 25321,
+          "quote_count": 674,
+          "reply_count": 206,
+          "retweet_count": 3622
+        },
+        "reply_settings": "everyone",
+        "text": "SOUTHEAST ASIA WAR WTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 924,
+          "like_count": 27664,
+          "listed_count": 12,
+          "media_count": 1106,
+          "tweet_count": 13125
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T20:39:30.000Z",
+        "description": "gay nerd who studies military history | sunny irl | they/them | priv @jorbadien | https://t.co/RIOzozhsSo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "jorbadien"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jormad.straw.page",
+                "end": 105,
+                "expanded_url": "https://jormad.straw.page",
+                "start": 82,
+                "url": "https://t.co/RIOzozhsSo"
+              }
+            ]
+          }
+        },
+        "id": "1329887081531891723",
+        "location": "Washington, DC",
+        "name": "jor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940303197672775680/aoVF03Xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3042,
+          "following_count": 1033,
+          "like_count": 94100,
+          "listed_count": 13,
+          "media_count": 2166,
+          "tweet_count": 31033
+        },
+        "username": "jorfolle",
+        "verified": false
+      }
+    ]
+  }
+}

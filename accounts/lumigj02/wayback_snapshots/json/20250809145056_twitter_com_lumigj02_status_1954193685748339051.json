@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1953918410058068232",
+    "created_at": "2025-08-09T14:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T15:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954193685748339051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1445667185569894402",
+          "start": 0,
+          "username": "kjwso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954193685748339051",
+    "in_reply_to_user_id": "1445667185569894402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954040959202996280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjwso 我只想让别人给我上班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1953918410058068232",
+        "created_at": "2025-08-09T14:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954193685748339051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1445667185569894402",
+              "start": 0,
+              "username": "kjwso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954193685748339051",
+        "in_reply_to_user_id": "1445667185569894402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954040959202996280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjwso 我只想让别人给我上班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445667185569894402",
+        "conversation_id": "1953918410058068232",
+        "created_at": "2025-08-09T04:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T05:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954040959202996280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954040959202996280",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953918410058068232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 真上班你又不乐意了捏（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌 私信 or 下方 Telegram ⬇️ | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "HobartR6"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 934,
+          "like_count": 27698,
+          "listed_count": 12,
+          "media_count": 1124,
+          "tweet_count": 13368
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T08:28:43.000Z",
+        "description": "可能的毒舌 | 友跨 | 一般都会回 fo 的捏 | 20多岁的老登（） | 日常淡推~",
+        "id": "1445667185569894402",
+        "location": "2km",
+        "name": "🐑酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856017290120310785/dfdfbsoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 150,
+          "like_count": 9368,
+          "listed_count": 0,
+          "media_count": 684,
+          "tweet_count": 1345
+        },
+        "username": "kjwso",
+        "verified": false
+      }
+    ]
+  }
+}

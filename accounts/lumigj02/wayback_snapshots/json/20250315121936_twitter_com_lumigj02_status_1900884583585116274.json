@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1900857448392462558",
+    "created_at": "2025-03-15T12:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T13:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900884583585116274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1284141599694508034",
+          "start": 0,
+          "username": "imthaqil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900884583585116274",
+    "in_reply_to_user_id": "1284141599694508034",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900857448392462558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imthaqil 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_1900857440524267521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmEzxV8bcAEg3t0.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1900857448392462558",
+        "created_at": "2025-03-15T12:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T13:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900884583585116274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1284141599694508034",
+              "start": 0,
+              "username": "imthaqil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900884583585116274",
+        "in_reply_to_user_id": "1284141599694508034",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900857448392462558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imthaqil 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900857440524267521"
+          ]
+        },
+        "author_id": "1284141599694508034",
+        "conversation_id": "1900857448392462558",
+        "created_at": "2025-03-15T10:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T11:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900857448392462558"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Carti",
+              "probability": 0.7329,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "RADAR",
+              "probability": 0.4701,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOFZxmMg4C",
+              "end": 61,
+              "expanded_url": "https://x.com/imthaqil/status/1900857448392462558/photo/1",
+              "media_key": "3_1900857440524267521",
+              "start": 38,
+              "url": "https://t.co/vOFZxmMg4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900857448392462558",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4962,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Carti shouted me out wtf (RADAR 0:42) https://t.co/vOFZxmMg4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 873,
+          "like_count": 25684,
+          "listed_count": 11,
+          "media_count": 953,
+          "tweet_count": 10697
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-17T15:03:20.000Z",
+        "description": "🇬🇧 | Streaming at: https://t.co/lcv1GGjVOM | Business inquiries: Thaqil@elusive-agency.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/thaqil",
+                "end": 42,
+                "expanded_url": "http://twitch.tv/thaqil",
+                "start": 19,
+                "url": "https://t.co/lcv1GGjVOM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/thaqil",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/thaqil",
+                "start": 0,
+                "url": "https://t.co/Yr5A6B68CS"
+              }
+            ]
+          }
+        },
+        "id": "1284141599694508034",
+        "name": "thaqil",
+        "pinned_tweet_id": "1829596627612701174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899568426370150400/u21IqRmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40557,
+          "following_count": 483,
+          "like_count": 947,
+          "listed_count": 13,
+          "media_count": 372,
+          "tweet_count": 1822
+        },
+        "url": "https://t.co/Yr5A6B68CS",
+        "username": "imthaqil",
+        "verified": true
+      }
+    ]
+  }
+}

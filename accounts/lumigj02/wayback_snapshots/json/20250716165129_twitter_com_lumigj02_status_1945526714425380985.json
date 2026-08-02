@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1945472177337426326",
+    "created_at": "2025-07-16T16:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T17:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945526714425380985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1453575590729162758",
+          "start": 0,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945526714425380985",
+    "in_reply_to_user_id": "1453575590729162758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945472177337426326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obe_ZX 大证诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945472163349245952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-0oADXsAATAeV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1945472177337426326",
+        "created_at": "2025-07-16T16:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T17:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945526714425380985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1453575590729162758",
+              "start": 0,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945526714425380985",
+        "in_reply_to_user_id": "1453575590729162758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945472177337426326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obe_ZX 大证诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945472163349245952"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "1945472177337426326",
+        "created_at": "2025-07-16T13:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T14:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945472177337426326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmKkxarxlc",
+              "end": 35,
+              "expanded_url": "https://x.com/obe_ZX/status/1945472177337426326/photo/1",
+              "media_key": "3_1945472163349245952",
+              "start": 12,
+              "url": "https://t.co/wmKkxarxlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945472177337426326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然无人在意但是持证啦 https://t.co/wmKkxarxlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚔𝚒𝚕𝚕 𝚖𝚎 𝚒𝚜 𝚘𝚕𝚍 𝚊𝚐𝚎. | 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore | 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ ɢ ᴊ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 921,
+          "like_count": 27563,
+          "listed_count": 12,
+          "media_count": 1091,
+          "tweet_count": 12920
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季MtF? | DIY HRTing | 175/52kg | 半家长党（妈妈）+半家长不管党（生父） | 希望在最终的决定里我可以拥有未来 | 最喜欢的姐姐@ye_han67658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "ye_han67658"
+              }
+            ]
+          }
+        },
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "木槿团子🍡🏳️‍⚧️",
+        "pinned_tweet_id": "1745015031736188939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916434099037966336/Hj14mfO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 500,
+          "like_count": 10587,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 1143
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

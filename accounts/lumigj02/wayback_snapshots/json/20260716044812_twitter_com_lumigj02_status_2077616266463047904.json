@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2077613702824730657",
+    "created_at": "2026-07-16T04:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077616266463047904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1518841008817061891",
+          "start": 0,
+          "username": "jiulipu114"
+        },
+        {
+          "end": 24,
+          "id": "1433833820810211332",
+          "start": 12,
+          "username": "Ettf_Cabage"
+        },
+        {
+          "end": 39,
+          "id": "908310158303887360",
+          "start": 25,
+          "username": "zwbgongzuoshi"
+        },
+        {
+          "end": 56,
+          "id": "1431393567919034376",
+          "start": 40,
+          "username": "TdLQV7pNQoH6fkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077616266463047904",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077616131578507375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@jiulipu114 @Ettf_Cabage @zwbgongzuoshi @TdLQV7pNQoH6fkR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2077613702824730657",
+        "created_at": "2026-07-16T04:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077616266463047904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1518841008817061891",
+              "start": 0,
+              "username": "jiulipu114"
+            },
+            {
+              "end": 24,
+              "id": "1433833820810211332",
+              "start": 12,
+              "username": "Ettf_Cabage"
+            },
+            {
+              "end": 39,
+              "id": "908310158303887360",
+              "start": 25,
+              "username": "zwbgongzuoshi"
+            },
+            {
+              "end": 56,
+              "id": "1431393567919034376",
+              "start": 40,
+              "username": "TdLQV7pNQoH6fkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077616266463047904",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077616131578507375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@jiulipu114 @Ettf_Cabage @zwbgongzuoshi @TdLQV7pNQoH6fkR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2077613702824730657",
+        "created_at": "2026-07-16T04:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077616131578507375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1518841008817061891",
+              "start": 0,
+              "username": "jiulipu114"
+            },
+            {
+              "end": 24,
+              "id": "1433833820810211332",
+              "start": 12,
+              "username": "Ettf_Cabage"
+            },
+            {
+              "end": 39,
+              "id": "908310158303887360",
+              "start": 25,
+              "username": "zwbgongzuoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077616131578507375",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077613702824730657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@jiulipu114 @Ettf_Cabage @zwbgongzuoshi 品鉴一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/猫娘女仆@leetfs1/笨蛋姐姐@hoshi_asuka0089\n\n糖商⬇️base香港，内地compliance双证齐全",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 22,
+                "start": 14,
+                "username": "leetfs1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/vNaapx0WBI"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4197,
+          "following_count": 837,
+          "like_count": 4354,
+          "listed_count": 8,
+          "media_count": 120,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/vNaapx0WBI",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T06:35:09.000Z",
+        "description": "神必021玩车人/爱开车纯瘾大/新手捆工 目前只会用配方绳/爱听各种摇滚😋/求互fo😭",
+        "id": "1518841008817061891",
+        "name": "很离谱吗？是的很离谱🤣",
+        "pinned_tweet_id": "1988980646631674084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977144077365002241/OuMjHJNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 906,
+          "like_count": 649,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "jiulipu114",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 我是白菜！ 双性恋 男孩子！活动范围以泉州／厦门为主 现在是19岁想可爱的183cm 91kg性压抑肥猪 - Citroen C4 Coupe车主 - 坚定的伊蕾娜厨 r18转发bot（x）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrWGcf"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "pinned_tweet_id": "2032747309088518195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 2039,
+          "like_count": 64020,
+          "listed_count": 12,
+          "media_count": 421,
+          "tweet_count": 17172
+        },
+        "url": "https://t.co/p5B0lrWGcf",
+        "username": "Ettf_Cabage",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:43:12.000Z",
+        "description": "对一切可以拆开在装上的东西都喜欢",
+        "id": "908310158303887360",
+        "location": "People's Republic of China",
+        "name": "黑色月密",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908313475255902208/6OX5rguk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 1961,
+          "like_count": 52,
+          "listed_count": 7,
+          "media_count": 5,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "zwbgongzuoshi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T23:09:57.000Z",
+        "description": "法系稀有逼车车主\n经验丰富牧猫人\n备用号 @AmyWill33817958。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "AmyWill33817958"
+              }
+            ]
+          }
+        },
+        "id": "1431393567919034376",
+        "name": "妮露的206CC中期延寿改进型",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017679366696931331/kQm7FRsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 491,
+          "like_count": 14478,
+          "listed_count": 12,
+          "media_count": 2809,
+          "tweet_count": 12296
+        },
+        "url": "",
+        "username": "TdLQV7pNQoH6fkR",
+        "verified": true
+      }
+    ]
+  }
+}

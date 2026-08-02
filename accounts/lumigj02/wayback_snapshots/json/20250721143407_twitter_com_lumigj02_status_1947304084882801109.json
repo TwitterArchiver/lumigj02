@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1947304084882801109",
+    "created_at": "2025-07-21T14:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T15:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947304084882801109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyc20090/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yyc20090/status/1947116681148629214",
+          "start": 8,
+          "url": "https://t.co/ZH0vph49Qf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947304084882801109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947116681148629214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欧洲卡车模拟2 https://t.co/ZH0vph49Qf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1947304084882801109",
+        "created_at": "2025-07-21T14:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947304084882801109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyc20090/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yyc20090/status/1947116681148629214",
+              "start": 8,
+              "url": "https://t.co/ZH0vph49Qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947304084882801109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947116681148629214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欧洲卡车模拟2 https://t.co/ZH0vph49Qf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697580552793051136",
+        "conversation_id": "1947116681148629214",
+        "created_at": "2025-07-21T02:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T03:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947116681148629214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947116681148629214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6803,
+          "like_count": 61,
+          "quote_count": 3,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家有什么致幻的东西推荐一下嘛👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 923,
+          "like_count": 27638,
+          "listed_count": 12,
+          "media_count": 1101,
+          "tweet_count": 13038
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "20090718  妹妹@LiciiQAQ 窝重度缺爱😡👊 会割手👉👈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1697580552793051136",
+        "name": "yyxx🍥",
+        "pinned_tweet_id": "1940990553124151499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934155305077919744/xZ_qsmex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 287,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 211
+        },
+        "username": "yyc20090",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2080272271164502345",
+    "created_at": "2026-07-24T08:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080574214541898168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080574214541898168",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080272271164502345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq 好嘛，老子还以为你死咯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_2080272221482917888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6ckE2aIAAtQpf.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2080272271164502345",
+        "created_at": "2026-07-24T08:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080574214541898168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080574214541898168",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080272271164502345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq 好嘛，老子还以为你死咯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080272221482917888"
+          ]
+        },
+        "author_id": "1690388233778331649",
+        "conversation_id": "2080272271164502345",
+        "created_at": "2026-07-23T12:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080272271164502345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FT5pbt68HI",
+              "end": 28,
+              "expanded_url": "https://x.com/m1zukiqaqaqaq/status/2080272271164502345/photo/1",
+              "media_key": "3_2080272221482917888",
+              "start": 5,
+              "url": "https://t.co/FT5pbt68HI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080272271164502345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6405,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "严肃首发 https://t.co/FT5pbt68HI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋姐姐@hoshi_asuka0089/头像@TUTAIiiiii\n里@itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4237,
+          "following_count": 840,
+          "like_count": 4381,
+          "listed_count": 9,
+          "media_count": 134,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "Ugrad @UCSBPhysics l Journey Developer | HRT 23/08 | 感谢大家支持喵 🚪67🔪+红黑白企鹅",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "UCSBPhysics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "testflight.apple.com/join/SPGZysjK",
+                "end": 23,
+                "expanded_url": "https://testflight.apple.com/join/SPGZysjK",
+                "start": 0,
+                "url": "https://t.co/NDbzMfBqNJ"
+              }
+            ]
+          }
+        },
+        "id": "1690388233778331649",
+        "location": "Santa Barbara, CA",
+        "name": "MizukiQAQ",
+        "pinned_tweet_id": "2046765807494214040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044335614024425472/aPs3suWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 894,
+          "like_count": 12018,
+          "listed_count": 0,
+          "media_count": 1067,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/NDbzMfBqNJ",
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1947339319863349296",
+    "created_at": "2025-07-21T21:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T22:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947414704844116370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811373871033102336",
+          "start": 0,
+          "username": "duoduolin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947414704844116370",
+    "in_reply_to_user_id": "1811373871033102336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947339319863349296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin8964 啊？😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1947339319863349296",
+        "created_at": "2025-07-21T21:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T22:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947414704844116370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811373871033102336",
+              "start": 0,
+              "username": "duoduolin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947414704844116370",
+        "in_reply_to_user_id": "1811373871033102336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947339319863349296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin8964 啊？😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811373871033102336",
+        "conversation_id": "1947339319863349296",
+        "created_at": "2025-07-21T16:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947339319863349296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947339319863349296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1129,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我天天黑中医，但这次我还真得跪了，上次给我配的调理阳痿的处方确实有点用，我连着喝了大半个月了感觉确实强了不少😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹ 🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 923,
+          "like_count": 27647,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 13054
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:16:09.000Z",
+        "description": "废物/屌丝/养胃的3D精神病人💙💜💚，小账@duoduolin0/亲爱的@xuan5159",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "duoduolin0"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "xuan5159"
+              }
+            ]
+          }
+        },
+        "id": "1811373871033102336",
+        "location": "Rhodes",
+        "name": "朵朵玲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929872617693122560/JOi31RwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3498,
+          "following_count": 1427,
+          "like_count": 30233,
+          "listed_count": 6,
+          "media_count": 942,
+          "tweet_count": 10091
+        },
+        "username": "duoduolin8964",
+        "verified": false
+      }
+    ]
+  }
+}

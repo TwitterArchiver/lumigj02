@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1907484778343051499",
+    "created_at": "2025-04-02T17:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T18:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907484778343051499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cheese_yogurt3…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/cheese_yogurt33/status/1907263090812731454",
+          "start": 11,
+          "url": "https://t.co/zNSD2XC74w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907484778343051499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907263090812731454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "救命推的跟我完全重合 https://t.co/zNSD2XC74w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907263076396859393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnf1qbHagAE-k7p.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907263076136890368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnf1qaJbsAA6Z-v.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907263076145287168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnf1qaLb0AAvCcZ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1907484778343051499",
+        "created_at": "2025-04-02T17:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907484778343051499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheese_yogurt3…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/cheese_yogurt33/status/1907263090812731454",
+              "start": 11,
+              "url": "https://t.co/zNSD2XC74w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907484778343051499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907263090812731454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救命推的跟我完全重合 https://t.co/zNSD2XC74w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907263076396859393",
+            "3_1907263076136890368",
+            "3_1907263076145287168"
+          ]
+        },
+        "author_id": "1815588883482165248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1907263090812731454",
+        "created_at": "2025-04-02T02:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T03:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907263090812731454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsmJjdCsjX",
+              "end": 120,
+              "expanded_url": "https://x.com/Cheese_yogurt33/status/1907263090812731454/photo/1",
+              "media_key": "3_1907263076396859393",
+              "start": 97,
+              "url": "https://t.co/bsmJjdCsjX"
+            },
+            {
+              "display_url": "pic.x.com/bsmJjdCsjX",
+              "end": 120,
+              "expanded_url": "https://x.com/Cheese_yogurt33/status/1907263090812731454/photo/1",
+              "media_key": "3_1907263076136890368",
+              "start": 97,
+              "url": "https://t.co/bsmJjdCsjX"
+            },
+            {
+              "display_url": "pic.x.com/bsmJjdCsjX",
+              "end": 120,
+              "expanded_url": "https://x.com/Cheese_yogurt33/status/1907263090812731454/photo/1",
+              "media_key": "3_1907263076145287168",
+              "start": 97,
+              "url": "https://t.co/bsmJjdCsjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907263090812731454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 27697,
+          "like_count": 371,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "芝士酸奶食用指南1.0\n06年的男生，是coser，推就当朋友圈发发，偶尔掉落擦边（雾）\n我推:兔兔，双狼，澄闪水月，黍（明日方舟重度依赖）\n小可爱可以扩列🥰（郭楠爬）\n（还有什么以后再补充） https://t.co/bsmJjdCsjX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ GAHT 20230418 | ❤️ @Yan_Xing_Xing | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "you_miaowu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "貓歸雲卷",
+        "pinned_tweet_id": "1893566219170488748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 863,
+          "like_count": 26218,
+          "listed_count": 11,
+          "media_count": 982,
+          "tweet_count": 11212
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-23T03:25:04.000Z",
+        "description": "你说星星美丽耀眼，\n我却焦点在你的笑脸。",
+        "id": "1815588883482165248",
+        "location": "你心里",
+        "name": "芝士酸奶",
+        "pinned_tweet_id": "1907263090812731454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905267051608121345/RjRLGZVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8682,
+          "following_count": 590,
+          "like_count": 5258,
+          "listed_count": 29,
+          "media_count": 216,
+          "tweet_count": 573
+        },
+        "username": "Cheese_yogurt33",
+        "verified": false
+      }
+    ]
+  }
+}

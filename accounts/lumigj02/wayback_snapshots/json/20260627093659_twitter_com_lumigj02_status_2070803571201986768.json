@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2070708802681471456",
+    "created_at": "2026-06-27T09:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070803571201986768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1783506872290664448",
+          "start": 0,
+          "username": "kevinma_dev_zh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070803571201986768",
+    "in_reply_to_user_id": "1783506872290664448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070708802681471456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kevinma_dev_zh 可能你在为某个岁月静好free用户负重前行哈哈哈哈昨天出bug了订阅级别全乱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2070708802681471456",
+        "created_at": "2026-06-27T09:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070803571201986768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1783506872290664448",
+              "start": 0,
+              "username": "kevinma_dev_zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070803571201986768",
+        "in_reply_to_user_id": "1783506872290664448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070708802681471456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kevinma_dev_zh 可能你在为某个岁月静好free用户负重前行哈哈哈哈昨天出bug了订阅级别全乱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783506872290664448",
+        "conversation_id": "2070708802681471456",
+        "created_at": "2026-06-27T03:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070708802681471456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070708802681471456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15020,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Codex 额度太不顶用了，我才用了一会儿就 5h limit。相比之下 Claude 很耐用呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo 兼职糖商 或许是xyn喵（\n\n永远喜欢的妹妹 @JR_YamanoteE235\n可爱猫娘女仆(?) @leetfs1\n笨蛋肥鸟姐姐 @hoshi_asuka0089\n校友大猫猫 @_furryfur_\n? @hobartr6\n\n永久锁推账号 @itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "leetfs1"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "hobartr6"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫打滚时会自己卷起来的",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070446858384949249/QuzCTJO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 828,
+          "like_count": 4249,
+          "listed_count": 9,
+          "media_count": 84,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T14:43:41.000Z",
+        "description": "独立开发者，AI Builder。\n关注、使用与分享 AI 。\n\n开发了 https://t.co/TR0z0yeFeA - 帮助你更容易的学习英语。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sentiaread.com",
+                "end": 60,
+                "expanded_url": "http://sentiaread.com",
+                "start": 37,
+                "url": "https://t.co/TR0z0yeFeA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kevinma2010.net/bio/",
+                "end": 23,
+                "expanded_url": "https://kevinma2010.net/bio/",
+                "start": 0,
+                "url": "https://t.co/7CNbH0Ubcv"
+              }
+            ]
+          }
+        },
+        "id": "1783506872290664448",
+        "location": "联系我 👉",
+        "name": "Kevin Ma",
+        "pinned_tweet_id": "2069800387171983698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783509931813154816/O2ZjRUSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14346,
+          "following_count": 1339,
+          "like_count": 17228,
+          "listed_count": 130,
+          "media_count": 449,
+          "tweet_count": 8125
+        },
+        "url": "https://t.co/7CNbH0Ubcv",
+        "username": "kevinma_dev_zh",
+        "verified": true
+      }
+    ]
+  }
+}

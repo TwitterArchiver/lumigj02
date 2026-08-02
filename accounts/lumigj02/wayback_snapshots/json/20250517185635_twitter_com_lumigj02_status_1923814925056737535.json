@@ -1,0 +1,922 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041743455",
+          "name": "Tom Clancy's Rainbow Six"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041743455",
+          "name": "Tom Clancy's Rainbow Six"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "CYCLOPS athlete gaming (Esports)",
+          "id": "872311238788698112",
+          "name": "CYCLOPS athlete gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1221668461979435008",
+          "name": "Wildcard Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "CYCLOPS athlete gaming (Esports)",
+          "id": "872311238788698112",
+          "name": "CYCLOPS athlete gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1221668461979435008",
+          "name": "Wildcard Gaming"
+        }
+      }
+    ],
+    "conversation_id": "1923814713260986504",
+    "created_at": "2025-05-17T18:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T19:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923814925056737535"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "Apac W",
+          "probability": 0.4359,
+          "start": 39,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4860273459",
+          "start": 0,
+          "username": "R6esports"
+        },
+        {
+          "end": 25,
+          "id": "788247738924183553",
+          "start": 11,
+          "username": "CYCLOPS_OSAKA"
+        },
+        {
+          "end": 38,
+          "id": "4489315099",
+          "start": 26,
+          "username": "Wildcard_GG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923814925056737535",
+    "in_reply_to_user_id": "4860273459",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923814713260986504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R6esports @CYCLOPS_OSAKA @Wildcard_GG Apac W that's historical"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1923810007549640704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrK_AlNWgAA5R7w.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "CYCLOPS athlete gaming (Esports)",
+              "id": "872311238788698112",
+              "name": "CYCLOPS athlete gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1221668461979435008",
+              "name": "Wildcard Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "CYCLOPS athlete gaming (Esports)",
+              "id": "872311238788698112",
+              "name": "CYCLOPS athlete gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1221668461979435008",
+              "name": "Wildcard Gaming"
+            }
+          }
+        ],
+        "conversation_id": "1923814713260986504",
+        "created_at": "2025-05-17T18:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923814925056737535"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Apac W",
+              "probability": 0.4359,
+              "start": 39,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4860273459",
+              "start": 0,
+              "username": "R6esports"
+            },
+            {
+              "end": 25,
+              "id": "788247738924183553",
+              "start": 11,
+              "username": "CYCLOPS_OSAKA"
+            },
+            {
+              "end": 38,
+              "id": "4489315099",
+              "start": 26,
+              "username": "Wildcard_GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923814925056737535",
+        "in_reply_to_user_id": "4860273459",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923814713260986504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R6esports @CYCLOPS_OSAKA @Wildcard_GG Apac W that's historical"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923810007549640704"
+          ]
+        },
+        "author_id": "4860273459",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "CYCLOPS athlete gaming (Esports)",
+              "id": "872311238788698112",
+              "name": "CYCLOPS athlete gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1221668461979435008",
+              "name": "Wildcard Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "CYCLOPS athlete gaming (Esports)",
+              "id": "872311238788698112",
+              "name": "CYCLOPS athlete gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1221668461979435008",
+              "name": "Wildcard Gaming"
+            }
+          }
+        ],
+        "conversation_id": "1923814713260986504",
+        "created_at": "2025-05-17T18:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923814713260986504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "788247738924183553",
+              "start": 24,
+              "username": "CYCLOPS_OSAKA"
+            },
+            {
+              "end": 99,
+              "id": "4489315099",
+              "start": 87,
+              "username": "Wildcard_GG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZmIvr7Eqb",
+              "end": 125,
+              "expanded_url": "https://x.com/R6esports/status/1923814713260986504/photo/1",
+              "media_key": "3_1923810007549640704",
+              "start": 102,
+              "url": "https://t.co/bZmIvr7Eqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923814713260986504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 115,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "HISTORY HAS BEEN MADE🎌\n\n@CYCLOPS_OSAKA SECURES THEIR SPOT IN THE GRAND FINALS 2-1 OVER @Wildcard_GG 🏆 https://t.co/bZmIvr7Eqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "(本账号由 @_Sanxon 代为管理) | 日雌380泰补200 私信/下方Telegram联系 | 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi猫卷🍥HRT药物日雌泰补(本账号由Sanxon代管)",
+        "pinned_tweet_id": "1922906622302523540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 889,
+          "like_count": 26831,
+          "listed_count": 12,
+          "media_count": 1068,
+          "tweet_count": 11982
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-29T13:51:38.000Z",
+        "description": "The official account for everything @Rainbow6Game esports. Follow https://t.co/LEUe0FM9Mg for BTS coverage. https://t.co/7oULk559B1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Rainbow6Game"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/r6esports/",
+                "end": 89,
+                "expanded_url": "http://instagram.com/r6esports/",
+                "start": 66,
+                "url": "https://t.co/LEUe0FM9Mg"
+              },
+              {
+                "display_url": "flic.kr/ps/3ZyG66",
+                "end": 131,
+                "expanded_url": "http://flic.kr/ps/3ZyG66",
+                "start": 108,
+                "url": "https://t.co/7oULk559B1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "r6esports.com",
+                "end": 23,
+                "expanded_url": "https://r6esports.com",
+                "start": 0,
+                "url": "https://t.co/dCrlqPfTQn"
+              }
+            ]
+          }
+        },
+        "id": "4860273459",
+        "name": "Rainbow Six Esports",
+        "pinned_tweet_id": "1923351477633880500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916778120746606592/bVCQBwVn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517111,
+          "following_count": 648,
+          "like_count": 6305,
+          "listed_count": 588,
+          "media_count": 15619,
+          "tweet_count": 20208
+        },
+        "url": "https://t.co/dCrlqPfTQn",
+        "username": "R6esports",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-18T05:18:00.000Z",
+        "description": "CAG OSAKA. Professional esports team based in Osaka, Japan. We compete in Fighting Games, R6, PUBG MOBILE, EA Sports FC.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyclops-osaka.jp",
+                "end": 23,
+                "expanded_url": "https://cyclops-osaka.jp/",
+                "start": 0,
+                "url": "https://t.co/SMfVZkL1X1"
+              }
+            ]
+          }
+        },
+        "id": "788247738924183553",
+        "location": "大阪府",
+        "name": "CAG OSAKA",
+        "pinned_tweet_id": "1920394012667884018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765572818694279168/eOtTXuQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42737,
+          "following_count": 139,
+          "like_count": 6454,
+          "listed_count": 310,
+          "media_count": 7348,
+          "tweet_count": 18043
+        },
+        "url": "https://t.co/SMfVZkL1X1",
+        "username": "CYCLOPS_OSAKA",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-07T19:56:56.000Z",
+        "description": "EST. 2017 - We build winning teams. | CS2, R6, Dota & RL | #StackTheDeck ♦️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 59,
+                "tag": "StackTheDeck"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wildcard.gg",
+                "end": 23,
+                "expanded_url": "https://www.wildcard.gg/",
+                "start": 0,
+                "url": "https://t.co/wV6C6Bqjck"
+              }
+            ]
+          }
+        },
+        "id": "4489315099",
+        "location": "Houston, Texas",
+        "name": "Wildcard",
+        "pinned_tweet_id": "1921535645127729480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806633108990570496/pM3FYE-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34241,
+          "following_count": 178,
+          "like_count": 25327,
+          "listed_count": 71,
+          "media_count": 6967,
+          "tweet_count": 14212
+        },
+        "url": "https://t.co/wV6C6Bqjck",
+        "username": "Wildcard_GG",
+        "verified": true
+      }
+    ]
+  }
+}

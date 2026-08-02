@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Fox News",
+          "id": "1065657279150665728",
+          "name": "Fox News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fox News",
+          "id": "1065657279150665728",
+          "name": "Fox News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "1950957793546023074",
+    "created_at": "2025-08-01T16:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T17:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951315341847502899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889001054840221696",
+          "start": 0,
+          "username": "raygbayter"
+        },
+        {
+          "end": 20,
+          "id": "1367531",
+          "start": 12,
+          "username": "FoxNews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951315341847502899",
+    "in_reply_to_user_id": "1889001054840221696",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951092137744814413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raygbayter @FoxNews Dr rage baiter"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1950957793546023074",
+        "created_at": "2025-08-01T16:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T17:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951315341847502899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889001054840221696",
+              "start": 0,
+              "username": "raygbayter"
+            },
+            {
+              "end": 20,
+              "id": "1367531",
+              "start": 12,
+              "username": "FoxNews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951315341847502899",
+        "in_reply_to_user_id": "1889001054840221696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951092137744814413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raygbayter @FoxNews Dr rage baiter"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889001054840221696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1950957793546023074",
+        "created_at": "2025-08-01T01:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T02:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951092137744814413"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "America",
+              "probability": 0.9471,
+              "start": 57,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1367531",
+              "start": 0,
+              "username": "FoxNews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951092137744814413",
+        "in_reply_to_user_id": "1367531",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 26489,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 76,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950957793546023074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxNews Natural selection. Would never have happened in America. 🙂👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 926,
+          "like_count": 27710,
+          "listed_count": 12,
+          "media_count": 1118,
+          "tweet_count": 13237
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T17:18:51.000Z",
+        "description": "PhD earned on 4/20/20. Father of 14. ✝️ God leads me. 'Respect all' is my creed. Hateful souls, rethink your ways—only virtue thrives here. 🇺🇸",
+        "id": "1889001054840221696",
+        "name": "Dr. Ray G. Bayter PhD.",
+        "pinned_tweet_id": "1947374365693100153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937656965083078656/wK2Cy3Eq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 104,
+          "like_count": 881,
+          "listed_count": 16,
+          "media_count": 156,
+          "tweet_count": 4223
+        },
+        "username": "raygbayter",
+        "verified": true
+      },
+      {
+        "created_at": "2007-03-17T19:01:26.000Z",
+        "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "foxnews.com/contact",
+                "end": 135,
+                "expanded_url": "http://foxnews.com/contact",
+                "start": 112,
+                "url": "https://t.co/sXA1eVB5Gv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxnews.com",
+                "end": 23,
+                "expanded_url": "http://www.foxnews.com",
+                "start": 0,
+                "url": "https://t.co/s4jEId5Aef"
+              }
+            ]
+          }
+        },
+        "id": "1367531",
+        "location": "U.S.A.",
+        "name": "Fox News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26995991,
+          "following_count": 269,
+          "like_count": 8,
+          "listed_count": 77785,
+          "media_count": 167629,
+          "tweet_count": 675062
+        },
+        "url": "https://t.co/s4jEId5Aef",
+        "username": "FoxNews",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1908891073101152370",
+    "created_at": "2025-04-06T15:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T16:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908907525589917824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1617047859458621442",
+          "start": 0,
+          "username": "asahi_jx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908907525589917824",
+    "in_reply_to_user_id": "1617047859458621442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908898618955997430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahi_jx 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1908891073101152370",
+        "created_at": "2025-04-06T15:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908907525589917824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1617047859458621442",
+              "start": 0,
+              "username": "asahi_jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908907525589917824",
+        "in_reply_to_user_id": "1617047859458621442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908898618955997430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahi_jx 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617047859458621442",
+        "conversation_id": "1908891073101152370",
+        "created_at": "2025-04-06T15:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908898618955997430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908898618955997430",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908891073101152370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 姐姐🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | ❤️ 阿星 @Yan_Xing_Xing | @you_miaowu | 日雌380包邮 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "猫归云卷 (日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908656993738645506/-6v0h0RO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236,
+          "following_count": 862,
+          "like_count": 26273,
+          "listed_count": 11,
+          "media_count": 996,
+          "tweet_count": 11281
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T06:34:11.000Z",
+        "description": "逃避者的树洞｜中文/En/日本語｜不鉴证｜多元化｜入门哲批｜称呼随意｜成分は特撮と音ゲーとアニメとマンガとTYPE-MOONと原神、そして少しのボカロとJ-POP｜黑泥&涩涩👉 @enosima_asahi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "enosima_asahi"
+              }
+            ]
+          }
+        },
+        "id": "1617047859458621442",
+        "location": "北京",
+        "name": "あさひヘンヘン",
+        "pinned_tweet_id": "1907764027721494875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704128736021323776/bkOcIrtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 1024,
+          "like_count": 6748,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 3712
+        },
+        "username": "asahi_jx",
+        "verified": false
+      }
+    ]
+  }
+}

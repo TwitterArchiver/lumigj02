@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1898577882487857583",
+    "created_at": "2025-03-09T04:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T05:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898584728426713294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824327464438640640",
+          "start": 0,
+          "username": "junyue10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898584728426713294",
+    "in_reply_to_user_id": "1824327464438640640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898584389136867500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junyue10086 猫猫当然可爱啦～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 522,
+        "media_key": "3_1898584386058203136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkgcKMaMAAazeu.jpg",
+        "width": 522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1898577882487857583",
+        "created_at": "2025-03-09T04:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T05:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898584728426713294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824327464438640640",
+              "start": 0,
+              "username": "junyue10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898584728426713294",
+        "in_reply_to_user_id": "1824327464438640640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898584389136867500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junyue10086 猫猫当然可爱啦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898584386058203136"
+          ]
+        },
+        "author_id": "1824327464438640640",
+        "conversation_id": "1898577882487857583",
+        "created_at": "2025-03-09T03:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898584389136867500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fN5fzSDIGw",
+              "end": 39,
+              "expanded_url": "https://x.com/junyue10086/status/1898584389136867500/photo/1",
+              "media_key": "3_1898584386058203136",
+              "start": 16,
+              "url": "https://t.co/fN5fzSDIGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898584389136867500",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898577882487857583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 好可爱的说 https://t.co/fN5fzSDIGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 / 日雌380泰补200 / MBA @QUT, ex-@NUSingapore, ex-@SUTDsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "username": "QUT"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "SUTDsg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897879808396153106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2134,
+          "following_count": 858,
+          "like_count": 25522,
+          "listed_count": 11,
+          "media_count": 941,
+          "tweet_count": 10488
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-16T06:09:07.000Z",
+        "description": "08/含糖mtf/174cm/52㎏",
+        "id": "1824327464438640640",
+        "name": "珺玥🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895680644489101316/9WFunTTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 9,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 33
+        },
+        "username": "junyue10086",
+        "verified": false
+      }
+    ]
+  }
+}

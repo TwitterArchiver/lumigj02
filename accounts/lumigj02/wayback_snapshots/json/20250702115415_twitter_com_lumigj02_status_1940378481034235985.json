@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "1940378116616270220",
+    "created_at": "2025-07-02T11:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T12:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940378481034235985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176535991454064640",
+          "start": 0,
+          "username": "Reckless52Aces"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940378481034235985",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940378116616270220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reckless52Aces Whatever it takes chigga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1940378116616270220",
+        "created_at": "2025-07-02T11:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940378481034235985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "Reckless52Aces"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940378481034235985",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940378116616270220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reckless52Aces Whatever it takes chigga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486458201117642754",
+              "name": "Inflation"
+            }
+          }
+        ],
+        "conversation_id": "1940378116616270220",
+        "created_at": "2025-07-02T11:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940378116616270220"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "Singapore",
+              "probability": 0.9794,
+              "start": 59,
+              "type": "Place"
+            },
+            {
+              "end": 173,
+              "normalized_text": "Thailand",
+              "probability": 0.9764,
+              "start": 166,
+              "type": "Place"
+            },
+            {
+              "end": 182,
+              "normalized_text": "China",
+              "probability": 0.9765,
+              "start": 178,
+              "type": "Place"
+            },
+            {
+              "end": 192,
+              "normalized_text": "Thailand",
+              "probability": 0.9853,
+              "start": 185,
+              "type": "Place"
+            },
+            {
+              "end": 229,
+              "normalized_text": "China",
+              "probability": 0.9734,
+              "start": 225,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940378116616270220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "How much it would take to retire with financial freedom in Singapore? Feel like we are busy our whole life driven by high living cost. I'm thinking about retiring in Thailand or China, Thailand has a lower cost of living but China has the advantage of a shared language"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "猫卷姐 @Reckless52Aces",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "Reckless52Aces"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Sanxon 泰补180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936033403167817733/NuR14f9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 143,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 179
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "家猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "kAtRolLz",
+        "pinned_tweet_id": "1936246406383391090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242941358948352/NxnYrGF9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2734,
+          "following_count": 910,
+          "like_count": 27349,
+          "listed_count": 12,
+          "media_count": 1075,
+          "tweet_count": 12603
+        },
+        "username": "Reckless52Aces",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1918027368196612277",
+    "created_at": "2025-05-03T07:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T08:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918568505848324359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "Revive_Meink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918568505848324359",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918027368196612277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Revive_Meink Fuck me daddy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1918027368196612277",
+        "created_at": "2025-05-03T07:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T08:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918568505848324359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "Revive_Meink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918568505848324359",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918027368196612277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Revive_Meink Fuck me daddy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "1918027368196612277",
+        "created_at": "2025-05-01T19:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T20:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918027368196612277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918027368196612277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12305,
+          "like_count": 229,
+          "quote_count": 1,
+          "reply_count": 63,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你们几个连单词都拼不对、写英文句子用中文标点符号的，能不能别在中文推文地下故意回英文？？很恶心的你知道吗😅\n这样只会显得你更蠢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | R6 Player ?? | 主人&大老婆 @RanXi_MtF | 小老婆 @_FurryFur_ | @you_miaowu | 日雌370",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1914941473071550607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2470,
+          "following_count": 880,
+          "like_count": 26584,
+          "listed_count": 11,
+          "media_count": 1036,
+          "tweet_count": 11662
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "里推：@knimaisey\n（包括但不限于 崩溃、吐苦水、扭曲病态三观、暴论）\n\n乱涂乱画：@Victimized_P\n（百年一更，画技是坨屎。主线剧情还在肝）\n———\n你好':3 \n我是一个永远八岁的小孩 :D \n梦想是当一辈子长不大的小孩！你的梦想是什么？\n———\n点一下这个？\n｜\nV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "knimaisey"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "在这个世界的某处",
+        "name": "铭",
+        "pinned_tweet_id": "1903781275984449889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908142415627632640/4NdDrxpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 251,
+          "like_count": 6074,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 2819
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      }
+    ]
+  }
+}

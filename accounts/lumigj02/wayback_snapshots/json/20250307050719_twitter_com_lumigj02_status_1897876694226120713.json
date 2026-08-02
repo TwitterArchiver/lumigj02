@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1897876694226120713",
+    "created_at": "2025-03-07T05:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T06:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897876694226120713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ausonlee/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ausonlee/status/1892979792850428355",
+          "start": 3,
+          "url": "https://t.co/Di209aLcWx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897876694226120713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892979792850428355",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我 https://t.co/Di209aLcWx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 817,
+        "media_key": "3_1892979789876633600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkU3FuaXIAAP3eM.jpg",
+        "width": 754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1897876694226120713",
+        "created_at": "2025-03-07T05:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T06:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897876694226120713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ausonlee/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ausonlee/status/1892979792850428355",
+              "start": 3,
+              "url": "https://t.co/Di209aLcWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897876694226120713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892979792850428355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/Di209aLcWx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892979789876633600"
+          ]
+        },
+        "author_id": "966481508042080258",
+        "conversation_id": "1892979792850428355",
+        "created_at": "2025-02-21T16:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T17:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892979792850428355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HNmMyvwwt",
+              "end": 39,
+              "expanded_url": "https://x.com/AusonLee/status/1892979792850428355/photo/1",
+              "media_key": "3_1892979789876633600",
+              "start": 16,
+              "url": "https://t.co/1HNmMyvwwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892979792850428355",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 37404,
+          "like_count": 1485,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "suzume mesugaki https://t.co/1HNmMyvwwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200 / Pharm. Retail Mgmt., ex-Payment, ex-Banking",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 842,
+          "like_count": 25441,
+          "listed_count": 11,
+          "media_count": 925,
+          "tweet_count": 10320
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-22T01:15:22.000Z",
+        "description": "May i be aware",
+        "id": "966481508042080258",
+        "name": "途淄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874483693034819584/cCr-BvBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 130,
+          "like_count": 252,
+          "listed_count": 8,
+          "media_count": 18,
+          "tweet_count": 44
+        },
+        "username": "AusonLee",
+        "verified": false
+      }
+    ]
+  }
+}

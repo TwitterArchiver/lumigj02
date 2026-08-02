@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950627637883195456",
+    "created_at": "2025-07-31T06:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T07:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950807840731635854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926539954135404544",
+          "start": 0,
+          "username": "ZSZJ777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950807840731635854",
+    "in_reply_to_user_id": "1926539954135404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950627637883195456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZSZJ777 你妈在床上拍被我操的视频的时候也是假的啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17200,
+        "height": 1280,
+        "media_key": "13_1950627542085328896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950627542085328896/img/rNadW8BTDay8vfeE.jpg",
+        "public_metrics": {
+          "view_count": 118204
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950627542085328896/vid/avc1/320x568/5m5D2kLf85-OuC9A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950627542085328896/vid/avc1/480x852/aqORfh6PL-5ldhuQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950627542085328896/vid/avc1/720x1280/Nx3_01RmfGxo0aU4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950627542085328896/pl/HwQMm8EpIjjq7qJi.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950627637883195456",
+        "created_at": "2025-07-31T06:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T07:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950807840731635854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926539954135404544",
+              "start": 0,
+              "username": "ZSZJ777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950807840731635854",
+        "in_reply_to_user_id": "1926539954135404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950627637883195456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZSZJ777 你妈在床上拍被我操的视频的时候也是假的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950627542085328896"
+          ]
+        },
+        "author_id": "1926539954135404544",
+        "conversation_id": "1950627637883195456",
+        "created_at": "2025-07-30T18:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T19:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950627637883195456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fInIibiA10",
+              "end": 49,
+              "expanded_url": "https://x.com/ZSZJ777/status/1950627637883195456/video/1",
+              "media_key": "13_1950627542085328896",
+              "start": 26,
+              "url": "https://t.co/fInIibiA10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950627637883195456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 189428,
+          "like_count": 493,
+          "quote_count": 11,
+          "reply_count": 156,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "中共警察这个做假的宣传片可以颁发一个奥斯卡小金人！ https://t.co/fInIibiA10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 926,
+          "like_count": 27686,
+          "listed_count": 12,
+          "media_count": 1113,
+          "tweet_count": 13205
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T07:25:12.000Z",
+        "description": "The lens brings you fun!",
+        "id": "1926539954135404544",
+        "location": "Niue",
+        "name": "宙斯之剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942964610031570944/OUVBK2lL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 1108,
+          "like_count": 7960,
+          "listed_count": 13,
+          "media_count": 284,
+          "tweet_count": 784
+        },
+        "username": "ZSZJ777",
+        "verified": true
+      }
+    ]
+  }
+}

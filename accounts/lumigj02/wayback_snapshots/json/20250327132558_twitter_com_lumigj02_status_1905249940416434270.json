@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1905170032264716554",
+    "created_at": "2025-03-27T13:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T14:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905249940416434270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767453480065839104",
+          "start": 0,
+          "username": "Lone_Wolf_CYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905249940416434270",
+    "in_reply_to_user_id": "1767453480065839104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905222946928709990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lone_Wolf_CYK 抱抱～～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1905170032264716554",
+        "created_at": "2025-03-27T13:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905249940416434270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767453480065839104",
+              "start": 0,
+              "username": "Lone_Wolf_CYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905249940416434270",
+        "in_reply_to_user_id": "1767453480065839104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905222946928709990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lone_Wolf_CYK 抱抱～～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767453480065839104",
+        "conversation_id": "1905170032264716554",
+        "created_at": "2025-03-27T11:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T12:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905222946928709990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905222946928709990",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905170032264716554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 姐姐~~❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu | 二十多岁的 🇸🇬 @NUSingapore @sutdsg Visiting Scholar 🇦🇺 @QUT | 日雌暂无 | 我是海豹手套色布偶, 不是暹罗!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 88,
+                "start": 81,
+                "username": "sutdsg"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "username": "QUT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 861,
+          "like_count": 26021,
+          "listed_count": 11,
+          "media_count": 970,
+          "tweet_count": 11099
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-12T07:32:24.000Z",
+        "description": "在國戰情室ISSAO(International Strategy and Situation Analysis Office)工作，職位為部門長官；兼職CIA(CCP Insult Agency)特工。肝癌末期死酒鬼，瘋狂業餘軍事迷，最安全的街溜仔，基金會的中二粉，爆肝學畜兼社畜。患有強迫症和潔癖。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "plurk.com/ud93",
+                "end": 23,
+                "expanded_url": "https://www.plurk.com/ud93",
+                "start": 0,
+                "url": "https://t.co/epTXdLDm0i"
+              }
+            ]
+          }
+        },
+        "id": "1767453480065839104",
+        "location": "ISSAO,Site-Taiwan",
+        "name": "YK C",
+        "pinned_tweet_id": "1883059367639142728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896199505583976448/BW_qk7qP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 753,
+          "like_count": 10670,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 1981
+        },
+        "url": "https://t.co/epTXdLDm0i",
+        "username": "Lone_Wolf_CYK",
+        "verified": false
+      }
+    ]
+  }
+}

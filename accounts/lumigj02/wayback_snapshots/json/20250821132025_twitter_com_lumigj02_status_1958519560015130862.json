@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1958501521244746065",
+    "created_at": "2025-08-21T13:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T14:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958519560015130862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "kawaii_akiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958519560015130862",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958501521244746065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaii_akiiko 是的是的有的有的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958501521244746065].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958501521244746065",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958501521244746065"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1958501521244746065",
+        "created_at": "2025-08-21T13:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T14:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958519560015130862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "kawaii_akiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958519560015130862",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958501521244746065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_akiiko 是的是的有的有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私//💌@HobartR6🐈@_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "老猫卷",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957897457658175488/cqcc_2gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 923,
+          "like_count": 27867,
+          "listed_count": 12,
+          "media_count": 1154,
+          "tweet_count": 13741
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "永不言弃 | 你觉得我是什么我就是什么吧 | 可可爱爱什么的那最好了嘛 | best friends forever @qiuylove @saoweve",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "qiuylove"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "saoweve"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "秋以降🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957261994161221632/FCYC9-hA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 998,
+          "like_count": 154146,
+          "listed_count": 4,
+          "media_count": 1226,
+          "tweet_count": 7563
+        },
+        "username": "kawaii_akiiko",
+        "verified": false
+      }
+    ]
+  }
+}

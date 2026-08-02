@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1935011626274664678",
+    "created_at": "2025-06-18T04:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T05:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935194618418864614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676132765098741762",
+          "start": 0,
+          "username": "luoling8192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935194618418864614",
+    "in_reply_to_user_id": "1676132765098741762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935011626274664678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoling8192 这个好吃😭我也吃过波奇酱同款"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935011621031788545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqK0TPaQAE4J9p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1935011626274664678",
+        "created_at": "2025-06-18T04:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T05:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935194618418864614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676132765098741762",
+              "start": 0,
+              "username": "luoling8192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935194618418864614",
+        "in_reply_to_user_id": "1676132765098741762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935011626274664678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoling8192 这个好吃😭我也吃过波奇酱同款"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935011621031788545"
+          ]
+        },
+        "author_id": "1676132765098741762",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1935011626274664678",
+        "created_at": "2025-06-17T16:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935011626274664678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXsdRKfESF",
+              "end": 32,
+              "expanded_url": "https://x.com/luoling8192/status/1935011626274664678/photo/1",
+              "media_key": "3_1935011621031788545",
+              "start": 9,
+              "url": "https://t.co/QXsdRKfESF"
+            },
+            {
+              "display_url": "x.com/luoling8192/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/luoling8192/status/1934848515718644097",
+              "start": 33,
+              "url": "https://t.co/ejOObqV795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935011626274664678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1785,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934848515718644097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "江之岛，章鱼仙贝 https://t.co/QXsdRKfESF https://t.co/ejOObqV795"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "友跨顺男 | 日雌泰补在售 私信或联系下方Telegram | 🇸🇬 Yishun人跟我们Orchard人讲话要用敬语 | 家猫: @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌泰补",
+        "pinned_tweet_id": "1935009108744425845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2730,
+          "following_count": 901,
+          "like_count": 27179,
+          "listed_count": 12,
+          "media_count": 1110,
+          "tweet_count": 12496
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T07:36:21.000Z",
+        "description": "数字游民 / 全栈开发者 / All in AI 🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luolingow",
+                "end": 23,
+                "expanded_url": "http://t.me/luolingow",
+                "start": 0,
+                "url": "https://t.co/lI6TXRdWX1"
+              }
+            ]
+          }
+        },
+        "id": "1676132765098741762",
+        "location": "Shanghai, China",
+        "name": "RainbowBird",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3369,
+          "following_count": 766,
+          "like_count": 5741,
+          "listed_count": 24,
+          "media_count": 264,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/lI6TXRdWX1",
+        "username": "luoling8192",
+        "verified": true
+      }
+    ]
+  }
+}

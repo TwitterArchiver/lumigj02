@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1949916712851398692",
+    "created_at": "2025-07-28T19:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T20:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949916712851398692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shisuiki_/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/shisuiki_/status/1949765457713746190",
+          "start": 14,
+          "url": "https://t.co/SGCElKvfQG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949916712851398692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949765457713746190",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在出过了哈哈哈哈哈哈你妈 https://t.co/SGCElKvfQG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1949916712851398692",
+        "created_at": "2025-07-28T19:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T20:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949916712851398692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shisuiki_/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/shisuiki_/status/1949765457713746190",
+              "start": 14,
+              "url": "https://t.co/SGCElKvfQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949916712851398692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949765457713746190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在出过了哈哈哈哈哈哈你妈 https://t.co/SGCElKvfQG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694052817231613953",
+        "conversation_id": "1949708833456037968",
+        "created_at": "2025-07-28T09:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949765457713746190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949765457713746190",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949708833456037968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 别尬黑，成都容错率还是很高的，我还一次险都没出过（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949744633480912897/-ekbjwHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 926,
+          "like_count": 27673,
+          "listed_count": 12,
+          "media_count": 1110,
+          "tweet_count": 13178
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T18:24:14.000Z",
+        "description": "barely distinguishable from a deterministic pushdown automaton. かわいいくないもあたまない. walking skill issue. 神智不全的傻逼. CompE UIUC 27'. pushing down @symbolstack",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "symbolstack"
+              }
+            ]
+          }
+        },
+        "id": "1694052817231613953",
+        "location": "電子の海",
+        "name": "确定下推自动机",
+        "pinned_tweet_id": "1898606843141804245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921960712215085056/NlUT8Tzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 330,
+          "like_count": 1994,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1110
+        },
+        "username": "shisuiki_",
+        "verified": true
+      }
+    ]
+  }
+}

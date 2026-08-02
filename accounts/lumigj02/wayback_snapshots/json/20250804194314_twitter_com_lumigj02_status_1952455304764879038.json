@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1952332465240240502",
+    "created_at": "2025-08-04T19:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T20:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952455304764879038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1305844679284457473",
+          "start": 0,
+          "username": "fjwritsuto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952455304764879038",
+    "in_reply_to_user_id": "1305844679284457473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952332465240240502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fjwritsuto bro以为自己被单双号限行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1952332465240240502",
+        "created_at": "2025-08-04T19:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T20:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952455304764879038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1305844679284457473",
+              "start": 0,
+              "username": "fjwritsuto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952455304764879038",
+        "in_reply_to_user_id": "1305844679284457473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952332465240240502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fjwritsuto bro以为自己被单双号限行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305844679284457473",
+        "conversation_id": "1952332465240240502",
+        "created_at": "2025-08-04T11:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952332465240240502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952332465240240502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "From this week,\n\n一三五繁體，二四六简体，週囸用🔥⭐️文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "香香软软毛茸茸的可爱趴窝小猫卷uwu🐱✨🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 930,
+          "like_count": 27727,
+          "listed_count": 12,
+          "media_count": 1121,
+          "tweet_count": 13267
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "みんな大好き💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/unnamed_rf",
+                "end": 23,
+                "expanded_url": "http://x.com/unnamed_rf",
+                "start": 0,
+                "url": "https://t.co/9JpbFi7oJk"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "サブ垢こちら→",
+        "name": "坂魚🐟",
+        "pinned_tweet_id": "1949432436741361961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952281493486907392/OfICgv1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 856,
+          "like_count": 14082,
+          "listed_count": 16,
+          "media_count": 4667,
+          "tweet_count": 40175
+        },
+        "url": "https://t.co/9JpbFi7oJk",
+        "username": "fjwritsuto",
+        "verified": false
+      }
+    ]
+  }
+}

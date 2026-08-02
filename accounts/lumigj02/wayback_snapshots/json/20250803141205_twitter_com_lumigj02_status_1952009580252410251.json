@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1951953057152925717",
+    "created_at": "2025-08-03T14:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T15:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952009580252410251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934297878115102720",
+          "start": 0,
+          "username": "MihariSuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952009580252410251",
+    "in_reply_to_user_id": "1934297878115102720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951953057152925717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MihariSuki 呜呜呜呜女孩子真好啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1951953057152925717].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1951953057152925717",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1951953057152925717"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1951953057152925717",
+        "created_at": "2025-08-03T14:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T15:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952009580252410251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934297878115102720",
+              "start": 0,
+              "username": "MihariSuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952009580252410251",
+        "in_reply_to_user_id": "1934297878115102720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951953057152925717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MihariSuki 呜呜呜呜女孩子真好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "我想香香软软",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950532496665583616/uafx8bk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 928,
+          "like_count": 27719,
+          "listed_count": 12,
+          "media_count": 1120,
+          "tweet_count": 13249
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:12:22.000Z",
+        "description": "中中之中就是老中里推的意思 老中下海了",
+        "id": "1934297878115102720",
+        "name": "中中之中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934299026947735552/-Aml34fH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 62,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 93
+        },
+        "username": "MihariSuki",
+        "verified": false
+      }
+    ]
+  }
+}

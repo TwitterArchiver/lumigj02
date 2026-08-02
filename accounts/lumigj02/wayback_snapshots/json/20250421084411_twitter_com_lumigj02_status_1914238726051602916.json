@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1914237466971934790",
+    "created_at": "2025-04-21T08:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T09:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914238726051602916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914238726051602916",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914237466971934790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 所以什么时候造出来猫娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1914237466971934790",
+        "created_at": "2025-04-21T08:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914238726051602916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914238726051602916",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914237466971934790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 所以什么时候造出来猫娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864739862697644032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Appliances",
+              "id": "864912523077615616",
+              "name": "Appliances"
+            }
+          }
+        ],
+        "conversation_id": "1914237466971934790",
+        "created_at": "2025-04-21T08:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914237466971934790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CathayFormosa/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/CathayFormosa/status/1914234192541655535",
+              "start": 27,
+              "url": "https://t.co/GTX1FsqMXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914237466971934790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914234192541655535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜\n笑出声了！\n不过语气真的好像咱的旧老板（（\n😺 https://t.co/GTX1FsqMXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "报我猫卷名字。 | @you_miaowu | 小老婆 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Cонце 猫卷 日雌泰补",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 871,
+          "like_count": 26446,
+          "listed_count": 11,
+          "media_count": 1020,
+          "tweet_count": 11508
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "Mar, 2025 开始吃糖， 准备今年暑假出cos，本体是香香软软没有攻击性的可爱猞猁(INTP-T; mtx? 友一切，想交更多朋友。现居美国，日常就是女装, 博士攻读中。私信话题: 今天凯尔希也在忠诚执行源石计划吗?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1894621355267776615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864779287246819329/6oEg9bcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 318,
+          "like_count": 1827,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": false
+      }
+    ]
+  }
+}

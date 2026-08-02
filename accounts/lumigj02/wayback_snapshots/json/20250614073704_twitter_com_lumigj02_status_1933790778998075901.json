@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1933547282760389056",
+    "created_at": "2025-06-14T07:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T08:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933790778998075901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807678557826797568",
+          "start": 0,
+          "username": "TeRiri141421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933790778998075901",
+    "in_reply_to_user_id": "1807678557826797568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933558822645449160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeRiri141421 想哈气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1933547282760389056",
+        "created_at": "2025-06-14T07:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T08:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933790778998075901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807678557826797568",
+              "start": 0,
+              "username": "TeRiri141421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933790778998075901",
+        "in_reply_to_user_id": "1807678557826797568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933558822645449160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeRiri141421 想哈气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807678557826797568",
+        "conversation_id": "1933547282760389056",
+        "created_at": "2025-06-13T16:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933558822645449160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933558822645449160",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933547282760389056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 好孩子喵（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬 p4r4n01d 5ch120phr3n1c pr0f35510n4l 3n7ry fr4993r @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "HobartR6"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi (日雌泰补",
+        "pinned_tweet_id": "1932909290324726179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932896628232630275/XPySzO7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 893,
+          "like_count": 27115,
+          "listed_count": 12,
+          "media_count": 1102,
+          "tweet_count": 12396
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T07:32:15.000Z",
+        "description": "阿巴阿巴…… 痴呆ㅇㅁㅇing…… 喵）现在是~蜕变😋 （ 愿望是：无",
+        "id": "1807678557826797568",
+        "location": "Izena-son, Okinawa",
+        "name": "呼咻~（",
+        "pinned_tweet_id": "1821930143771979992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874115211260813314/8cSsZofv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 2296,
+          "like_count": 69927,
+          "listed_count": 4,
+          "media_count": 1106,
+          "tweet_count": 9333
+        },
+        "username": "TeRiri141421",
+        "verified": false
+      }
+    ]
+  }
+}

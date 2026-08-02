@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1908807302603321552",
+    "created_at": "2025-04-06T09:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T10:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908807302603321552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_sanxon/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/_sanxon/status/1908806690172178722",
+          "start": 9,
+          "url": "https://t.co/s4Vkm4w66u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908807302603321552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908806690172178722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也共用的这个号 https://t.co/s4Vkm4w66u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1908806681246703616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1xkDSaIAAEN6d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1908807302603321552",
+        "created_at": "2025-04-06T09:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T10:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908807302603321552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_sanxon/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/_sanxon/status/1908806690172178722",
+              "start": 9,
+              "url": "https://t.co/s4Vkm4w66u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908807302603321552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908806690172178722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也共用的这个号 https://t.co/s4Vkm4w66u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908806681246703616"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908806690172178722",
+        "created_at": "2025-04-06T08:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T09:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908806690172178722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U5A79EHV0v",
+              "end": 47,
+              "expanded_url": "https://x.com/_Sanxon/status/1908806690172178722/photo/1",
+              "media_key": "3_1908806681246703616",
+              "start": 24,
+              "url": "https://t.co/U5A79EHV0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908806690172178722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有q区陪我玩😭我v10可以免费用我皮肤的😭 https://t.co/U5A79EHV0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | Comp @NUSingapore | R6冠军 | 🏳️‍⚧️ HRT 20230418 | ❤️ @Yan_Xing_Xing | @you_miaowu | 日雌380包邮 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "猫归云卷 (日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908656993738645506/-6v0h0RO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 863,
+          "like_count": 26256,
+          "listed_count": 11,
+          "media_count": 993,
+          "tweet_count": 11265
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "可以叫我Sanxon|06年|末流大一|EEE|小证含糖MtX🍥|猫卷妹妹@lumigj02⬅️买日雌找她",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "济南",
+        "name": "Sanxon_🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908656320829677572/TdaT9vgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 121,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 137
+        },
+        "username": "_Sanxon",
+        "verified": false
+      }
+    ]
+  }
+}

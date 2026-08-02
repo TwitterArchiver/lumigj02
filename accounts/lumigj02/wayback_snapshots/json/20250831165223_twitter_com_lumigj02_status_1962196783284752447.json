@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962193494044488152",
+    "created_at": "2025-08-31T16:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962196783284752447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795137310935408640",
+          "start": 0,
+          "username": "saksamalah2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962196783284752447",
+    "in_reply_to_user_id": "1795137310935408640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962193494044488152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saksamalah2nd 确实"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1896,
+        "media_key": "3_1962193490424778752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsclVlaUAAGccO.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962193494044488152",
+        "created_at": "2025-08-31T16:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962196783284752447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795137310935408640",
+              "start": 0,
+              "username": "saksamalah2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962196783284752447",
+        "in_reply_to_user_id": "1795137310935408640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962193494044488152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saksamalah2nd 确实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962193490424778752"
+          ]
+        },
+        "author_id": "1795137310935408640",
+        "conversation_id": "1962193494044488152",
+        "created_at": "2025-08-31T16:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962193494044488152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vgzqaj5kt7",
+              "end": 30,
+              "expanded_url": "https://x.com/saksamalah2nd/status/1962193494044488152/photo/1",
+              "media_key": "3_1962193490424778752",
+              "start": 7,
+              "url": "https://t.co/vgzqaj5kt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962193494044488152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发表重要讲话 https://t.co/vgzqaj5kt7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//还有你想要的各种日本泰国药物可以点名告诉我帮你尝试找//💌@HobartR6🐈@_FurryFur_//⭐️😡@Xinyi_ADHD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "HobartR6"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "即便挣扎也毫无办法呢～",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 931,
+          "like_count": 27954,
+          "listed_count": 13,
+          "media_count": 1163,
+          "tweet_count": 13920
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T16:57:58.000Z",
+        "description": "马来西亚是马来西亚人的马来西亚😞   不要遵宪要修宪📕   人民至上👨🛠 Ketuanan Rakyat  一國三制🇲🇾❤|雪兰莪州|惠州人|@lmao_quien",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "lmao_quien"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/g0moet-jLw8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/g0moet-jLw8?si=IxPxG6Xe51xCb20d",
+                "start": 0,
+                "url": "https://t.co/GwUECa6oIO"
+              }
+            ]
+          }
+        },
+        "id": "1795137310935408640",
+        "location": "重庆 马来西亚/（广东省）闽粤交界",
+        "name": "Merdeka🇲🇾🌻",
+        "pinned_tweet_id": "1961859710480736448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931578182454644737/I1JnCtn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 1465,
+          "like_count": 81340,
+          "listed_count": 9,
+          "media_count": 1895,
+          "tweet_count": 27927
+        },
+        "url": "https://t.co/GwUECa6oIO",
+        "username": "saksamalah2nd",
+        "verified": false
+      }
+    ]
+  }
+}

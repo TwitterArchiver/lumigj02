@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1895081675757101488",
+    "created_at": "2025-02-27T12:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T13:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895081955731087812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1741762886522056704",
+          "start": 0,
+          "username": "Iris0258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895081955731087812",
+    "in_reply_to_user_id": "1741762886522056704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895081675757101488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iris0258 宗旨利滚利\n对应好运八方来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1895081675757101488",
+        "created_at": "2025-02-27T12:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895081955731087812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1741762886522056704",
+              "start": 0,
+              "username": "Iris0258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895081955731087812",
+        "in_reply_to_user_id": "1741762886522056704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895081675757101488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iris0258 宗旨利滚利\n对应好运八方来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741762886522056704",
+        "conversation_id": "1895081675757101488",
+        "created_at": "2025-02-27T12:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895081675757101488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Iris0258/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Iris0258/status/1894951398200221835",
+              "start": 5,
+              "url": "https://t.co/agNgVhmQ0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895081675757101488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894951398200221835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来财，来 https://t.co/agNgVhmQ0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬🐱 / 💖 @HobartR6 / ʟɪʟ ꜰᴏx @altaz_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "HobartR6"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ",
+        "pinned_tweet_id": "1893577061723504657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892509314335883264/BXt8NBBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 827,
+          "like_count": 25271,
+          "listed_count": 11,
+          "media_count": 889,
+          "tweet_count": 9929
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T10:07:01.000Z",
+        "description": "WE'RE BACK！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris0258",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris0258",
+                "start": 0,
+                "url": "https://t.co/CX3O8giyOk"
+              }
+            ]
+          }
+        },
+        "id": "1741762886522056704",
+        "location": "哈尔滨",
+        "name": "Iris",
+        "pinned_tweet_id": "1894951398200221835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746005497658916864/eByYkFd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 427,
+          "like_count": 14432,
+          "listed_count": 1,
+          "media_count": 749,
+          "tweet_count": 5602
+        },
+        "url": "https://t.co/CX3O8giyOk",
+        "username": "Iris0258",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1960182699932438827",
+    "created_at": "2025-08-26T12:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T13:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960315247967023560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1156981009763540992",
+          "start": 0,
+          "username": "AuraWithCat"
+        },
+        {
+          "end": 22,
+          "id": "1502860007867502598",
+          "start": 13,
+          "username": "HobartR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960315247967023560",
+    "in_reply_to_user_id": "1156981009763540992",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960182699932438827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuraWithCat @HobartR6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34300,
+        "height": 960,
+        "media_key": "13_1960182585809596416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960182585809596416/img/9CLofq3KAp0dquCX.jpg",
+        "public_metrics": {
+          "view_count": 1882
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960182585809596416/vid/avc1/320x426/1HqQSmJ3jjzcts9T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960182585809596416/vid/avc1/480x640/Cw-xlGtgiHHUmI2W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960182585809596416/vid/avc1/720x960/Q2-Hyb9TYSTPTguW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960182585809596416/pl/EKkOCrdVuh06JNOz.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1960182699932438827",
+        "created_at": "2025-08-26T12:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960315247967023560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1156981009763540992",
+              "start": 0,
+              "username": "AuraWithCat"
+            },
+            {
+              "end": 22,
+              "id": "1502860007867502598",
+              "start": 13,
+              "username": "HobartR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960315247967023560",
+        "in_reply_to_user_id": "1156981009763540992",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960182699932438827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuraWithCat @HobartR6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960182585809596416"
+          ]
+        },
+        "author_id": "1156981009763540992",
+        "conversation_id": "1960182699932438827",
+        "created_at": "2025-08-26T03:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960182699932438827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKH84biGw4",
+              "end": 23,
+              "expanded_url": "https://x.com/AuraWithCat/status/1960182699932438827/video/1",
+              "media_key": "13_1960182585809596416",
+              "start": 0,
+              "url": "https://t.co/YKH84biGw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960182699932438827",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 8553,
+          "like_count": 372,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YKH84biGw4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "出日雌380私//💌@HobartR6🐈@_FurryFur_//⭐️😡@Xinyi_ADHD||好久没写的正式的自我介绍: 小证含糖//🇨🇳🇸🇬🇲🇾//@NTUsg学习(退学)中//抽烟喝酒//纹身(很多波奇酱!还有雌二醇)//嗑药改花刀//双相确诊//",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Xinyi_ADHD"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "username": "NTUsg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "香香软软趴窝小猫卷🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1955267743193649476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959615376507162624/ONTfZzed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 927,
+          "like_count": 27926,
+          "listed_count": 13,
+          "media_count": 1160,
+          "tweet_count": 13854
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-01T17:32:23.000Z",
+        "description": "These cats with pawerful aura|| we don't own any content || Please Dm for credit ||",
+        "id": "1156981009763540992",
+        "location": "DM for credit/removal",
+        "name": "Cats with pawerful aura",
+        "pinned_tweet_id": "1959840035345412585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903404281807724544/b7vyyYC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523288,
+          "following_count": 2,
+          "like_count": 135,
+          "listed_count": 1220,
+          "media_count": 32963,
+          "tweet_count": 33785
+        },
+        "username": "AuraWithCat",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-13T04:15:42.000Z",
+        "description": "@lumigj02 @ndmhwxck @Snow_Flurrying 秋天是倒放的春天 晚安是爱你的续篇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "lumigj02"
+              },
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ndmhwxck"
+              },
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Snow_Flurrying"
+              }
+            ]
+          }
+        },
+        "id": "1502860007867502598",
+        "name": "哦润吉",
+        "pinned_tweet_id": "1912785799986442479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919444964989399040/Z6OLkJuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 201,
+          "like_count": 2865,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1409
+        },
+        "username": "HobartR6",
+        "verified": false
+      }
+    ]
+  }
+}

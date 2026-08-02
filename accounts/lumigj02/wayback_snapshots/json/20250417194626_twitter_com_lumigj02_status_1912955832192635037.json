@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1912955832192635037",
+    "created_at": "2025-04-17T19:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T20:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912955832192635037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zsyn2025/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/zsyn2025/status/1909594279443677382",
+          "start": 8,
+          "url": "https://t.co/kCTiVYd8bz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912955832192635037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909594279443677382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么还不出正片 https://t.co/kCTiVYd8bz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1909594266609106946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoA93jZbwAIKK28.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1912955832192635037",
+        "created_at": "2025-04-17T19:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T20:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912955832192635037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zsyn2025/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/zsyn2025/status/1909594279443677382",
+              "start": 8,
+              "url": "https://t.co/kCTiVYd8bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912955832192635037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909594279443677382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么还不出正片 https://t.co/kCTiVYd8bz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909594266609106946"
+          ]
+        },
+        "author_id": "1887090989460033536",
+        "conversation_id": "1909594279443677382",
+        "created_at": "2025-04-08T13:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T14:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909594279443677382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNQglVB7td",
+              "end": 30,
+              "expanded_url": "https://x.com/zsyn2025/status/1909594279443677382/photo/1",
+              "media_key": "3_1909594266609106946",
+              "start": 7,
+              "url": "https://t.co/iNQglVB7td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909594279443677382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "预告喵❤️～ https://t.co/iNQglVB7td"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🏳️‍⚧️ | R6 Player for ? | @you_miaowu | 日雌380 泰补210 progynon-depot / progynova | 礼貌谦逊文明友善团结尊重从不骂人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 869,
+          "like_count": 26376,
+          "listed_count": 10,
+          "media_count": 1012,
+          "tweet_count": 11445
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T10:48:54.000Z",
+        "description": "无恼无忧 快乐每天！                         \n（捆绑play先鸽一下 但有杂图想看提前版私  等我学成归来拍出最涩的捆绑play！）500粉30s娇喘❤️",
+        "id": "1887090989460033536",
+        "name": "萝月崽🍰",
+        "pinned_tweet_id": "1909352609221312815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909345926764019714/comCOENU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 39,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "username": "zsyn2025",
+        "verified": false
+      }
+    ]
+  }
+}

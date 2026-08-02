@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      }
+    ],
+    "conversation_id": "1896885276980768854",
+    "created_at": "2025-03-04T11:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T12:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896885276980768854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/waihuitianyan1…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/waihuitianyan1/status/1892516294181929354",
+          "start": 29,
+          "url": "https://t.co/tBz5kvZzdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896885276980768854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892516294181929354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "身为一个马来西亚人起这种名字让我不得不怀疑是不是故意的… https://t.co/tBz5kvZzdh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1892421667311538177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkM7et1bUAEoGlW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "1896885276980768854",
+        "created_at": "2025-03-04T11:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T12:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896885276980768854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/waihuitianyan1…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/waihuitianyan1/status/1892516294181929354",
+              "start": 29,
+              "url": "https://t.co/tBz5kvZzdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896885276980768854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892516294181929354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "身为一个马来西亚人起这种名字让我不得不怀疑是不是故意的… https://t.co/tBz5kvZzdh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892421667311538177"
+          ]
+        },
+        "author_id": "1555421388437323777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "1892516294181929354",
+        "created_at": "2025-02-20T10:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T11:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892516294181929354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oby4oytwjq",
+              "end": 175,
+              "expanded_url": "https://x.com/waihuitianyan1/status/1892516294181929354/photo/1",
+              "media_key": "3_1892421667311538177",
+              "start": 152,
+              "url": "https://t.co/Oby4oytwjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892516294181929354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 209,
+                "start": 204,
+                "tag": "提防诈骗"
+              },
+              {
+                "end": 213,
+                "start": 210,
+                "tag": "反诈"
+              },
+              {
+                "end": 219,
+                "start": 214,
+                "tag": "投资诈骗"
+              },
+              {
+                "end": 225,
+                "start": 220,
+                "tag": "外汇诈骗"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wikifx.com/zh-cn/newsdeta…",
+                "end": 202,
+                "expanded_url": "https://www.wikifx.com/zh-cn/newsdetail/202502195584564290.html?source=cja1",
+                "start": 179,
+                "url": "https://t.co/oYCvdMjogT"
+              }
+            ]
+          },
+          "text": "🤖AI反诈新策略：🇲🇾马来西亚创业者推出SOHAI聊天机器人，时间就是金钱！🤖💬\n\n摘要：一款名为 Scammers on Hold AI (SOHAI) 的全新人工智能（AI）聊天机器人已正式推出，作为应对网络诈骗的对策。该机器人可以帮助用户故意拖延诈骗分子的时间，从而保护那些在 WhatsApp 上被诈骗分子锁定的潜在受害者。。\n\n点击链接了解更多👇\nhttps://t.co/oYCvdMjogT\n\n#提防诈骗 #反诈 #投资诈骗 #外汇诈骗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 51402,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🤖AI反诈新策略：🇲🇾马来西亚创业者推出SOHAI聊天机器人，时间就是金钱！🤖💬\n\n摘要：一款名为 Scammers on Hold AI (SOHAI) 的全新人工智能（AI）聊天机器人已正式推出，作为应对网络诈骗的对策。该机器人可以帮助用户故意拖延诈骗分子的时间，从而保护那些在 WhatsApp… https://t.co/Oby4oytwjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "永远最爱 💖 @HobartR6 / 购药私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfIPl5"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ @ 日雌𝟥𝟫𝟢泰补𝟤𝟢𝟢",
+        "pinned_tweet_id": "1895411983887073505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 829,
+          "like_count": 25342,
+          "listed_count": 11,
+          "media_count": 911,
+          "tweet_count": 10137
+        },
+        "url": "https://t.co/xnU7yfIPl5",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T05:12:19.000Z",
+        "description": "选交易商用WikiFX ，外汇投资更安全👍\n\n🌐全球交易商监管查询APP\n我们提供：\n·最新交易商咨询\n🟢曝光黑平台\n🟢最新市场资讯\n🟢外汇货币分析",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wikifx.com/zh-cn/?source=…",
+                "end": 23,
+                "expanded_url": "https://www.wikifx.com/zh-cn/?source=cja1",
+                "start": 0,
+                "url": "https://t.co/wHPMsS1rmK"
+              }
+            ]
+          }
+        },
+        "id": "1555421388437323777",
+        "name": "外汇天眼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876150638822019072/1s69UXg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 34,
+          "like_count": 613,
+          "listed_count": 2,
+          "media_count": 1816,
+          "tweet_count": 3695
+        },
+        "url": "https://t.co/wHPMsS1rmK",
+        "username": "waihuitianyan1",
+        "verified": true
+      }
+    ]
+  }
+}

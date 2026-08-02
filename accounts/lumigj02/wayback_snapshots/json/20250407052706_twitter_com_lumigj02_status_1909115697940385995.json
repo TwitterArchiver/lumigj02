@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1908788773808435357",
+    "created_at": "2025-04-07T05:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T06:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909115697940385995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1603838691159339008",
+          "start": 0,
+          "username": "Fa1th_00y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909115697940385995",
+    "in_reply_to_user_id": "1603838691159339008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909108747257201106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fa1th_00y 我也覺得比現在的我有活力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1908788773808435357",
+        "created_at": "2025-04-07T05:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909115697940385995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1603838691159339008",
+              "start": 0,
+              "username": "Fa1th_00y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909115697940385995",
+        "in_reply_to_user_id": "1603838691159339008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909108747257201106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fa1th_00y 我也覺得比現在的我有活力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603838691159339008",
+        "conversation_id": "1908788773808435357",
+        "created_at": "2025-04-07T04:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T05:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909108747257201106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909108747257201106",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908788773808435357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 很有活力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "22 🇸🇬 | ❤️ 阿星 @Yan_Xing_Xing | @you_miaowu | 日雌380包邮 私信或联系下方Telegram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "猫归云卷 (日雌380包邮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908656993738645506/-6v0h0RO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 864,
+          "like_count": 26274,
+          "listed_count": 11,
+          "media_count": 997,
+          "tweet_count": 11291
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-16T19:45:27.000Z",
+        "description": "15y | infp | 悲观主义者 | 喜欢发呆",
+        "id": "1603838691159339008",
+        "name": "Teeeeeeeeeeeee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854883355462086656/kuPirQ2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 95,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 73
+        },
+        "username": "Fa1th_00y",
+        "verified": false
+      }
+    ]
+  }
+}

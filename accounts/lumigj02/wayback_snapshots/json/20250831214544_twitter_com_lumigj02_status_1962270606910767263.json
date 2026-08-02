@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962270601265156096",
+        "3_1962270601235865600"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1962270606910767263",
+    "created_at": "2025-08-31T21:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T22:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962270606910767263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xQw2o4F5lD",
+          "end": 50,
+          "expanded_url": "https://x.com/lumigj02/status/1962270606910767263/photo/1",
+          "media_key": "3_1962270601265156096",
+          "start": 27,
+          "url": "https://t.co/xQw2o4F5lD"
+        },
+        {
+          "display_url": "pic.x.com/xQw2o4F5lD",
+          "end": 50,
+          "expanded_url": "https://x.com/lumigj02/status/1962270606910767263/photo/1",
+          "media_key": "3_1962270601235865600",
+          "start": 27,
+          "url": "https://t.co/xQw2o4F5lD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962270606910767263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说为什么德狗的耳朵是立起来的，拉狗的耳朵是躺下来的 https://t.co/xQw2o4F5lD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_1962270601265156096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gztitx2aEAA95KZ.jpg",
+        "width": 630
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1962270601235865600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GztitxvbIAAApQ2.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962270601265156096",
+            "3_1962270601235865600"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1962270606910767263",
+        "created_at": "2025-08-31T21:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T22:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962270606910767263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQw2o4F5lD",
+              "end": 50,
+              "expanded_url": "https://x.com/lumigj02/status/1962270606910767263/photo/1",
+              "media_key": "3_1962270601265156096",
+              "start": 27,
+              "url": "https://t.co/xQw2o4F5lD"
+            },
+            {
+              "display_url": "pic.x.com/xQw2o4F5lD",
+              "end": 50,
+              "expanded_url": "https://x.com/lumigj02/status/1962270606910767263/photo/1",
+              "media_key": "3_1962270601235865600",
+              "start": 27,
+              "url": "https://t.co/xQw2o4F5lD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962270606910767263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说为什么德狗的耳朵是立起来的，拉狗的耳朵是躺下来的 https://t.co/xQw2o4F5lD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Chinese, @NTUsg @sutdsg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 9,
+                "username": "NTUsg"
+              },
+              {
+                "end": 23,
+                "start": 16,
+                "username": "sutdsg"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Kuantan, Pahang",
+        "name": "Lumi、Lumi、時々猫巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962226563770159104/n5FZ6gO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 931,
+          "like_count": 27962,
+          "listed_count": 13,
+          "media_count": 1164,
+          "tweet_count": 13929
+        },
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

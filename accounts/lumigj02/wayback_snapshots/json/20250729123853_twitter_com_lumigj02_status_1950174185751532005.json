@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1950167921474367700",
+    "created_at": "2025-07-29T12:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T13:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950174185751532005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1321741535499546626",
+          "start": 0,
+          "username": "NotNand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950174185751532005",
+    "in_reply_to_user_id": "1321741535499546626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950172336813985935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NotNand 想吃芒果牛奶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1950167921474367700",
+        "created_at": "2025-07-29T12:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T13:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950174185751532005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1321741535499546626",
+              "start": 0,
+              "username": "NotNand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950174185751532005",
+        "in_reply_to_user_id": "1321741535499546626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950172336813985935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NotNand 想吃芒果牛奶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1321741535499546626",
+        "conversation_id": "1950167921474367700",
+        "created_at": "2025-07-29T12:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T13:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950172336813985935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950172336813985935",
+        "in_reply_to_user_id": "1321741535499546626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950167921474367700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這芒果牛奶是前天喝的\n剛才也喝了一杯但沒拍 😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "HobartR6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949744633480912897/-ekbjwHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 926,
+          "like_count": 27679,
+          "listed_count": 12,
+          "media_count": 1111,
+          "tweet_count": 13187
+        },
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-29T09:12:03.000Z",
+        "description": "台灣人(Taiwan)。打雜的研究員、主要從事程式寫作。來推特看東看西按按讚，分享好笑事物還有食物🤤。少許政治推、許多日常食物推。不炎上別人，朋友的推文隨機按讚。講台語、推廣台語。 本身鎖帳我看不到你的帳號還有奇怪的帳號不要來 fo 我，我會B人。",
+        "id": "1321741535499546626",
+        "location": "Kepler-186f",
+        "name": "💙💛哪南德🐣✌ ղօէղąղժ",
+        "pinned_tweet_id": "1889307972280459642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613520497127624705/0znbqKPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 2099,
+          "like_count": 546251,
+          "listed_count": 7,
+          "media_count": 5227,
+          "tweet_count": 53513
+        },
+        "username": "NotNand",
+        "verified": false
+      }
+    ]
+  }
+}

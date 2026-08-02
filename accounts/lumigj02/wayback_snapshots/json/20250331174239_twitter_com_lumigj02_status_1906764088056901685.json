@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1906764088056901685",
+    "created_at": "2025-03-31T17:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T18:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906764088056901685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/lumigj02/status/1906690270038786414",
+          "start": 78,
+          "url": "https://t.co/67a86ZbaAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906764088056901685",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906690270038786414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Daily dosage\n0.5mg Clonazepam\n200mg Quetiapine\n100mg Lamotrigine\n30mg Lithium https://t.co/67a86ZbaAT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906764088056901685",
+        "created_at": "2025-03-31T17:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906764088056901685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/lumigj02/status/1906690270038786414",
+              "start": 78,
+              "url": "https://t.co/67a86ZbaAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906764088056901685",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906690270038786414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Daily dosage\n0.5mg Clonazepam\n200mg Quetiapine\n100mg Lamotrigine\n30mg Lithium https://t.co/67a86ZbaAT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1906690270038786414",
+        "created_at": "2025-03-31T12:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906690270038786414"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "clonazepam dosage",
+              "probability": 0.6518,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 151,
+              "normalized_text": "benzodiazepines",
+              "probability": 0.7509,
+              "start": 137,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906690270038786414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I've reduced my clonazepam dosage to 0.5mg per night, and I rarely experience panic attacks anymore. It seems that the slow tapering off benzodiazepines has been quite successful—definitely something to celebrate 🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 4ever | @you_miaowu | @NUSingapore 廠牌第⑥Rapper | 📧 lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "you_miaowu"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "K3nt R1dg3",
+        "name": "雲貓歸卷",
+        "pinned_tweet_id": "1905170032264716554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 864,
+          "like_count": 26189,
+          "listed_count": 11,
+          "media_count": 977,
+          "tweet_count": 11185
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

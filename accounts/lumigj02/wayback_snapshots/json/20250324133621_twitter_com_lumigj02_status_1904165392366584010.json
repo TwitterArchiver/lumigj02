@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1904164130732609808",
+    "created_at": "2025-03-24T13:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T14:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904165392366584010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "CnHpaHky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904165392366584010",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904164130732609808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CnHpaHky 我…比较笨，应该算是个优点吧？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_1904164121958109185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmzzLiNbUAEoEdZ.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1904164130732609808",
+        "created_at": "2025-03-24T13:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T14:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904165392366584010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "CnHpaHky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904165392366584010",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904164130732609808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnHpaHky 我…比较笨，应该算是个优点吧？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904164121958109185"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1904164130732609808",
+        "created_at": "2025-03-24T13:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T14:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904164130732609808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AySdsfL7iZ",
+              "end": 44,
+              "expanded_url": "https://x.com/CnHpaHky/status/1904164130732609808/photo/1",
+              "media_key": "3_1904164121958109185",
+              "start": 21,
+              "url": "https://t.co/AySdsfL7iZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904164130732609808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个帖子的人，每人说出一个自己的优点 https://t.co/AySdsfL7iZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | ❤️ @_Sanxon | @you_miaowu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 857,
+          "like_count": 25908,
+          "listed_count": 11,
+          "media_count": 965,
+          "tweet_count": 10988
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "ASD在学着如何成为人类，欢迎私信。⭐️ @SubaAyana @Littlecat111007 @cinianxiaogou @quitee123 @2008080818li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "SubaAyana"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "cinianxiaogou"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "quitee123"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "2008080818li"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "北京安定医院",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1900741021727945093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898402237363507200/Wx3H_9yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 1356,
+          "like_count": 9043,
+          "listed_count": 4,
+          "media_count": 119,
+          "tweet_count": 4245
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      }
+    ]
+  }
+}

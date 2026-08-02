@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1911334848805163170",
+    "created_at": "2025-04-13T16:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T17:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911453157869187189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883486321328660481",
+          "start": 0,
+          "username": "Barbara45666555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911453157869187189",
+    "in_reply_to_user_id": "1883486321328660481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911446205743194273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Barbara45666555 我操你妈的血b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1911334848805163170",
+        "created_at": "2025-04-13T16:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T17:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911453157869187189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883486321328660481",
+              "start": 0,
+              "username": "Barbara45666555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911453157869187189",
+        "in_reply_to_user_id": "1883486321328660481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911446205743194273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Barbara45666555 我操你妈的血b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883486321328660481",
+        "conversation_id": "1911334848805163170",
+        "created_at": "2025-04-13T15:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T16:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911446205743194273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911446205743194273",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911334848805163170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 �🎌�💁全国到付"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "CompSci @NUSingapore @sutdsg | ❤️ @_Sanxon | @you_miaowu | 日雌380 泰补210 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "sutdsg"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "you_miaowu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi СОНЦЕ 猫卷 日雌380泰补210包邮",
+        "pinned_tweet_id": "1910825517693239594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 868,
+          "like_count": 26334,
+          "listed_count": 11,
+          "media_count": 1007,
+          "tweet_count": 11381
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-26T12:05:18.000Z",
+        "description": "#香烟🚬\n#口粮🚬\n#免税香烟，一条起发，全国包邮!\n#货到付款，品类齐全/低价/保真!\n和天下380，中华细金边260,\n软阳光0，软中华280-329，等等高低端口粮🚬\n#价格低至冰点，量大价格从优!\n咨询联系点击下方✈群找我↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "香烟"
+              },
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "口粮"
+              },
+              {
+                "end": 15,
+                "start": 10,
+                "tag": "免税香烟"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "货到付款"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "价格低至冰点"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+0gQ1L1W9beA1Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+0gQ1L1W9beA1YTlk",
+                "start": 0,
+                "url": "https://t.co/moPAtMsFyz"
+              }
+            ]
+          }
+        },
+        "id": "1883486321328660481",
+        "location": "加✈群咨询下单👉👉👉",
+        "name": "软阳光利群软中华煊赫门和天下1916烟草中国烟草荷花大苏小苏卡比龙鸿运口粮黄鹤楼和天下天叶大重九",
+        "pinned_tweet_id": "1902754340403888412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902754052947263488/jakUIZaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/moPAtMsFyz",
+        "username": "Barbara45666555",
+        "verified": false
+      }
+    ]
+  }
+}

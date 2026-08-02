@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1955256929367843207",
+    "created_at": "2025-08-12T13:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955258176325960052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612855155128504335",
+          "start": 0,
+          "username": "plantie_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955258176325960052",
+    "in_reply_to_user_id": "1612855155128504335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955257810100289764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plantie_awa 是不是被当成pedoporn了（\n不过有一说一你确实是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1955256929367843207",
+        "created_at": "2025-08-12T13:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955258176325960052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612855155128504335",
+              "start": 0,
+              "username": "plantie_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955258176325960052",
+        "in_reply_to_user_id": "1612855155128504335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955257810100289764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plantie_awa 是不是被当成pedoporn了（\n不过有一说一你确实是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612855155128504335",
+        "conversation_id": "1955256929367843207",
+        "created_at": "2025-08-12T13:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955257810100289764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955257810100289764",
+        "in_reply_to_user_id": "1612855155128504335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955256929367843207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想哭，我感觉我X上的社交账号就是我的全部了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "日雌390私信//我沒有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "NTUsg"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "HobartR6"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ¹",
+        "pinned_tweet_id": "1952981494017700036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 912,
+          "like_count": 27761,
+          "listed_count": 12,
+          "media_count": 1133,
+          "tweet_count": 13523
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:53:52.000Z",
+        "description": "🏳️‍🌈 曾经账号：plantie_uwu",
+        "id": "1612855155128504335",
+        "name": "plantie✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954696700020588545/rBeItYx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 125,
+          "like_count": 635,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 743
+        },
+        "username": "plantie_awa",
+        "verified": false
+      }
+    ]
+  }
+}

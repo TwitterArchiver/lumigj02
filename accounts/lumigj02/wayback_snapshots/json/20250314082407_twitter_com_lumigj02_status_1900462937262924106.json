@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1900462880547344384"
+      ]
+    },
+    "author_id": "1176535991454064640",
+    "conversation_id": "1900462937262924106",
+    "created_at": "2025-03-14T08:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T09:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900462937262924106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OrautPn91P",
+          "end": 37,
+          "expanded_url": "https://x.com/lumigj02/status/1900462937262924106/video/1",
+          "media_key": "13_1900462880547344384",
+          "start": 14,
+          "url": "https://t.co/OrautPn91P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900462937262924106",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2022 old clip https://t.co/OrautPn91P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17320,
+        "height": 720,
+        "media_key": "13_1900462880547344384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1900462880547344384/img/rZbzBsFm0aH3D_0i.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900462880547344384/vid/avc1/480x270/tWxt4LIcejDHIKbr.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900462880547344384/vid/avc1/640x360/0T6Eun2o1XwFuDsj.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900462880547344384/vid/avc1/1280x720/44d8oOeMJlSEw04M.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1900462880547344384/pl/JW5Kg12QllSp0FSl.m3u8?tag=16"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1900462880547344384"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1900462937262924106",
+        "created_at": "2025-03-14T08:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T09:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900462937262924106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OrautPn91P",
+              "end": 37,
+              "expanded_url": "https://x.com/lumigj02/status/1900462937262924106/video/1",
+              "media_key": "13_1900462880547344384",
+              "start": 14,
+              "url": "https://t.co/OrautPn91P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900462937262924106",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2022 old clip https://t.co/OrautPn91P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 💫 @Yan_Xing_Xing | 📧 Contact: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 875,
+          "like_count": 25678,
+          "listed_count": 11,
+          "media_count": 950,
+          "tweet_count": 10656
+        },
+        "username": "lumigj02",
+        "verified": true
+      }
+    ]
+  }
+}

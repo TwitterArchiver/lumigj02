@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1923060046679756941",
+    "created_at": "2025-05-15T16:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T17:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923060046679756941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lonxcy/status/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/lonxcy/status/1923059248960786516",
+          "start": 15,
+          "url": "https://t.co/ExZqV7l0Eq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923060046679756941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923059248960786516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整個世界就是一場巨大的狼人殺 https://t.co/ExZqV7l0Eq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1923060046679756941",
+        "created_at": "2025-05-15T16:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T17:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923060046679756941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lonxcy/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/lonxcy/status/1923059248960786516",
+              "start": 15,
+              "url": "https://t.co/ExZqV7l0Eq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923060046679756941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923059248960786516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整個世界就是一場巨大的狼人殺 https://t.co/ExZqV7l0Eq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865037619744378882",
+        "conversation_id": "1923059248960786516",
+        "created_at": "2025-05-15T16:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T17:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923059248960786516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923059248960786516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整個世界就是一場巨大的狼人殺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "(本账号由 @_Sanxon 代为保管) 🏳️‍⚧️ | 日雌380泰补200 私信/下方Telegram联系 | 家猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "_Sanxon"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi猫卷🍥日雌380泰补200",
+        "pinned_tweet_id": "1922906622302523540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922664147520778240/cWlHpiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2651,
+          "following_count": 887,
+          "like_count": 26793,
+          "listed_count": 12,
+          "media_count": 1068,
+          "tweet_count": 11947
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T14:16:52.000Z",
+        "description": "A piece of dead soul",
+        "id": "1865037619744378882",
+        "name": "Lon. 🇭🇰🇸🇬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912189901354725378/2yh1oAlj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 51,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "Lonxcy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "conversation_id": "1922636419110998082",
+    "created_at": "2025-05-14T14:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T15:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922654742351667632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "953822261571608577",
+          "start": 0,
+          "username": "RuoLing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922654742351667632",
+    "in_reply_to_user_id": "953822261571608577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922636419110998082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuoLing_ 阵容有点弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1922636419110998082",
+        "created_at": "2025-05-14T14:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922654742351667632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "953822261571608577",
+              "start": 0,
+              "username": "RuoLing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922654742351667632",
+        "in_reply_to_user_id": "953822261571608577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922636419110998082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuoLing_ 阵容有点弱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "953822261571608577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743455",
+              "name": "Tom Clancy's Rainbow Six"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1922636419110998082",
+        "created_at": "2025-05-14T12:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T13:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922636419110998082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AGGlobalEsport…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/AGGlobalEsports/status/1922574784010842622",
+              "start": 125,
+              "url": "https://t.co/wpm3OrJJIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922636419110998082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 807,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922574784010842622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Another full Chinese roster🫢\n🇨🇳SoloMiDDDDD\n🇨🇳YaZi\n🇨🇳MoonLight\n🇨🇳bottomLove\n🇨🇳Ra3LGuN\n🇨🇳VicGlory (Coach)\n🇨🇳Kultamaa (Analyst) https://t.co/wpm3OrJJIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🏳️‍⚧️ | 我叫陈俊杰 ID: Jason.OGS | 主人 @_temryava | 家猫 @_FurryFur_ | 日雌380泰补200（私信可能被吞建议Telegram联系）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "_temryava"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "LumiCонце猫卷🍥日雌380泰补200",
+        "pinned_tweet_id": "1922247722939097311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920574045642502146/GWpTufKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2637,
+          "following_count": 886,
+          "like_count": 26768,
+          "listed_count": 12,
+          "media_count": 1067,
+          "tweet_count": 11930
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-18T02:52:03.000Z",
+        "description": "20 🇨🇳 |\nCode \"RUOLING\" on Ubi Store 🛍️ |\n@LiquipediaR6 Editor ✍🏻 |\n@Ubisoft Partner 💖 |\n@DAYSTARGG Creator ☀️ |\nruoling60@gmail.com 📧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "LiquipediaR6"
+              },
+              {
+                "end": 75,
+                "start": 67,
+                "username": "Ubisoft"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "DAYSTARGG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/RuoLing60",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/RuoLing60",
+                "start": 0,
+                "url": "https://t.co/WF465YBfoR"
+              }
+            ]
+          }
+        },
+        "id": "953822261571608577",
+        "location": "Republic of Korea",
+        "name": "DAY RuoLing_ 🌠",
+        "pinned_tweet_id": "1824657415952011372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822536289557913600/kEydtJYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 3325,
+          "like_count": 39450,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/WF465YBfoR",
+        "username": "RuoLing_",
+        "verified": false
+      }
+    ]
+  }
+}

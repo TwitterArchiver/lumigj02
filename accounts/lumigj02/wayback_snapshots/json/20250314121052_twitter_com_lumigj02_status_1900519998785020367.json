@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1176535991454064640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Twitch",
+          "id": "1054826545758396416",
+          "name": "Twitch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Twitch",
+          "id": "1054826545758396416",
+          "name": "Twitch"
+        }
+      }
+    ],
+    "conversation_id": "1900519998785020367",
+    "created_at": "2025-03-14T12:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T13:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900519998785020367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ubisoftsupport…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/ubisoftsupport/status/1900257804826321234",
+          "start": 35,
+          "url": "https://t.co/LbVtFALt5I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900519998785020367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900257804826321234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "md我还以为没有邮件自动入库的呢\n原来是你没发啊真牛逼啊育碧，666 https://t.co/LbVtFALt5I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          }
+        ],
+        "conversation_id": "1900519998785020367",
+        "created_at": "2025-03-14T12:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T13:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900519998785020367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ubisoftsupport…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ubisoftsupport/status/1900257804826321234",
+              "start": 35,
+              "url": "https://t.co/LbVtFALt5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900519998785020367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900257804826321234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "md我还以为没有邮件自动入库的呢\n原来是你没发啊真牛逼啊育碧，666 https://t.co/LbVtFALt5I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "115717640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026653538",
+              "name": "Ubisoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1900257804826321234",
+        "created_at": "2025-03-13T18:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T19:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900257804826321234"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 126,
+              "normalized_text": "Twitch",
+              "probability": 0.966,
+              "start": 121,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900257804826321234",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 623760,
+          "like_count": 2842,
+          "quote_count": 44,
+          "reply_count": 626,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "Hello Operators. We're aware that some players have not received the email after claiming their R6 X Closed Beta drop in Twitch. We are working towards getting those emails out to everyone ASAP."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 Comprometida con @HobartR6 | 💫 @Yan_Xing_Xing | 📧 Contacto: lumi@u.nus.edu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "HobartR6"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ؘ",
+        "pinned_tweet_id": "1899958748728484214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 874,
+          "like_count": 25686,
+          "listed_count": 11,
+          "media_count": 952,
+          "tweet_count": 10668
+        },
+        "username": "lumigj02",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-19T17:28:44.000Z",
+        "description": "Official @Ubisoft Player Support 🎮\nJoin our Discord 👉 https://t.co/PzwLmTf1Bv\nData Privacy Rights: https://t.co/xvMLxtzilL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Ubisoft"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/ubisoftofficial",
+                "end": 77,
+                "expanded_url": "http://discord.gg/ubisoftofficial",
+                "start": 54,
+                "url": "https://t.co/PzwLmTf1Bv"
+              },
+              {
+                "display_url": "ubi.li/x8dSk",
+                "end": 122,
+                "expanded_url": "http://ubi.li/x8dSk",
+                "start": 99,
+                "url": "https://t.co/xvMLxtzilL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ubisoft.com/help",
+                "end": 23,
+                "expanded_url": "http://ubisoft.com/help",
+                "start": 0,
+                "url": "https://t.co/K1K5ApEUbT"
+              }
+            ]
+          }
+        },
+        "id": "115717640",
+        "location": "Worldwide",
+        "name": "Ubisoft Support",
+        "pinned_tweet_id": "1682362043586805760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828839779821096961/02gHtQ_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717280,
+          "following_count": 123,
+          "like_count": 5367,
+          "listed_count": 925,
+          "media_count": 7948,
+          "tweet_count": 598597
+        },
+        "url": "https://t.co/K1K5ApEUbT",
+        "username": "UbisoftSupport",
+        "verified": true
+      }
+    ]
+  }
+}
