@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2092058853944987734",
+    "created_at": "2026-08-26T04:54:33.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T05:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092475763689980083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1422984977973596161",
+          "start": 0,
+          "username": "zzmxqsm1syyrps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092475763689980083",
+    "in_reply_to_user_id": "1422984977973596161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092475638754283892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@zzmxqsm1syyrps 我说错了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2092058853944987734",
+        "created_at": "2026-08-26T04:54:33.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092475763689980083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1422984977973596161",
+              "start": 0,
+              "username": "zzmxqsm1syyrps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092475763689980083",
+        "in_reply_to_user_id": "1422984977973596161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092475638754283892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@zzmxqsm1syyrps 我说错了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422984977973596161",
+        "conversation_id": "2092058853944987734",
+        "created_at": "2026-08-26T04:54:03.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092475638754283892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092475638754283892",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092058853944987734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 ？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/猫娘女仆妹妹@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "leetfs1"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2092475763689980083",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2091793333656129565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308,
+          "following_count": 835,
+          "like_count": 4447,
+          "listed_count": 11,
+          "media_count": 172,
+          "tweet_count": 1351
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-04T18:17:35.000Z",
+        "description": "我重生了，上一世属于我的，这一世我都要拿回来，后面忘了",
+        "id": "1422984977973596161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092475638754283892",
+        "name": "甘露寺莫言",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422984977973596161/1774002429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034939743159623680/NwvCz1Lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 46,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "zzmxqsm1syyrps",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

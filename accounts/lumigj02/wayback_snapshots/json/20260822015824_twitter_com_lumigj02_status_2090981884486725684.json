@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2090981884486725684",
+    "created_at": "2026-08-22T01:58:24.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090981884486725684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1688233455363219456",
+          "start": 2,
+          "username": "JR_YamanoteE235"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sapphirerapids…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/sapphirerapids_/status/2090839301596893322",
+          "start": 23,
+          "url": "https://t.co/1aIGxlfp0k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090981884486725684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090839301596893322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "草 @JR_YamanoteE235 说你呢 https://t.co/1aIGxlfp0k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2090839279316738049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQnPy4boAElW7b.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2090981884486725684",
+        "created_at": "2026-08-22T01:58:24.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090981884486725684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1688233455363219456",
+              "start": 2,
+              "username": "JR_YamanoteE235"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sapphirerapids…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/sapphirerapids_/status/2090839301596893322",
+              "start": 23,
+              "url": "https://t.co/1aIGxlfp0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090981884486725684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090839301596893322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "草 @JR_YamanoteE235 说你呢 https://t.co/1aIGxlfp0k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090839279316738049"
+          ]
+        },
+        "author_id": "1195900004893908993",
+        "conversation_id": "2090839301596893322",
+        "created_at": "2026-08-21T16:31:50.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090839301596893322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Swq4Hbbvan",
+              "end": 31,
+              "expanded_url": "https://x.com/SapphireRapids_/status/2090839301596893322/photo/1",
+              "media_key": "3_2090839279316738049",
+              "start": 8,
+              "url": "https://t.co/Swq4Hbbvan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090839301596893322",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090839279316738049"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 177,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牢闪我还记得你 https://t.co/Swq4Hbbvan"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/猫娘女仆妹妹@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "leetfs1"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2090981884486725684",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2087431962906763266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4302,
+          "following_count": 841,
+          "like_count": 4439,
+          "listed_count": 10,
+          "media_count": 166,
+          "tweet_count": 1315
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-17T03:02:42.000Z",
+        "description": "2027 CompE @nyutandon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "nyutandon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sapphire.rapids.moe",
+                "end": 23,
+                "expanded_url": "http://sapphire.rapids.moe",
+                "start": 0,
+                "url": "https://t.co/fhLZOHVrx0"
+              }
+            ]
+          }
+        },
+        "id": "1195900004893908993",
+        "is_identity_verified": false,
+        "location": "Jay Street Metrotech",
+        "most_recent_tweet_id": "2090839301596893322",
+        "name": "栖鸦之绵🕊️",
+        "pinned_tweet_id": "1961121873510711393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1195900004893908993/1777247333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018514044819218432/xQqJZ_wF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 3906,
+          "like_count": 190889,
+          "listed_count": 8,
+          "media_count": 6359,
+          "tweet_count": 26705
+        },
+        "url": "https://t.co/fhLZOHVrx0",
+        "username": "SapphireRapids_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "牡丹は散っても花だ 夏が去っても追慕は切だ",
+        "id": "1688233455363219456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1899671693104214104",
+        "name": "JR東日本E235系電車 山手線",
+        "pinned_tweet_id": "1850524863343288383",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688233455363219456/1730786318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849373688258576384/cmk7PSGT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 886,
+          "like_count": 114043,
+          "listed_count": 6,
+          "media_count": 2543,
+          "tweet_count": 24605
+        },
+        "url": "",
+        "username": "JR_YamanoteE235",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

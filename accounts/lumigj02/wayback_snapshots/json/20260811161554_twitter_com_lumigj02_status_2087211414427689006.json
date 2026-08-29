@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2087194582803193929",
+    "created_at": "2026-08-11T16:15:54.000Z",
+    "display_text_range": [
+      17,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087211414427689006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "745607352355721217",
+          "start": 0,
+          "username": "WilliamPAIvanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087211414427689006",
+    "in_reply_to_user_id": "745607352355721217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087204267488686394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@WilliamPAIvanov 无所谓我精神病，那会是真的精神病没人敢惹我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2087194582803193929",
+        "created_at": "2026-08-11T16:15:54.000Z",
+        "display_text_range": [
+          17,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087211414427689006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "745607352355721217",
+              "start": 0,
+              "username": "WilliamPAIvanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087211414427689006",
+        "in_reply_to_user_id": "745607352355721217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087204267488686394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@WilliamPAIvanov 无所谓我精神病，那会是真的精神病没人敢惹我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "745607352355721217",
+        "conversation_id": "2087194582803193929",
+        "created_at": "2026-08-11T15:47:30.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087204267488686394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087204267488686394",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087194582803193929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lumigj02 真恶心啊，这不就是入室抢劫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22\n\n难道你是那种一看到人就乱叫的笨狗吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2087211414427689006",
+        "name": "猫卷🔜🇲🇾",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1786165879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085956793637933056/Uyn57PWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4286,
+          "following_count": 843,
+          "like_count": 4425,
+          "listed_count": 9,
+          "media_count": 157,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-22T13:20:20.000Z",
+        "description": "国民大会主要整活师｜国家一级退堂鼓表演艺术家｜著名抬杠运动员｜世界划水锦标赛冠军｜历届摸鱼大赛种子选手｜四字一等恩封躺平不起公世袭罔替｜吃光阁内大臣｜私聊🚪€2999的私人精神导师｜向日葵听完都不发光的过气负能量老干部｜满洲特务头子｜只为权贵说真话不给牛马唱赞歌｜习近平最敬最爱的亲阿玛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/GurunPartae",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/GurunPartae",
+                "start": 0,
+                "url": "https://t.co/aCvhudEwTA"
+              }
+            ]
+          }
+        },
+        "id": "745607352355721217",
+        "is_identity_verified": false,
+        "location": "Italy",
+        "most_recent_tweet_id": "2087210984385450306",
+        "name": "William P. A. da H. Ivanenko （原Ivanov，已纠正）🟦⬜️⬛️",
+        "pinned_tweet_id": "2085312094421819604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/745607352355721217/1732664661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731073038090241/qB450jx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 2205,
+          "like_count": 275279,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 42035
+        },
+        "url": "https://t.co/aCvhudEwTA",
+        "username": "WilliamPAIvanov",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

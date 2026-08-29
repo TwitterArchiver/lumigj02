@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089030233660035072"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2089030249074118934",
+    "created_at": "2026-08-16T16:43:18.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089030249074118934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QINVXY7THs",
+          "end": 48,
+          "expanded_url": "https://x.com/lumigj02/status/2089030249074118934/photo/1",
+          "media_key": "3_2089030233660035072",
+          "start": 25,
+          "url": "https://t.co/QINVXY7THs"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/lumigj02/status/2089016851850527093",
+          "start": 49,
+          "url": "https://t.co/xxeUbmpbxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089030249074118934",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089030233660035072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089016851850527093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "据说这是加塞界最冷酷的杀手，没人敢跟他对视三秒😱 https://t.co/QINVXY7THs https://t.co/xxeUbmpbxX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089030233660035072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP257epbkAA2jc-.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 64921,
+        "height": 1080,
+        "media_key": "13_2089016119269232640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089016119269232640/img/G1kb5IXuB2PwVvod.jpg",
+        "public_metrics": {
+          "view_count": 85
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089016119269232640/vid/avc1/640x360/1GdMIoTOAV1Z9Z1J.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089016119269232640/pl/KUUNvpqXHmtWR8mJ.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089016119269232640/vid/avc1/1920x1080/LyWeQsYN6cEhJyTn.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089016119269232640/vid/avc1/480x270/0oMlVS3Nqotq6fwZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089016119269232640/vid/avc1/1280x720/G-9tv1wSKVB7o_HX.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089030233660035072"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2089030249074118934",
+        "created_at": "2026-08-16T16:43:18.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089030249074118934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QINVXY7THs",
+              "end": 48,
+              "expanded_url": "https://x.com/lumigj02/status/2089030249074118934/photo/1",
+              "media_key": "3_2089030233660035072",
+              "start": 25,
+              "url": "https://t.co/QINVXY7THs"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/lumigj02/status/2089016851850527093",
+              "start": 49,
+              "url": "https://t.co/xxeUbmpbxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089030249074118934",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089030233660035072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089016851850527093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "据说这是加塞界最冷酷的杀手，没人敢跟他对视三秒😱 https://t.co/QINVXY7THs https://t.co/xxeUbmpbxX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089016119269232640"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2089016851850527093",
+        "created_at": "2026-08-16T15:50:04.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089016851850527093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTcTx7KpOz",
+              "end": 59,
+              "expanded_url": "https://x.com/lumigj02/status/2089016851850527093/video/1",
+              "media_key": "13_2089016119269232640",
+              "start": 36,
+              "url": "https://t.co/kTcTx7KpOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089016851850527093",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089016119269232640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "318此生必驾 最美的风景是人👍👍\n鲁B83B7D果然山东男儿血气方刚 https://t.co/kTcTx7KpOz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "username": "leetfs1"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2089030249074118934",
+        "name": "猫卷",
+        "pinned_tweet_id": "2087431962906763266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1786517430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087431466695417856/etC6NaCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4286,
+          "following_count": 843,
+          "like_count": 4437,
+          "listed_count": 9,
+          "media_count": 163,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
