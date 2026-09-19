@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2096171201903353884",
+    "created_at": "2026-09-05T14:48:08.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096249023904846240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1497130795391090688",
+          "start": 0,
+          "username": "meanc_p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096249023904846240",
+    "in_reply_to_user_id": "1497130795391090688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096246100747518321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@meanc_p 往前开不要乱打方向"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2096171201903353884",
+        "created_at": "2026-09-05T14:48:08.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096249023904846240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1497130795391090688",
+              "start": 0,
+              "username": "meanc_p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096249023904846240",
+        "in_reply_to_user_id": "1497130795391090688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096246100747518321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@meanc_p 往前开不要乱打方向"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497130795391090688",
+        "conversation_id": "2096171201903353884",
+        "created_at": "2026-09-05T14:36:31.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096246100747518321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096246100747518321",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096171201903353884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 不是，怎么开出来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 35,
+                "start": 19,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "泰补复活了！→",
+        "most_recent_tweet_id": "2096249023904846240",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4413,
+          "following_count": 838,
+          "like_count": 4471,
+          "listed_count": 9,
+          "media_count": 186,
+          "tweet_count": 1445
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-25T08:46:34.000Z",
+        "description": "写一点烂代码的老色鬼。threads @meanc_ins",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "meanc_ins"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "meanc.cc",
+                "end": 23,
+                "expanded_url": "http://meanc.cc",
+                "start": 0,
+                "url": "https://t.co/lnefxYm19J"
+              }
+            ]
+          }
+        },
+        "id": "1497130795391090688",
+        "is_identity_verified": false,
+        "location": "m78",
+        "most_recent_tweet_id": "2096246100747518321",
+        "name": "meanc",
+        "pinned_tweet_id": "1999136903229239787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497130795391090688/1762074504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096036028847144960/ko03eZwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 411,
+          "like_count": 1427,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/lnefxYm19J",
+        "username": "meanc_p",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

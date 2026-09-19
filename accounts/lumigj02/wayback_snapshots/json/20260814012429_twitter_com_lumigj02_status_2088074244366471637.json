@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2087879609031471328",
+    "created_at": "2026-08-14T01:24:29.000Z",
+    "display_text_range": [
+      29,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T02:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088074244366471637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "Lyrica_1005"
+        },
+        {
+          "end": 28,
+          "id": "1670362954590728197",
+          "start": 13,
+          "username": "citric_baizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088074244366471637",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088074075940008041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyrica_1005 @citric_baizhou 那打起来有点激烈了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088074075940008041].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088074075940008041",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2088074075940008041"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2087879609031471328",
+        "created_at": "2026-08-14T01:24:29.000Z",
+        "display_text_range": [
+          29,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088074244366471637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "Lyrica_1005"
+            },
+            {
+              "end": 28,
+              "id": "1670362954590728197",
+              "start": 13,
+              "username": "citric_baizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088074244366471637",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088074075940008041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyrica_1005 @citric_baizhou 那打起来有点激烈了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "SWE ➡️ PM ➡️ Solution Architect, Presales\n\n@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "hobartr6"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "leetfs1"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2088074244366471637",
+        "name": "猫卷🇲🇾🔜🇨🇳",
+        "pinned_tweet_id": "2087431962906763266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1786517430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087431466695417856/etC6NaCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4283,
+          "following_count": 845,
+          "like_count": 4442,
+          "listed_count": 9,
+          "media_count": 159,
+          "tweet_count": 1245
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "墨迹的勿扰懂的来💕@citric_baizhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "citric_baizhou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyrica_1005",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyrica_1005",
+                "start": 0,
+                "url": "https://t.co/4s7hRbdDpb"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "is_identity_verified": false,
+        "location": "🌄",
+        "most_recent_tweet_id": "1959529256263774263",
+        "name": "ﾘﾘｶ.",
+        "pinned_tweet_id": "2071532645037793349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915723009161375744/1784938874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063921008134983680/E0-g7aPB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 450,
+          "like_count": 52955,
+          "listed_count": 2,
+          "media_count": 1426,
+          "tweet_count": 13471
+        },
+        "url": "https://t.co/4s7hRbdDpb",
+        "username": "Lyrica_1005",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "MtM｜青春って値札が背中に貼られていて。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/IuMJpLsd5g"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "is_identity_verified": false,
+        "location": "🐟鱼头朝向的地方",
+        "most_recent_tweet_id": "2087090871401689095",
+        "name": "粥白粥粥白 📷",
+        "pinned_tweet_id": "2014788860937716118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1780822665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087994905532764160/jjmB21eB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 998,
+          "like_count": 43340,
+          "listed_count": 6,
+          "media_count": 1076,
+          "tweet_count": 6826
+        },
+        "url": "https://t.co/IuMJpLsd5g",
+        "username": "citric_baizhou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

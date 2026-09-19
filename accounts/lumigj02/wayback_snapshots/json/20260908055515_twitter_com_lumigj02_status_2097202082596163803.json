@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2096964236882964599",
+    "created_at": "2026-09-08T05:55:15.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097202082596163803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1522837739313508352",
+          "start": 0,
+          "username": "mapafng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097202082596163803",
+    "in_reply_to_user_id": "1522837739313508352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097200620763807959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@mapafng 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2096964236882964599",
+        "created_at": "2026-09-08T05:55:15.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097202082596163803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1522837739313508352",
+              "start": 0,
+              "username": "mapafng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097202082596163803",
+        "in_reply_to_user_id": "1522837739313508352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097200620763807959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@mapafng 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522837739313508352",
+        "conversation_id": "2096964236882964599",
+        "created_at": "2026-09-08T05:49:26.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097200620763807959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097200620763807959",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096964236882964599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 依稀记得，你俩不是闹掰了咩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n14yo | xyn!? | Presales Solution | ex-PM, ex-SWE\n改车只玩心情件喵, 只会法系车, 不下赛道, 其他规矩都不懂喵\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "泰补复活了！→",
+        "most_recent_tweet_id": "2097202082596163803",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 843,
+          "like_count": 4477,
+          "listed_count": 9,
+          "media_count": 196,
+          "tweet_count": 1503
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-07T07:16:43.000Z",
+        "description": "重度抑郁，中度焦虑，偶尔发病，大部分时间是个人。hrt：2025.3.6。小证：2025.10.25。 infp,switch有主放养中（sub研习中）。les-p，ppl，地雷女/郁娇，独占型病娇",
+        "id": "1522837739313508352",
+        "is_identity_verified": false,
+        "location": "梦里",
+        "most_recent_tweet_id": "2097200620763807959",
+        "name": "江姜姜",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011013152687996928/nfCaQrCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 81,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1284
+        },
+        "url": "",
+        "username": "mapafng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

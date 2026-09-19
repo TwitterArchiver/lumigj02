@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2092547293547499899",
+    "created_at": "2026-08-26T18:23:26.000Z",
+    "display_text_range": [
+      11,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092679329411105025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075957717223833600",
+          "start": 0,
+          "username": "shamaoqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092679329411105025",
+    "in_reply_to_user_id": "2075957717223833600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092587797932908702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shamaoqaq 并不是 本地クリニック也买不到啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2092547293547499899",
+        "created_at": "2026-08-26T18:23:26.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092679329411105025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075957717223833600",
+              "start": 0,
+              "username": "shamaoqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092679329411105025",
+        "in_reply_to_user_id": "2075957717223833600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092587797932908702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shamaoqaq 并不是 本地クリニック也买不到啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075957717223833600",
+        "conversation_id": "2092547293547499899",
+        "created_at": "2026-08-26T12:19:44.000Z",
+        "display_text_range": [
+          10,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092587797932908702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092587797932908702",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092547293547499899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 不会停产只是日本限制出口了400只是开始后面可能会越来越高的…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/猫娘女仆妹妹@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "leetfs1"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2092679329411105025",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2092547293547499899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318,
+          "following_count": 833,
+          "like_count": 4451,
+          "listed_count": 11,
+          "media_count": 174,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-11T14:58:52.000Z",
+        "description": "🇨🇳西安or成都‖🚪 25 50 120（口令红包喵）‖\n08 5 24 ‖ 170 53kg ‖小证含糖‖\nHRT日期：2026.2.5‖如果你能喜欢我的话我感到非常开心‖ 抖音：92255000016 ‖防走丢：@shamaoToT‖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 108,
+                "username": "shamaoToT"
+              }
+            ]
+          }
+        },
+        "id": "2075957717223833600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092587797932908702",
+        "name": "傻猫🍥🏳️‍⚧️（买🍬互推找我喵）",
+        "pinned_tweet_id": "2092189967443505173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075957717223833600/1783782066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075958433510297600/oYVdFAAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4470,
+          "following_count": 20,
+          "like_count": 22,
+          "listed_count": 12,
+          "media_count": 18,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "shamaoqaq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

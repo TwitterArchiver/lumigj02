@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2096599890566811664",
+    "created_at": "2026-09-07T00:00:10.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096750334555410496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690573605711785984",
+          "start": 0,
+          "username": "linyvrun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096750334555410496",
+    "in_reply_to_user_id": "1690573605711785984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096655151218266334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@linyvrun 阿星画的好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2096599890566811664",
+        "created_at": "2026-09-07T00:00:10.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096750334555410496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690573605711785984",
+              "start": 0,
+              "username": "linyvrun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096750334555410496",
+        "in_reply_to_user_id": "1690573605711785984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096655151218266334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@linyvrun 阿星画的好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690573605711785984",
+        "conversation_id": "2096599890566811664",
+        "created_at": "2026-09-06T17:41:56.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T18:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096655151218266334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096655151218266334",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096599890566811664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 腿套是对的，腿环也是对的，都是对的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n14yo | xyn!? | Presales Solution | ex-PM, ex-SWE\n改车只玩心情件喵, 只会法系车, 不下赛道, 其他规矩都不懂喵\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "泰补复活了！→",
+        "most_recent_tweet_id": "2096750334555410496",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 844,
+          "like_count": 4473,
+          "listed_count": 9,
+          "media_count": 190,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:59:13.000Z",
+        "description": "INFP/06年/5批😋/捞妹😭/不鉴证/古汉语学习中",
+        "id": "1690573605711785984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096655151218266334",
+        "name": "林雨润🍥",
+        "pinned_tweet_id": "1894632890610454984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690573605711785984/1758399740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927077588876337152/jKTZq2Rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 211,
+          "like_count": 7162,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "linyvrun",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

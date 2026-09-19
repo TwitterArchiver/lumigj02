@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2092678401652097266",
+    "created_at": "2026-08-26T18:19:45.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092678401652097266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/lumigj02/status/2092501173471510952",
+          "start": 21,
+          "url": "https://t.co/oRcXCvTZtM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092678401652097266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092501173471510952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "不是评论区是在羡慕我还是羡慕猫娘啊（？） https://t.co/oRcXCvTZtM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 953,
+        "media_key": "3_2092501164734754816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoOuQgbMAAMfrR.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2092678401652097266",
+        "created_at": "2026-08-26T18:19:45.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092678401652097266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/lumigj02/status/2092501173471510952",
+              "start": 21,
+              "url": "https://t.co/oRcXCvTZtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092678401652097266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092501173471510952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "不是评论区是在羡慕我还是羡慕猫娘啊（？） https://t.co/oRcXCvTZtM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092501164734754816"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2092501173471510952",
+        "created_at": "2026-08-26T06:35:31.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092501173471510952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x17GgAOvld",
+              "end": 37,
+              "expanded_url": "https://x.com/lumigj02/status/2092501173471510952/photo/1",
+              "media_key": "3_2092501164734754816",
+              "start": 14,
+              "url": "https://t.co/x17GgAOvld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092501173471510952",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092501164734754816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1343,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "原来推上真的可以买到猫娘… https://t.co/x17GgAOvld"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/猫娘女仆妹妹@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "leetfs1"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2092678401652097266",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2092547293547499899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318,
+          "following_count": 833,
+          "like_count": 4451,
+          "listed_count": 11,
+          "media_count": 174,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

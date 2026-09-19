@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2092058853944987734",
+    "created_at": "2026-08-25T01:17:54.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T02:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092058853944987734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xcherryx/stat…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/0xcherryx/status/2091935638430060551",
+          "start": 50,
+          "url": "https://t.co/8SHtaMUMci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092058853944987734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091935638430060551",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我草看到这个触发nostalgia了，我跟我前前前前前前任第一次约会就是在这，当时我还非常非常纯洁 https://t.co/8SHtaMUMci"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2091935605404164096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgMWX0bYAAgKHY.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2092058853944987734",
+        "created_at": "2026-08-25T01:17:54.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092058853944987734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xcherryx/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/0xcherryx/status/2091935638430060551",
+              "start": 50,
+              "url": "https://t.co/8SHtaMUMci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092058853944987734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091935638430060551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我草看到这个触发nostalgia了，我跟我前前前前前前任第一次约会就是在这，当时我还非常非常纯洁 https://t.co/8SHtaMUMci"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091935605404164096"
+          ]
+        },
+        "author_id": "1662686494312771584",
+        "conversation_id": "2091805408319225899",
+        "created_at": "2026-08-24T17:08:17.000Z",
+        "display_text_range": [
+          14,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091935638430060551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847211911458504704",
+              "start": 0,
+              "username": "ikai_freedom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpBIz3wpu2",
+              "end": 67,
+              "expanded_url": "https://x.com/0xCherryX/status/2091935638430060551/photo/1",
+              "media_key": "3_2091935605404164096",
+              "start": 44,
+              "url": "https://t.co/KpBIz3wpu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091935638430060551",
+        "in_reply_to_user_id": "1847211911458504704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091935605404164096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4979,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091805408319225899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikai_freedom 感觉最值得去的是李光前自然历史博物馆，很多东西真的前所未见 https://t.co/KpBIz3wpu2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/猫娘女仆妹妹@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "leetfs1"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2092058853944987734",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2091793333656129565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4311,
+          "following_count": 838,
+          "like_count": 4445,
+          "listed_count": 11,
+          "media_count": 170,
+          "tweet_count": 1336
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-28T05:05:39.000Z",
+        "description": "Cross-Industry Strategic Partner for Apple, McDonald’s & OpenAI\n0x8499979b198c97a7c1cc67a8303532f4b8da0059",
+        "id": "1662686494312771584",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2091963089889746979",
+        "name": "Cherry",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662686494312771584/1780894218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665233968013398019/9At1uT-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 252,
+          "like_count": 8821,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "0xCherryX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T09:43:50.000Z",
+        "description": "谎言不会伤人，真相才是快刀",
+        "id": "1847211911458504704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091969812729860472",
+        "name": "i凯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847211911458504704/1778931728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087417550011596800/YtYCjvrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 2199,
+          "like_count": 4761,
+          "listed_count": 4,
+          "media_count": 743,
+          "tweet_count": 5954
+        },
+        "url": "",
+        "username": "ikai_freedom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

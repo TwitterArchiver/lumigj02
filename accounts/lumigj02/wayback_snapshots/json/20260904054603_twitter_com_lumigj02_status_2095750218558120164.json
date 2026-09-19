@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095750166381047808",
+        "3_2095750207560687616"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2095750218558120164",
+    "created_at": "2026-09-04T05:46:03.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095750218558120164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ah97XkB0zB",
+          "end": 26,
+          "expanded_url": "https://x.com/lumigj02/status/2095750218558120164/photo/1",
+          "media_key": "3_2095750166381047808",
+          "start": 3,
+          "url": "https://t.co/Ah97XkB0zB"
+        },
+        {
+          "display_url": "pic.x.com/Ah97XkB0zB",
+          "end": 26,
+          "expanded_url": "https://x.com/lumigj02/status/2095750218558120164/photo/1",
+          "media_key": "3_2095750207560687616",
+          "start": 3,
+          "url": "https://t.co/Ah97XkB0zB"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/lumigj02/status/2094448485412282452",
+          "start": 27,
+          "url": "https://t.co/4MLZXFBFVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095750218558120164",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095750166381047808"
+      },
+      {
+        "media_key": "3_2095750207560687616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094448485412282452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜报 https://t.co/Ah97XkB0zB https://t.co/4MLZXFBFVs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 138,
+        "media_key": "3_2095750166381047808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWZrC0bsAAEL7w.png",
+        "width": 404
+      },
+      {
+        "height": 470,
+        "media_key": "3_2095750207560687616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWZtcObIAASXbF.png",
+        "width": 775
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094448474892963840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD5yoJakAAMqAc.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094448475341746176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD5yp0acAAxe1e.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095750166381047808",
+            "3_2095750207560687616"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2095750218558120164",
+        "created_at": "2026-09-04T05:46:03.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095750218558120164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ah97XkB0zB",
+              "end": 26,
+              "expanded_url": "https://x.com/lumigj02/status/2095750218558120164/photo/1",
+              "media_key": "3_2095750166381047808",
+              "start": 3,
+              "url": "https://t.co/Ah97XkB0zB"
+            },
+            {
+              "display_url": "pic.x.com/Ah97XkB0zB",
+              "end": 26,
+              "expanded_url": "https://x.com/lumigj02/status/2095750218558120164/photo/1",
+              "media_key": "3_2095750207560687616",
+              "start": 3,
+              "url": "https://t.co/Ah97XkB0zB"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/lumigj02/status/2094448485412282452",
+              "start": 27,
+              "url": "https://t.co/4MLZXFBFVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095750218558120164",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095750166381047808"
+          },
+          {
+            "media_key": "3_2095750207560687616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094448485412282452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜报 https://t.co/Ah97XkB0zB https://t.co/4MLZXFBFVs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094448474892963840",
+            "3_2094448475341746176"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2094448485412282452",
+        "created_at": "2026-08-31T15:33:26.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094448485412282452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaI5ZYq0R0",
+              "end": 79,
+              "expanded_url": "https://x.com/lumigj02/status/2094448485412282452/photo/1",
+              "media_key": "3_2094448474892963840",
+              "start": 56,
+              "url": "https://t.co/HaI5ZYq0R0"
+            },
+            {
+              "display_url": "pic.x.com/HaI5ZYq0R0",
+              "end": 79,
+              "expanded_url": "https://x.com/lumigj02/status/2094448485412282452/photo/1",
+              "media_key": "3_2094448475341746176",
+              "start": 56,
+              "url": "https://t.co/HaI5ZYq0R0"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/lumigj02/status/2093555622856085518",
+              "start": 80,
+              "url": "https://t.co/O2CaF9x6tu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094448485412282452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094448474892963840"
+          },
+          {
+            "media_key": "3_2094448475341746176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13355,
+          "like_count": 68,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093555622856085518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "那个 泰补也没了喵…\n自行翻译吧\n然后我就休息了，我还想得善终\n印雌我是不敢做的，万一碰到假货进去就真出不来了 https://t.co/HaI5ZYq0R0 https://t.co/O2CaF9x6tu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 35,
+                "start": 19,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "已退休，不要再私信我啦",
+        "most_recent_tweet_id": "2095750218558120164",
+        "name": "猫卷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4385,
+          "following_count": 838,
+          "like_count": 4462,
+          "listed_count": 9,
+          "media_count": 183,
+          "tweet_count": 1422
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

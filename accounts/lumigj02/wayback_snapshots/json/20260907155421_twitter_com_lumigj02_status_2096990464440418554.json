@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2096986779232457043",
+    "created_at": "2026-09-07T15:54:21.000Z",
+    "display_text_range": [
+      23,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096990464440418554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        },
+        {
+          "end": 22,
+          "id": "1489919689996206081",
+          "start": 13,
+          "username": "bin_x_13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096990464440418554",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096987091674751227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barutan8964 @bin_x_13 xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2096986779232457043",
+        "created_at": "2026-09-07T15:54:21.000Z",
+        "display_text_range": [
+          23,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096990464440418554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            },
+            {
+              "end": 22,
+              "id": "1489919689996206081",
+              "start": 13,
+              "username": "bin_x_13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096990464440418554",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096987091674751227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 @bin_x_13 xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565691463685795840",
+        "conversation_id": "2096986779232457043",
+        "created_at": "2026-09-07T15:40:57.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096987091674751227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1489919689996206081",
+              "start": 0,
+              "username": "bin_x_13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096987091674751227",
+        "in_reply_to_user_id": "1489919689996206081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096986779232457043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bin_x_13 是不是解了 怎么第一时间推送到脑婆了喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n14yo | xyn!? | Presales Solution | ex-PM, ex-SWE\n改车只玩心情件喵, 只会法系车, 不下赛道, 其他规矩都不懂喵\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "泰补复活了！→",
+        "most_recent_tweet_id": "2096990464440418554",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 844,
+          "like_count": 4477,
+          "listed_count": 9,
+          "media_count": 195,
+          "tweet_count": 1499
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "讨厌炒作狗和meme bot 王烟洛连坐斯密马赛🙂‍↕️\n🥰脑婆@bin_x_13 可爱妹妹@nanami_mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "bin_x_13"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1565691463685795840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096987552519750054",
+        "name": "巴尔坦🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 336,
+          "like_count": 25313,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 4367
+        },
+        "url": "",
+        "username": "barutan8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-05T11:12:39.000Z",
+        "description": "沉沉浮浮喵\n沉沉浮浮喵喵\nshadowban不能reply中\n新号 @ShineMeowMeow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "ShineMeowMeow"
+              }
+            ]
+          }
+        },
+        "id": "1489919689996206081",
+        "is_identity_verified": false,
+        "location": "✞（还没有）升天✞",
+        "most_recent_tweet_id": "2096986779232457043",
+        "name": "望晞⭐",
+        "pinned_tweet_id": "2069471617688953316",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489919689996206081/1756912651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700402167633592320/Uem2Ou6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 404,
+          "like_count": 34725,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 5143
+        },
+        "url": "",
+        "username": "bin_x_13",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2097563265769607661",
+    "created_at": "2026-09-09T09:34:54.000Z",
+    "display_text_range": [
+      27,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097619746867057008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635679785132371969",
+          "start": 0,
+          "username": "_Culacc1no_"
+        },
+        {
+          "end": 26,
+          "id": "1319578357395156993",
+          "start": 13,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097619746867057008",
+    "in_reply_to_user_id": "1635679785132371969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097617703339266510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Culacc1no_ @yoshino_2333 猫卷一股味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2097563265769607661",
+        "created_at": "2026-09-09T09:34:54.000Z",
+        "display_text_range": [
+          27,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097619746867057008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635679785132371969",
+              "start": 0,
+              "username": "_Culacc1no_"
+            },
+            {
+              "end": 26,
+              "id": "1319578357395156993",
+              "start": 13,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097619746867057008",
+        "in_reply_to_user_id": "1635679785132371969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097617703339266510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Culacc1no_ @yoshino_2333 猫卷一股味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635679785132371969",
+        "conversation_id": "2097563265769607661",
+        "created_at": "2026-09-09T09:26:46.000Z",
+        "display_text_range": [
+          24,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097617703339266510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 23,
+              "id": "1319578357395156993",
+              "start": 10,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097617703339266510",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097576905100665281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @yoshino_2333 你知道我要说什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n14yo xyn!? \n只玩法系车喵, 只改心情件喵, 不下赛道喵, 其他规矩都不懂喵\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "泰补复活了！→",
+        "most_recent_tweet_id": "2097619746867057008",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4433,
+          "following_count": 844,
+          "like_count": 4486,
+          "listed_count": 9,
+          "media_count": 197,
+          "tweet_count": 1513
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-14T16:30:37.000Z",
+        "description": "Mt😺｜春来我不先哈气，哪个基米敢作声！｜猫咪全肯定bot｜死にたいわけじゃなくて    明日を生きるのが辛いだけ",
+        "id": "1635679785132371969",
+        "is_identity_verified": false,
+        "location": "Meow Town",
+        "most_recent_tweet_id": "2097617703339266510",
+        "name": "和乐清浅",
+        "pinned_tweet_id": "1944085551961059797",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1635679785132371969/1750262890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898845031886381056/PIofMUtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 987,
+          "like_count": 15298,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 3152
+        },
+        "url": "",
+        "username": "_Culacc1no_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN\n\n「I love the world and everything in it.」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "is_identity_verified": false,
+        "location": "你的电脑",
+        "most_recent_tweet_id": "2097618049335722450",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2086658175890260182",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319578357395156993/1784508241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081177042264133632/AGz5kVXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 719,
+          "like_count": 26272,
+          "listed_count": 4,
+          "media_count": 1157,
+          "tweet_count": 16154
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

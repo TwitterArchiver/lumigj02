@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090059695319126016"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2090059720996659333",
+    "created_at": "2026-08-19T12:54:03.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090059720996659333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/asfKWJ2Fmr",
+          "end": 35,
+          "expanded_url": "https://x.com/lumigj02/status/2090059720996659333/photo/1",
+          "media_key": "3_2090059695319126016",
+          "start": 12,
+          "url": "https://t.co/asfKWJ2Fmr"
+        },
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2089893258830704917",
+          "start": 36,
+          "url": "https://t.co/cvTL97cE8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090059720996659333",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090059695319126016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089893258830704917",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "…我抽的烟都没这么复杂 https://t.co/asfKWJ2Fmr https://t.co/cvTL97cE8v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090059695319126016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFiOCLbkAAAVpR.jpg",
+        "width": 888
+      },
+      {
+        "height": 1587,
+        "media_key": "3_2089893255810854912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDK1-sXMAA6J2l.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090059695319126016"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2090059720996659333",
+        "created_at": "2026-08-19T12:54:03.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090059720996659333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/asfKWJ2Fmr",
+              "end": 35,
+              "expanded_url": "https://x.com/lumigj02/status/2090059720996659333/photo/1",
+              "media_key": "3_2090059695319126016",
+              "start": 12,
+              "url": "https://t.co/asfKWJ2Fmr"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2089893258830704917",
+              "start": 36,
+              "url": "https://t.co/cvTL97cE8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090059720996659333",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090059695319126016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089893258830704917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "…我抽的烟都没这么复杂 https://t.co/asfKWJ2Fmr https://t.co/cvTL97cE8v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089893255810854912"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089893258830704917",
+        "created_at": "2026-08-19T01:52:35.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T02:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089893258830704917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEn4nlImfe",
+              "end": 29,
+              "expanded_url": "https://x.com/amber_digit2/status/2089893258830704917/photo/1",
+              "media_key": "3_2089893255810854912",
+              "start": 6,
+              "url": "https://t.co/qEn4nlImfe"
+            },
+            {
+              "display_url": "x.com/wai__tung/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/wai__tung/status/2089772941710155893",
+              "start": 30,
+              "url": "https://t.co/D9sAMsU0QI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089893258830704917",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089893255810854912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 15211,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089772941710155893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时代的眼泪 https://t.co/qEn4nlImfe https://t.co/D9sAMsU0QI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/猫娘女仆妹妹@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "leetfs1"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2090059720996659333",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2087431962906763266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1786517430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089494024352935936/LqRP5tkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4283,
+          "following_count": 842,
+          "like_count": 4439,
+          "listed_count": 9,
+          "media_count": 166,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089983717242483054",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 877,
+          "like_count": 3865,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 2888
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

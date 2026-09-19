@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095480891724492800"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2095480956232827250",
+    "created_at": "2026-09-03T11:56:06.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T12:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095480956232827250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C749iXFCDO",
+          "end": 34,
+          "expanded_url": "https://x.com/lumigj02/status/2095480956232827250/video/1",
+          "media_key": "13_2095480891724492800",
+          "start": 11,
+          "url": "https://t.co/C749iXFCDO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095480956232827250",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2095480891724492800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "猫卷立绘制作中。！？ https://t.co/C749iXFCDO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13301,
+        "height": 1080,
+        "media_key": "13_2095480891724492800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095480891724492800/img/s5T6UuUK8wCXv_QN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095480891724492800/vid/avc1/1280x720/YNtl_vmuhmVFshU4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095480891724492800/vid/avc1/1920x1080/qZOt0c5jCb1g_XBi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095480891724492800/pl/sglxy-481ZbEc31k.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095480891724492800/vid/avc1/480x270/NffWbVtMhmU2MEjc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095480891724492800/vid/avc1/640x360/rsgWEgxmTH4tBX0H.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095480891724492800"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2095480956232827250",
+        "created_at": "2026-09-03T11:56:06.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095480956232827250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C749iXFCDO",
+              "end": 34,
+              "expanded_url": "https://x.com/lumigj02/status/2095480956232827250/video/1",
+              "media_key": "13_2095480891724492800",
+              "start": 11,
+              "url": "https://t.co/C749iXFCDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095480956232827250",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095480891724492800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "猫卷立绘制作中。！？ https://t.co/C749iXFCDO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 35,
+                "start": 19,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "已退休，不要再私信我啦",
+        "most_recent_tweet_id": "2095480956232827250",
+        "name": "猫卷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4383,
+          "following_count": 838,
+          "like_count": 4458,
+          "listed_count": 9,
+          "media_count": 181,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093510810672988160"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2093510868160188650",
+    "created_at": "2026-08-29T01:27:41.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T02:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093510868160188650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1167792264795394048",
+          "start": 5,
+          "username": "leetfs1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KiP5cKikc2",
+          "end": 48,
+          "expanded_url": "https://x.com/lumigj02/status/2093510868160188650/photo/1",
+          "media_key": "3_2093510810672988160",
+          "start": 25,
+          "url": "https://t.co/KiP5cKikc2"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/lumigj02/status/2092501173471510952",
+          "start": 49,
+          "url": "https://t.co/oRcXCvTZtM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093510868160188650",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093510810672988160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092501173471510952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "买的猫娘 @leetfs1 到货了 很乖很可爱喵 https://t.co/KiP5cKikc2 https://t.co/oRcXCvTZtM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2093510810672988160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2k_YuagAAcxk1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 953,
+        "media_key": "3_2092501164734754816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoOuQgbMAAMfrR.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093510810672988160"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2093510868160188650",
+        "created_at": "2026-08-29T01:27:41.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T02:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093510868160188650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1167792264795394048",
+              "start": 5,
+              "username": "leetfs1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KiP5cKikc2",
+              "end": 48,
+              "expanded_url": "https://x.com/lumigj02/status/2093510868160188650/photo/1",
+              "media_key": "3_2093510810672988160",
+              "start": 25,
+              "url": "https://t.co/KiP5cKikc2"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/lumigj02/status/2092501173471510952",
+              "start": 49,
+              "url": "https://t.co/oRcXCvTZtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093510868160188650",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093510810672988160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092501173471510952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "买的猫娘 @leetfs1 到货了 很乖很可爱喵 https://t.co/KiP5cKikc2 https://t.co/oRcXCvTZtM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092501164734754816"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2092501173471510952",
+        "created_at": "2026-08-26T06:35:31.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092501173471510952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x17GgAOvld",
+              "end": 37,
+              "expanded_url": "https://x.com/lumigj02/status/2092501173471510952/photo/1",
+              "media_key": "3_2092501164734754816",
+              "start": 14,
+              "url": "https://t.co/x17GgAOvld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092501173471510952",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092501164734754816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2711,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "原来推上真的可以买到猫娘… https://t.co/x17GgAOvld"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/？@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "leetfs1"
+              },
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2093510868160188650",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2092547293547499899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4331,
+          "following_count": 837,
+          "like_count": 4462,
+          "listed_count": 11,
+          "media_count": 175,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "Member of @MtFwiki & @RLEwiki & @AB_aboutTrans | Intern at https://t.co/dkwoFb9hyL | Love front-end and RISC-V | Trans ally 🏳️‍⚧️ | They/Them | 可爱猫卷 @itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "username": "RLEwiki"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "AB_aboutTrans"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "itsCatRoll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "is.cas.cn",
+                "end": 82,
+                "expanded_url": "http://is.cas.cn",
+                "start": 59,
+                "url": "https://t.co/dkwoFb9hyL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leetfs.com",
+                "end": 23,
+                "expanded_url": "https://leetfs.com/",
+                "start": 0,
+                "url": "https://t.co/US8IASVs7i"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093345520106492034",
+        "name": "Lee🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167792264795394048/1755374726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028353368008339456/o3OhBxWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 2220,
+          "like_count": 2593,
+          "listed_count": 24,
+          "media_count": 997,
+          "tweet_count": 6295
+        },
+        "url": "https://t.co/US8IASVs7i",
+        "username": "leetfs1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

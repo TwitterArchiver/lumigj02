@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096939953162993664"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2096605517036810366",
+    "created_at": "2026-09-07T12:33:40.000Z",
+    "display_text_range": [
+      17,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096939962512073004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1690776257859108864",
+          "start": 0,
+          "username": "xiaodaichen_awa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WOREMzap6M",
+          "end": 81,
+          "expanded_url": "https://x.com/lumigj02/status/2096939962512073004/photo/1",
+          "media_key": "3_2096939953162993664",
+          "start": 58,
+          "url": "https://t.co/WOREMzap6M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096939962512073004",
+    "in_reply_to_user_id": "1690776257859108864",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096939953162993664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096939367306756125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@xiaodaichen_awa 找一棵树慢慢顶上去 然后看后视镜里的大小 树是软的不会伤车 或者找另一台车试一下 https://t.co/WOREMzap6M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2096939953162993664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnTxv-awAAq6fU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096939953162993664"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2096605517036810366",
+        "created_at": "2026-09-07T12:33:40.000Z",
+        "display_text_range": [
+          17,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096939962512073004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1690776257859108864",
+              "start": 0,
+              "username": "xiaodaichen_awa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOREMzap6M",
+              "end": 81,
+              "expanded_url": "https://x.com/lumigj02/status/2096939962512073004/photo/1",
+              "media_key": "3_2096939953162993664",
+              "start": 58,
+              "url": "https://t.co/WOREMzap6M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096939962512073004",
+        "in_reply_to_user_id": "1690776257859108864",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096939953162993664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096939367306756125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xiaodaichen_awa 找一棵树慢慢顶上去 然后看后视镜里的大小 树是软的不会伤车 或者找另一台车试一下 https://t.co/WOREMzap6M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690776257859108864",
+        "conversation_id": "2096605517036810366",
+        "created_at": "2026-09-07T12:31:19.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096939367306756125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096939367306756125",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096749970951209038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 这样吗 感觉估算不准（）有没有什么小技巧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n14yo | xyn!? | Presales Solution | ex-PM, ex-SWE\n改车只玩心情件喵, 只会法系车, 不下赛道, 其他规矩都不懂喵\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "泰补复活了！→",
+        "most_recent_tweet_id": "2096939962512073004",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 844,
+          "like_count": 4475,
+          "listed_count": 9,
+          "media_count": 194,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T17:24:18.000Z",
+        "description": "一个喜欢玩绳子 tk和漂亮衣服的家伙 （？\n超超超超超级喜欢睡觉，还能给睡一块的优质睡眠，童叟无欺ww 不信可以试试qwq\n试图拥有石粒的入门程序员w",
+        "id": "1690776257859108864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096939367306756125",
+        "name": "一只小呆chen",
+        "pinned_tweet_id": "2022396324529029452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690776257859108864/1761416651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094856675689906176/a7W_sFzp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2760,
+          "following_count": 726,
+          "like_count": 26368,
+          "listed_count": 8,
+          "media_count": 161,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "xiaodaichen_awa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

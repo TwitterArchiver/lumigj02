@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094448474892963840",
+        "3_2094448475341746176"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2094448485412282452",
+    "created_at": "2026-08-31T15:33:26.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094448485412282452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HaI5ZYq0R0",
+          "end": 79,
+          "expanded_url": "https://x.com/lumigj02/status/2094448485412282452/photo/1",
+          "media_key": "3_2094448474892963840",
+          "start": 56,
+          "url": "https://t.co/HaI5ZYq0R0"
+        },
+        {
+          "display_url": "pic.x.com/HaI5ZYq0R0",
+          "end": 79,
+          "expanded_url": "https://x.com/lumigj02/status/2094448485412282452/photo/1",
+          "media_key": "3_2094448475341746176",
+          "start": 56,
+          "url": "https://t.co/HaI5ZYq0R0"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/lumigj02/status/2093555622856085518",
+          "start": 80,
+          "url": "https://t.co/O2CaF9x6tu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094448485412282452",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094448474892963840"
+      },
+      {
+        "media_key": "3_2094448475341746176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093555622856085518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "那个 泰补也没了喵…\n自行翻译吧\n然后我就休息了，我还想得善终\n印雌我是不敢做的，万一碰到假货进去就真出不来了 https://t.co/HaI5ZYq0R0 https://t.co/O2CaF9x6tu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094448474892963840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD5yoJakAAMqAc.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094448475341746176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD5yp0acAAxe1e.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093555609681661952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3NvCCaEAA1niX.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093555609719513088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3NvCLboAAEzYx.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093555609652359168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3NvB7a8AAkM8_.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094448474892963840",
+            "3_2094448475341746176"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2094448485412282452",
+        "created_at": "2026-08-31T15:33:26.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094448485412282452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaI5ZYq0R0",
+              "end": 79,
+              "expanded_url": "https://x.com/lumigj02/status/2094448485412282452/photo/1",
+              "media_key": "3_2094448474892963840",
+              "start": 56,
+              "url": "https://t.co/HaI5ZYq0R0"
+            },
+            {
+              "display_url": "pic.x.com/HaI5ZYq0R0",
+              "end": 79,
+              "expanded_url": "https://x.com/lumigj02/status/2094448485412282452/photo/1",
+              "media_key": "3_2094448475341746176",
+              "start": 56,
+              "url": "https://t.co/HaI5ZYq0R0"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/lumigj02/status/2093555622856085518",
+              "start": 80,
+              "url": "https://t.co/O2CaF9x6tu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094448485412282452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094448474892963840"
+          },
+          {
+            "media_key": "3_2094448475341746176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093555622856085518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "那个 泰补也没了喵…\n自行翻译吧\n然后我就休息了，我还想得善终\n印雌我是不敢做的，万一碰到假货进去就真出不来了 https://t.co/HaI5ZYq0R0 https://t.co/O2CaF9x6tu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093555609681661952",
+            "3_2093555609719513088",
+            "3_2093555609652359168"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2093555622856085518",
+        "created_at": "2026-08-29T04:25:31.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093555622856085518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29mHTsvmDw",
+              "end": 95,
+              "expanded_url": "https://x.com/lumigj02/status/2093555622856085518/photo/1",
+              "media_key": "3_2093555609681661952",
+              "start": 72,
+              "url": "https://t.co/29mHTsvmDw"
+            },
+            {
+              "display_url": "pic.x.com/29mHTsvmDw",
+              "end": 95,
+              "expanded_url": "https://x.com/lumigj02/status/2093555622856085518/photo/1",
+              "media_key": "3_2093555609719513088",
+              "start": 72,
+              "url": "https://t.co/29mHTsvmDw"
+            },
+            {
+              "display_url": "pic.x.com/29mHTsvmDw",
+              "end": 95,
+              "expanded_url": "https://x.com/lumigj02/status/2093555622856085518/photo/1",
+              "media_key": "3_2093555609652359168",
+              "start": 72,
+              "url": "https://t.co/29mHTsvmDw"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/lumigj02/status/2092547293547499899",
+              "start": 96,
+              "url": "https://t.co/alovZELw3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093555622856085518",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093555609681661952"
+          },
+          {
+            "media_key": "3_2093555609719513088"
+          },
+          {
+            "media_key": "3_2093555609652359168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15549,
+          "like_count": 116,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092547293547499899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "其实富士制药六月份就发了公告，只不过我没在意\n\n大概解释下就是原材料不足，所以富士制药产出不得这么多日雌，因此限制供货\n\n唉早知道当时多囤点了 https://t.co/29mHTsvmDw https://t.co/alovZELw3T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "女仆猫猫🥰@leetfs1\n\n@hobartr6/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "leetfs1"
+              },
+              {
+                "end": 24,
+                "start": 15,
+                "username": "hobartr6"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094448485412282452",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2093555622856085518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4377,
+          "following_count": 837,
+          "like_count": 4453,
+          "listed_count": 9,
+          "media_count": 177,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

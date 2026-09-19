@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2093751355311870447",
+    "created_at": "2026-08-30T01:56:43.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093880563921027573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1072534840312913920",
+          "start": 0,
+          "username": "mizuame_t2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093880563921027573",
+    "in_reply_to_user_id": "1072534840312913920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093751355311870447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame_t2 你油耗为什么这么低…气死了😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2776,
+        "media_key": "3_2093751347082608641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5_wcrawAEcmwt.jpg",
+        "width": 3701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2093751355311870447",
+        "created_at": "2026-08-30T01:56:43.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093880563921027573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1072534840312913920",
+              "start": 0,
+              "username": "mizuame_t2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093880563921027573",
+        "in_reply_to_user_id": "1072534840312913920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093751355311870447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame_t2 你油耗为什么这么低…气死了😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093751347082608641"
+          ]
+        },
+        "author_id": "1072534840312913920",
+        "conversation_id": "2093751355311870447",
+        "created_at": "2026-08-29T17:23:17.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093751355311870447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KaaZA4EI2",
+              "end": 62,
+              "expanded_url": "https://x.com/mizuame_t2/status/2093751355311870447/photo/1",
+              "media_key": "3_2093751347082608641",
+              "start": 39,
+              "url": "https://t.co/8KaaZA4EI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093751355311870447",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093751347082608641"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到家啦！结束了为期一个月，长达1.3w公里的东北大环线，这辈子最疯狂的一次😎 https://t.co/8KaaZA4EI2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/？@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "leetfs1"
+              },
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2093880563921027573",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2093555622856085518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4365,
+          "following_count": 836,
+          "like_count": 4434,
+          "listed_count": 11,
+          "media_count": 176,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-11T16:53:27.000Z",
+        "description": "大龄天残？党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、爱抓小孩症.jpg，同类欢迎互fo🥺\n马斯克你再封我号试试呢😡",
+        "id": "1072534840312913920",
+        "is_identity_verified": false,
+        "location": "β Cygni",
+        "most_recent_tweet_id": "2093751486228599120",
+        "name": "水母雨🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072534840312913920/1787807333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092834520789860352/hr9YENoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 117,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "mizuame_t2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2096591750005432557",
+    "created_at": "2026-09-06T23:58:31.000Z",
+    "display_text_range": [
+      30,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T00:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096749919239623079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781621357014286336",
+          "start": 0,
+          "username": "0rbital_obit"
+        },
+        {
+          "end": 29,
+          "id": "1260553941714186241",
+          "start": 14,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096749919239623079",
+    "in_reply_to_user_id": "1781621357014286336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096708703521309122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0rbital_obit @whyyoutouzhele 别，我不想死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096708698898833408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkBc-tWIAALj7H.jpg",
+        "width": 1173
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096708698886340608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkBc-qXgAARO0j.jpg",
+        "width": 548
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096708698890485761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkBc-rWwAEB1lX.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2096591750005432557",
+        "created_at": "2026-09-06T23:58:31.000Z",
+        "display_text_range": [
+          30,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096749919239623079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781621357014286336",
+              "start": 0,
+              "username": "0rbital_obit"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096749919239623079",
+        "in_reply_to_user_id": "1781621357014286336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096708703521309122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0rbital_obit @whyyoutouzhele 别，我不想死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096708698898833408",
+            "3_2096708698886340608",
+            "3_2096708698890485761"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096591750005432557",
+        "created_at": "2026-09-06T21:14:44.000Z",
+        "display_text_range": [
+          16,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T22:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096708703521309122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 161,
+              "id": "1552918719440924672",
+              "start": 152,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMexK24h4X",
+              "end": 185,
+              "expanded_url": "https://x.com/0rbital_obit/status/2096708703521309122/photo/1",
+              "media_key": "3_2096708698898833408",
+              "start": 162,
+              "url": "https://t.co/nMexK24h4X"
+            },
+            {
+              "display_url": "pic.x.com/nMexK24h4X",
+              "end": 185,
+              "expanded_url": "https://x.com/0rbital_obit/status/2096708703521309122/photo/1",
+              "media_key": "3_2096708698886340608",
+              "start": 162,
+              "url": "https://t.co/nMexK24h4X"
+            },
+            {
+              "display_url": "pic.x.com/nMexK24h4X",
+              "end": 185,
+              "expanded_url": "https://x.com/0rbital_obit/status/2096708703521309122/photo/1",
+              "media_key": "3_2096708698890485761",
+              "start": 162,
+              "url": "https://t.co/nMexK24h4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096708703521309122",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096708698898833408"
+          },
+          {
+            "media_key": "3_2096708698886340608"
+          },
+          {
+            "media_key": "3_2096708698890485761"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 145,
+                "id": "1552918719440924672",
+                "start": 136,
+                "username": "lumigj02"
+              }
+            ]
+          },
+          "text": "上赛、中汽摩联、小米你们临时工招点青壮年都比招几个老头强吧………对自己下面外包出去办事的那一大堆主办、协办全都一点掌控力没有的。主办对马修没有专业设备也完全没培训，半分钟没打开灭火器保险。雷猴王现在在微博上丧事喜办，恭喜啥也不会的王一博获得gt3组冠军。我建议奥迪索伯让 @lumigj02 来开"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1729,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096591750005432557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 上赛、中汽摩联、小米你们临时工招点青壮年都比招几个老头强吧………对自己下面外包出去办事的那一大堆主办、协办全都一点掌控力没有的。主办对马修没有专业设备也完全没培训，半分钟没打开灭火器保险。雷猴王现在在微博上丧事喜办，恭喜啥也不会的王一博获得gt3组冠军。我建议奥迪索伯让 @lumigj02 https://t.co/nMexK24h4X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n14yo | xyn!? | Presales Solution | ex-PM, ex-SWE\n改车只玩心情件喵, 只会法系车, 不下赛道, 其他规矩都不懂喵\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "泰补复活了！→",
+        "most_recent_tweet_id": "2096749919239623079",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 844,
+          "like_count": 4473,
+          "listed_count": 9,
+          "media_count": 190,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "is_identity_verified": false,
+        "location": "6:4",
+        "most_recent_tweet_id": "2096725166810116185",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781621357014286336/1748869975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 377,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2096735200910655901",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261739,
+          "following_count": 1082,
+          "like_count": 10473,
+          "listed_count": 8889,
+          "media_count": 53344,
+          "tweet_count": 60672
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

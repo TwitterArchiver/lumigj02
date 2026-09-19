@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095703481084764160",
+        "3_2095703548403347456"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "NVIDIA - AI",
+          "id": "10050907860",
+          "name": "NVIDIA - AI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2095703622764134853",
+    "created_at": "2026-09-04T02:40:54.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T03:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095703622764134853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LDUPn0rQCD",
+          "end": 101,
+          "expanded_url": "https://x.com/lumigj02/status/2095703622764134853/photo/1",
+          "media_key": "3_2095703481084764160",
+          "start": 78,
+          "url": "https://t.co/LDUPn0rQCD"
+        },
+        {
+          "display_url": "pic.x.com/LDUPn0rQCD",
+          "end": 101,
+          "expanded_url": "https://x.com/lumigj02/status/2095703622764134853/photo/1",
+          "media_key": "3_2095703548403347456",
+          "start": 78,
+          "url": "https://t.co/LDUPn0rQCD"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/lumigj02/status/2094951062717551099",
+          "start": 102,
+          "url": "https://t.co/SPFmL2OcMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095703622764134853",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095703481084764160"
+      },
+      {
+        "media_key": "3_2095703548403347456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094951062717551099",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "单台NVIDIA DGX Spark，Qwen3.8-27B-NVFP4-BF16-LMHead NVFP4量化 MTP 没有DFlash/Dspark) https://t.co/LDUPn0rQCD https://t.co/SPFmL2OcMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2095703481084764160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRVvNmibYAAllF8.png",
+        "width": 1401
+      },
+      {
+        "height": 724,
+        "media_key": "3_2095703548403347456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRVvRhUbcAAgP6N.jpg",
+        "width": 1398
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094951053892702208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLC4k0a0AAV69N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095703481084764160",
+            "3_2095703548403347456"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "NVIDIA - AI",
+              "id": "10050907860",
+              "name": "NVIDIA - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2095703622764134853",
+        "created_at": "2026-09-04T02:40:54.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095703622764134853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDUPn0rQCD",
+              "end": 101,
+              "expanded_url": "https://x.com/lumigj02/status/2095703622764134853/photo/1",
+              "media_key": "3_2095703481084764160",
+              "start": 78,
+              "url": "https://t.co/LDUPn0rQCD"
+            },
+            {
+              "display_url": "pic.x.com/LDUPn0rQCD",
+              "end": 101,
+              "expanded_url": "https://x.com/lumigj02/status/2095703622764134853/photo/1",
+              "media_key": "3_2095703548403347456",
+              "start": 78,
+              "url": "https://t.co/LDUPn0rQCD"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/lumigj02/status/2094951062717551099",
+              "start": 102,
+              "url": "https://t.co/SPFmL2OcMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095703622764134853",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095703481084764160"
+          },
+          {
+            "media_key": "3_2095703548403347456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094951062717551099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单台NVIDIA DGX Spark，Qwen3.8-27B-NVFP4-BF16-LMHead NVFP4量化 MTP 没有DFlash/Dspark) https://t.co/LDUPn0rQCD https://t.co/SPFmL2OcMk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094951053892702208"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094951062717551099",
+        "created_at": "2026-09-02T00:50:30.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094951062717551099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kk7iixGdS4",
+              "end": 29,
+              "expanded_url": "https://x.com/lumigj02/status/2094951062717551099/photo/1",
+              "media_key": "3_2094951053892702208",
+              "start": 6,
+              "url": "https://t.co/kk7iixGdS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094951062717551099",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094951053892702208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3006,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这个好玩吗 https://t.co/kk7iixGdS4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 35,
+                "start": 19,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "已退休，不要再私信我啦",
+        "most_recent_tweet_id": "2095703622764134853",
+        "name": "猫卷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 837,
+          "like_count": 4462,
+          "listed_count": 9,
+          "media_count": 182,
+          "tweet_count": 1420
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

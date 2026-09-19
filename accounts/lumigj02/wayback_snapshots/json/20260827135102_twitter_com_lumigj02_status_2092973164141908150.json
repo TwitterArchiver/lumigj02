@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2092971728456896723",
+    "created_at": "2026-08-27T13:51:02.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092973164141908150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682687182375636992",
+          "start": 0,
+          "username": "Cavaradossi1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092973164141908150",
+    "in_reply_to_user_id": "1682687182375636992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092971728456896723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cavaradossi1008 这么有实力？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3301,
+        "media_key": "3_2092971688489287682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQu6qWFagAImdcj.jpg",
+        "width": 1890
+      },
+      {
+        "height": 2502,
+        "media_key": "3_2092971711616663552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQu6rsPaQAAJN5F.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2092971728456896723",
+        "created_at": "2026-08-27T13:51:02.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092973164141908150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682687182375636992",
+              "start": 0,
+              "username": "Cavaradossi1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092973164141908150",
+        "in_reply_to_user_id": "1682687182375636992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092971728456896723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cavaradossi1008 这么有实力？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092971688489287682",
+            "3_2092971711616663552"
+          ]
+        },
+        "author_id": "1682687182375636992",
+        "conversation_id": "2092971728456896723",
+        "created_at": "2026-08-27T13:45:20.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092971728456896723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqvZTaFCfr",
+              "end": 31,
+              "expanded_url": "https://x.com/Cavaradossi1008/status/2092971728456896723/photo/1",
+              "media_key": "3_2092971688489287682",
+              "start": 8,
+              "url": "https://t.co/qqvZTaFCfr"
+            },
+            {
+              "display_url": "pic.x.com/qqvZTaFCfr",
+              "end": 31,
+              "expanded_url": "https://x.com/Cavaradossi1008/status/2092971728456896723/photo/1",
+              "media_key": "3_2092971711616663552",
+              "start": 8,
+              "url": "https://t.co/qqvZTaFCfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092971728456896723",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092971688489287682"
+          },
+          {
+            "media_key": "3_2092971711616663552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合格 易如反掌 https://t.co/qqvZTaFCfr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/？@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "leetfs1"
+              },
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2092973164141908150",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2092547293547499899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 835,
+          "like_count": 4458,
+          "listed_count": 11,
+          "media_count": 174,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-22T09:41:26.000Z",
+        "description": "shiv naam se hai jagat mein ujala/我妻子@moepigqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "moepigqwq"
+              }
+            ]
+          }
+        },
+        "id": "1682687182375636992",
+        "is_identity_verified": false,
+        "location": "Ganga",
+        "most_recent_tweet_id": "2092971728456896723",
+        "name": "🇮🇳MerryMerryHearn",
+        "pinned_tweet_id": "2049939605114515756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682687182375636992/1785977005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079635182836170752/GwkkvqsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 1402,
+          "like_count": 174763,
+          "listed_count": 10,
+          "media_count": 1484,
+          "tweet_count": 18532
+        },
+        "url": "",
+        "username": "Cavaradossi1008",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

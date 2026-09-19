@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088649855908679680",
+        "13_2088649855921197057",
+        "13_2088649856076402688",
+        "13_2088649855908638720"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2088650257056014824",
+    "created_at": "2026-08-15T15:33:21.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088650257056014824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JWPuJV7Y4A",
+          "end": 137,
+          "expanded_url": "https://x.com/lumigj02/status/2088650257056014824/video/1",
+          "media_key": "13_2088649855908679680",
+          "start": 114,
+          "url": "https://t.co/JWPuJV7Y4A"
+        },
+        {
+          "display_url": "pic.x.com/JWPuJV7Y4A",
+          "end": 137,
+          "expanded_url": "https://x.com/lumigj02/status/2088650257056014824/video/1",
+          "media_key": "13_2088649855921197057",
+          "start": 114,
+          "url": "https://t.co/JWPuJV7Y4A"
+        },
+        {
+          "display_url": "pic.x.com/JWPuJV7Y4A",
+          "end": 137,
+          "expanded_url": "https://x.com/lumigj02/status/2088650257056014824/video/1",
+          "media_key": "13_2088649856076402688",
+          "start": 114,
+          "url": "https://t.co/JWPuJV7Y4A"
+        },
+        {
+          "display_url": "pic.x.com/JWPuJV7Y4A",
+          "end": 137,
+          "expanded_url": "https://x.com/lumigj02/status/2088650257056014824/video/1",
+          "media_key": "13_2088649855908638720",
+          "start": 114,
+          "url": "https://t.co/JWPuJV7Y4A"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/lumigj02/status/2088641862836097481",
+          "start": 138,
+          "url": "https://t.co/3pgPQRZJQE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088650257056014824",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088649855908679680"
+      },
+      {
+        "media_key": "13_2088649855921197057"
+      },
+      {
+        "media_key": "13_2088649856076402688"
+      },
+      {
+        "media_key": "13_2088649855908638720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088641862836097481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "川西神人驾驶员多了\n\n明明挺宽的路 被这群人挤的跟双胞胎同时顺产一样 明明对向没来车 然而你一超车他就去别你 哈哈那是因为对向没来车所以他觉得路是他家的了 后车是不用管的\n\n这个白SUV跟这个黑MPV俩司机能凑出一个脑细胞我吃 https://t.co/JWPuJV7Y4A https://t.co/3pgPQRZJQE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18261,
+        "height": 1080,
+        "media_key": "13_2088649855908679680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088649855908679680/img/8WZOVHfpVtUwsBxR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088649855908679680/pl/w8_4J1deS4CBw49M.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855908679680/vid/avc1/640x360/ZfqSmZ-0rkSKrJLM.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855908679680/vid/avc1/480x270/Q15U5U5ocgP0CoNN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855908679680/vid/avc1/1280x720/p08NsVWuQPayNhpQ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855908679680/vid/avc1/1920x1080/kTM8mbH5-jaARsk9.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 12553,
+        "height": 1080,
+        "media_key": "13_2088649855921197057",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088649855921197057/img/bAic7C7gDHH4oWAA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088649855921197057/pl/W18JSlNPGpMube7P.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855921197057/vid/avc1/1920x1080/tRMwzXS55Y25ilqV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855921197057/vid/avc1/1280x720/pSc1RPw_voqgFpUZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855921197057/vid/avc1/640x360/uVicxjxJbdCED0lq.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855921197057/vid/avc1/480x270/DP7TvPmjw8eCc4ES.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 16309,
+        "height": 1080,
+        "media_key": "13_2088649856076402688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088649856076402688/img/5vvJmxVxOacJpdf6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088649856076402688/pl/ZPWaPJ_rsaI30Orv.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649856076402688/vid/avc1/1920x1080/txi4LxJ5ZMUT9O6A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649856076402688/vid/avc1/1280x720/MrnNvpfu1smGgz6t.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649856076402688/vid/avc1/480x270/S2Pq99VkIWRz35U_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649856076402688/vid/avc1/640x360/WarcZuEwzJVRlHXG.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 6265,
+        "height": 1080,
+        "media_key": "13_2088649855908638720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088649855908638720/img/pBQI9W1cuaiFpxrH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855908638720/vid/avc1/480x270/aubun-K8nhXK4lDa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088649855908638720/pl/nDtVixPAwmo0sc2h.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855908638720/vid/avc1/640x360/HHQ3VaPfKZYXRyCB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855908638720/vid/avc1/1280x720/X6MILJlRTd9vyTcI.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088649855908638720/vid/avc1/1920x1080/jeQ7sLlfdgv3WiLI.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 16525,
+        "height": 1920,
+        "media_key": "13_2088641731302678528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088641731302678528/img/OuPcH9KofvF6hted.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088641731302678528/pl/HFlD9vhPS494MaeA.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088641731302678528/vid/avc1/720x1280/PwiGJyvEjF1hN1_y.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088641731302678528/vid/avc1/320x568/hwoql235e_Yoi8SS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088641731302678528/vid/avc1/480x852/eEsN54W8xySJplFS.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088641731302678528/vid/avc1/1080x1920/O-rakDNHI-0q1PpF.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088649855908679680",
+            "13_2088649855921197057",
+            "13_2088649856076402688",
+            "13_2088649855908638720"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2088650257056014824",
+        "created_at": "2026-08-15T15:33:21.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088650257056014824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWPuJV7Y4A",
+              "end": 137,
+              "expanded_url": "https://x.com/lumigj02/status/2088650257056014824/video/1",
+              "media_key": "13_2088649855908679680",
+              "start": 114,
+              "url": "https://t.co/JWPuJV7Y4A"
+            },
+            {
+              "display_url": "pic.x.com/JWPuJV7Y4A",
+              "end": 137,
+              "expanded_url": "https://x.com/lumigj02/status/2088650257056014824/video/1",
+              "media_key": "13_2088649855921197057",
+              "start": 114,
+              "url": "https://t.co/JWPuJV7Y4A"
+            },
+            {
+              "display_url": "pic.x.com/JWPuJV7Y4A",
+              "end": 137,
+              "expanded_url": "https://x.com/lumigj02/status/2088650257056014824/video/1",
+              "media_key": "13_2088649856076402688",
+              "start": 114,
+              "url": "https://t.co/JWPuJV7Y4A"
+            },
+            {
+              "display_url": "pic.x.com/JWPuJV7Y4A",
+              "end": 137,
+              "expanded_url": "https://x.com/lumigj02/status/2088650257056014824/video/1",
+              "media_key": "13_2088649855908638720",
+              "start": 114,
+              "url": "https://t.co/JWPuJV7Y4A"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/lumigj02/status/2088641862836097481",
+              "start": 138,
+              "url": "https://t.co/3pgPQRZJQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088650257056014824",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088649855908679680"
+          },
+          {
+            "media_key": "13_2088649855921197057"
+          },
+          {
+            "media_key": "13_2088649856076402688"
+          },
+          {
+            "media_key": "13_2088649855908638720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088641862836097481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "川西神人驾驶员多了\n\n明明挺宽的路 被这群人挤的跟双胞胎同时顺产一样 明明对向没来车 然而你一超车他就去别你 哈哈那是因为对向没来车所以他觉得路是他家的了 后车是不用管的\n\n这个白SUV跟这个黑MPV俩司机能凑出一个脑细胞我吃 https://t.co/JWPuJV7Y4A https://t.co/3pgPQRZJQE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088641731302678528"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2088641862836097481",
+        "created_at": "2026-08-15T14:59:59.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088641862836097481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JO67FqS0Na",
+              "end": 158,
+              "expanded_url": "https://x.com/lumigj02/status/2088641862836097481/video/1",
+              "media_key": "13_2088641731302678528",
+              "start": 135,
+              "url": "https://t.co/JO67FqS0Na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088641862836097481",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088641731302678528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "无责事故+1\n\n逆行超我的车为了避免和对向来车迎头相撞，选择了回来别我前面，导致我车左前和对方右后碰撞，造成大灯+轮眉+翼子板损伤\n\n我在想我当时如果刹车不及时直接PIT上去，隧道里要死几个人。。？要感谢AEB帮忙刹了一脚，不然就是标准的PIT动作了，直接翻车在隧道里 https://t.co/JO67FqS0Na"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "SWE ➡️ PM ➡️ Solution Architect, Presales\n\n@hobartr6/犯罪嫌疑猫@leetfs1/笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "hobartr6"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "leetfs1"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "most_recent_tweet_id": "2088650257056014824",
+        "name": "猫卷🇲🇾🔜🇨🇳",
+        "pinned_tweet_id": "2087431962906763266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1786517430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087431466695417856/etC6NaCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 842,
+          "like_count": 4435,
+          "listed_count": 9,
+          "media_count": 161,
+          "tweet_count": 1252
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

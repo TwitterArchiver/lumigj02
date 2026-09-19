@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096605376410238977"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2096605517036810366",
+    "created_at": "2026-09-06T14:24:42.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096605517036810366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oNEja1EjXa",
+          "end": 97,
+          "expanded_url": "https://x.com/lumigj02/status/2096605517036810366/video/1",
+          "media_key": "13_2096605376410238977",
+          "start": 74,
+          "url": "https://t.co/oNEja1EjXa"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/lumigj02/status/2096543669134442626",
+          "start": 98,
+          "url": "https://t.co/eNBRld2lUY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096605517036810366",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096605376410238977"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096543669134442626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "给推友看看猫卷平常是怎么停的（）\n大概就是盯着后视镜，后视镜永远是最准的，倒车雷达影像360从来不看\n（什么时候笨蛋Lee也能学会停车啊…（猫叹气 https://t.co/oNEja1EjXa https://t.co/eNBRld2lUY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47331,
+        "height": 720,
+        "media_key": "13_2096605376410238977",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096605376410238977/img/WaFiQDitEJU6DjYw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096605376410238977/vid/avc1/480x270/0HBVu14KEIz9fSE_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096605376410238977/vid/avc1/640x360/Pqr1iFNi0i9XrAa5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096605376410238977/vid/avc1/1280x720/RHdKVZdB0P_6jUPn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096605376410238977/pl/yst9S6Vhq95iKhvg.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096543654664142848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhrWJBbAAAwmad.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096543654588592128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhrWIvaMAA7jrf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096605376410238977"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2096605517036810366",
+        "created_at": "2026-09-06T14:24:42.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096605517036810366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNEja1EjXa",
+              "end": 97,
+              "expanded_url": "https://x.com/lumigj02/status/2096605517036810366/video/1",
+              "media_key": "13_2096605376410238977",
+              "start": 74,
+              "url": "https://t.co/oNEja1EjXa"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/lumigj02/status/2096543669134442626",
+              "start": 98,
+              "url": "https://t.co/eNBRld2lUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096605517036810366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096605376410238977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096543669134442626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "给推友看看猫卷平常是怎么停的（）\n大概就是盯着后视镜，后视镜永远是最准的，倒车雷达影像360从来不看\n（什么时候笨蛋Lee也能学会停车啊…（猫叹气 https://t.co/oNEja1EjXa https://t.co/eNBRld2lUY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096543654664142848",
+            "3_2096543654588592128"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2096543669134442626",
+        "created_at": "2026-09-06T10:18:57.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096543669134442626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PNGvZQjByR",
+              "end": 60,
+              "expanded_url": "https://x.com/lumigj02/status/2096543669134442626/photo/1",
+              "media_key": "3_2096543654664142848",
+              "start": 37,
+              "url": "https://t.co/PNGvZQjByR"
+            },
+            {
+              "display_url": "pic.x.com/PNGvZQjByR",
+              "end": 60,
+              "expanded_url": "https://x.com/lumigj02/status/2096543669134442626/photo/1",
+              "media_key": "3_2096543654588592128",
+              "start": 37,
+              "url": "https://t.co/PNGvZQjByR"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/lumigj02/status/2096171201903353884",
+              "start": 61,
+              "url": "https://t.co/KA2SkL8Jyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096543669134442626",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096543654664142848"
+          },
+          {
+            "media_key": "3_2096543654588592128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 800,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096171201903353884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "今天更是高难度的一集，这个墙前后两遍凸起中间凹陷，我成功把后视镜卡在里面 https://t.co/PNGvZQjByR https://t.co/KA2SkL8Jyo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "老婆🥰@leetfs1\n14岁xyn? | Presales Solution | ex-PM, ex-SWE\n笨蛋肥鸟姐姐@hoshi_asuka0089/坏恒@xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "leetfs1"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaSm6a"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "泰补复活了！→",
+        "most_recent_tweet_id": "2096605523818975703",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4425,
+          "following_count": 842,
+          "like_count": 4474,
+          "listed_count": 9,
+          "media_count": 190,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/uFyDvaSm6a",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

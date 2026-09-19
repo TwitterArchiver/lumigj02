@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099123174877298688"
+      ]
+    },
+    "author_id": "1552918719440924672",
+    "conversation_id": "2099123189880373431",
+    "created_at": "2026-09-13T13:09:02.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T14:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099123189880373431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/heHM8tTXXy",
+          "end": 75,
+          "expanded_url": "https://x.com/lumigj02/status/2099123189880373431/photo/1",
+          "media_key": "3_2099123174877298688",
+          "start": 52,
+          "url": "https://t.co/heHM8tTXXy"
+        },
+        {
+          "display_url": "x.com/lumigj02/statu…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/lumigj02/status/2098727192062726255",
+          "start": 76,
+          "url": "https://t.co/ayU6LktgAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099123189880373431",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099123174877298688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098727192062726255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "哥几个我真想退出了😭\n回来看幺幺家照片发现了这么个类似人形的东西，不像纸人幺幺也不像幺爸😭这是个啥啊😭 https://t.co/heHM8tTXXy https://t.co/ayU6LktgAM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_2099123174877298688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGVZ-paAAALE9H.jpg",
+        "width": 581
+      },
+      {
+        "height": 413,
+        "media_key": "3_2098727180331270144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAtQEAaQAA_KIm.jpg",
+        "width": 619
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2098727179844829184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAtQCMbwAAFEwM.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2098727179811205120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAtQCEasAAwiY3.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2098727179819569152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAtQCGaUAArLKM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099123174877298688"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2099123189880373431",
+        "created_at": "2026-09-13T13:09:02.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099123189880373431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/heHM8tTXXy",
+              "end": 75,
+              "expanded_url": "https://x.com/lumigj02/status/2099123189880373431/photo/1",
+              "media_key": "3_2099123174877298688",
+              "start": 52,
+              "url": "https://t.co/heHM8tTXXy"
+            },
+            {
+              "display_url": "x.com/lumigj02/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/lumigj02/status/2098727192062726255",
+              "start": 76,
+              "url": "https://t.co/ayU6LktgAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099123189880373431",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099123174877298688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098727192062726255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "哥几个我真想退出了😭\n回来看幺幺家照片发现了这么个类似人形的东西，不像纸人幺幺也不像幺爸😭这是个啥啊😭 https://t.co/heHM8tTXXy https://t.co/ayU6LktgAM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098727180331270144",
+            "3_2098727179844829184",
+            "3_2098727179811205120",
+            "3_2098727179819569152"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098727192062726255",
+        "created_at": "2026-09-12T10:55:29.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098727192062726255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzuqmShlx4",
+              "end": 57,
+              "expanded_url": "https://x.com/lumigj02/status/2098727192062726255/photo/1",
+              "media_key": "3_2098727180331270144",
+              "start": 34,
+              "url": "https://t.co/QzuqmShlx4"
+            },
+            {
+              "display_url": "pic.x.com/QzuqmShlx4",
+              "end": 57,
+              "expanded_url": "https://x.com/lumigj02/status/2098727192062726255/photo/1",
+              "media_key": "3_2098727179844829184",
+              "start": 34,
+              "url": "https://t.co/QzuqmShlx4"
+            },
+            {
+              "display_url": "pic.x.com/QzuqmShlx4",
+              "end": 57,
+              "expanded_url": "https://x.com/lumigj02/status/2098727192062726255/photo/1",
+              "media_key": "3_2098727179811205120",
+              "start": 34,
+              "url": "https://t.co/QzuqmShlx4"
+            },
+            {
+              "display_url": "pic.x.com/QzuqmShlx4",
+              "end": 57,
+              "expanded_url": "https://x.com/lumigj02/status/2098727192062726255/photo/1",
+              "media_key": "3_2098727179819569152",
+              "start": 34,
+              "url": "https://t.co/QzuqmShlx4"
+            },
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2098572521318834364",
+              "start": 58,
+              "url": "https://t.co/yPPoddHtqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098727192062726255",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098727180331270144"
+          },
+          {
+            "media_key": "3_2098727179844829184"
+          },
+          {
+            "media_key": "3_2098727179811205120"
+          },
+          {
+            "media_key": "3_2098727179819569152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1065,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098572521318834364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "今天真去耍起了 但是没看到幺幺 然后tmd进村把发动机下护板挂掉了 https://t.co/QzuqmShlx4 https://t.co/yPPoddHtqB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14 | 老婆 @leetfs1\n\n笨蛋姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "leetfs1"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099123189880373431",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429,
+          "following_count": 840,
+          "like_count": 4491,
+          "listed_count": 9,
+          "media_count": 203,
+          "tweet_count": 1549
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
