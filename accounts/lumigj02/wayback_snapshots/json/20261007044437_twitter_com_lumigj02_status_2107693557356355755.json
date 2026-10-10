@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2107657745638084629",
+    "created_at": "2026-10-07T04:44:37.000Z",
+    "display_text_range": [
+      14,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T05:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107693557356355755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1271512602145730560",
+          "start": 0,
+          "username": "HoshinoAk1no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107693557356355755",
+    "in_reply_to_user_id": "1271512602145730560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107690595338830041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@HoshinoAk1no 你说的是depot estradiol 理论上很好但是 问题是理论上除了在美国没得地方卖  进口的话就会很贵）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2107657745638084629",
+        "created_at": "2026-10-07T04:44:37.000Z",
+        "display_text_range": [
+          14,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107693557356355755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271512602145730560",
+              "start": 0,
+              "username": "HoshinoAk1no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107693557356355755",
+        "in_reply_to_user_id": "1271512602145730560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107690595338830041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@HoshinoAk1no 你说的是depot estradiol 理论上很好但是 问题是理论上除了在美国没得地方卖  进口的话就会很贵）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271512602145730560",
+        "conversation_id": "2107657745638084629",
+        "created_at": "2026-10-07T04:32:51.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107690595338830041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107690595338830041",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107685935907495974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 呜呜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "家养猫 @leetfs1\n姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "leetfs1"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MaoJuanQAQ",
+                "end": 23,
+                "expanded_url": "http://t.me/MaoJuanQAQ",
+                "start": 0,
+                "url": "https://t.co/5CRM9NKEu6"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "🍥：私信/联系→",
+        "most_recent_tweet_id": "2107693557356355755",
+        "name": "小猫卷",
+        "pinned_tweet_id": "2106565824018554885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1789732190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106406897360457728/zPE46bmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4507,
+          "following_count": 842,
+          "like_count": 4579,
+          "listed_count": 9,
+          "media_count": 223,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/5CRM9NKEu6",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含糖友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已/ADHD/想od/想要5HT2A激动剂/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "is_identity_verified": false,
+        "location": "华立科技展厅",
+        "most_recent_tweet_id": "2107690595338830041",
+        "name": "一定不是银喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271512602145730560/1674706633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4856,
+          "following_count": 956,
+          "like_count": 19400,
+          "listed_count": 13,
+          "media_count": 701,
+          "tweet_count": 4167
+        },
+        "url": "",
+        "username": "HoshinoAk1no",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

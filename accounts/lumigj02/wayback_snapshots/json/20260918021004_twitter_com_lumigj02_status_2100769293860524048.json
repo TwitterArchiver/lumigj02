@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2100769293860524048",
+    "created_at": "2026-09-18T02:10:04.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T03:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100769293860524048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/edison_aware/s…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/edison_aware/status/2100554116670140421",
+          "start": 41,
+          "url": "https://t.co/yya2Pn9Not"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100769293860524048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100554116670140421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "2022年当软件工程师的我还能记得住spring各个bean的加载顺序，令人感叹 https://t.co/yya2Pn9Not"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_2100554052723752960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaqyCAbQAASXB8.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2100769293860524048",
+        "created_at": "2026-09-18T02:10:04.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100769293860524048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edison_aware/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/edison_aware/status/2100554116670140421",
+              "start": 41,
+              "url": "https://t.co/yya2Pn9Not"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100769293860524048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100554116670140421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "2022年当软件工程师的我还能记得住spring各个bean的加载顺序，令人感叹 https://t.co/yya2Pn9Not"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100554052723752960"
+          ]
+        },
+        "author_id": "1003108045851770881",
+        "conversation_id": "2100554116670140421",
+        "created_at": "2026-09-17T11:55:02.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100554116670140421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLEQ1dkN1I",
+              "end": 62,
+              "expanded_url": "https://x.com/Edison_aware/status/2100554116670140421/photo/1",
+              "media_key": "3_2100554052723752960",
+              "start": 39,
+              "url": "https://t.co/gLEQ1dkN1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100554116670140421",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100554052723752960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 33651,
+          "like_count": 78,
+          "quote_count": 4,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "当代Vibecoding时代还有人知道Git的cherrypick是什么吗？ https://t.co/gLEQ1dkN1I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14 | 老婆 @leetfs1\n\n笨蛋姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "leetfs1"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100769293860524048",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4455,
+          "following_count": 846,
+          "like_count": 4520,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 1607
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-03T02:56:09.000Z",
+        "description": "「苍蝇摊理论」提出者，专治互联网虚热\n同时是 https://t.co/76bxADADPz 创新战略顾问\n还是大学青年教师，偶尔上课，经常折腾",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Kosx.ai",
+                "end": 46,
+                "expanded_url": "http://Kosx.ai",
+                "start": 23,
+                "url": "https://t.co/76bxADADPz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "edison-zwteam.pages.dev",
+                "end": 23,
+                "expanded_url": "http://edison-zwteam.pages.dev",
+                "start": 0,
+                "url": "https://t.co/CBe7ywCNpg"
+              }
+            ]
+          }
+        },
+        "id": "1003108045851770881",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100765430705213528",
+        "name": "Edison",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072151503960444928/BG9XQ4YE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 579,
+          "like_count": 899,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/CBe7ywCNpg",
+        "username": "Edison_aware",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

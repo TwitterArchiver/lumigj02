@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2100757668491301293",
+    "created_at": "2026-09-18T18:56:24.000Z",
+    "display_text_range": [
+      21,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T19:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101022543239102665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1125017516055482368",
+          "start": 0,
+          "username": "String_fish"
+        },
+        {
+          "end": 20,
+          "id": "1560129932524544000",
+          "start": 13,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101022543239102665",
+    "in_reply_to_user_id": "1125017516055482368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100785463179333844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@String_fish @xijiu_ （呲牙"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2100785463179333844].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2100785463179333844",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2100785463179333844"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2100757668491301293",
+        "created_at": "2026-09-18T18:56:24.000Z",
+        "display_text_range": [
+          21,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101022543239102665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1125017516055482368",
+              "start": 0,
+              "username": "String_fish"
+            },
+            {
+              "end": 20,
+              "id": "1560129932524544000",
+              "start": 13,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101022543239102665",
+        "in_reply_to_user_id": "1125017516055482368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100785463179333844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@String_fish @xijiu_ （呲牙"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14\n老婆 @leetfs1\n笨蛋姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "leetfs1"
+              },
+              {
+                "end": 36,
+                "start": 20,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101022543239102665",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1789732190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4459,
+          "following_count": 845,
+          "like_count": 4521,
+          "listed_count": 9,
+          "media_count": 210,
+          "tweet_count": 1624
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-05T12:40:52.000Z",
+        "description": "Salted fish\n一条咸鱼。",
+        "id": "1125017516055482368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089709873756000408",
+        "name": "Arius sul G String",
+        "pinned_tweet_id": "1906695939617878398",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125017516055482368/1740669968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726651138899144704/1YP2C4fU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 2016,
+          "like_count": 114031,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 3091
+        },
+        "url": "",
+        "username": "String_fish",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "is_identity_verified": false,
+        "location": "被有机实验室炸飞的电化学实验室",
+        "most_recent_tweet_id": "2100984642237292832",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560129932524544000/1742003483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 862,
+          "like_count": 214064,
+          "listed_count": 3,
+          "media_count": 778,
+          "tweet_count": 10426
+        },
+        "url": "",
+        "username": "xijiu_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

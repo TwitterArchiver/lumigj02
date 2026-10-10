@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2107778406376943626",
+    "created_at": "2026-10-07T11:55:00.000Z",
+    "display_text_range": [
+      8,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T12:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107801865283146134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092971438521077760",
+          "start": 0,
+          "username": "zza2ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107801865283146134",
+    "in_reply_to_user_id": "2092971438521077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107778406376943626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zza2ku 泰国是上座部佛教。大乘佛教还真不管这些"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1846,
+        "media_key": "3_2107778389138423808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBVRwXXQAAnPVK.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2107778406376943626",
+        "created_at": "2026-10-07T11:55:00.000Z",
+        "display_text_range": [
+          8,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T12:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107801865283146134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107801865283146134",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107778406376943626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku 泰国是上座部佛教。大乘佛教还真不管这些"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107778389138423808"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2107778406376943626",
+        "created_at": "2026-10-07T10:21:47.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107778406376943626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rzYPEu93p",
+              "end": 31,
+              "expanded_url": "https://x.com/zza2ku/status/2107778406376943626/photo/1",
+              "media_key": "3_2107778389138423808",
+              "start": 8,
+              "url": "https://t.co/2rzYPEu93p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107778406376943626",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107778389138423808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我佛不渡木桶饭 https://t.co/2rzYPEu93p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "家养猫 @leetfs1\n姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "leetfs1"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MaoJuanQAQ",
+                "end": 23,
+                "expanded_url": "http://t.me/MaoJuanQAQ",
+                "start": 0,
+                "url": "https://t.co/5CRM9NKEu6"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "🍥：私信/联系→",
+        "most_recent_tweet_id": "2107801865283146134",
+        "name": "小猫卷",
+        "pinned_tweet_id": "2106565824018554885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1789732190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106406897360457728/zPE46bmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4511,
+          "following_count": 843,
+          "like_count": 4586,
+          "listed_count": 9,
+          "media_count": 223,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/5CRM9NKEu6",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民社，无糖mtf\n女友：@Box3_jilil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Box3_jilil"
+              }
+            ]
+          }
+        },
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107778406376943626",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2102647711380197847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1789967218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 190,
+          "like_count": 391,
+          "listed_count": 1,
+          "media_count": 617,
+          "tweet_count": 1312
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

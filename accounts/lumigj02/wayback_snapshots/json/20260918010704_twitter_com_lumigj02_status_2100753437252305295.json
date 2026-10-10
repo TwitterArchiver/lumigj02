@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2100634173669318993",
+    "created_at": "2026-09-18T01:07:04.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T02:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100753437252305295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "930783485756710912",
+          "start": 0,
+          "username": "CorelessXeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100753437252305295",
+    "in_reply_to_user_id": "930783485756710912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100655975183061216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CorelessXeon 对的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2100634173669318993",
+        "created_at": "2026-09-18T01:07:04.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100753437252305295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "930783485756710912",
+              "start": 0,
+              "username": "CorelessXeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100753437252305295",
+        "in_reply_to_user_id": "930783485756710912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100655975183061216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CorelessXeon 对的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "930783485756710912",
+        "conversation_id": "2100634173669318993",
+        "created_at": "2026-09-17T18:39:47.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T19:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100655975183061216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100655975183061216",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100634173669318993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 永远14岁喵🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14 | 老婆 @leetfs1\n\n笨蛋姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "leetfs1"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100753437252305295",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4455,
+          "following_count": 846,
+          "like_count": 4520,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 1605
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-11-15T13:04:10.000Z",
+        "description": "🇨🇳🇲🇴🇨🇦 | Former In-game Observer & Live Producer for Rainbow Six: Siege. | He/him🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liquipedia.net/rainbowsix/Cor…",
+                "end": 23,
+                "expanded_url": "https://liquipedia.net/rainbowsix/CorelessXeon",
+                "start": 0,
+                "url": "https://t.co/yUncKLJFjq"
+              }
+            ]
+          }
+        },
+        "id": "930783485756710912",
+        "is_identity_verified": false,
+        "location": "Waterloo, Ontario",
+        "most_recent_tweet_id": "2100655975183061216",
+        "name": "CorelessXeon",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/930783485756710912/1526407443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/996451158834036736/DWQHxxS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 227,
+          "like_count": 6361,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/yUncKLJFjq",
+        "username": "CorelessXeon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

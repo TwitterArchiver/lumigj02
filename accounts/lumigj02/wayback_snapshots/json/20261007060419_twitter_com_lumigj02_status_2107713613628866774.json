@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2107657745638084629",
+    "created_at": "2026-10-07T06:04:19.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T07:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107713613628866774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1293606723719057408",
+          "start": 0,
+          "username": "JusT_Lov3_L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107713613628866774",
+    "in_reply_to_user_id": "1293606723719057408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107709016646553641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@JusT_Lov3_L 那不至于"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2107657745638084629",
+        "created_at": "2026-10-07T06:04:19.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107713613628866774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1293606723719057408",
+              "start": 0,
+              "username": "JusT_Lov3_L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107713613628866774",
+        "in_reply_to_user_id": "1293606723719057408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107709016646553641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@JusT_Lov3_L 那不至于"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293606723719057408",
+        "conversation_id": "2107657745638084629",
+        "created_at": "2026-10-07T05:46:03.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107709016646553641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107709016646553641",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107693175259492423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 感覺你們在海關內部有臥底🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "家养猫 @leetfs1\n姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "leetfs1"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MaoJuanQAQ",
+                "end": 23,
+                "expanded_url": "http://t.me/MaoJuanQAQ",
+                "start": 0,
+                "url": "https://t.co/5CRM9NKEu6"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "🍥：私信/联系→",
+        "most_recent_tweet_id": "2107713613628866774",
+        "name": "小猫卷",
+        "pinned_tweet_id": "2106565824018554885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1789732190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106406897360457728/zPE46bmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4508,
+          "following_count": 842,
+          "like_count": 4579,
+          "listed_count": 9,
+          "media_count": 223,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/5CRM9NKEu6",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-12T17:54:27.000Z",
+        "description": "因為人生太無趣了,所以經常藏在有趣人的身後(՞⸝⸝o̴̶̷̥᷅ ̫ o̴̶̷᷄⸝⸝՞)",
+        "id": "1293606723719057408",
+        "is_identity_verified": false,
+        "location": "陽光底下",
+        "most_recent_tweet_id": "2107709016646553641",
+        "name": "影子____",
+        "pinned_tweet_id": "1897248451760648365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1293606723719057408/1737394223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095083440140091393/D_tbo_1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 265,
+          "like_count": 5950,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 940
+        },
+        "url": "",
+        "username": "JusT_Lov3_L",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

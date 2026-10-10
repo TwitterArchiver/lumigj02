@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2107657745638084629",
+    "created_at": "2026-10-07T08:36:47.000Z",
+    "display_text_range": [
+      8,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T09:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107751981117067396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937385761785188352",
+          "start": 0,
+          "username": "BG9JUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107751981117067396",
+    "in_reply_to_user_id": "1937385761785188352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107751617747701959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@BG9JUE 笑晕了 homebrew"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 357,
+        "media_key": "3_2107751611217145856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUA87E1a8AAOBSV.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2107657745638084629",
+        "created_at": "2026-10-07T08:36:47.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T09:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107751981117067396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937385761785188352",
+              "start": 0,
+              "username": "BG9JUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107751981117067396",
+        "in_reply_to_user_id": "1937385761785188352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107751617747701959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@BG9JUE 笑晕了 homebrew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107751611217145856"
+          ]
+        },
+        "author_id": "1937385761785188352",
+        "conversation_id": "2107657745638084629",
+        "created_at": "2026-10-07T08:35:20.000Z",
+        "display_text_range": [
+          10,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T09:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107751617747701959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEiM6K8iG0",
+              "end": 79,
+              "expanded_url": "https://x.com/BG9JUE/status/2107751617747701959/photo/1",
+              "media_key": "3_2107751611217145856",
+              "start": 56,
+              "url": "https://t.co/eEiM6K8iG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107751617747701959",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107751611217145856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107749556519842265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 我看看\n\n我让Gemini娘要算剂量的时候，它在跟我推荐这玩意\n吓哭了，自配注射剂来的wc https://t.co/eEiM6K8iG0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "家养猫 @leetfs1\n姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "leetfs1"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MaoJuanQAQ",
+                "end": 23,
+                "expanded_url": "http://t.me/MaoJuanQAQ",
+                "start": 0,
+                "url": "https://t.co/5CRM9NKEu6"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "🍥：私信/联系→",
+        "most_recent_tweet_id": "2107751981117067396",
+        "name": "小猫卷",
+        "pinned_tweet_id": "2106565824018554885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1789732190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106406897360457728/zPE46bmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 842,
+          "like_count": 4584,
+          "listed_count": 9,
+          "media_count": 223,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/5CRM9NKEu6",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-24T05:42:33.000Z",
+        "description": "无线电爱好/退役刷机佬/苦逼高中生(?/化竞小资历/🏳️‍⚧️(she/her)丨汝将永恒沐浴星光，不论昼夜更替，不论生死轮转，不论晦明阴阳，不论虚实幻灭。",
+        "id": "1937385761785188352",
+        "is_identity_verified": false,
+        "location": "北落师门",
+        "most_recent_tweet_id": "2107751617747701959",
+        "name": "Starlight",
+        "pinned_tweet_id": "2103518421463994455",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937385761785188352/1755347063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037873320708931584/9T0uSZLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 601,
+          "like_count": 34589,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2354
+        },
+        "url": "",
+        "username": "BG9JUE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

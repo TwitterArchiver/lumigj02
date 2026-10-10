@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2101819096681852976",
+    "created_at": "2026-09-20T23:41:37.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T00:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101819096681852976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jakevin7/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/jakevin7/status/2101650206777372884",
+          "start": 25,
+          "url": "https://t.co/1bEf7fppRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101819096681852976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101650206777372884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "一定是我们千问办公和workbuddy还没发力呢 https://t.co/1bEf7fppRA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2101819096681852976",
+        "created_at": "2026-09-20T23:41:37.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101819096681852976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jakevin7/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/jakevin7/status/2101650206777372884",
+              "start": 25,
+              "url": "https://t.co/1bEf7fppRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101819096681852976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101650206777372884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "一定是我们千问办公和workbuddy还没发力呢 https://t.co/1bEf7fppRA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1068172934630395904",
+        "conversation_id": "2101650206777372884",
+        "created_at": "2026-09-20T12:30:30.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101650206777372884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101650206777372884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 137914,
+          "like_count": 259,
+          "quote_count": 8,
+          "reply_count": 98,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总感觉 coding agent 赛道基本结束了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14 初二休学\n老婆 @leetfs1\n笨蛋姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "leetfs1"
+              },
+              {
+                "end": 41,
+                "start": 25,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101819096681852976",
+        "name": "猫卷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1789732190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101569649934770176/oWtNXIbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4480,
+          "following_count": 844,
+          "like_count": 4531,
+          "listed_count": 9,
+          "media_count": 211,
+          "tweet_count": 1645
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-29T16:00:48.000Z",
+        "description": "Building https://t.co/3kGDPSgMGW & https://t.co/1aJnnxFlma  & https://t.co/IXRkk1MroF\nAI enthusiast ! Apache Arrow/Datafusion/Doris PMC member\njakevingoo@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "opencli.info",
+                "end": 32,
+                "expanded_url": "http://opencli.info",
+                "start": 9,
+                "url": "https://t.co/3kGDPSgMGW"
+              },
+              {
+                "display_url": "raft.build",
+                "end": 58,
+                "expanded_url": "http://raft.build",
+                "start": 35,
+                "url": "https://t.co/1aJnnxFlma"
+              },
+              {
+                "display_url": "maka-agent.com",
+                "end": 85,
+                "expanded_url": "http://maka-agent.com",
+                "start": 62,
+                "url": "https://t.co/IXRkk1MroF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/jackwener",
+                "end": 23,
+                "expanded_url": "http://github.com/jackwener",
+                "start": 0,
+                "url": "https://t.co/fB3t3tTSTn"
+              }
+            ]
+          }
+        },
+        "id": "1068172934630395904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101757863534178330",
+        "name": "kabikabi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420768031827841031/36-lz-Jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22897,
+          "following_count": 720,
+          "like_count": 6312,
+          "listed_count": 245,
+          "media_count": 222,
+          "tweet_count": 2461
+        },
+        "url": "https://t.co/fB3t3tTSTn",
+        "username": "jakevin7",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552918719440924672",
+    "conversation_id": "2107075304795914720",
+    "created_at": "2026-10-05T13:42:33.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T14:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107104156297396373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966368367494967301",
+          "start": 0,
+          "username": "grainyrain_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107104156297396373",
+    "in_reply_to_user_id": "1966368367494967301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107075304795914720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grainyrain_awa 哇好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2107075291730616321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT3V0GabIAE4Wrv.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2107075304795914720",
+        "created_at": "2026-10-05T13:42:33.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107104156297396373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966368367494967301",
+              "start": 0,
+              "username": "grainyrain_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107104156297396373",
+        "in_reply_to_user_id": "1966368367494967301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107075304795914720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grainyrain_awa 哇好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107075291730616321"
+          ]
+        },
+        "author_id": "1966368367494967301",
+        "conversation_id": "2107075304795914720",
+        "created_at": "2026-10-05T11:47:54.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107075304795914720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cC5E0GRJZX",
+              "end": 26,
+              "expanded_url": "https://x.com/grainyrain_awa/status/2107075304795914720/photo/1",
+              "media_key": "3_2107075291730616321",
+              "start": 3,
+              "url": "https://t.co/cC5E0GRJZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107075304795914720",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107075291730616321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哼哼 https://t.co/cC5E0GRJZX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14 初二休学\n只会玩法系车\n老婆 @leetfs1\n笨蛋姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "leetfs1"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "xiaoheng22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MaoJuanQAQ",
+                "end": 23,
+                "expanded_url": "http://t.me/MaoJuanQAQ",
+                "start": 0,
+                "url": "https://t.co/5CRM9NKEu6"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "location": "联系→",
+        "most_recent_tweet_id": "2107104156297396373",
+        "name": "猫半卷",
+        "pinned_tweet_id": "2106565824018554885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1789732190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106406897360457728/zPE46bmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4502,
+          "following_count": 840,
+          "like_count": 4572,
+          "listed_count": 8,
+          "media_count": 221,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/5CRM9NKEu6",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-12T05:09:12.000Z",
+        "description": "自卑阴暗社恐自闭有害废物\n黑跨三花猫 本体是三叶草\n偶尔（经常？）发些碎碎念\nenby\n里：@rainygrain_awa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "rainygrain_awa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/rainygrain_awa",
+                "end": 23,
+                "expanded_url": "https://x.com/rainygrain_awa",
+                "start": 0,
+                "url": "https://t.co/e8Bh2tnbxC"
+              }
+            ]
+          }
+        },
+        "id": "1966368367494967301",
+        "is_identity_verified": false,
+        "location": "半截入土",
+        "most_recent_tweet_id": "2107075304795914720",
+        "name": "与和☘️",
+        "pinned_tweet_id": "2004700645811781787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966368367494967301/1757654198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966368813232041984/dRxPYic3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 248,
+          "like_count": 35483,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 7854
+        },
+        "url": "https://t.co/e8Bh2tnbxC",
+        "username": "grainyrain_awa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
